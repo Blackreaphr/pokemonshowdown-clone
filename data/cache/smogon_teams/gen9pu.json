@@ -1,0 +1,1489 @@
+[
+  {
+    "author": "asa",
+    "data": [
+      {
+        "ability": "Big Pecks",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Heavy-Duty Boots",
+        "moves": [
+          "Brave Bird",
+          "Knock Off",
+          "Stealth Rock",
+          "Sucker Punch"
+        ],
+        "nature": "Adamant",
+        "species": "Bombirdier",
+        "teraType": "Dark"
+      },
+      {
+        "ability": "No Guard",
+        "evs": {
+          "atk": 252,
+          "spd": 80,
+          "spe": 176
+        },
+        "item": "Assault Vest",
+        "moves": [
+          "Close Combat",
+          "Earthquake",
+          "Ice Punch",
+          "Poltergeist"
+        ],
+        "nature": "Adamant",
+        "species": "Golurk",
+        "teraType": "Fairy"
+      },
+      {
+        "ability": "Marvel Scale",
+        "evs": {
+          "def": 196,
+          "hp": 252,
+          "spd": 12,
+          "spe": 48
+        },
+        "gender": "M",
+        "item": "Heavy-Duty Boots",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Haze",
+          "Ice Beam",
+          "Recover",
+          "Scald"
+        ],
+        "nature": "Calm",
+        "species": "Milotic",
+        "teraType": "Poison"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Leaf Storm",
+          "Thunderbolt",
+          "Trick",
+          "Volt Switch"
+        ],
+        "nature": "Timid",
+        "species": "Rotom-Mow",
+        "teraType": "Electric"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "def": 252,
+          "hp": 248,
+          "spd": 8
+        },
+        "gender": "M",
+        "item": "Heavy-Duty Boots",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Flamethrower",
+          "Psyshock",
+          "Slack Off"
+        ],
+        "nature": "Bold",
+        "species": "Slowbro-Galar",
+        "teraType": "Water"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Heavy-Duty Boots",
+        "moves": [
+          "Bulk Up",
+          "Close Combat",
+          "Flare Blitz",
+          "Will-O-Wisp"
+        ],
+        "nature": "Jolly",
+        "species": "Tauros-Paldea-Blaze",
+        "teraType": "Grass"
+      }
+    ],
+    "name": "av golurk + cm glowbro"
+  },
+  {
+    "author": "asa",
+    "data": [
+      {
+        "ability": "Scrappy",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "moves": [
+          "Brave Bird",
+          "Close Combat",
+          "Roost",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "species": "Flamigo",
+        "teraType": "Flying"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "def": 124,
+          "hp": 248,
+          "spe": 136
+        },
+        "gender": "M",
+        "item": "Heavy-Duty Boots",
+        "moves": [
+          "Brave Bird",
+          "Defog",
+          "Roost",
+          "Will-O-Wisp"
+        ],
+        "nature": "Impish",
+        "species": "Altaria",
+        "teraType": "Steel"
+      },
+      {
+        "ability": "Long Reach",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Spell Tag",
+        "moves": [
+          "Leaf Blade",
+          "Poltergeist",
+          "Shadow Sneak",
+          "U-turn"
+        ],
+        "nature": "Adamant",
+        "species": "Decidueye",
+        "teraType": "Ghost"
+      },
+      {
+        "ability": "Stamina",
+        "evs": {
+          "atk": 100,
+          "def": 124,
+          "hp": 248,
+          "spe": 36
+        },
+        "gender": "M",
+        "item": "Rocky Helmet",
+        "moves": [
+          "Earthquake",
+          "Heavy Slam",
+          "Roar",
+          "Stealth Rock"
+        ],
+        "nature": "Adamant",
+        "species": "Mudsdale",
+        "teraType": "Steel"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "hp": 248,
+          "spa": 8,
+          "spe": 252
+        },
+        "item": "Heavy-Duty Boots",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Nasty Plot",
+          "Overheat",
+          "Pain Split",
+          "Volt Switch"
+        ],
+        "nature": "Timid",
+        "species": "Rotom-Heat",
+        "teraType": "Water"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "def": 16,
+          "hp": 248,
+          "spa": 4,
+          "spd": 240
+        },
+        "gender": "M",
+        "item": "Assault Vest",
+        "moves": [
+          "Flamethrower",
+          "Ice Beam",
+          "Psychic",
+          "Shell Side Arm"
+        ],
+        "nature": "Relaxed",
+        "species": "Slowbro-Galar",
+        "teraType": "Water"
+      }
+    ],
+    "name": "spell tag decid + np oven (wip)"
+  },
+  {
+    "author": "sensei axew",
+    "data": [
+      {
+        "ability": "Flower Veil",
+        "evs": {
+          "def": 236,
+          "hp": 252,
+          "spe": 20
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Moonblast",
+          "Psychic Noise",
+          "Synthesis"
+        ],
+        "nature": "Timid",
+        "species": "Florges",
+        "teraType": "Poison"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 252,
+          "hp": 252,
+          "spe": 4
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Body Press",
+          "Iron Defense",
+          "Night Shade",
+          "Psychic Noise"
+        ],
+        "nature": "Bold",
+        "species": "Bronzong",
+        "teraType": "Electric"
+      },
+      {
+        "ability": "Storm Drain",
+        "evs": {
+          "def": 252,
+          "hp": 252,
+          "spe": 4
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Earth Power",
+          "Recover",
+          "Sludge Bomb",
+          "Stealth Rock"
+        ],
+        "nature": "Bold",
+        "species": "Gastrodon",
+        "teraType": "Poison"
+      },
+      {
+        "ability": "Corrosion",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Heavy-Duty Boots",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Encore",
+          "Fire Blast",
+          "Sludge Bomb",
+          "Toxic"
+        ],
+        "nature": "Timid",
+        "species": "Salazzle",
+        "teraType": "Fire"
+      },
+      {
+        "ability": "Technician",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Heavy-Duty Boots",
+        "moves": [
+          "Close Combat",
+          "Defog",
+          "Dual Wingbeat",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "species": "Scyther",
+        "teraType": "Steel"
+      },
+      {
+        "ability": "Illusion",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "moves": [
+          "Knock Off",
+          "Low Kick",
+          "Trick",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "species": "Zoroark",
+        "teraType": "Fighting"
+      }
+    ],
+    "name": "cm florges+salazzle balance"
+  },
+  {
+    "author": "asa",
+    "data": [
+      {
+        "ability": "No Guard",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Custap Berry",
+        "moves": [
+          "Earthquake",
+          "Ice Punch",
+          "Poltergeist",
+          "Stealth Rock"
+        ],
+        "nature": "Adamant",
+        "species": "Golurk",
+        "teraType": "Ghost"
+      },
+      {
+        "ability": "Lightning Rod",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Earthquake",
+          "Rock Polish",
+          "Stone Edge",
+          "Swords Dance"
+        ],
+        "nature": "Jolly",
+        "species": "Rhydon",
+        "teraType": "Fire"
+      },
+      {
+        "ability": "Unburden",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Acrobatics",
+          "Earthquake",
+          "Leaf Blade",
+          "Swords Dance"
+        ],
+        "nature": "Jolly",
+        "species": "Sceptile",
+        "teraType": "Flying"
+      },
+      {
+        "ability": "Reckless",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "moves": [
+          "Brave Bird",
+          "Close Combat",
+          "Double-Edge",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "species": "Staraptor",
+        "teraType": "Flying"
+      },
+      {
+        "ability": "Storm Drain",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Heavy-Duty Boots",
+        "moves": [
+          "Draco Meteor",
+          "Nasty Plot",
+          "Rapid Spin",
+          "Surf"
+        ],
+        "nature": "Timid",
+        "species": "Tatsugiri",
+        "teraType": "Fairy"
+      },
+      {
+        "ability": "Punk Rock",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Throat Spray",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Boomburst",
+          "Overdrive",
+          "Shift Gear",
+          "Snarl"
+        ],
+        "nature": "Modest",
+        "species": "Toxtricity",
+        "teraType": "Normal"
+      }
+    ],
+    "name": "sd rhydon+toxtricty HO"
+  },
+  {
+    "author": "ishtar",
+    "data": [
+      {
+        "ability": "Corrosion",
+        "evs": {
+          "hp": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Heavy-Duty Boots",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Encore",
+          "Fire Blast",
+          "Sludge Bomb",
+          "Toxic"
+        ],
+        "nature": "Timid",
+        "species": "Salazzle",
+        "teraType": "Steel"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "def": 120,
+          "hp": 252,
+          "spe": 136
+        },
+        "gender": "M",
+        "item": "Heavy-Duty Boots",
+        "moves": [
+          "Brave Bird",
+          "Defog",
+          "Roost",
+          "Will-O-Wisp"
+        ],
+        "nature": "Impish",
+        "species": "Altaria",
+        "teraType": "Steel"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 4,
+          "hp": 252,
+          "spd": 252
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Heavy Slam",
+          "Protect",
+          "Psychic Noise",
+          "Stealth Rock"
+        ],
+        "nature": "Sassy",
+        "species": "Bronzong",
+        "teraType": "Water"
+      },
+      {
+        "ability": "Prankster",
+        "evs": {
+          "atk": 4,
+          "hp": 252,
+          "spd": 252
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Bulk Up",
+          "Spirit Break",
+          "Substitute",
+          "Sucker Punch"
+        ],
+        "nature": "Careful",
+        "species": "Grimmsnarl",
+        "teraType": "Poison"
+      },
+      {
+        "ability": "Torrent",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Specs",
+        "moves": [
+          "Hydro Pump",
+          "Ice Beam",
+          "Tera Blast",
+          "U-turn"
+        ],
+        "nature": "Timid",
+        "species": "Inteleon",
+        "teraType": "Grass"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Leaf Storm",
+          "Thunderbolt",
+          "Trick",
+          "Volt Switch"
+        ],
+        "nature": "Timid",
+        "species": "Rotom-Mow",
+        "teraType": "Electric"
+      }
+    ],
+    "name": "A Happy Couple <3"
+  },
+  {
+    "data": [
+      {
+        "ability": "Blaze",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Heavy-Duty Boots",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Encore",
+          "Fire Blast",
+          "Nasty Plot",
+          "Psyshock"
+        ],
+        "nature": "Timid",
+        "species": "Delphox",
+        "teraType": "Fairy"
+      },
+      {
+        "ability": "Scrappy",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "moves": [
+          "Brave Bird",
+          "Close Combat",
+          "Roost",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "species": "Flamigo",
+        "teraType": "Flying"
+      },
+      {
+        "ability": "Storm Drain",
+        "evs": {
+          "def": 4,
+          "hp": 252,
+          "spd": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Earth Power",
+          "Ice Beam",
+          "Recover",
+          "Stealth Rock"
+        ],
+        "nature": "Calm",
+        "species": "Gastrodon-East",
+        "teraType": "Steel"
+      },
+      {
+        "ability": "Technician",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Heavy-Duty Boots",
+        "moves": [
+          "Close Combat",
+          "Defog",
+          "Dual Wingbeat",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "species": "Scyther",
+        "teraType": "Ground"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "def": 252,
+          "hp": 252,
+          "spe": 4
+        },
+        "gender": "M",
+        "item": "Rocky Helmet",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Flamethrower",
+          "Psychic",
+          "Slack Off",
+          "Toxic"
+        ],
+        "nature": "Bold",
+        "species": "Slowbro-Galar",
+        "teraType": "Water"
+      },
+      {
+        "ability": "Tablets of Ruin",
+        "evs": {
+          "def": 4,
+          "hp": 252,
+          "spd": 252
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Foul Play",
+          "Knock Off",
+          "Leech Seed",
+          "Protect"
+        ],
+        "nature": "Careful",
+        "species": "Wo-Chien",
+        "teraType": "Poison"
+      }
+    ]
+  },
+  {
+    "author": "pult2lp zebstrika",
+    "data": [
+      {
+        "ability": "Aftermath",
+        "evs": {
+          "atk": 192,
+          "hp": 152,
+          "spd": 60,
+          "spe": 104
+        },
+        "gender": "M",
+        "item": "Rocky Helmet",
+        "moves": [
+          "Gunk Shot",
+          "Knock Off",
+          "Sucker Punch",
+          "Taunt"
+        ],
+        "nature": "Adamant",
+        "species": "Skuntank",
+        "teraType": "Dark"
+      },
+      {
+        "ability": "Flower Veil",
+        "evs": {
+          "def": 204,
+          "hp": 248,
+          "spe": 56
+        },
+        "item": "Heavy-Duty Boots",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Moonblast",
+          "Synthesis",
+          "Wish"
+        ],
+        "nature": "Bold",
+        "species": "Florges",
+        "teraType": "Poison"
+      },
+      {
+        "ability": "Immunity",
+        "evs": {
+          "def": 156,
+          "hp": 252,
+          "spd": 100
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Earthquake",
+          "Stealth Rock",
+          "Toxic",
+          "U-turn"
+        ],
+        "nature": "Impish",
+        "species": "Gligar",
+        "teraType": "Ghost"
+      },
+      {
+        "ability": "Competitive",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Heavy-Duty Boots",
+        "moves": [
+          "Hurricane",
+          "Roost",
+          "Thunderbolt",
+          "U-turn"
+        ],
+        "nature": "Timid",
+        "species": "Kilowattrel",
+        "teraType": "Electric"
+      },
+      {
+        "ability": "Marvel Scale",
+        "evs": {
+          "def": 236,
+          "hp": 252,
+          "spd": 8,
+          "spe": 12
+        },
+        "gender": "M",
+        "item": "Heavy-Duty Boots",
+        "moves": [
+          "Dragon Tail",
+          "Ice Beam",
+          "Recover",
+          "Scald"
+        ],
+        "nature": "Calm",
+        "species": "Milotic",
+        "teraType": "Dragon"
+      },
+      {
+        "ability": "Slush Rush",
+        "evs": {
+          "hp": 252,
+          "spd": 204,
+          "spe": 52
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Ice Spinner",
+          "Knock Off",
+          "Rapid Spin",
+          "Spikes"
+        ],
+        "nature": "Careful",
+        "species": "Sandslash-Alola",
+        "teraType": "Ghost"
+      }
+    ],
+    "name": "skunk hazard stack"
+  },
+  {
+    "data": [
+      {
+        "ability": "Static",
+        "evs": {
+          "def": 252,
+          "hp": 248,
+          "spd": 8
+        },
+        "gender": "M",
+        "item": "Rocky Helmet",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Muddy Water",
+          "Slack Off",
+          "Toxic",
+          "Volt Switch"
+        ],
+        "nature": "Bold",
+        "species": "Bellibolt",
+        "teraType": "Flying"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "atk": 8,
+          "hp": 248,
+          "spd": 252
+        },
+        "gender": "M",
+        "item": "Heavy-Duty Boots",
+        "moves": [
+          "Brave Bird",
+          "Defog",
+          "Roar",
+          "Roost"
+        ],
+        "nature": "Careful",
+        "species": "Altaria",
+        "teraType": "Water"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 252,
+          "hp": 196,
+          "spe": 60
+        },
+        "gender": "M",
+        "item": "Heavy-Duty Boots",
+        "moves": [
+          "Curse",
+          "Extreme Speed",
+          "Flare Blitz",
+          "Morning Sun"
+        ],
+        "nature": "Adamant",
+        "species": "Arcanine",
+        "teraType": "Normal"
+      },
+      {
+        "ability": "Big Pecks",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Heavy-Duty Boots",
+        "moves": [
+          "Knock Off",
+          "Roost",
+          "Stealth Rock",
+          "Taunt"
+        ],
+        "nature": "Jolly",
+        "species": "Bombirdier",
+        "teraType": "Ground"
+      },
+      {
+        "ability": "Serene Grace",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Choice Specs",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Alluring Voice",
+          "Hyper Voice",
+          "Psychic",
+          "Shadow Ball"
+        ],
+        "nature": "Modest",
+        "species": "Meloetta",
+        "teraType": "Ghost"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "def": 128,
+          "hp": 248,
+          "spd": 128,
+          "spe": 4
+        },
+        "gender": "M",
+        "item": "Assault Vest",
+        "moves": [
+          "Earthquake",
+          "Flamethrower",
+          "Psychic",
+          "Shell Side Arm"
+        ],
+        "nature": "Relaxed",
+        "species": "Slowbro-Galar",
+        "teraType": "Water"
+      }
+    ],
+    "name": "Specs Melo BO"
+  },
+  {
+    "data": [
+      {
+        "ability": "Long Reach",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Spell Tag",
+        "moves": [
+          "Leaf Blade",
+          "Shadow Sneak",
+          "Spirit Shackle",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Decidueye",
+        "teraType": "Ghost"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 252,
+          "hp": 200,
+          "spe": 56
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Curse",
+          "Extreme Speed",
+          "Flare Blitz",
+          "Morning Sun"
+        ],
+        "nature": "Adamant",
+        "species": "Arcanine",
+        "teraType": "Normal"
+      },
+      {
+        "ability": "Aftermath",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Black Glasses",
+        "moves": [
+          "Gunk Shot",
+          "Knock Off",
+          "Sucker Punch",
+          "Taunt"
+        ],
+        "nature": "Adamant",
+        "species": "Skuntank",
+        "teraType": "Dark"
+      },
+      {
+        "ability": "Own Tempo",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Focus Sash",
+        "moves": [
+          "Explosion",
+          "Silk Trap",
+          "Sticky Web",
+          "Stone Axe"
+        ],
+        "nature": "Jolly",
+        "species": "Smeargle",
+        "teraType": "Ghost"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Bulk Up",
+          "Close Combat",
+          "Trailblaze",
+          "Wave Crash"
+        ],
+        "nature": "Jolly",
+        "species": "Tauros-Paldea-Aqua",
+        "teraType": "Steel"
+      },
+      {
+        "ability": "Punk Rock",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Throat Spray",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Boomburst",
+          "Overdrive",
+          "Shift Gear",
+          "Tera Blast"
+        ],
+        "nature": "Modest",
+        "species": "Toxtricity",
+        "teraType": "Ghost"
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "ability": "Stamina",
+        "evs": {
+          "def": 252,
+          "hp": 252,
+          "spd": 4
+        },
+        "gender": "M",
+        "item": "Rocky Helmet",
+        "moves": [
+          "Body Press",
+          "Earthquake",
+          "Roar",
+          "Stealth Rock"
+        ],
+        "nature": "Impish",
+        "species": "Mudsdale",
+        "teraType": "Ghost"
+      },
+      {
+        "ability": "Big Pecks",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Heavy-Duty Boots",
+        "moves": [
+          "Brave Bird",
+          "Knock Off",
+          "Sucker Punch",
+          "Taunt"
+        ],
+        "nature": "Adamant",
+        "species": "Bombirdier",
+        "teraType": "Dark"
+      },
+      {
+        "ability": "Long Reach",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Spell Tag",
+        "moves": [
+          "Defog",
+          "Leaf Blade",
+          "Shadow Sneak",
+          "Spirit Shackle"
+        ],
+        "nature": "Adamant",
+        "species": "Decidueye",
+        "teraType": "Ghost"
+      },
+      {
+        "ability": "Purifying Salt",
+        "evs": {
+          "def": 4,
+          "hp": 252,
+          "spd": 252
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Curse",
+          "Protect",
+          "Recover",
+          "Salt Cure"
+        ],
+        "nature": "Careful",
+        "species": "Naclstack",
+        "teraType": "Water"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "def": 16,
+          "hp": 248,
+          "spd": 244
+        },
+        "gender": "M",
+        "item": "Assault Vest",
+        "moves": [
+          "Flamethrower",
+          "Psychic",
+          "Shell Side Arm",
+          "Surf"
+        ],
+        "nature": "Bold",
+        "species": "Slowbro-Galar",
+        "teraType": "Water"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Choice Band",
+        "moves": [
+          "Aqua Jet",
+          "Close Combat",
+          "Raging Bull",
+          "Wave Crash"
+        ],
+        "nature": "Jolly",
+        "species": "Tauros-Paldea-Aqua",
+        "teraType": "Water"
+      }
+    ]
+  },
+  {
+    "author": "DugZa\u30c3",
+    "data": [
+      {
+        "ability": "Torrent",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Specs",
+        "moves": [
+          "Hydro Pump",
+          "Ice Beam",
+          "Surf",
+          "U-turn"
+        ],
+        "nature": "Timid",
+        "species": "Inteleon",
+        "teraType": "Water"
+      },
+      {
+        "ability": "Immunity",
+        "evs": {
+          "def": 48,
+          "hp": 252,
+          "spd": 152,
+          "spe": 52
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Earthquake",
+          "Spikes",
+          "Toxic",
+          "U-turn"
+        ],
+        "nature": "Careful",
+        "species": "Gligar",
+        "teraType": "Water"
+      },
+      {
+        "ability": "Sap Sipper",
+        "evs": {
+          "hp": 72,
+          "spa": 220,
+          "spd": 80,
+          "spe": 136
+        },
+        "gender": "M",
+        "item": "Assault Vest",
+        "moves": [
+          "Draco Meteor",
+          "Dragon Tail",
+          "Fire Blast",
+          "Surf"
+        ],
+        "nature": "Modest",
+        "species": "Goodra",
+        "teraType": "Dragon"
+      },
+      {
+        "ability": "Fluffy",
+        "evs": {
+          "def": 240,
+          "hp": 252,
+          "spd": 4,
+          "spe": 12
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Charm",
+          "Night Shade",
+          "Pain Split",
+          "Will-O-Wisp"
+        ],
+        "nature": "Bold",
+        "species": "Houndstone",
+        "teraType": "Dragon"
+      },
+      {
+        "ability": "Slush Rush",
+        "evs": {
+          "hp": 252,
+          "spd": 224,
+          "spe": 32
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Icicle Crash",
+          "Iron Head",
+          "Rapid Spin",
+          "Stealth Rock"
+        ],
+        "nature": "Careful",
+        "species": "Sandslash-Alola",
+        "teraType": "Ghost"
+      },
+      {
+        "ability": "Shed Skin",
+        "evs": {
+          "atk": 44,
+          "hp": 228,
+          "spe": 236
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Dragon Dance",
+          "Drain Punch",
+          "Ice Punch",
+          "Knock Off"
+        ],
+        "nature": "Adamant",
+        "species": "Scrafty",
+        "teraType": "Fairy"
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "ability": "Dazzling",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "moves": [
+          "Crunch",
+          "Flip Turn",
+          "Psychic Fangs",
+          "Wave Crash"
+        ],
+        "nature": "Jolly",
+        "species": "Bruxish",
+        "teraType": "Water"
+      },
+      {
+        "ability": "Flower Veil",
+        "evs": {
+          "def": 44,
+          "hp": 252,
+          "spd": 116,
+          "spe": 96
+        },
+        "item": "Heavy-Duty Boots",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Moonblast",
+          "Psychic Noise",
+          "Synthesis"
+        ],
+        "nature": "Calm",
+        "species": "Florges",
+        "teraType": "Poison"
+      },
+      {
+        "ability": "Immunity",
+        "evs": {
+          "def": 28,
+          "hp": 252,
+          "spd": 196,
+          "spe": 24
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Earthquake",
+          "Spikes",
+          "Toxic",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "species": "Gligar",
+        "teraType": "Ghost"
+      },
+      {
+        "ability": "Volt Absorb",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Heavy-Duty Boots",
+        "moves": [
+          "Hurricane",
+          "Roost",
+          "Thunderbolt",
+          "U-turn"
+        ],
+        "nature": "Timid",
+        "species": "Kilowattrel",
+        "teraType": "Ghost"
+      },
+      {
+        "ability": "Slush Rush",
+        "evs": {
+          "hp": 252,
+          "spd": 224,
+          "spe": 32
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Icicle Crash",
+          "Knock Off",
+          "Rapid Spin",
+          "Stealth Rock"
+        ],
+        "nature": "Careful",
+        "species": "Sandslash-Alola",
+        "teraType": "Ghost"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "def": 252,
+          "hp": 252,
+          "spe": 4
+        },
+        "gender": "M",
+        "item": "Heavy-Duty Boots",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Flamethrower",
+          "Psyshock",
+          "Slack Off"
+        ],
+        "nature": "Bold",
+        "species": "Slowbro-Galar",
+        "teraType": "Water"
+      }
+    ],
+    "name": "nucl remake"
+  }
+]

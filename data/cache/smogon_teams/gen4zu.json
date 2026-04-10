@@ -1,0 +1,511 @@
+[
+  {
+    "author": "beauts",
+    "data": [
+      {
+        "ability": "Swift Swim",
+        "evs": {
+          "hp": 252,
+          "spa": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Custap Berry",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Endure",
+          "Spikes",
+          "Stealth Rock",
+          "Surf"
+        ],
+        "nature": "Timid",
+        "species": "Omanyte"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "moves": [
+          "Earthquake",
+          "Poison Jab",
+          "Seed Bomb",
+          "Switcheroo"
+        ],
+        "nature": "Jolly",
+        "species": "Arbok"
+      },
+      {
+        "ability": "Overgrow",
+        "evs": {
+          "atk": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 30,
+          "def": 30
+        },
+        "moves": [
+          "Hidden Power Ice",
+          "Leaf Storm",
+          "Low Kick",
+          "Rock Slide"
+        ],
+        "nature": "Hasty",
+        "species": "Grovyle"
+      },
+      {
+        "ability": "Rock Head",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Life Orb",
+        "moves": [
+          "Earthquake",
+          "Head Smash",
+          "Iron Head",
+          "Rock Polish"
+        ],
+        "nature": "Adamant",
+        "species": "Lairon"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Expert Belt",
+        "ivs": {
+          "atk": 30,
+          "def": 30,
+          "spa": 30
+        },
+        "moves": [
+          "Hidden Power Water",
+          "Signal Beam",
+          "Superpower",
+          "Thunderbolt"
+        ],
+        "nature": "Rash",
+        "species": "Luxray"
+      },
+      {
+        "ability": "Anticipation",
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Dragon Dance",
+          "Earthquake",
+          "Stone Edge",
+          "Waterfall"
+        ],
+        "nature": "Jolly",
+        "species": "Whiscash"
+      }
+    ],
+    "name": "Omanyte HO"
+  },
+  {
+    "author": "waterbends",
+    "data": [
+      {
+        "ability": "Technician",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Silk Scarf",
+        "moves": [
+          "Double-Edge",
+          "Fake Out",
+          "Taunt",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "species": "Persian"
+      },
+      {
+        "ability": "Solid Rock",
+        "evs": {
+          "def": 4,
+          "hp": 252,
+          "spd": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Earth Power",
+          "Lava Plume",
+          "Protect",
+          "Stealth Rock"
+        ],
+        "nature": "Calm",
+        "species": "Camerupt"
+      },
+      {
+        "ability": "Inner Focus",
+        "evs": {
+          "def": 204,
+          "hp": 248,
+          "spe": 56
+        },
+        "gender": "M",
+        "item": "Black Sludge",
+        "moves": [
+          "Brave Bird",
+          "Roost",
+          "Super Fang",
+          "U-turn"
+        ],
+        "nature": "Impish",
+        "species": "Golbat"
+      },
+      {
+        "ability": "Overgrow",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "F",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "def": 30
+        },
+        "moves": [
+          "Energy Ball",
+          "Hidden Power Ice",
+          "Leech Seed",
+          "Substitute"
+        ],
+        "nature": "Timid",
+        "species": "Grovyle"
+      },
+      {
+        "ability": "Hyper Cutter",
+        "evs": {
+          "atk": 252,
+          "hp": 80,
+          "spe": 176
+        },
+        "gender": "M",
+        "item": "Life Orb",
+        "moves": [
+          "Brick Break",
+          "Iron Head",
+          "Sucker Punch",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Mawile"
+      },
+      {
+        "ability": "Water Veil",
+        "evs": {
+          "hp": 60,
+          "spd": 196,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Protect",
+          "Substitute",
+          "Surf",
+          "Toxic"
+        ],
+        "nature": "Timid",
+        "species": "Wailord"
+      }
+    ],
+    "name": "SubTox Wailord + SD Mawile"
+  },
+  {
+    "author": "BeatsBlack",
+    "data": [
+      {
+        "ability": "Thick Fat",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Lum Berry",
+        "ivs": {
+          "atk": 30,
+          "spa": 30
+        },
+        "moves": [
+          "Hidden Power Grass",
+          "Ice Beam",
+          "Ice Shard",
+          "Surf"
+        ],
+        "nature": "Timid",
+        "species": "Dewgong"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Expert Belt",
+        "moves": [
+          "Earthquake",
+          "Poison Jab",
+          "Pursuit",
+          "Seed Bomb"
+        ],
+        "nature": "Jolly",
+        "species": "Arbok"
+      },
+      {
+        "ability": "Solid Rock",
+        "evs": {
+          "hp": 252,
+          "spa": 16,
+          "spd": 240
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Earth Power",
+          "Lava Plume",
+          "Protect",
+          "Stealth Rock"
+        ],
+        "nature": "Calm",
+        "species": "Camerupt"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "atk": 4,
+          "def": 252,
+          "hp": 252
+        },
+        "gender": "M",
+        "happiness": 255,
+        "item": "Leftovers",
+        "moves": [
+          "Power Whip",
+          "Return",
+          "Sleep Powder",
+          "Synthesis"
+        ],
+        "nature": "Impish",
+        "species": "Carnivine"
+      },
+      {
+        "ability": "Inner Focus",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "F",
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 3,
+          "def": 30,
+          "spa": 30,
+          "spd": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Grass Knot",
+          "Hidden Power Fighting",
+          "Psychic",
+          "Trick"
+        ],
+        "nature": "Timid",
+        "species": "Girafarig"
+      },
+      {
+        "ability": "Plus",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "gender": "F",
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 2,
+          "def": 30
+        },
+        "moves": [
+          "Encore",
+          "Grass Knot",
+          "Hidden Power Ice",
+          "Thunderbolt"
+        ],
+        "nature": "Timid",
+        "species": "Plusle"
+      }
+    ],
+    "name": "Lead Dewgong + LO Plusle BO"
+  },
+  {
+    "author": "BeatsBlack",
+    "data": [
+      {
+        "ability": "Technician",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "happiness": 255,
+        "item": "Silk Scarf",
+        "moves": [
+          "Fake Out",
+          "Return",
+          "Taunt",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "species": "Persian"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Expert Belt",
+        "moves": [
+          "Earthquake",
+          "Ice Fang",
+          "Poison Jab",
+          "Seed Bomb"
+        ],
+        "nature": "Jolly",
+        "species": "Arbok"
+      },
+      {
+        "ability": "Hyper Cutter",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Lum Berry",
+        "moves": [
+          "Crunch",
+          "Dragon Dance",
+          "Superpower",
+          "Waterfall"
+        ],
+        "nature": "Adamant",
+        "species": "Crawdaunt"
+      },
+      {
+        "ability": "Keen Eye",
+        "evs": {
+          "atk": 252,
+          "hp": 16,
+          "spe": 240
+        },
+        "gender": "M",
+        "happiness": 255,
+        "item": "Choice Band",
+        "moves": [
+          "Drill Peck",
+          "Pursuit",
+          "Return",
+          "U-turn"
+        ],
+        "nature": "Adamant",
+        "species": "Fearow"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "hp": 208,
+          "spa": 124,
+          "spe": 176
+        },
+        "gender": "F",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "def": 30
+        },
+        "moves": [
+          "Hidden Power Ice",
+          "Protect",
+          "Thunderbolt",
+          "Toxic"
+        ],
+        "nature": "Timid",
+        "species": "Luxray"
+      },
+      {
+        "ability": "Magnet Pull",
+        "evs": {
+          "def": 56,
+          "hp": 248,
+          "spa": 184,
+          "spe": 20
+        },
+        "gender": "F",
+        "item": "Chople Berry",
+        "ivs": {
+          "atk": 2,
+          "spa": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Earth Power",
+          "Hidden Power Fire",
+          "Stealth Rock",
+          "Thunderbolt"
+        ],
+        "nature": "Modest",
+        "species": "Probopass"
+      }
+    ],
+    "name": "Probopass Offense"
+  }
+]

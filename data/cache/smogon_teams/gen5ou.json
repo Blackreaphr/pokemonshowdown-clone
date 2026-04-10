@@ -1,0 +1,1630 @@
+[
+  {
+    "data": [
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "atk": 44,
+          "hp": 248,
+          "spa": 44,
+          "spd": 172
+        },
+        "gender": "M",
+        "item": "Chople Berry",
+        "moves": [
+          "Crunch",
+          "Flamethrower",
+          "Pursuit",
+          "Thunder Wave"
+        ],
+        "nature": "Brave",
+        "species": "Tyranitar"
+      },
+      {
+        "ability": "Magic Guard",
+        "evs": {
+          "def": 88,
+          "spa": 188,
+          "spe": 232
+        },
+        "gender": "F",
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 2,
+          "spa": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Grass Knot",
+          "Hidden Power Fire",
+          "Psychic",
+          "Shadow Ball"
+        ],
+        "nature": "Timid",
+        "species": "Alakazam"
+      },
+      {
+        "ability": "Iron Barbs",
+        "evs": {
+          "def": 8,
+          "hp": 248,
+          "spd": 252
+        },
+        "gender": "M",
+        "item": "Rawst Berry",
+        "ivs": {
+          "spe": 0
+        },
+        "moves": [
+          "Gyro Ball",
+          "Knock Off",
+          "Power Whip",
+          "Spikes"
+        ],
+        "nature": "Relaxed",
+        "species": "Ferrothorn"
+      },
+      {
+        "ability": "Justified",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "def": 30
+        },
+        "moves": [
+          "Hidden Power Ice",
+          "Protect",
+          "Scald",
+          "Secret Sword"
+        ],
+        "nature": "Timid",
+        "species": "Keldeo"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "def": 156,
+          "hp": 100,
+          "spe": 252
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "def": 30,
+          "hp": 30
+        },
+        "moves": [
+          "Earthquake",
+          "Hidden Power Ice",
+          "Stealth Rock",
+          "U-turn"
+        ],
+        "nature": "Naive",
+        "species": "Landorus-Therian"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Draco Meteor",
+          "Psyshock",
+          "Surf",
+          "Trick"
+        ],
+        "nature": "Timid",
+        "species": "Latios"
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "atk": 88,
+          "hp": 208,
+          "spd": 200,
+          "spe": 12
+        },
+        "gender": "M",
+        "item": "Chople Berry",
+        "moves": [
+          "Crunch",
+          "Earthquake",
+          "Pursuit",
+          "Rock Slide"
+        ],
+        "nature": "Adamant",
+        "species": "Tyranitar"
+      },
+      {
+        "ability": "Magic Guard",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "gender": "F",
+        "item": "Focus Sash",
+        "ivs": {
+          "atk": 2,
+          "def": 30
+        },
+        "moves": [
+          "Focus Blast",
+          "Hidden Power Ice",
+          "Psyshock",
+          "Shadow Ball"
+        ],
+        "nature": "Timid",
+        "species": "Alakazam"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "def": 200,
+          "hp": 216,
+          "spe": 92
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Knock Off",
+          "Stealth Rock",
+          "U-turn"
+        ],
+        "nature": "Impish",
+        "species": "Landorus-Therian"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Choice Specs",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Draco Meteor",
+          "Grass Knot",
+          "Surf",
+          "Trick"
+        ],
+        "nature": "Timid",
+        "species": "Latios"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 120,
+          "hp": 252,
+          "spd": 136
+        },
+        "item": "Chesto Berry",
+        "ivs": {
+          "atk": 0,
+          "spe": 10
+        },
+        "moves": [
+          "Hydro Pump",
+          "Rest",
+          "Volt Switch",
+          "Will-O-Wisp"
+        ],
+        "nature": "Bold",
+        "species": "Rotom-Wash"
+      },
+      {
+        "ability": "Sturdy",
+        "evs": {
+          "hp": 252,
+          "spd": 240,
+          "spe": 16
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Brave Bird",
+          "Roost",
+          "Spikes",
+          "Whirlwind"
+        ],
+        "nature": "Careful",
+        "species": "Skarmory"
+      }
+    ],
+    "name": "WIFI OU - SPLXIII W8 vs GaryTheGengar"
+  },
+  {
+    "author": "Monai",
+    "data": [
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "def": 32,
+          "hp": 252,
+          "spd": 224
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Slack Off",
+          "Stealth Rock",
+          "Whirlwind"
+        ],
+        "nature": "Impish",
+        "species": "Hippowdon"
+      },
+      {
+        "ability": "Sand Force",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "moves": [
+          "Earthquake",
+          "Iron Head",
+          "Rapid Spin",
+          "Rock Slide"
+        ],
+        "nature": "Adamant",
+        "species": "Excadrill"
+      },
+      {
+        "ability": "Iron Barbs",
+        "evs": {
+          "def": 96,
+          "hp": 252,
+          "spd": 160
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Leech Seed",
+          "Power Whip",
+          "Protect",
+          "Spikes"
+        ],
+        "nature": "Impish",
+        "species": "Ferrothorn"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Choice Specs",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Draco Meteor",
+          "Recover",
+          "Surf",
+          "Trick"
+        ],
+        "nature": "Timid",
+        "species": "Latios"
+      },
+      {
+        "ability": "Magnet Pull",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Air Balloon",
+        "ivs": {
+          "atk": 2,
+          "spa": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Hidden Power Fire",
+          "Magnet Rise",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "nature": "Timid",
+        "species": "Magnezone"
+      },
+      {
+        "ability": "Magic Guard",
+        "evs": {
+          "def": 252,
+          "hp": 252,
+          "spa": 4
+        },
+        "gender": "F",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "def": 30
+        },
+        "moves": [
+          "Calm Mind",
+          "Hidden Power Ice",
+          "Recover",
+          "Thunder"
+        ],
+        "nature": "Bold",
+        "species": "Reuniclus"
+      }
+    ],
+    "name": "Hippo Reuni Mag Sand by Dice, recreated by Peng"
+  },
+  {
+    "author": "Finchinator",
+    "data": [
+      {
+        "ability": "Magic Guard",
+        "evs": {
+          "def": 88,
+          "spa": 192,
+          "spe": 228
+        },
+        "gender": "F",
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 2,
+          "spa": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Grass Knot",
+          "Hidden Power Fire",
+          "Psychic",
+          "Shadow Ball"
+        ],
+        "nature": "Timid",
+        "species": "Alakazam"
+      },
+      {
+        "ability": "Sand Force",
+        "evs": {
+          "atk": 244,
+          "hp": 4,
+          "spd": 8,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "moves": [
+          "Earthquake",
+          "Iron Head",
+          "Rapid Spin",
+          "Rock Slide"
+        ],
+        "nature": "Jolly",
+        "species": "Excadrill"
+      },
+      {
+        "ability": "Water Absorb",
+        "evs": {
+          "def": 160,
+          "hp": 252,
+          "spe": 96
+        },
+        "gender": "M",
+        "item": "Air Balloon",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Night Shade",
+          "Recover",
+          "Taunt",
+          "Will-O-Wisp"
+        ],
+        "nature": "Bold",
+        "species": "Jellicent"
+      },
+      {
+        "ability": "Thick Fat",
+        "evs": {
+          "atk": 244,
+          "hp": 4,
+          "spd": 80,
+          "spe": 180
+        },
+        "gender": "M",
+        "item": "Never-Melt Ice",
+        "moves": [
+          "Earthquake",
+          "Ice Shard",
+          "Icicle Crash",
+          "Superpower"
+        ],
+        "nature": "Adamant",
+        "species": "Mamoswine"
+      },
+      {
+        "ability": "Sturdy",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Custap Berry",
+        "moves": [
+          "Brave Bird",
+          "Spikes",
+          "Stealth Rock",
+          "Thief"
+        ],
+        "nature": "Jolly",
+        "species": "Skarmory"
+      },
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "atk": 4,
+          "hp": 252,
+          "spd": 248,
+          "spe": 4
+        },
+        "gender": "M",
+        "item": "Chople Berry",
+        "moves": [
+          "Crunch",
+          "Pursuit",
+          "Superpower",
+          "Thunder Wave"
+        ],
+        "nature": "Careful",
+        "species": "Tyranitar"
+      }
+    ],
+    "name": "WIFI OU - SPL W8 vs dice"
+  },
+  {
+    "author": "Rewer",
+    "data": [
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "atk": 88,
+          "hp": 252,
+          "spd": 168
+        },
+        "gender": "M",
+        "item": "Chople Berry",
+        "moves": [
+          "Crunch",
+          "Pursuit",
+          "Rock Slide",
+          "Superpower"
+        ],
+        "nature": "Adamant",
+        "species": "Tyranitar"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "hp": 252,
+          "spd": 240,
+          "spe": 16
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Baton Pass",
+          "Psychic",
+          "Recover",
+          "Stealth Rock"
+        ],
+        "nature": "Calm",
+        "species": "Celebi"
+      },
+      {
+        "ability": "Sand Force",
+        "evs": {
+          "atk": 56,
+          "hp": 32,
+          "spd": 228,
+          "spe": 192
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Iron Head",
+          "Rapid Spin",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Excadrill"
+      },
+      {
+        "ability": "Rough Skin",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "moves": [
+          "Dual Chop",
+          "Earthquake",
+          "Outrage",
+          "Stealth Rock"
+        ],
+        "nature": "Jolly",
+        "species": "Garchomp"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 30,
+          "def": 30
+        },
+        "moves": [
+          "Earthquake",
+          "Hidden Power Ice",
+          "Smack Down",
+          "Substitute"
+        ],
+        "nature": "Naive",
+        "species": "Landorus-Therian"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 200,
+          "hp": 252,
+          "spd": 56
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Hydro Pump",
+          "Pain Split",
+          "Volt Switch",
+          "Will-O-Wisp"
+        ],
+        "nature": "Bold",
+        "species": "Rotom-Wash"
+      }
+    ],
+    "name": "sdown lando scarf chomp"
+  },
+  {
+    "author": "Monai",
+    "data": [
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "atk": 88,
+          "def": 20,
+          "hp": 252,
+          "spd": 144,
+          "spe": 4
+        },
+        "gender": "M",
+        "item": "Chople Berry",
+        "moves": [
+          "Crunch",
+          "Ice Beam",
+          "Pursuit",
+          "Superpower"
+        ],
+        "nature": "Brave",
+        "species": "Tyranitar"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "def": 40,
+          "hp": 240,
+          "spd": 220,
+          "spe": 8
+        },
+        "gender": "F",
+        "item": "Black Sludge",
+        "ivs": {
+          "atk": 2,
+          "spa": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Giga Drain",
+          "Hidden Power Fire",
+          "Sludge Bomb",
+          "Stun Spore"
+        ],
+        "nature": "Calm",
+        "species": "Amoonguss"
+      },
+      {
+        "ability": "Sand Force",
+        "evs": {
+          "def": 20,
+          "hp": 140,
+          "spd": 96,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Iron Head",
+          "Protect",
+          "Rapid Spin"
+        ],
+        "nature": "Jolly",
+        "species": "Excadrill"
+      },
+      {
+        "ability": "Poison Heal",
+        "evs": {
+          "def": 12,
+          "hp": 244,
+          "spd": 252
+        },
+        "gender": "M",
+        "item": "Toxic Orb",
+        "ivs": {
+          "spe": 26
+        },
+        "moves": [
+          "Earthquake",
+          "Protect",
+          "Stealth Rock",
+          "U-turn"
+        ],
+        "nature": "Impish",
+        "species": "Gliscor"
+      },
+      {
+        "ability": "Justified",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "def": 30
+        },
+        "moves": [
+          "Hidden Power Ice",
+          "Scald",
+          "Secret Sword",
+          "Toxic"
+        ],
+        "nature": "Timid",
+        "species": "Keldeo"
+      },
+      {
+        "ability": "Thick Fat",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "moves": [
+          "Earthquake",
+          "Ice Shard",
+          "Icicle Crash",
+          "Superpower"
+        ],
+        "nature": "Adamant",
+        "species": "Mamoswine"
+      }
+    ],
+    "name": "Gen 5 OU Mamo Sand Edit"
+  },
+  {
+    "data": [
+      {
+        "ability": "Drizzle",
+        "evs": {
+          "def": 112,
+          "hp": 248,
+          "spd": 140,
+          "spe": 8
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Encore",
+          "Protect",
+          "Scald",
+          "Toxic"
+        ],
+        "nature": "Calm",
+        "species": "Politoed"
+      },
+      {
+        "ability": "Iron Barbs",
+        "evs": {
+          "def": 48,
+          "hp": 252,
+          "spd": 208
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Knock Off",
+          "Power Whip",
+          "Spikes",
+          "Stealth Rock"
+        ],
+        "nature": "Careful",
+        "species": "Ferrothorn"
+      },
+      {
+        "ability": "Justified",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 2,
+          "def": 30
+        },
+        "moves": [
+          "Hidden Power Ice",
+          "Hydro Pump",
+          "Secret Sword",
+          "Surf"
+        ],
+        "nature": "Timid",
+        "species": "Keldeo-Resolute"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Choice Specs",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Draco Meteor",
+          "Dragon Pulse",
+          "Surf",
+          "Trick"
+        ],
+        "nature": "Timid",
+        "species": "Latios"
+      },
+      {
+        "ability": "Rain Dish",
+        "evs": {
+          "def": 68,
+          "hp": 248,
+          "spe": 192
+        },
+        "gender": "M",
+        "item": "Black Sludge",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Protect",
+          "Rapid Spin",
+          "Scald",
+          "Toxic"
+        ],
+        "nature": "Timid",
+        "species": "Tentacruel"
+      },
+      {
+        "ability": "Volt Absorb",
+        "evs": {
+          "def": 144,
+          "hp": 104,
+          "spa": 48,
+          "spd": 4,
+          "spe": 208
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 30,
+          "def": 30
+        },
+        "moves": [
+          "Focus Blast",
+          "Hidden Power Ice",
+          "Substitute",
+          "Thunder"
+        ],
+        "nature": "Modest",
+        "species": "Thundurus-Therian"
+      }
+    ],
+    "name": "Gen 5 OU Scarf Keldeo"
+  },
+  {
+    "author": "Monai",
+    "data": [
+      {
+        "ability": "Drizzle",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Encore",
+          "Hydro Pump",
+          "Ice Beam",
+          "Toxic"
+        ],
+        "nature": "Timid",
+        "species": "Politoed"
+      },
+      {
+        "ability": "Iron Barbs",
+        "evs": {
+          "atk": 208,
+          "def": 48,
+          "hp": 252
+        },
+        "gender": "M",
+        "item": "Lum Berry",
+        "ivs": {
+          "spe": 0
+        },
+        "moves": [
+          "Gyro Ball",
+          "Power Whip",
+          "Spikes",
+          "Stealth Rock"
+        ],
+        "nature": "Brave",
+        "species": "Ferrothorn"
+      },
+      {
+        "ability": "Serene Grace",
+        "evs": {
+          "def": 72,
+          "hp": 252,
+          "spe": 184
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "def": 30
+        },
+        "moves": [
+          "Calm Mind",
+          "Hidden Power Ice",
+          "Substitute",
+          "Thunder"
+        ],
+        "nature": "Timid",
+        "species": "Jirachi"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Lum Berry",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Draco Meteor",
+          "Roost",
+          "Surf"
+        ],
+        "nature": "Timid",
+        "species": "Latios"
+      },
+      {
+        "ability": "Rain Dish",
+        "evs": {
+          "hp": 252,
+          "spd": 68,
+          "spe": 188
+        },
+        "gender": "M",
+        "item": "Black Sludge",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Protect",
+          "Rapid Spin",
+          "Scald",
+          "Toxic"
+        ],
+        "nature": "Timid",
+        "species": "Tentacruel"
+      },
+      {
+        "ability": "Volt Absorb",
+        "evs": {
+          "hp": 24,
+          "spa": 252,
+          "spd": 56,
+          "spe": 176
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "def": 30
+        },
+        "moves": [
+          "Agility",
+          "Focus Blast",
+          "Hidden Power Ice",
+          "Thunder"
+        ],
+        "nature": "Modest",
+        "species": "Thundurus-Therian"
+      }
+    ],
+    "name": "SubCM Jirachi by BKC, recreated by Monai"
+  },
+  {
+    "author": "Monai",
+    "data": [
+      {
+        "ability": "Drizzle",
+        "evs": {
+          "def": 212,
+          "hp": 252,
+          "spd": 16,
+          "spe": 28
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Encore",
+          "Protect",
+          "Scald",
+          "Toxic"
+        ],
+        "nature": "Calm",
+        "species": "Politoed"
+      },
+      {
+        "ability": "Iron Barbs",
+        "evs": {
+          "def": 24,
+          "hp": 252,
+          "spd": 232
+        },
+        "gender": "M",
+        "item": "Lum Berry",
+        "ivs": {
+          "spe": 30
+        },
+        "moves": [
+          "Knock Off",
+          "Power Whip",
+          "Spikes",
+          "Stealth Rock"
+        ],
+        "nature": "Impish",
+        "species": "Ferrothorn"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Draco Meteor",
+          "Psyshock",
+          "Surf",
+          "Trick"
+        ],
+        "nature": "Timid",
+        "species": "Latios"
+      },
+      {
+        "ability": "Thick Fat",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "moves": [
+          "Earthquake",
+          "Ice Shard",
+          "Icicle Crash",
+          "Superpower"
+        ],
+        "nature": "Adamant",
+        "species": "Mamoswine"
+      },
+      {
+        "ability": "Rain Dish",
+        "evs": {
+          "def": 248,
+          "hp": 252,
+          "spe": 8
+        },
+        "gender": "M",
+        "item": "Black Sludge",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Protect",
+          "Rapid Spin",
+          "Scald",
+          "Toxic"
+        ],
+        "nature": "Timid",
+        "species": "Tentacruel"
+      },
+      {
+        "ability": "Volt Absorb",
+        "evs": {
+          "def": 28,
+          "hp": 24,
+          "spa": 192,
+          "spd": 56,
+          "spe": 208
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 30,
+          "def": 30
+        },
+        "moves": [
+          "Focus Blast",
+          "Hidden Power Ice",
+          "Thunder",
+          "U-turn"
+        ],
+        "nature": "Timid",
+        "species": "Thundurus-Therian"
+      }
+    ],
+    "name": "Week 1 U-Turn ThundyT CB Mamo Rain"
+  },
+  {
+    "author": "Finchinator",
+    "data": [
+      {
+        "ability": "Drizzle",
+        "evs": {
+          "def": 112,
+          "hp": 252,
+          "spd": 136,
+          "spe": 8
+        },
+        "gender": "M",
+        "item": "Eject Button",
+        "moves": [
+          "Encore",
+          "Scald",
+          "Thief",
+          "Toxic"
+        ],
+        "nature": "Calm",
+        "species": "Politoed"
+      },
+      {
+        "ability": "Iron Barbs",
+        "evs": {
+          "def": 4,
+          "hp": 252,
+          "spd": 252
+        },
+        "gender": "M",
+        "item": "Chople Berry",
+        "ivs": {
+          "spe": 0
+        },
+        "moves": [
+          "Gyro Ball",
+          "Knock Off",
+          "Power Whip",
+          "Stealth Rock"
+        ],
+        "nature": "Sassy",
+        "species": "Ferrothorn"
+      },
+      {
+        "ability": "Rough Skin",
+        "evs": {
+          "atk": 244,
+          "def": 4,
+          "hp": 8,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "moves": [
+          "Dual Chop",
+          "Earthquake",
+          "Outrage",
+          "Rock Slide"
+        ],
+        "nature": "Jolly",
+        "species": "Garchomp"
+      },
+      {
+        "ability": "Justified",
+        "evs": {
+          "spa": 244,
+          "spd": 12,
+          "spe": 252
+        },
+        "item": "Choice Specs",
+        "ivs": {
+          "atk": 2,
+          "def": 30,
+          "spd": 30
+        },
+        "moves": [
+          "Hidden Power Bug",
+          "Hydro Pump",
+          "Secret Sword",
+          "Surf"
+        ],
+        "nature": "Timid",
+        "species": "Keldeo"
+      },
+      {
+        "ability": "Analytic",
+        "evs": {
+          "def": 8,
+          "hp": 12,
+          "spa": 236,
+          "spe": 252
+        },
+        "item": "Air Balloon",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Hydro Pump",
+          "Ice Beam",
+          "Rapid Spin",
+          "Thunder"
+        ],
+        "nature": "Timid",
+        "species": "Starmie"
+      },
+      {
+        "ability": "Volt Absorb",
+        "evs": {
+          "hp": 88,
+          "spa": 236,
+          "spd": 72,
+          "spe": 112
+        },
+        "item": "Yache Berry",
+        "ivs": {
+          "atk": 2,
+          "def": 30
+        },
+        "moves": [
+          "Agility",
+          "Grass Knot",
+          "Hidden Power Ice",
+          "Thunder"
+        ],
+        "nature": "Modest",
+        "species": "Thundurus-Therian"
+      }
+    ],
+    "name": "WIFI OU - SPL W9 vs ima"
+  },
+  {
+    "author": "Finchinator",
+    "data": [
+      {
+        "ability": "Drizzle",
+        "evs": {
+          "def": 96,
+          "hp": 252,
+          "spd": 160
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Encore",
+          "Protect",
+          "Scald",
+          "Toxic"
+        ],
+        "nature": "Calm",
+        "species": "Politoed"
+      },
+      {
+        "ability": "Iron Barbs",
+        "evs": {
+          "def": 8,
+          "hp": 248,
+          "spd": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "spe": 0
+        },
+        "moves": [
+          "Gyro Ball",
+          "Knock Off",
+          "Power Whip",
+          "Spikes"
+        ],
+        "nature": "Relaxed",
+        "species": "Ferrothorn"
+      },
+      {
+        "ability": "Rough Skin",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Yache Berry",
+        "moves": [
+          "Earthquake",
+          "Outrage",
+          "Stealth Rock",
+          "Swords Dance"
+        ],
+        "nature": "Jolly",
+        "species": "Garchomp"
+      },
+      {
+        "ability": "Teravolt",
+        "evs": {
+          "atk": 252,
+          "def": 52,
+          "hp": 56,
+          "spe": 148
+        },
+        "item": "Power Herb",
+        "moves": [
+          "Freeze Shock",
+          "Fusion Bolt",
+          "Outrage",
+          "Substitute"
+        ],
+        "nature": "Adamant",
+        "species": "Kyurem-Black"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Draco Meteor",
+          "Psyshock",
+          "Surf",
+          "Trick"
+        ],
+        "nature": "Timid",
+        "species": "Latios"
+      },
+      {
+        "ability": "Analytic",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Air Balloon",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Hydro Pump",
+          "Ice Beam",
+          "Rapid Spin",
+          "Thunder"
+        ],
+        "nature": "Timid",
+        "species": "Starmie"
+      }
+    ],
+    "name": "WIFI OU - BWPL W2 vs Rewer"
+  },
+  {
+    "author": "Monai",
+    "data": [
+      {
+        "ability": "Rough Skin",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Focus Sash",
+        "moves": [
+          "Earthquake",
+          "Outrage",
+          "Stealth Rock",
+          "Swords Dance"
+        ],
+        "nature": "Jolly",
+        "species": "Garchomp"
+      },
+      {
+        "ability": "Technician",
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Life Orb",
+        "moves": [
+          "Bullet Seed",
+          "Low Sweep",
+          "Mach Punch",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Breloom"
+      },
+      {
+        "ability": "Multiscale",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Lum Berry",
+        "moves": [
+          "Dragon Dance",
+          "Extreme Speed",
+          "Fire Punch",
+          "Outrage"
+        ],
+        "nature": "Adamant",
+        "species": "Dragonite"
+      },
+      {
+        "ability": "Technician",
+        "evs": {
+          "atk": 252,
+          "hp": 40,
+          "spe": 216
+        },
+        "gender": "M",
+        "item": "Life Orb",
+        "moves": [
+          "Bullet Punch",
+          "Pursuit",
+          "Superpower",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Scizor"
+      },
+      {
+        "ability": "Analytic",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Air Balloon",
+        "moves": [
+          "Hydro Pump",
+          "Ice Beam",
+          "Rapid Spin",
+          "Thunderbolt"
+        ],
+        "nature": "Timid",
+        "species": "Starmie"
+      },
+      {
+        "ability": "Flame Body",
+        "evs": {
+          "hp": 72,
+          "spa": 252,
+          "spe": 184
+        },
+        "gender": "M",
+        "item": "Insect Plate",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Bug Buzz",
+          "Fire Blast",
+          "Psychic",
+          "Quiver Dance"
+        ],
+        "nature": "Timid",
+        "species": "Volcarona"
+      }
+    ],
+    "name": "Gen 5 OU Smurf Double LO Plate Volc"
+  },
+  {
+    "data": [
+      {
+        "ability": "Rough Skin",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Focus Sash",
+        "moves": [
+          "Earthquake",
+          "Fire Fang",
+          "Outrage",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Garchomp"
+      },
+      {
+        "ability": "Technician",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Life Orb",
+        "moves": [
+          "Bullet Seed",
+          "Low Sweep",
+          "Mach Punch",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Breloom"
+      },
+      {
+        "ability": "Multiscale",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Yache Berry",
+        "moves": [
+          "Dragon Dance",
+          "Extreme Speed",
+          "Fire Punch",
+          "Outrage"
+        ],
+        "nature": "Adamant",
+        "species": "Dragonite"
+      },
+      {
+        "ability": "Technician",
+        "evs": {
+          "atk": 252,
+          "hp": 40,
+          "spe": 216
+        },
+        "gender": "M",
+        "item": "Life Orb",
+        "moves": [
+          "Bullet Punch",
+          "Pursuit",
+          "Superpower",
+          "Swords Dance"
+        ],
+        "nature": "Jolly",
+        "species": "Scizor"
+      },
+      {
+        "ability": "Analytic",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Air Balloon",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Hydro Pump",
+          "Ice Beam",
+          "Rapid Spin",
+          "Thunder"
+        ],
+        "nature": "Timid",
+        "species": "Starmie"
+      },
+      {
+        "ability": "Justified",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Focus Sash",
+        "moves": [
+          "Close Combat",
+          "Stealth Rock",
+          "Stone Edge",
+          "Taunt"
+        ],
+        "nature": "Jolly",
+        "species": "Terrakion"
+      }
+    ],
+    "name": "Terrak Chomp HO"
+  }
+]

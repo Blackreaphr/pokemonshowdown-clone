@@ -1,0 +1,871 @@
+[
+  {
+    "author": "Z Strats",
+    "data": [
+      {
+        "ability": "Prankster",
+        "evs": {
+          "def": 192,
+          "hp": 252,
+          "spd": 56,
+          "spe": 8
+        },
+        "gender": "M",
+        "item": "Focus Sash",
+        "ivs": {
+          "atk": 0,
+          "spa": 0
+        },
+        "moves": [
+          "Encore",
+          "Fake Tears",
+          "Protect",
+          "Tailwind"
+        ],
+        "nature": "Timid",
+        "species": "Whimsicott"
+      },
+      {
+        "ability": "Beast Boost",
+        "evs": {
+          "hp": 164,
+          "spa": 252,
+          "spe": 92
+        },
+        "item": "Power Herb",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Air Slash",
+          "Flash Cannon",
+          "Meteor Beam",
+          "Protect"
+        ],
+        "nature": "Modest",
+        "species": "Celesteela"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 60,
+          "hp": 248,
+          "spd": 160,
+          "spe": 40
+        },
+        "gender": "M",
+        "item": "Heavy-Duty Boots",
+        "ivs": {
+          "spa": 0
+        },
+        "moves": [
+          "Fake Out",
+          "Flare Blitz",
+          "Knock Off",
+          "Parting Shot"
+        ],
+        "nature": "Careful",
+        "species": "Incineroar"
+      },
+      {
+        "ability": "Sheer Force",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Earth Power",
+          "Focus Blast",
+          "Protect",
+          "Sludge Bomb"
+        ],
+        "nature": "Timid",
+        "species": "Landorus"
+      },
+      {
+        "ability": "Beast Boost",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Draco Meteor",
+          "Fire Blast",
+          "Protect",
+          "Sludge Bomb"
+        ],
+        "nature": "Modest",
+        "species": "Naganadel"
+      },
+      {
+        "ability": "Misty Surge",
+        "evs": {
+          "hp": 24,
+          "spa": 228,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Choice Specs",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Hydro Pump",
+          "Ice Beam",
+          "Moonblast",
+          "Muddy Water"
+        ],
+        "nature": "Timid",
+        "species": "Tapu Fini"
+      }
+    ],
+    "name": "Whimsicott Offense"
+  },
+  {
+    "author": "DaWoblefet",
+    "data": [
+      {
+        "ability": "Beast Boost",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Life Orb",
+        "moves": [
+          "Close Combat",
+          "Protect",
+          "Triple Axel",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "species": "Pheromosa"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "def": 112,
+          "hp": 216,
+          "spd": 180
+        },
+        "gender": "M",
+        "item": "Sitrus Berry",
+        "ivs": {
+          "atk": 0,
+          "spe": 28
+        },
+        "moves": [
+          "Clear Smog",
+          "Protect",
+          "Rage Powder",
+          "Spore"
+        ],
+        "nature": "Calm",
+        "species": "Amoonguss"
+      },
+      {
+        "ability": "Flash Fire",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Charcoal",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Earth Power",
+          "Eruption",
+          "Flamethrower",
+          "Protect"
+        ],
+        "nature": "Modest",
+        "species": "Heatran"
+      },
+      {
+        "ability": "Beast Boost",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Focus Sash",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Draco Meteor",
+          "Flamethrower",
+          "Sludge Bomb",
+          "Tailwind"
+        ],
+        "nature": "Timid",
+        "species": "Naganadel"
+      },
+      {
+        "ability": "Prism Armor",
+        "evs": {
+          "hp": 152,
+          "spa": 252,
+          "spe": 104
+        },
+        "item": "Power Herb",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Earth Power",
+          "Expanding Force",
+          "Meteor Beam",
+          "Protect"
+        ],
+        "nature": "Modest",
+        "species": "Necrozma"
+      },
+      {
+        "ability": "Psychic Surge",
+        "evs": {
+          "def": 80,
+          "hp": 20,
+          "spa": 252,
+          "spe": 156
+        },
+        "item": "Sitrus Berry",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Moonblast",
+          "Protect",
+          "Psychic",
+          "Taunt"
+        ],
+        "nature": "Timid",
+        "species": "Tapu Lele"
+      }
+    ],
+    "name": "Pheromosa PsySpam"
+  },
+  {
+    "author": "Actuarily",
+    "data": [
+      {
+        "ability": "Swift Swim",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Specs",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Draco Meteor",
+          "Hurricane",
+          "Hydro Pump",
+          "Muddy Water"
+        ],
+        "nature": "Modest",
+        "species": "Kingdra"
+      },
+      {
+        "ability": "Iron Barbs",
+        "evs": {
+          "atk": 252,
+          "hp": 248,
+          "spd": 8
+        },
+        "gender": "M",
+        "item": "Assault Vest",
+        "ivs": {
+          "spe": 0
+        },
+        "moves": [
+          "Gyro Ball",
+          "Knock Off",
+          "Power Whip",
+          "Steel Roller"
+        ],
+        "nature": "Brave",
+        "species": "Ferrothorn"
+      },
+      {
+        "ability": "Drizzle",
+        "evs": {
+          "def": 240,
+          "hp": 248,
+          "spe": 20
+        },
+        "gender": "M",
+        "item": "Eject Button",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Helping Hand",
+          "Protect",
+          "Scald",
+          "Toxic"
+        ],
+        "nature": "Bold",
+        "species": "Politoed"
+      },
+      {
+        "ability": "Queenly Majesty",
+        "evs": {
+          "atk": 36,
+          "def": 16,
+          "hp": 252,
+          "spd": 76,
+          "spe": 128
+        },
+        "item": "Wide Lens",
+        "moves": [
+          "Power Whip",
+          "Taunt",
+          "Triple Axel",
+          "U-turn"
+        ],
+        "nature": "Adamant",
+        "species": "Tsareena"
+      },
+      {
+        "ability": "Unseen Fist",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "moves": [
+          "Aqua Jet",
+          "Close Combat",
+          "Surging Strikes",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "ability": "Static",
+        "evs": {
+          "hp": 56,
+          "spa": 200,
+          "spe": 252
+        },
+        "item": "Safety Goggles",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Hurricane",
+          "Protect",
+          "Tailwind",
+          "Thunder"
+        ],
+        "nature": "Timid",
+        "species": "Zapdos"
+      }
+    ],
+    "name": "Rain"
+  },
+  {
+    "author": "umbry \u273f",
+    "data": [
+      {
+        "ability": "Grassy Surge",
+        "evs": {
+          "atk": 252,
+          "hp": 64,
+          "spe": 192
+        },
+        "gender": "M",
+        "item": "Assault Vest",
+        "moves": [
+          "Fake Out",
+          "Grassy Glide",
+          "High Horsepower",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "species": "Rillaboom"
+      },
+      {
+        "ability": "Download",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Choice Band",
+        "moves": [
+          "Blaze Kick",
+          "Extreme Speed",
+          "Iron Head",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "shiny": true,
+        "species": "Genesect"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "def": 136,
+          "hp": 252,
+          "spd": 72,
+          "spe": 48
+        },
+        "gender": "M",
+        "item": "Heavy-Duty Boots",
+        "moves": [
+          "Fake Out",
+          "Knock Off",
+          "Overheat",
+          "Parting Shot"
+        ],
+        "nature": "Impish",
+        "species": "Incineroar"
+      },
+      {
+        "ability": "Synchronize",
+        "evs": {
+          "hp": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Sitrus Berry",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Snarl",
+          "Spikes",
+          "Tailwind",
+          "Will-O-Wisp"
+        ],
+        "nature": "Timid",
+        "species": "Mew"
+      },
+      {
+        "ability": "Misty Surge",
+        "evs": {
+          "def": 56,
+          "hp": 252,
+          "spa": 136,
+          "spe": 64
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Moonblast",
+          "Muddy Water",
+          "Protect"
+        ],
+        "nature": "Modest",
+        "species": "Tapu Fini"
+      },
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "hp": 248,
+          "spd": 216,
+          "spe": 44
+        },
+        "gender": "M",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Dragon Tail",
+          "High Horsepower",
+          "Ice Punch",
+          "Stealth Rock"
+        ],
+        "nature": "Careful",
+        "species": "Tyranitar"
+      }
+    ],
+    "name": "nails week 1"
+  },
+  {
+    "author": "SMB",
+    "data": [
+      {
+        "ability": "Grim Neigh",
+        "evs": {
+          "hp": 184,
+          "spa": 136,
+          "spe": 188
+        },
+        "item": "Grassy Seed",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Mud Shot",
+          "Nasty Plot",
+          "Protect",
+          "Shadow Ball"
+        ],
+        "nature": "Modest",
+        "species": "Spectrier"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "def": 76,
+          "hp": 252,
+          "spd": 160,
+          "spe": 20
+        },
+        "gender": "M",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Fake Out",
+          "Flare Blitz",
+          "Knock Off",
+          "U-turn"
+        ],
+        "nature": "Careful",
+        "species": "Incineroar"
+      },
+      {
+        "ability": "Teravolt",
+        "evs": {
+          "hp": 248,
+          "spa": 20,
+          "spd": 88,
+          "spe": 152
+        },
+        "item": "Assault Vest",
+        "moves": [
+          "Dragon Tail",
+          "Earth Power",
+          "Freeze-Dry",
+          "Icy Wind"
+        ],
+        "nature": "Timid",
+        "species": "Kyurem-Black"
+      },
+      {
+        "ability": "Clear Body",
+        "evs": {
+          "atk": 52,
+          "def": 16,
+          "hp": 252,
+          "spd": 128,
+          "spe": 60
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Body Press",
+          "Cosmic Power",
+          "Ice Punch",
+          "Protect"
+        ],
+        "nature": "Impish",
+        "species": "Metagross"
+      },
+      {
+        "ability": "Grassy Surge",
+        "evs": {
+          "def": 36,
+          "hp": 248,
+          "spd": 212,
+          "spe": 12
+        },
+        "gender": "M",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Fake Out",
+          "Grassy Glide",
+          "Taunt",
+          "U-turn"
+        ],
+        "nature": "Careful",
+        "species": "Rillaboom"
+      },
+      {
+        "ability": "Misty Surge",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Heal Pulse",
+          "Hydro Pump",
+          "Moonblast",
+          "Trick"
+        ],
+        "nature": "Timid",
+        "species": "Tapu Fini"
+      }
+    ],
+    "name": "vs actuarily blt"
+  },
+  {
+    "author": "MADARAAAA & SMB",
+    "data": [
+      {
+        "ability": "Contrary",
+        "evs": {
+          "atk": 216,
+          "def": 24,
+          "hp": 252,
+          "spd": 16
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "spe": 0
+        },
+        "moves": [
+          "Leaf Blade",
+          "Protect",
+          "Substitute",
+          "Superpower"
+        ],
+        "nature": "Brave",
+        "species": "Lurantis"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 56,
+          "def": 24,
+          "hp": 252,
+          "spd": 176
+        },
+        "gender": "M",
+        "item": "Sitrus Berry",
+        "ivs": {
+          "spe": 30
+        },
+        "moves": [
+          "Fake Out",
+          "Flare Blitz",
+          "Knock Off",
+          "Parting Shot"
+        ],
+        "nature": "Careful",
+        "species": "Incineroar"
+      },
+      {
+        "ability": "Synchronize",
+        "evs": {
+          "def": 72,
+          "hp": 252,
+          "spa": 136,
+          "spd": 48
+        },
+        "item": "Sitrus Berry",
+        "moves": [
+          "Earth Power",
+          "Fake Out",
+          "Pollen Puff",
+          "Trick Room"
+        ],
+        "nature": "Modest",
+        "species": "Mew"
+      },
+      {
+        "ability": "Download",
+        "evs": {
+          "def": 80,
+          "hp": 252,
+          "spa": 136,
+          "spd": 40
+        },
+        "item": "Eviolite",
+        "ivs": {
+          "atk": 0,
+          "spe": 0
+        },
+        "moves": [
+          "Ice Beam",
+          "Recover",
+          "Thunderbolt",
+          "Trick Room"
+        ],
+        "nature": "Quiet",
+        "species": "Porygon2"
+      },
+      {
+        "ability": "Misty Surge",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Hydro Pump",
+          "Ice Beam",
+          "Moonblast",
+          "Trick"
+        ],
+        "nature": "Timid",
+        "species": "Tapu Fini"
+      },
+      {
+        "ability": "Aura Break",
+        "evs": {
+          "atk": 252,
+          "hp": 144,
+          "spe": 112
+        },
+        "item": "Choice Band",
+        "moves": [
+          "Extreme Speed",
+          "Haze",
+          "Superpower",
+          "Thousand Arrows"
+        ],
+        "nature": "Adamant",
+        "species": "Zygarde"
+      }
+    ],
+    "name": "Lurantis Semiroom"
+  },
+  {
+    "author": "Nails \u260e \u260e \u260e",
+    "data": [
+      {
+        "ability": "Synchronize",
+        "evs": {
+          "def": 4,
+          "hp": 252,
+          "spe": 252
+        },
+        "item": "Sitrus Berry",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Snarl",
+          "Spikes",
+          "Tailwind",
+          "Will-O-Wisp"
+        ],
+        "nature": "Timid",
+        "species": "Mew"
+      },
+      {
+        "ability": "Sand Rush",
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        },
+        "item": "Choice Band",
+        "moves": [
+          "Fishious Rend",
+          "Ice Fang",
+          "Sleep Talk",
+          "Stone Edge"
+        ],
+        "nature": "Adamant",
+        "species": "Dracovish"
+      },
+      {
+        "ability": "Clear Body",
+        "evs": {
+          "hp": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Specs",
+        "moves": [
+          "Draco Meteor",
+          "Fire Blast",
+          "Shadow Ball",
+          "U-turn"
+        ],
+        "nature": "Timid",
+        "species": "Dragapult"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "def": 136,
+          "hp": 252,
+          "spd": 72,
+          "spe": 48
+        },
+        "gender": "M",
+        "item": "Heavy-Duty Boots",
+        "moves": [
+          "Fake Out",
+          "Flare Blitz",
+          "Knock Off",
+          "Parting Shot"
+        ],
+        "nature": "Impish",
+        "species": "Incineroar"
+      },
+      {
+        "ability": "Grassy Surge",
+        "evs": {
+          "atk": 252,
+          "hp": 184,
+          "spe": 72
+        },
+        "gender": "M",
+        "item": "Assault Vest",
+        "moves": [
+          "Fake Out",
+          "Grassy Glide",
+          "Knock Off",
+          "U-turn"
+        ],
+        "nature": "Adamant",
+        "species": "Rillaboom"
+      },
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "hp": 248,
+          "spd": 216,
+          "spe": 44
+        },
+        "gender": "M",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Dragon Tail",
+          "Ice Punch",
+          "Stealth Rock",
+          "Stone Edge"
+        ],
+        "nature": "Careful",
+        "species": "Tyranitar"
+      }
+    ],
+    "name": "week 9 vs dnagerbdager"
+  }
+]

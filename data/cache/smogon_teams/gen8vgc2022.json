@@ -1,0 +1,921 @@
+[
+  {
+    "author": "VGCPastes",
+    "data": [
+      {
+        "ability": "Intrepid Sword",
+        "evs": {
+          "atk": 76,
+          "def": 4,
+          "hp": 212,
+          "spd": 44,
+          "spe": 172
+        },
+        "item": "Rusted Sword",
+        "level": 50,
+        "moves": [
+          "Iron Head",
+          "Protect",
+          "Sacred Sword",
+          "Substitute"
+        ],
+        "nature": "Adamant",
+        "species": "Zacian"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 4,
+          "def": 52,
+          "hp": 244,
+          "spd": 76,
+          "spe": 132
+        },
+        "gender": "M",
+        "item": "Safety Goggles",
+        "level": 50,
+        "moves": [
+          "Fake Out",
+          "Flare Blitz",
+          "Parting Shot",
+          "Taunt"
+        ],
+        "nature": "Careful",
+        "species": "Incineroar"
+      },
+      {
+        "ability": "Psychic Surge",
+        "evs": {
+          "def": 252,
+          "hp": 252,
+          "spd": 4
+        },
+        "item": "Psychic Seed",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Expanding Force",
+          "Follow Me",
+          "Helping Hand",
+          "Protect"
+        ],
+        "nature": "Bold",
+        "species": "Indeedee-F"
+      },
+      {
+        "ability": "Drizzle",
+        "evs": {
+          "hp": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Blizzard",
+          "Origin Pulse",
+          "Protect",
+          "Thunder"
+        ],
+        "nature": "Modest",
+        "species": "Kyogre"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 52,
+          "def": 156,
+          "hp": 36,
+          "spd": 12,
+          "spe": 252
+        },
+        "item": "White Herb",
+        "level": 50,
+        "moves": [
+          "Earthquake",
+          "Fly",
+          "Rock Slide",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Landorus-Therian"
+      },
+      {
+        "ability": "Grassy Surge",
+        "evs": {
+          "atk": 116,
+          "def": 60,
+          "hp": 132,
+          "spd": 188,
+          "spe": 12
+        },
+        "gender": "M",
+        "gigantamax": true,
+        "item": "Assault Vest",
+        "level": 50,
+        "moves": [
+          "Fake Out",
+          "Grassy Glide",
+          "High Horsepower",
+          "U-turn"
+        ],
+        "nature": "Adamant",
+        "species": "Rillaboom"
+      }
+    ],
+    "name": "Jomatoes' SLC Team 19th place in Standings (6-2 record)"
+  },
+  {
+    "data": [
+      {
+        "ability": "Intrepid Sword",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Rusted Sword",
+        "level": 50,
+        "moves": [
+          "Iron Head",
+          "Play Rough",
+          "Protect",
+          "Sacred Sword"
+        ],
+        "nature": "Jolly",
+        "species": "Zacian"
+      },
+      {
+        "ability": "Solar Power",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "gigantamax": true,
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Blast Burn",
+          "Heat Wave",
+          "Hurricane",
+          "Protect"
+        ],
+        "nature": "Timid",
+        "species": "Charizard"
+      },
+      {
+        "ability": "Storm Drain",
+        "evs": {
+          "def": 204,
+          "hp": 180,
+          "spd": 124
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Earth Power",
+          "Ice Beam",
+          "Protect",
+          "Yawn"
+        ],
+        "nature": "Bold",
+        "species": "Gastrodon"
+      },
+      {
+        "ability": "Prankster",
+        "evs": {
+          "atk": 4,
+          "def": 116,
+          "hp": 252,
+          "spd": 124,
+          "spe": 12
+        },
+        "item": "Light Clay",
+        "level": 50,
+        "moves": [
+          "Light Screen",
+          "Reflect",
+          "Scary Face",
+          "Spirit Break"
+        ],
+        "nature": "Impish",
+        "species": "Grimmsnarl"
+      },
+      {
+        "ability": "Drought",
+        "evs": {
+          "atk": 228,
+          "def": 4,
+          "hp": 164,
+          "spd": 100,
+          "spe": 12
+        },
+        "item": "Assault Vest",
+        "level": 50,
+        "moves": [
+          "Fire Punch",
+          "Heavy Slam",
+          "Precipice Blades",
+          "Stone Edge"
+        ],
+        "nature": "Adamant",
+        "species": "Groudon"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 4,
+          "def": 84,
+          "hp": 252,
+          "spd": 156,
+          "spe": 12
+        },
+        "gender": "M",
+        "item": "Shuca Berry",
+        "level": 50,
+        "moves": [
+          "Fake Out",
+          "Flare Blitz",
+          "Parting Shot",
+          "Throat Chop"
+        ],
+        "nature": "Careful",
+        "species": "Incineroar"
+      }
+    ],
+    "name": "Rinya Sun Variant"
+  },
+  {
+    "author": "ck49, King of Mars, Miss Salami, Biosci",
+    "data": [
+      {
+        "ability": "Intrepid Sword",
+        "evs": {
+          "atk": 76,
+          "def": 84,
+          "hp": 252,
+          "spd": 84,
+          "spe": 12
+        },
+        "item": "Rusted Sword",
+        "level": 50,
+        "moves": [
+          "Iron Head",
+          "Play Rough",
+          "Protect",
+          "Substitute"
+        ],
+        "nature": "Adamant",
+        "species": "Zacian"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "def": 172,
+          "hp": 236,
+          "spd": 100
+        },
+        "gender": "M",
+        "item": "Focus Sash",
+        "ivs": {
+          "spe": 26
+        },
+        "level": 50,
+        "moves": [
+          "Protect",
+          "Rage Powder",
+          "Seed Bomb",
+          "Spore"
+        ],
+        "nature": "Careful",
+        "species": "Amoonguss"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "def": 100,
+          "hp": 252,
+          "spd": 156
+        },
+        "gender": "M",
+        "item": "Shuca Berry",
+        "level": 50,
+        "moves": [
+          "Darkest Lariat",
+          "Fake Out",
+          "Flare Blitz",
+          "Parting Shot"
+        ],
+        "nature": "Careful",
+        "species": "Incineroar"
+      },
+      {
+        "ability": "Psychic Surge",
+        "evs": {
+          "def": 252,
+          "hp": 252,
+          "spd": 4
+        },
+        "item": "Psychic Seed",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Expanding Force",
+          "Follow Me",
+          "Mystical Fire",
+          "Protect"
+        ],
+        "nature": "Bold",
+        "species": "Indeedee-F"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "def": 52,
+          "hp": 28,
+          "spa": 236,
+          "spd": 4,
+          "spe": 188
+        },
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Blizzard",
+          "Earth Power",
+          "Hydro Pump",
+          "Protect"
+        ],
+        "nature": "Modest",
+        "species": "Palkia"
+      },
+      {
+        "ability": "Analytic",
+        "evs": {
+          "def": 252,
+          "hp": 252,
+          "spd": 4
+        },
+        "item": "Eviolite",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Eerie Impulse",
+          "Foul Play",
+          "Recover",
+          "Trick Room"
+        ],
+        "nature": "Bold",
+        "species": "Porygon2"
+      }
+    ],
+    "name": "T32 SLC Palkia Zacian"
+  },
+  {
+    "author": "zee",
+    "data": [
+      {
+        "ability": "Dark Aura",
+        "evs": {
+          "def": 4,
+          "hp": 60,
+          "spa": 188,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Dark Pulse",
+          "Heat Wave",
+          "Oblivion Wing",
+          "Protect"
+        ],
+        "nature": "Timid",
+        "species": "Yveltal"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "def": 84,
+          "hp": 252,
+          "spd": 172
+        },
+        "gender": "M",
+        "item": "Yache Berry",
+        "ivs": {
+          "spe": 26
+        },
+        "level": 50,
+        "moves": [
+          "Protect",
+          "Rage Powder",
+          "Seed Bomb",
+          "Spore"
+        ],
+        "nature": "Careful",
+        "shiny": true,
+        "species": "Amoonguss"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 4,
+          "def": 68,
+          "hp": 252,
+          "spd": 140,
+          "spe": 44
+        },
+        "gender": "M",
+        "item": "Safety Goggles",
+        "level": 50,
+        "moves": [
+          "Fake Out",
+          "Flare Blitz",
+          "Parting Shot",
+          "Taunt"
+        ],
+        "nature": "Careful",
+        "species": "Incineroar"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 36,
+          "def": 156,
+          "hp": 60,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "White Herb",
+        "level": 50,
+        "moves": [
+          "Earthquake",
+          "Fly",
+          "Rock Slide",
+          "Swords Dance"
+        ],
+        "nature": "Jolly",
+        "species": "Landorus-Therian"
+      },
+      {
+        "ability": "Transistor",
+        "evs": {
+          "hp": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Focus Sash",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Electroweb",
+          "Protect",
+          "Screech",
+          "Thunderbolt"
+        ],
+        "nature": "Timid",
+        "species": "Regieleki"
+      },
+      {
+        "ability": "Intrepid Sword",
+        "evs": {
+          "atk": 108,
+          "def": 4,
+          "hp": 180,
+          "spd": 4,
+          "spe": 212
+        },
+        "item": "Rusted Sword",
+        "level": 50,
+        "moves": [
+          "Iron Head",
+          "Play Rough",
+          "Protect",
+          "Sacred Sword"
+        ],
+        "nature": "Adamant",
+        "species": "Zacian"
+      }
+    ],
+    "name": "BANKAI"
+  },
+  {
+    "author": "VGCPastes",
+    "data": [
+      {
+        "ability": "As One (Spectrier)",
+        "evs": {
+          "def": 4,
+          "hp": 4,
+          "spa": 244,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Astral Barrage",
+          "Expanding Force",
+          "Mud Shot",
+          "Protect"
+        ],
+        "nature": "Timid",
+        "species": "Calyrex-Shadow"
+      },
+      {
+        "ability": "Psychic Surge",
+        "evs": {
+          "def": 244,
+          "hp": 252,
+          "spa": 4,
+          "spd": 4,
+          "spe": 4
+        },
+        "item": "Psychic Seed",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Expanding Force",
+          "Follow Me",
+          "Helping Hand",
+          "Protect"
+        ],
+        "nature": "Bold",
+        "species": "Indeedee-F"
+      },
+      {
+        "ability": "Drizzle",
+        "evs": {
+          "def": 4,
+          "hp": 44,
+          "spa": 252,
+          "spd": 4,
+          "spe": 204
+        },
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Ice Beam",
+          "Origin Pulse",
+          "Thunder",
+          "Water Spout"
+        ],
+        "nature": "Timid",
+        "species": "Kyogre"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 244,
+          "def": 4,
+          "hp": 4,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "White Herb",
+        "level": 50,
+        "moves": [
+          "Earthquake",
+          "Fly",
+          "Protect",
+          "Rock Slide"
+        ],
+        "nature": "Jolly",
+        "species": "Landorus-Therian"
+      },
+      {
+        "ability": "Transistor",
+        "evs": {
+          "hp": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Focus Sash",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Electroweb",
+          "Hyper Beam",
+          "Protect",
+          "Thunderbolt"
+        ],
+        "nature": "Timid",
+        "species": "Regieleki"
+      },
+      {
+        "ability": "Prankster",
+        "evs": {
+          "def": 20,
+          "hp": 228,
+          "spa": 4,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Coba Berry",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Fake Tears",
+          "Moonblast",
+          "Protect",
+          "Tailwind"
+        ],
+        "nature": "Timid",
+        "species": "Whimsicott"
+      }
+    ],
+    "name": "Alberto's SLC Team 11th place in Standings (6-2 swiss record)"
+  },
+  {
+    "author": "Jeremy Boyd",
+    "data": [
+      {
+        "ability": "Prism Armor",
+        "evs": {
+          "atk": 196,
+          "def": 4,
+          "hp": 220,
+          "spd": 84,
+          "spe": 4
+        },
+        "item": "Weakness Policy",
+        "level": 50,
+        "moves": [
+          "Earthquake",
+          "Sunsteel Strike",
+          "Swords Dance",
+          "Trick Room"
+        ],
+        "nature": "Brave",
+        "species": "Necrozma-Dusk-Mane"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "def": 220,
+          "hp": 244,
+          "spd": 44
+        },
+        "gender": "M",
+        "item": "Focus Sash",
+        "ivs": {
+          "atk": 0,
+          "spe": 0
+        },
+        "level": 50,
+        "moves": [
+          "Pollen Puff",
+          "Protect",
+          "Rage Powder",
+          "Spore"
+        ],
+        "nature": "Sassy",
+        "species": "Amoonguss"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 84,
+          "def": 172,
+          "hp": 252
+        },
+        "gender": "M",
+        "item": "Assault Vest",
+        "level": 50,
+        "moves": [
+          "Fake Out",
+          "Flare Blitz",
+          "Snarl",
+          "U-turn"
+        ],
+        "nature": "Adamant",
+        "species": "Incineroar"
+      },
+      {
+        "ability": "Drizzle",
+        "evs": {
+          "def": 52,
+          "hp": 204,
+          "spa": 252
+        },
+        "item": "Life Orb",
+        "ivs": {
+          "spe": 29
+        },
+        "level": 50,
+        "moves": [
+          "Ice Beam",
+          "Origin Pulse",
+          "Protect",
+          "Thunder"
+        ],
+        "nature": "Quiet",
+        "species": "Kyogre"
+      },
+      {
+        "ability": "Disguise",
+        "evs": {
+          "def": 140,
+          "hp": 252,
+          "spd": 116
+        },
+        "gender": "F",
+        "item": "Light Clay",
+        "ivs": {
+          "spe": 0
+        },
+        "level": 50,
+        "moves": [
+          "Light Screen",
+          "Shadow Sneak",
+          "Taunt",
+          "Trick Room"
+        ],
+        "nature": "Sassy",
+        "species": "Mimikyu"
+      },
+      {
+        "ability": "Transistor",
+        "evs": {
+          "atk": 252,
+          "spa": 4,
+          "spe": 252
+        },
+        "item": "Choice Band",
+        "level": 50,
+        "moves": [
+          "Explosion",
+          "Extreme Speed",
+          "Volt Switch",
+          "Wild Charge"
+        ],
+        "nature": "Naughty",
+        "species": "Regieleki"
+      }
+    ],
+    "name": "Top 8 SLC Regionals Dusk Mane Team"
+  },
+  {
+    "author": "CybertronVGC",
+    "data": [
+      {
+        "ability": "Full Metal Body",
+        "evs": {
+          "atk": 236,
+          "hp": 20,
+          "spe": 252
+        },
+        "item": "Weakness Policy",
+        "level": 50,
+        "moves": [
+          "Earthquake",
+          "Protect",
+          "Sunsteel Strike",
+          "Wild Charge"
+        ],
+        "nature": "Jolly",
+        "species": "Solgaleo"
+      },
+      {
+        "ability": "Solar Power",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "gigantamax": true,
+        "item": "Life Orb",
+        "level": 50,
+        "moves": [
+          "Air Slash",
+          "Ancient Power",
+          "Heat Wave",
+          "Protect"
+        ],
+        "nature": "Timid",
+        "species": "Charizard"
+      },
+      {
+        "ability": "Drought",
+        "evs": {
+          "atk": 252,
+          "hp": 52,
+          "spe": 204
+        },
+        "item": "Choice Scarf",
+        "level": 50,
+        "moves": [
+          "Bulldoze",
+          "Fire Punch",
+          "Precipice Blades",
+          "Stone Edge"
+        ],
+        "nature": "Jolly",
+        "species": "Groudon"
+      },
+      {
+        "ability": "Psychic Surge",
+        "evs": {
+          "def": 252,
+          "hp": 252,
+          "spd": 4
+        },
+        "item": "Psychic Seed",
+        "ivs": {
+          "spe": 0
+        },
+        "level": 50,
+        "moves": [
+          "Expanding Force",
+          "Follow Me",
+          "Helping Hand",
+          "Protect"
+        ],
+        "nature": "Relaxed",
+        "species": "Indeedee-F"
+      },
+      {
+        "ability": "Disguise",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "hp": 252
+        },
+        "gender": "M",
+        "item": "Safety Goggles",
+        "ivs": {
+          "spe": 0
+        },
+        "level": 50,
+        "moves": [
+          "Play Rough",
+          "Shadow Sneak",
+          "Taunt",
+          "Trick Room"
+        ],
+        "nature": "Brave",
+        "species": "Mimikyu"
+      },
+      {
+        "ability": "Prankster",
+        "evs": {
+          "hp": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Focus Sash",
+        "level": 50,
+        "moves": [
+          "Moonblast",
+          "Protect",
+          "Sunny Day",
+          "Tailwind"
+        ],
+        "nature": "Timid",
+        "species": "Whimsicott"
+      }
+    ],
+    "name": "Cybertron's Groudon/Solgaleo Team"
+  }
+]

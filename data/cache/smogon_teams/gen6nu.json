@@ -1,0 +1,710 @@
+[
+  {
+    "author": "Shaneghoul",
+    "data": [
+      {
+        "ability": "Defeatist",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Focus Sash",
+        "moves": [
+          "Endeavor",
+          "Head Smash",
+          "Stealth Rock",
+          "Taunt"
+        ],
+        "nature": "Jolly",
+        "species": "Archeops"
+      },
+      {
+        "ability": "Weak Armor",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Normal Gem",
+        "moves": [
+          "Explosion",
+          "Gunk Shot",
+          "Spikes",
+          "Toxic Spikes"
+        ],
+        "nature": "Jolly",
+        "species": "Garbodor"
+      },
+      {
+        "ability": "Scrappy",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "item": "Silk Scarf",
+        "moves": [
+          "Double-Edge",
+          "Earthquake",
+          "Fake Out",
+          "Sucker Punch"
+        ],
+        "nature": "Adamant",
+        "species": "Kangaskhan"
+      },
+      {
+        "ability": "Chlorophyll",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Miracle Seed",
+        "ivs": {
+          "atk": 0,
+          "spa": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Giga Drain",
+          "Hidden Power Fire",
+          "Quiver Dance",
+          "Sleep Powder"
+        ],
+        "nature": "Timid",
+        "species": "Lilligant"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Shadow Ball",
+          "Thunderbolt",
+          "Trick",
+          "Volt Switch"
+        ],
+        "nature": "Timid",
+        "species": "Rotom"
+      },
+      {
+        "ability": "Torrent",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Lum Berry",
+        "moves": [
+          "Aqua Jet",
+          "Megahorn",
+          "Swords Dance",
+          "Waterfall"
+        ],
+        "nature": "Adamant",
+        "species": "Samurott"
+      }
+    ],
+    "name": "Sash Archeops Hyper Offense"
+  },
+  {
+    "author": "Rapture",
+    "data": [
+      {
+        "ability": "Shell Armor",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Shuca Berry",
+        "moves": [
+          "Earth Power",
+          "Hydro Pump",
+          "Ice Beam",
+          "Shell Smash"
+        ],
+        "nature": "Modest",
+        "species": "Omastar"
+      },
+      {
+        "ability": "Vital Spirit",
+        "evs": {
+          "hp": 64,
+          "spa": 252,
+          "spe": 192
+        },
+        "gender": "M",
+        "item": "Assault Vest",
+        "ivs": {
+          "atk": 30,
+          "spa": 30
+        },
+        "moves": [
+          "Earthquake",
+          "Fire Blast",
+          "Hidden Power Grass",
+          "Thunderbolt"
+        ],
+        "nature": "Mild",
+        "species": "Magmortar"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Colbur Berry",
+        "moves": [
+          "Ice Beam",
+          "Psychic",
+          "Signal Beam",
+          "Stealth Rock"
+        ],
+        "nature": "Timid",
+        "species": "Mesprit"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 4,
+          "hp": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Colbur Berry",
+        "moves": [
+          "Hex",
+          "Memento",
+          "Taunt",
+          "Will-O-Wisp"
+        ],
+        "nature": "Timid",
+        "species": "Mismagius"
+      },
+      {
+        "ability": "Chlorophyll",
+        "evs": {
+          "atk": 252,
+          "spa": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Life Orb",
+        "moves": [
+          "Defog",
+          "Knock Off",
+          "Leaf Storm",
+          "Sucker Punch"
+        ],
+        "nature": "Lonely",
+        "species": "Shiftry"
+      },
+      {
+        "ability": "Sheer Force",
+        "evs": {
+          "atk": 252,
+          "spa": 4,
+          "spe": 252
+        },
+        "item": "Life Orb",
+        "moves": [
+          "Earthquake",
+          "Fire Blast",
+          "Iron Tail",
+          "Rock Climb"
+        ],
+        "nature": "Naive",
+        "species": "Tauros"
+      }
+    ],
+    "name": "Shell Smash Omastar Offense"
+  },
+  {
+    "author": "Eternally",
+    "data": [
+      {
+        "ability": "Sheer Force",
+        "evs": {
+          "atk": 252,
+          "spa": 4,
+          "spe": 252
+        },
+        "item": "Life Orb",
+        "moves": [
+          "Earthquake",
+          "Fire Blast",
+          "Rock Climb",
+          "Work Up"
+        ],
+        "nature": "Naive",
+        "species": "Tauros"
+      },
+      {
+        "ability": "Guts",
+        "evs": {
+          "atk": 252,
+          "spd": 204,
+          "spe": 52
+        },
+        "gender": "M",
+        "item": "Assault Vest",
+        "moves": [
+          "Bullet Punch",
+          "Close Combat",
+          "Knock Off",
+          "Stone Edge"
+        ],
+        "nature": "Adamant",
+        "species": "Hariyama"
+      },
+      {
+        "ability": "Vital Spirit",
+        "evs": {
+          "hp": 96,
+          "spa": 252,
+          "spe": 160
+        },
+        "gender": "M",
+        "item": "Assault Vest",
+        "ivs": {
+          "atk": 30,
+          "spa": 30
+        },
+        "moves": [
+          "Earthquake",
+          "Fire Blast",
+          "Hidden Power Grass",
+          "Thunderbolt"
+        ],
+        "nature": "Modest",
+        "species": "Magmortar"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Choice Specs",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Healing Wish",
+          "Ice Beam",
+          "Psychic",
+          "Signal Beam"
+        ],
+        "nature": "Modest",
+        "species": "Mesprit"
+      },
+      {
+        "ability": "Keen Eye",
+        "evs": {
+          "def": 156,
+          "hp": 248,
+          "spd": 104
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Defog",
+          "Hurricane",
+          "Roost",
+          "Scald"
+        ],
+        "nature": "Bold",
+        "species": "Pelipper"
+      },
+      {
+        "ability": "Sturdy",
+        "evs": {
+          "atk": 96,
+          "hp": 244,
+          "spd": 164
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Heavy Slam",
+          "Stealth Rock",
+          "Toxic"
+        ],
+        "nature": "Adamant",
+        "species": "Steelix"
+      }
+    ],
+    "name": "Work Up Tauros"
+  },
+  {
+    "author": "Abejas",
+    "data": [
+      {
+        "ability": "Contrary",
+        "evs": {
+          "hp": 252,
+          "spd": 240,
+          "spe": 16
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Knock Off",
+          "Rest",
+          "Sleep Talk",
+          "Superpower"
+        ],
+        "nature": "Careful",
+        "species": "Malamar"
+      },
+      {
+        "ability": "Defeatist",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "moves": [
+          "Acrobatics",
+          "Earthquake",
+          "Roost",
+          "Stone Edge"
+        ],
+        "nature": "Jolly",
+        "species": "Archeops"
+      },
+      {
+        "ability": "Aftermath",
+        "evs": {
+          "def": 200,
+          "hp": 252,
+          "spe": 56
+        },
+        "gender": "M",
+        "item": "Rocky Helmet",
+        "moves": [
+          "Gunk Shot",
+          "Seed Bomb",
+          "Spikes",
+          "Toxic Spikes"
+        ],
+        "nature": "Impish",
+        "species": "Garbodor"
+      },
+      {
+        "ability": "Thick Fat",
+        "evs": {
+          "atk": 216,
+          "spd": 220,
+          "spe": 72
+        },
+        "gender": "M",
+        "item": "Assault Vest",
+        "moves": [
+          "Bullet Punch",
+          "Close Combat",
+          "Fake Out",
+          "Knock Off"
+        ],
+        "nature": "Adamant",
+        "species": "Hariyama"
+      },
+      {
+        "ability": "Keen Eye",
+        "evs": {
+          "def": 252,
+          "hp": 252,
+          "spa": 4
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Defog",
+          "Hurricane",
+          "Roost",
+          "Scald"
+        ],
+        "nature": "Bold",
+        "species": "Pelipper"
+      },
+      {
+        "ability": "Sturdy",
+        "evs": {
+          "atk": 56,
+          "hp": 248,
+          "spd": 204
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Heavy Slam",
+          "Stealth Rock",
+          "Toxic"
+        ],
+        "nature": "Adamant",
+        "species": "Steelix"
+      }
+    ],
+    "name": "Malamar Bulky Offense"
+  },
+  {
+    "author": "Teddeh",
+    "data": [
+      {
+        "ability": "Magic Guard",
+        "evs": {
+          "def": 8,
+          "hp": 248,
+          "spd": 252
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Knock Off",
+          "Seismic Toss",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "nature": "Careful",
+        "species": "Clefairy"
+      },
+      {
+        "ability": "Thick Fat",
+        "evs": {
+          "atk": 216,
+          "spd": 220,
+          "spe": 72
+        },
+        "gender": "M",
+        "item": "Assault Vest",
+        "moves": [
+          "Bullet Punch",
+          "Close Combat",
+          "Fake Out",
+          "Knock Off"
+        ],
+        "nature": "Adamant",
+        "species": "Hariyama"
+      },
+      {
+        "ability": "Limber",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "moves": [
+          "Knock Off",
+          "Pursuit",
+          "Seed Bomb",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "species": "Liepard"
+      },
+      {
+        "ability": "Sturdy",
+        "evs": {
+          "atk": 56,
+          "hp": 248,
+          "spd": 204
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Heavy Slam",
+          "Stealth Rock",
+          "Toxic"
+        ],
+        "nature": "Adamant",
+        "species": "Steelix"
+      },
+      {
+        "ability": "Effect Spore",
+        "evs": {
+          "def": 216,
+          "hp": 248,
+          "spe": 44
+        },
+        "gender": "M",
+        "item": "Black Sludge",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Giga Drain",
+          "Moonlight",
+          "Sludge Bomb",
+          "Worry Seed"
+        ],
+        "nature": "Bold",
+        "species": "Vileplume"
+      },
+      {
+        "ability": "Magic Bounce",
+        "evs": {
+          "def": 204,
+          "hp": 248,
+          "spe": 56
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Heat Wave",
+          "Psyshock",
+          "Roost"
+        ],
+        "nature": "Bold",
+        "species": "Xatu"
+      }
+    ],
+    "name": "Standard ORAS NU"
+  },
+  {
+    "author": "Abejas",
+    "data": [
+      {
+        "ability": "Prankster",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Black Glasses",
+        "moves": [
+          "Copycat",
+          "Dark Pulse",
+          "Encore",
+          "Nasty Plot"
+        ],
+        "nature": "Timid",
+        "species": "Liepard"
+      },
+      {
+        "ability": "Aftermath",
+        "evs": {
+          "atk": 252,
+          "hp": 52,
+          "spe": 204
+        },
+        "gender": "M",
+        "item": "Rocky Helmet",
+        "moves": [
+          "Drain Punch",
+          "Gunk Shot",
+          "Seed Bomb",
+          "Spikes"
+        ],
+        "nature": "Jolly",
+        "species": "Garbodor"
+      },
+      {
+        "ability": "Thick Fat",
+        "evs": {
+          "atk": 216,
+          "spd": 220,
+          "spe": 72
+        },
+        "gender": "M",
+        "item": "Assault Vest",
+        "moves": [
+          "Bullet Punch",
+          "Close Combat",
+          "Knock Off",
+          "Thunder Punch"
+        ],
+        "nature": "Adamant",
+        "species": "Hariyama"
+      },
+      {
+        "ability": "Scrappy",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Silk Scarf",
+        "moves": [
+          "Double-Edge",
+          "Earthquake",
+          "Fake Out",
+          "Sucker Punch"
+        ],
+        "nature": "Adamant",
+        "species": "Kangaskhan"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Shadow Ball",
+          "Thunderbolt",
+          "Trick",
+          "Volt Switch"
+        ],
+        "nature": "Timid",
+        "species": "Rotom"
+      },
+      {
+        "ability": "Sturdy",
+        "evs": {
+          "atk": 56,
+          "hp": 248,
+          "spd": 204
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Heavy Slam",
+          "Stealth Rock",
+          "Toxic"
+        ],
+        "nature": "Adamant",
+        "species": "Steelix"
+      }
+    ],
+    "name": "Copycat + Nasty Plot Liepard"
+  }
+]

@@ -1,0 +1,842 @@
+[
+  {
+    "data": [
+      {
+        "ability": "Triage",
+        "evs": {
+          "hp": 232,
+          "spa": 252,
+          "spe": 24
+        },
+        "gender": "M",
+        "hpType": "Fire",
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Draining Kiss",
+          "Giga Drain",
+          "Hidden Power Fire"
+        ],
+        "nature": "Modest",
+        "species": "Comfey"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Firium Z",
+        "moves": [
+          "Earthquake",
+          "Flare Blitz",
+          "Knock Off",
+          "Swords Dance"
+        ],
+        "nature": "Jolly",
+        "species": "Incineroar"
+      },
+      {
+        "ability": "Defiant",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "moves": [
+          "Close Combat",
+          "Gunk Shot",
+          "Knock Off",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "species": "Passimian"
+      },
+      {
+        "ability": "Overgrow",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "hpType": "Ice",
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Focus Blast",
+          "Giga Drain",
+          "Hidden Power Ice",
+          "Leaf Storm"
+        ],
+        "nature": "Timid",
+        "species": "Sceptile"
+      },
+      {
+        "ability": "Sturdy",
+        "evs": {
+          "atk": 76,
+          "hp": 252,
+          "spd": 180
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Curse",
+          "Earthquake",
+          "Heavy Slam",
+          "Stealth Rock"
+        ],
+        "nature": "Careful",
+        "species": "Steelix"
+      },
+      {
+        "ability": "Magic Bounce",
+        "evs": {
+          "def": 196,
+          "hp": 252,
+          "spe": 60
+        },
+        "gender": "M",
+        "item": "Rocky Helmet",
+        "moves": [
+          "Night Shade",
+          "Roost",
+          "Toxic",
+          "U-turn"
+        ],
+        "nature": "Bold",
+        "species": "Xatu"
+      }
+    ],
+    "name": "Calm Mind Comfey + Life Orb Sceptile"
+  },
+  {
+    "data": [
+      {
+        "ability": "Defiant",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Flyinium Z",
+        "moves": [
+          "Brave Bird",
+          "Bulk Up",
+          "Roost",
+          "Superpower"
+        ],
+        "nature": "Jolly",
+        "species": "Braviary"
+      },
+      {
+        "ability": "Triage",
+        "evs": {
+          "hp": 224,
+          "spa": 252,
+          "spe": 32
+        },
+        "gender": "M",
+        "hpType": "Fire",
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Draining Kiss",
+          "Giga Drain",
+          "Hidden Power Fire"
+        ],
+        "nature": "Modest",
+        "species": "Comfey"
+      },
+      {
+        "ability": "Steelworker",
+        "evs": {
+          "atk": 248,
+          "hp": 40,
+          "spe": 220
+        },
+        "item": "Colbur Berry",
+        "moves": [
+          "Knock Off",
+          "Power Whip",
+          "Rapid Spin",
+          "Synthesis"
+        ],
+        "nature": "Adamant",
+        "species": "Dhelmise"
+      },
+      {
+        "ability": "Lightning Rod",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Earthquake",
+          "Stealth Rock",
+          "Stone Edge",
+          "Swords Dance"
+        ],
+        "nature": "Jolly",
+        "species": "Rhydon"
+      },
+      {
+        "ability": "Lightning Rod",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "moves": [
+          "Iron Head",
+          "Nuzzle",
+          "U-turn",
+          "Zing Zap"
+        ],
+        "nature": "Jolly",
+        "species": "Togedemaru"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 220,
+          "hp": 248,
+          "spd": 20,
+          "spe": 20
+        },
+        "gender": "M",
+        "item": "Rocky Helmet",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Clear Smog",
+          "Pain Split",
+          "Sludge Bomb",
+          "Will-O-Wisp"
+        ],
+        "nature": "Bold",
+        "species": "Weezing"
+      }
+    ],
+    "name": "Flyinium Z Braviary + Calm Mind Comfey"
+  },
+  {
+    "data": [
+      {
+        "ability": "Sturdy",
+        "evs": {
+          "atk": 100,
+          "hp": 248,
+          "spd": 160
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Curse",
+          "Earthquake",
+          "Heavy Slam",
+          "Stealth Rock"
+        ],
+        "nature": "Impish",
+        "species": "Steelix"
+      },
+      {
+        "ability": "Unnerve",
+        "evs": {
+          "atk": 244,
+          "def": 80,
+          "spe": 184
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "moves": [
+          "Earthquake",
+          "Pursuit",
+          "Roost",
+          "Stone Edge"
+        ],
+        "nature": "Jolly",
+        "species": "Aerodactyl"
+      },
+      {
+        "ability": "Steelworker",
+        "evs": {
+          "atk": 252,
+          "hp": 40,
+          "spe": 216
+        },
+        "item": "Colbur Berry",
+        "moves": [
+          "Heavy Slam",
+          "Power Whip",
+          "Rapid Spin",
+          "Synthesis"
+        ],
+        "nature": "Adamant",
+        "species": "Dhelmise"
+      },
+      {
+        "ability": "Justified",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "item": "Psychium Z",
+        "moves": [
+          "Close Combat",
+          "Knock Off",
+          "Swords Dance",
+          "Zen Headbutt"
+        ],
+        "nature": "Jolly",
+        "species": "Gallade"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Figy Berry",
+        "moves": [
+          "Earthquake",
+          "Flare Blitz",
+          "Knock Off",
+          "Swords Dance"
+        ],
+        "nature": "Jolly",
+        "species": "Incineroar"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "def": 40,
+          "hp": 248,
+          "spa": 176,
+          "spe": 44
+        },
+        "gender": "M",
+        "item": "Assault Vest",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Fire Blast",
+          "Future Sight",
+          "Grass Knot",
+          "Scald"
+        ],
+        "nature": "Modest",
+        "species": "Slowking"
+      }
+    ],
+    "name": "Psychium Z Gallade"
+  },
+  {
+    "data": [
+      {
+        "ability": "Water Absorb",
+        "evs": {
+          "def": 112,
+          "hp": 252,
+          "spe": 144
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Earth Power",
+          "Refresh",
+          "Scald",
+          "Stealth Rock"
+        ],
+        "nature": "Timid",
+        "species": "Seismitoad"
+      },
+      {
+        "ability": "Triage",
+        "evs": {
+          "hp": 144,
+          "spa": 252,
+          "spe": 112
+        },
+        "gender": "M",
+        "hpType": "Ground",
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Draining Kiss",
+          "Giga Drain",
+          "Hidden Power Ground"
+        ],
+        "nature": "Modest",
+        "species": "Comfey"
+      },
+      {
+        "ability": "Steelworker",
+        "evs": {
+          "atk": 252,
+          "hp": 52,
+          "spe": 204
+        },
+        "item": "Steelium Z",
+        "moves": [
+          "Anchor Shot",
+          "Power Whip",
+          "Rapid Spin",
+          "Synthesis"
+        ],
+        "nature": "Adamant",
+        "species": "Dhelmise"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "def": 100,
+          "hp": 244,
+          "spd": 164
+        },
+        "gender": "M",
+        "item": "Figy Berry",
+        "moves": [
+          "Flare Blitz",
+          "Knock Off",
+          "Toxic",
+          "U-turn"
+        ],
+        "nature": "Impish",
+        "species": "Incineroar"
+      },
+      {
+        "ability": "Tinted Lens",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Specs",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Air Slash",
+          "Energy Ball",
+          "Heat Wave",
+          "Psyshock"
+        ],
+        "nature": "Timid",
+        "species": "Sigilyph"
+      },
+      {
+        "ability": "Lightning Rod",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "moves": [
+          "Iron Head",
+          "Nuzzle",
+          "U-turn",
+          "Zing Zap"
+        ],
+        "nature": "Jolly",
+        "species": "Togedemaru"
+      }
+    ],
+    "name": "Choice Specs Sigilyph + Calm Mind Comfey"
+  },
+  {
+    "data": [
+      {
+        "ability": "Water Absorb",
+        "evs": {
+          "def": 252,
+          "hp": 252,
+          "spd": 4
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Protect",
+          "Scald",
+          "Toxic",
+          "Wish"
+        ],
+        "nature": "Bold",
+        "species": "Vaporeon"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Incinium Z",
+        "moves": [
+          "Darkest Lariat",
+          "Earthquake",
+          "Flare Blitz",
+          "Swords Dance"
+        ],
+        "nature": "Jolly",
+        "species": "Incineroar"
+      },
+      {
+        "ability": "Lightning Rod",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Earthquake",
+          "Rock Blast",
+          "Stealth Rock",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Rhydon"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Shadow Ball",
+          "Thunderbolt",
+          "Trick",
+          "Volt Switch"
+        ],
+        "nature": "Timid",
+        "species": "Rotom"
+      },
+      {
+        "ability": "RKS System",
+        "evs": {
+          "hp": 252,
+          "spd": 196,
+          "spe": 60
+        },
+        "item": "Steel Memory",
+        "moves": [
+          "Defog",
+          "Flamethrower",
+          "Toxic",
+          "U-turn"
+        ],
+        "nature": "Calm",
+        "species": "Silvally-Steel"
+      },
+      {
+        "ability": "Infiltrator",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Specs",
+        "moves": [
+          "Energy Ball",
+          "Moonblast",
+          "Psychic",
+          "U-turn"
+        ],
+        "nature": "Timid",
+        "species": "Whimsicott"
+      }
+    ],
+    "name": "VapoVally Balance"
+  },
+  {
+    "data": [
+      {
+        "ability": "Blaze",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Psychium Z",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Dazzling Gleam",
+          "Flamethrower",
+          "Future Sight",
+          "Protect"
+        ],
+        "nature": "Timid",
+        "species": "Delphox"
+      },
+      {
+        "ability": "Mega Launcher",
+        "evs": {
+          "hp": 92,
+          "spa": 252,
+          "spd": 20,
+          "spe": 144
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Dark Pulse",
+          "Substitute",
+          "Toxic",
+          "Water Pulse"
+        ],
+        "nature": "Modest",
+        "species": "Clawitzer"
+      },
+      {
+        "ability": "Beast Boost",
+        "evs": {
+          "def": 64,
+          "spa": 252,
+          "spe": 192
+        },
+        "item": "Choice Specs",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Dark Pulse",
+          "Draco Meteor",
+          "Fire Blast",
+          "Sludge Bomb"
+        ],
+        "nature": "Modest",
+        "species": "Guzzlord"
+      },
+      {
+        "ability": "Defiant",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "moves": [
+          "Close Combat",
+          "Earthquake",
+          "Knock Off",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "species": "Passimian"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "hp": 248,
+          "spa": 8,
+          "spe": 252
+        },
+        "item": "Colbur Berry",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Defog",
+          "Hex",
+          "Volt Switch",
+          "Will-O-Wisp"
+        ],
+        "nature": "Timid",
+        "species": "Rotom"
+      },
+      {
+        "ability": "Sturdy",
+        "evs": {
+          "atk": 108,
+          "hp": 252,
+          "spd": 148
+        },
+        "gender": "M",
+        "item": "Figy Berry",
+        "ivs": {
+          "spe": 0
+        },
+        "moves": [
+          "Curse",
+          "Earthquake",
+          "Gyro Ball",
+          "Stealth Rock"
+        ],
+        "nature": "Brave",
+        "species": "Steelix"
+      }
+    ],
+    "name": "Z-Future Sight Delphox"
+  },
+  {
+    "data": [
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 152,
+          "hp": 252,
+          "spd": 88,
+          "spe": 16
+        },
+        "gender": "M",
+        "item": "Rocky Helmet",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Flamethrower",
+          "Pain Split",
+          "Sludge Bomb",
+          "Toxic Spikes"
+        ],
+        "nature": "Bold",
+        "species": "Weezing"
+      },
+      {
+        "ability": "Unnerve",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "moves": [
+          "Aerial Ace",
+          "Earthquake",
+          "Pursuit",
+          "Stone Edge"
+        ],
+        "nature": "Jolly",
+        "species": "Aerodactyl"
+      },
+      {
+        "ability": "Steelworker",
+        "evs": {
+          "atk": 252,
+          "hp": 40,
+          "spe": 216
+        },
+        "item": "Steelium Z",
+        "moves": [
+          "Anchor Shot",
+          "Power Whip",
+          "Rapid Spin",
+          "Synthesis"
+        ],
+        "nature": "Adamant",
+        "species": "Dhelmise"
+      },
+      {
+        "ability": "Shed Skin",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Chople Berry",
+        "moves": [
+          "Dragon Dance",
+          "Drain Punch",
+          "High Jump Kick",
+          "Knock Off"
+        ],
+        "nature": "Jolly",
+        "species": "Scrafty"
+      },
+      {
+        "ability": "Water Absorb",
+        "evs": {
+          "def": 112,
+          "hp": 252,
+          "spe": 144
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Earth Power",
+          "Refresh",
+          "Scald",
+          "Stealth Rock"
+        ],
+        "nature": "Timid",
+        "species": "Seismitoad"
+      },
+      {
+        "ability": "Lightning Rod",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "moves": [
+          "Iron Head",
+          "Nuzzle",
+          "U-turn",
+          "Zing Zap"
+        ],
+        "nature": "Jolly",
+        "species": "Togedemaru"
+      }
+    ],
+    "name": "Dragon Dance Scrafty"
+  }
+]

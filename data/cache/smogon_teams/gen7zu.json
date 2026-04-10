@@ -1,0 +1,238 @@
+[
+  {
+    "data": [
+      {
+        "ability": "Sturdy",
+        "evs": {
+          "def": 252,
+          "hp": 252,
+          "spd": 4
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Avalanche",
+          "Rapid Spin",
+          "Recover",
+          "Toxic"
+        ],
+        "nature": "Impish",
+        "species": "Avalugg"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "def": 160,
+          "hp": 252,
+          "spe": 96
+        },
+        "gender": "M",
+        "item": "Firium Z",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Defog",
+          "Flamethrower",
+          "Roost",
+          "Toxic"
+        ],
+        "nature": "Bold",
+        "species": "Altaria"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "def": 164,
+          "hp": 252,
+          "spd": 92
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Rest",
+          "Seismic Toss",
+          "Sleep Talk",
+          "Toxic"
+        ],
+        "nature": "Bold",
+        "species": "Dusclops"
+      },
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "def": 252,
+          "hp": 252,
+          "spd": 4
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Earthquake",
+          "Slack Off",
+          "Stealth Rock",
+          "Toxic"
+        ],
+        "nature": "Impish",
+        "species": "Hippopotas"
+      },
+      {
+        "ability": "Oblivious",
+        "evs": {
+          "def": 8,
+          "hp": 248,
+          "spd": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Heal Bell",
+          "Protect",
+          "Toxic",
+          "Wish"
+        ],
+        "nature": "Calm",
+        "species": "Lickilicky"
+      },
+      {
+        "ability": "Unaware",
+        "evs": {
+          "def": 252,
+          "hp": 248,
+          "spd": 8
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Block",
+          "Recover",
+          "Rest",
+          "Toxic"
+        ],
+        "nature": "Bold",
+        "species": "Pyukumuku"
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "ability": "Speed Boost",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Groundium Z",
+        "moves": [
+          "Dig",
+          "Leech Life",
+          "Swords Dance",
+          "U-turn"
+        ],
+        "nature": "Adamant",
+        "species": "Ninjask"
+      },
+      {
+        "ability": "Motor Drive",
+        "evs": {
+          "atk": 252,
+          "spa": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "moves": [
+          "Earthquake",
+          "Ice Punch",
+          "Volt Switch",
+          "Wild Charge"
+        ],
+        "nature": "Hasty",
+        "species": "Electivire"
+      },
+      {
+        "ability": "Sturdy",
+        "evs": {
+          "atk": 216,
+          "hp": 252,
+          "spe": 40
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Smack Down",
+          "Stealth Rock",
+          "Sucker Punch"
+        ],
+        "nature": "Adamant",
+        "species": "Golem"
+      },
+      {
+        "ability": "Comatose",
+        "evs": {
+          "atk": 252,
+          "hp": 160,
+          "spe": 96
+        },
+        "gender": "M",
+        "happiness": 255,
+        "item": "Assault Vest",
+        "moves": [
+          "Knock Off",
+          "Rapid Spin",
+          "Return",
+          "U-turn"
+        ],
+        "nature": "Adamant",
+        "species": "Komala"
+      },
+      {
+        "ability": "Soundproof",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Specs",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Dazzling Gleam",
+          "Focus Blast",
+          "Healing Wish",
+          "Psyshock"
+        ],
+        "nature": "Timid",
+        "species": "Mr. Mime"
+      },
+      {
+        "ability": "RKS System",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Dragon Memory",
+        "moves": [
+          "Defog",
+          "Draco Meteor",
+          "Flamethrower",
+          "U-turn"
+        ],
+        "nature": "Timid",
+        "species": "Silvally-Dragon"
+      }
+    ]
+  }
+]

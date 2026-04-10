@@ -1,0 +1,1060 @@
+[
+  {
+    "author": "Oiseau Bleu",
+    "data": [
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Alakazam"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Seismic Toss",
+          "Sing",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Clamp",
+          "Explosion",
+          "Rest"
+        ],
+        "species": "Cloyster"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Soft-Boiled",
+          "Swords Dance"
+        ],
+        "species": "Mew"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Amnesia",
+          "Psychic",
+          "Recover",
+          "Thunderbolt"
+        ],
+        "species": "Mewtwo"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam",
+          "Self-Destruct"
+        ],
+        "species": "Snorlax"
+      }
+    ],
+    "name": "ZamCloy"
+  },
+  {
+    "author": "Oiseau Bleu",
+    "data": [
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Blizzard",
+          "Recover",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Starmie"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Seismic Toss",
+          "Sing",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Soft-Boiled",
+          "Swords Dance"
+        ],
+        "species": "Mew"
+      },
+      {
+        "moves": [
+          "Amnesia",
+          "Psychic",
+          "Recover",
+          "Thunderbolt"
+        ],
+        "species": "Mewtwo"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Rest",
+          "Substitute"
+        ],
+        "species": "Rhydon"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam",
+          "Self-Destruct"
+        ],
+        "species": "Snorlax"
+      }
+    ],
+    "name": "MieDon"
+  },
+  {
+    "author": "Oiseau Bleu",
+    "data": [
+      {
+        "moves": [
+          "Double Kick",
+          "Pin Missile",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Jolteon"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Seismic Toss",
+          "Sing",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Soft-Boiled",
+          "Swords Dance"
+        ],
+        "species": "Mew"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Amnesia",
+          "Psychic",
+          "Recover",
+          "Thunderbolt"
+        ],
+        "species": "Mewtwo"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Amnesia",
+          "Rest",
+          "Surf",
+          "Thunder Wave"
+        ],
+        "species": "Slowbro"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam",
+          "Self-Destruct"
+        ],
+        "species": "Snorlax"
+      }
+    ],
+    "name": "JoltBro"
+  },
+  {
+    "author": "Oiseau Bleu",
+    "data": [
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Blizzard",
+          "Counter",
+          "Lovely Kiss",
+          "Rest"
+        ],
+        "species": "Jynx"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Seismic Toss",
+          "Soft-Boiled",
+          "Thunder Wave",
+          "Toxic"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Reflect",
+          "Soft-Boiled",
+          "Swords Dance"
+        ],
+        "species": "Mew"
+      },
+      {
+        "moves": [
+          "Amnesia",
+          "Psychic",
+          "Recover",
+          "Submission"
+        ],
+        "species": "Mewtwo"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Amnesia",
+          "Rest",
+          "Surf",
+          "Thunder Wave"
+        ],
+        "species": "Slowbro"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam",
+          "Self-Destruct"
+        ],
+        "species": "Snorlax"
+      }
+    ],
+    "name": "Jynx + Slowbro Stall"
+  },
+  {
+    "author": "PvK",
+    "data": [
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam",
+          "Stomp"
+        ],
+        "species": "Tauros"
+      },
+      {
+        "moves": [
+          "Ice Beam",
+          "Sing",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Explosion",
+          "Psychic",
+          "Sleep Powder",
+          "Stun Spore"
+        ],
+        "species": "Exeggutor"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Soft-Boiled",
+          "Swords Dance"
+        ],
+        "species": "Mew"
+      },
+      {
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Amnesia",
+          "Ice Beam",
+          "Psychic",
+          "Recover"
+        ],
+        "species": "Mewtwo"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam",
+          "Self-Destruct"
+        ],
+        "species": "Snorlax"
+      }
+    ],
+    "name": "Tauros + Exeggutor"
+  },
+  {
+    "author": "Peasounay",
+    "data": [
+      {
+        "moves": [
+          "Explosion",
+          "Hypnosis",
+          "Night Shade",
+          "Thunderbolt"
+        ],
+        "species": "Gengar"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Ice Beam",
+          "Sing",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Soft-Boiled",
+          "Swords Dance"
+        ],
+        "species": "Mew"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Amnesia",
+          "Psychic",
+          "Recover",
+          "Thunderbolt"
+        ],
+        "species": "Mewtwo"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam",
+          "Self-Destruct"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Agility",
+          "Drill Peck",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Zapdos"
+      }
+    ],
+    "name": "Gar + Zap"
+  },
+  {
+    "author": "Peasounay",
+    "data": [
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Alakazam"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Ice Beam",
+          "Sing",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Explosion",
+          "Soft-Boiled",
+          "Swords Dance"
+        ],
+        "species": "Mew"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Amnesia",
+          "Psychic",
+          "Recover",
+          "Thunderbolt"
+        ],
+        "species": "Mewtwo"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Amnesia",
+          "Rest",
+          "Surf",
+          "Thunder Wave"
+        ],
+        "species": "Slowbro"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam",
+          "Self-Destruct"
+        ],
+        "species": "Snorlax"
+      }
+    ],
+    "name": "Zam Lead + Slowbro"
+  },
+  {
+    "author": "Peasounay",
+    "data": [
+      {
+        "moves": [
+          "Double Kick",
+          "Pin Missile",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Jolteon"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Ice Beam",
+          "Sing",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Soft-Boiled",
+          "Swords Dance"
+        ],
+        "species": "Mew"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Amnesia",
+          "Psychic",
+          "Recover",
+          "Thunderbolt"
+        ],
+        "species": "Mewtwo"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam",
+          "Self-Destruct"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam"
+        ],
+        "species": "Tauros"
+      }
+    ],
+    "name": "Jolteon Lead + Tauros"
+  },
+  {
+    "data": [
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Blizzard",
+          "Lovely Kiss",
+          "Rest",
+          "Seismic Toss"
+        ],
+        "species": "Jynx"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Light Screen",
+          "Seismic Toss",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Explosion",
+          "Psychic",
+          "Sleep Powder",
+          "Stun Spore"
+        ],
+        "species": "Exeggutor"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Reflect",
+          "Soft-Boiled",
+          "Thunder Wave",
+          "Transform"
+        ],
+        "species": "Mew"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Amnesia",
+          "Ice Beam",
+          "Psychic",
+          "Recover"
+        ],
+        "species": "Mewtwo"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Amnesia",
+          "Rest",
+          "Surf",
+          "Thunder Wave"
+        ],
+        "species": "Slowbro"
+      }
+    ],
+    "name": "Lutra's Team (went 9-0 in a mini tour and to round 4 in a 64 man tournament)"
+  },
+  {
+    "data": [
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam"
+        ],
+        "species": "Tauros"
+      },
+      {
+        "moves": [
+          "Explosion",
+          "Psychic",
+          "Sleep Powder",
+          "Stun Spore"
+        ],
+        "species": "Exeggutor"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Reflect",
+          "Soft-Boiled",
+          "Swords Dance"
+        ],
+        "species": "Mew"
+      },
+      {
+        "moves": [
+          "Amnesia",
+          "Ice Beam",
+          "Psychic",
+          "Recover"
+        ],
+        "species": "Mewtwo"
+      },
+      {
+        "moves": [
+          "Amnesia",
+          "Ice Beam",
+          "Rest",
+          "Thunder Wave"
+        ],
+        "species": "Slowbro"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam",
+          "Self-Destruct"
+        ],
+        "species": "Snorlax"
+      }
+    ],
+    "name": "marcoasd's team (Went 8-2 in the minitour and won the 64 man tournament)"
+  },
+  {
+    "data": [
+      {
+        "moves": [
+          "Blizzard",
+          "Lovely Kiss",
+          "Rest",
+          "Seismic Toss"
+        ],
+        "species": "Jynx"
+      },
+      {
+        "moves": [
+          "Ice Beam",
+          "Light Screen",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Explosion",
+          "Swords Dance"
+        ],
+        "species": "Mew"
+      },
+      {
+        "moves": [
+          "Amnesia",
+          "Ice Beam",
+          "Recover",
+          "Thunderbolt"
+        ],
+        "species": "Mewtwo"
+      },
+      {
+        "moves": [
+          "Amnesia",
+          "Rest",
+          "Surf",
+          "Thunder Wave"
+        ],
+        "species": "Slowbro"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam",
+          "Self-Destruct"
+        ],
+        "species": "Snorlax"
+      }
+    ],
+    "name": "Mr.378's team (Won a 32 man tournament)"
+  },
+  {
+    "data": [
+      {
+        "moves": [
+          "Explosion",
+          "Psychic",
+          "Sleep Powder",
+          "Stun Spore"
+        ],
+        "species": "Exeggutor"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Reflect",
+          "Soft-Boiled",
+          "Swords Dance"
+        ],
+        "species": "Mew"
+      },
+      {
+        "moves": [
+          "Amnesia",
+          "Psychic",
+          "Self-Destruct",
+          "Thunder Wave"
+        ],
+        "species": "Mewtwo"
+      },
+      {
+        "moves": [
+          "Psychic",
+          "Rest",
+          "Surf",
+          "Withdraw"
+        ],
+        "species": "Slowbro"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Counter",
+          "Earthquake",
+          "Self-Destruct"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Agility",
+          "Drill Peck",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Zapdos"
+      }
+    ],
+    "name": "Sunny's team (Runner-up in the 32 man tournament)"
+  },
+  {
+    "data": [
+      {
+        "moves": [
+          "Explosion",
+          "Hypnosis",
+          "Night Shade",
+          "Thunderbolt"
+        ],
+        "species": "Gengar"
+      },
+      {
+        "moves": [
+          "Ice Beam",
+          "Light Screen",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Explosion",
+          "Psychic",
+          "Sleep Powder",
+          "Stun Spore"
+        ],
+        "species": "Exeggutor"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Soft-Boiled",
+          "Swords Dance"
+        ],
+        "species": "Mew"
+      },
+      {
+        "moves": [
+          "Amnesia",
+          "Ice Beam",
+          "Recover",
+          "Thunderbolt"
+        ],
+        "species": "Mewtwo"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Counter",
+          "Earthquake",
+          "Self-Destruct"
+        ],
+        "species": "Snorlax"
+      }
+    ],
+    "name": "1st of 2 Teams that serial RBY winner Peasounay had"
+  },
+  {
+    "data": [
+      {
+        "moves": [
+          "Explosion",
+          "Hypnosis",
+          "Night Shade",
+          "Thunderbolt"
+        ],
+        "species": "Gengar"
+      },
+      {
+        "moves": [
+          "Ice Beam",
+          "Sing",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Soft-Boiled",
+          "Swords Dance"
+        ],
+        "species": "Mew"
+      },
+      {
+        "moves": [
+          "Amnesia",
+          "Ice Beam",
+          "Psychic",
+          "Recover"
+        ],
+        "species": "Mewtwo"
+      },
+      {
+        "moves": [
+          "Amnesia",
+          "Ice Beam",
+          "Rest",
+          "Thunder Wave"
+        ],
+        "species": "Slowbro"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam",
+          "Self-Destruct"
+        ],
+        "species": "Snorlax"
+      }
+    ],
+    "name": "2nd of 2 Teams that serial RBY winner Peasounay had:"
+  },
+  {
+    "data": [
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Blizzard",
+          "Counter",
+          "Lovely Kiss",
+          "Psychic"
+        ],
+        "species": "Jynx"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Light Screen",
+          "Seismic Toss",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Explosion",
+          "Reflect",
+          "Swords Dance",
+          "Thunder Wave"
+        ],
+        "species": "Mew"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Amnesia",
+          "Ice Beam",
+          "Psychic",
+          "Recover"
+        ],
+        "species": "Mewtwo"
+      },
+      {
+        "moves": [
+          "Amnesia",
+          "Body Slam",
+          "Reflect",
+          "Rest"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Drill Peck",
+          "Reflect",
+          "Rest",
+          "Thunderbolt"
+        ],
+        "species": "Zapdos"
+      }
+    ],
+    "name": "Lutra's New Team (went 24-6 as RBY Ubers Veteran Trainer)"
+  }
+]

@@ -1,0 +1,1053 @@
+[
+  {
+    "data": [
+      {
+        "ability": "Thick Fat",
+        "evs": {
+          "def": 116,
+          "hp": 252,
+          "spa": 140
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Ice Beam",
+          "Surf",
+          "Toxic"
+        ],
+        "nature": "Modest",
+        "species": "Walrein"
+      },
+      {
+        "ability": "Early Bird",
+        "evs": {
+          "def": 112,
+          "hp": 252,
+          "spd": 128,
+          "spe": 16
+        },
+        "happiness": 255,
+        "item": "Leftovers",
+        "moves": [
+          "Rest",
+          "Return",
+          "Toxic",
+          "Wish"
+        ],
+        "nature": "Careful",
+        "species": "Kangaskhan"
+      },
+      {
+        "ability": "Shell Armor",
+        "evs": {
+          "def": 200,
+          "hp": 252,
+          "spe": 56
+        },
+        "gender": "F",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 3,
+          "spa": 30
+        },
+        "moves": [
+          "Hidden Power Electric",
+          "Rest",
+          "Spikes",
+          "Surf"
+        ],
+        "nature": "Bold",
+        "species": "Omastar"
+      },
+      {
+        "ability": "Swarm",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "ivs": {
+          "atk": 30,
+          "def": 30,
+          "spd": 30
+        },
+        "moves": [
+          "Aerial Ace",
+          "Double-Edge",
+          "Hidden Power Bug",
+          "Quick Attack"
+        ],
+        "nature": "Jolly",
+        "species": "Scyther"
+      },
+      {
+        "ability": "Liquid Ooze",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "F",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 3,
+          "spa": 30
+        },
+        "moves": [
+          "Hidden Power Electric",
+          "Ice Beam",
+          "Rapid Spin",
+          "Surf"
+        ],
+        "nature": "Modest",
+        "species": "Tentacruel"
+      },
+      {
+        "ability": "Chlorophyll",
+        "evs": {
+          "def": 196,
+          "hp": 252,
+          "spd": 60
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Aromatherapy",
+          "Leech Seed",
+          "Moonlight",
+          "Sludge Bomb"
+        ],
+        "nature": "Impish",
+        "species": "Vileplume"
+      }
+    ],
+    "name": "Walrein Balance"
+  },
+  {
+    "data": [
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 56,
+          "def": 188,
+          "hp": 252,
+          "spe": 12
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Brick Break",
+          "Earthquake",
+          "Rapid Spin",
+          "Toxic"
+        ],
+        "nature": "Adamant",
+        "species": "Hitmontop"
+      },
+      {
+        "ability": "Early Bird",
+        "evs": {
+          "def": 112,
+          "hp": 252,
+          "spd": 128,
+          "spe": 16
+        },
+        "happiness": 255,
+        "item": "Leftovers",
+        "moves": [
+          "Rest",
+          "Return",
+          "Toxic",
+          "Wish"
+        ],
+        "nature": "Careful",
+        "species": "Kangaskhan"
+      },
+      {
+        "ability": "Shell Armor",
+        "evs": {
+          "def": 200,
+          "hp": 252,
+          "spe": 56
+        },
+        "gender": "F",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 3,
+          "spa": 30
+        },
+        "moves": [
+          "Hidden Power Electric",
+          "Rest",
+          "Spikes",
+          "Surf"
+        ],
+        "nature": "Bold",
+        "species": "Omastar"
+      },
+      {
+        "ability": "Swarm",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "ivs": {
+          "atk": 30,
+          "def": 30,
+          "spd": 30
+        },
+        "moves": [
+          "Aerial Ace",
+          "Double-Edge",
+          "Hidden Power Bug",
+          "Quick Attack"
+        ],
+        "nature": "Jolly",
+        "species": "Scyther"
+      },
+      {
+        "ability": "Chlorophyll",
+        "evs": {
+          "def": 196,
+          "hp": 252,
+          "spd": 60
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Aromatherapy",
+          "Leech Seed",
+          "Moonlight",
+          "Sludge Bomb"
+        ],
+        "nature": "Impish",
+        "species": "Vileplume"
+      },
+      {
+        "ability": "Thick Fat",
+        "evs": {
+          "def": 116,
+          "hp": 252,
+          "spa": 140
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 30,
+          "spa": 30
+        },
+        "moves": [
+          "Earthquake",
+          "Hidden Power Grass",
+          "Ice Beam",
+          "Toxic"
+        ],
+        "nature": "Modest",
+        "species": "Walrein"
+      }
+    ],
+    "name": "Hitmontop Balanace"
+  },
+  {
+    "data": [
+      {
+        "ability": "Early Bird",
+        "evs": {
+          "def": 112,
+          "hp": 252,
+          "spd": 128,
+          "spe": 16
+        },
+        "happiness": 255,
+        "item": "Leftovers",
+        "moves": [
+          "Rest",
+          "Return",
+          "Toxic",
+          "Wish"
+        ],
+        "nature": "Careful",
+        "species": "Kangaskhan"
+      },
+      {
+        "ability": "Static",
+        "evs": {
+          "def": 80,
+          "hp": 232,
+          "spa": 88,
+          "spd": 92,
+          "spe": 16
+        },
+        "gender": "F",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "def": 30
+        },
+        "moves": [
+          "Heal Bell",
+          "Hidden Power Ice",
+          "Thunderbolt",
+          "Toxic"
+        ],
+        "nature": "Modest",
+        "species": "Ampharos"
+      },
+      {
+        "ability": "Swarm",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "ivs": {
+          "atk": 30,
+          "def": 30,
+          "spd": 30
+        },
+        "moves": [
+          "Aerial Ace",
+          "Double-Edge",
+          "Hidden Power Bug",
+          "Quick Attack"
+        ],
+        "nature": "Jolly",
+        "species": "Scyther"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "atk": 32,
+          "hp": 252,
+          "spd": 200,
+          "spe": 24
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 30,
+          "spa": 30
+        },
+        "moves": [
+          "Explosion",
+          "Fire Spin",
+          "Hidden Power Grass",
+          "Rock Slide"
+        ],
+        "nature": "Adamant",
+        "species": "Solrock"
+      },
+      {
+        "ability": "Liquid Ooze",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "F",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 3,
+          "spa": 30
+        },
+        "moves": [
+          "Hidden Power Electric",
+          "Ice Beam",
+          "Rapid Spin",
+          "Surf"
+        ],
+        "nature": "Modest",
+        "species": "Tentacruel"
+      },
+      {
+        "ability": "Chlorophyll",
+        "evs": {
+          "def": 196,
+          "hp": 252,
+          "spd": 60
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "spa": 30,
+          "spd": 30
+        },
+        "moves": [
+          "Hidden Power Ground",
+          "Leech Seed",
+          "Moonlight",
+          "Sludge Bomb"
+        ],
+        "nature": "Impish",
+        "species": "Vileplume"
+      }
+    ],
+    "name": "Fire Spin Solrock"
+  },
+  {
+    "data": [
+      {
+        "ability": "Static",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "gender": "F",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "def": 30
+        },
+        "moves": [
+          "Hidden Power Ice",
+          "Substitute",
+          "Thunder",
+          "Thunderbolt"
+        ],
+        "nature": "Modest",
+        "species": "Manectric"
+      },
+      {
+        "ability": "Early Bird",
+        "evs": {
+          "atk": 56,
+          "def": 12,
+          "hp": 216,
+          "spd": 216,
+          "spe": 8
+        },
+        "happiness": 255,
+        "item": "Leftovers",
+        "moves": [
+          "Focus Punch",
+          "Rest",
+          "Return",
+          "Toxic"
+        ],
+        "nature": "Adamant",
+        "species": "Kangaskhan"
+      },
+      {
+        "ability": "Poison Point",
+        "evs": {
+          "atk": 216,
+          "def": 16,
+          "hp": 60,
+          "spe": 216
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Ice Beam",
+          "Shadow Ball",
+          "Superpower"
+        ],
+        "nature": "Adamant",
+        "species": "Nidoqueen"
+      },
+      {
+        "ability": "Swift Swim",
+        "evs": {
+          "def": 176,
+          "hp": 252,
+          "spa": 72,
+          "spe": 8
+        },
+        "gender": "F",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 3,
+          "spa": 30
+        },
+        "moves": [
+          "Hidden Power Electric",
+          "Protect",
+          "Spikes",
+          "Surf"
+        ],
+        "nature": "Bold",
+        "species": "Omastar"
+      },
+      {
+        "ability": "Swarm",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "ivs": {
+          "atk": 30,
+          "def": 30,
+          "spd": 30
+        },
+        "moves": [
+          "Double-Edge",
+          "Hidden Power Bug",
+          "Quick Attack",
+          "Reversal"
+        ],
+        "nature": "Jolly",
+        "species": "Scyther"
+      },
+      {
+        "ability": "Thick Fat",
+        "evs": {
+          "def": 96,
+          "hp": 236,
+          "spa": 176
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Ice Beam",
+          "Protect",
+          "Roar"
+        ],
+        "nature": "Quiet",
+        "species": "Walrein"
+      }
+    ],
+    "name": "Manectric Bulky Offense"
+  },
+  {
+    "data": [
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 40,
+          "def": 120,
+          "hp": 252,
+          "spe": 96
+        },
+        "gender": "M",
+        "happiness": 255,
+        "item": "Leftovers",
+        "moves": [
+          "Bulk Up",
+          "Earthquake",
+          "Rest",
+          "Return"
+        ],
+        "nature": "Adamant",
+        "species": "Granbull"
+      },
+      {
+        "ability": "Static",
+        "evs": {
+          "def": 80,
+          "hp": 232,
+          "spa": 88,
+          "spd": 92,
+          "spe": 16
+        },
+        "gender": "F",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "def": 30
+        },
+        "moves": [
+          "Heal Bell",
+          "Hidden Power Ice",
+          "Thunderbolt",
+          "Toxic"
+        ],
+        "nature": "Modest",
+        "species": "Ampharos"
+      },
+      {
+        "ability": "Early Bird",
+        "evs": {
+          "def": 112,
+          "hp": 252,
+          "spd": 128,
+          "spe": 16
+        },
+        "happiness": 255,
+        "item": "Leftovers",
+        "moves": [
+          "Rest",
+          "Return",
+          "Toxic",
+          "Wish"
+        ],
+        "nature": "Careful",
+        "species": "Kangaskhan"
+      },
+      {
+        "ability": "Swift Swim",
+        "evs": {
+          "def": 168,
+          "hp": 252,
+          "spa": 64,
+          "spe": 24
+        },
+        "gender": "F",
+        "ivs": {
+          "atk": 3,
+          "spa": 30
+        },
+        "moves": [
+          "Hidden Power Electric",
+          "Spikes",
+          "Surf",
+          "Thief"
+        ],
+        "nature": "Modest",
+        "species": "Omastar"
+      },
+      {
+        "ability": "Swarm",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "ivs": {
+          "atk": 30,
+          "def": 30,
+          "spd": 30
+        },
+        "moves": [
+          "Aerial Ace",
+          "Double-Edge",
+          "Hidden Power Bug",
+          "Quick Attack"
+        ],
+        "nature": "Jolly",
+        "species": "Scyther"
+      },
+      {
+        "ability": "Liquid Ooze",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "F",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 3,
+          "spa": 30
+        },
+        "moves": [
+          "Hidden Power Electric",
+          "Ice Beam",
+          "Rapid Spin",
+          "Surf"
+        ],
+        "nature": "Modest",
+        "species": "Tentacruel"
+      }
+    ],
+    "name": "Bulk Up Granbull + Thief Omastar"
+  },
+  {
+    "data": [
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 40,
+          "def": 120,
+          "hp": 252,
+          "spe": 96
+        },
+        "gender": "M",
+        "happiness": 255,
+        "item": "Leftovers",
+        "moves": [
+          "Bulk Up",
+          "Earthquake",
+          "Rest",
+          "Return"
+        ],
+        "nature": "Adamant",
+        "species": "Granbull"
+      },
+      {
+        "ability": "Static",
+        "evs": {
+          "def": 80,
+          "hp": 232,
+          "spa": 88,
+          "spd": 92,
+          "spe": 16
+        },
+        "gender": "F",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "def": 30
+        },
+        "moves": [
+          "Heal Bell",
+          "Hidden Power Ice",
+          "Thunderbolt",
+          "Toxic"
+        ],
+        "nature": "Modest",
+        "species": "Ampharos"
+      },
+      {
+        "ability": "Hyper Cutter",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 30,
+          "def": 30,
+          "hp": 30,
+          "spa": 30,
+          "spd": 30
+        },
+        "moves": [
+          "Earthquake",
+          "Hidden Power Flying",
+          "Quick Attack",
+          "Swords Dance"
+        ],
+        "nature": "Jolly",
+        "species": "Gligar"
+      },
+      {
+        "ability": "Early Bird",
+        "evs": {
+          "def": 112,
+          "hp": 252,
+          "spd": 128,
+          "spe": 16
+        },
+        "happiness": 255,
+        "item": "Leftovers",
+        "moves": [
+          "Rest",
+          "Return",
+          "Toxic",
+          "Wish"
+        ],
+        "nature": "Careful",
+        "species": "Kangaskhan"
+      },
+      {
+        "ability": "Oblivious",
+        "evs": {
+          "def": 232,
+          "hp": 252,
+          "spa": 20,
+          "spe": 4
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Psychic",
+          "Rest",
+          "Surf"
+        ],
+        "nature": "Bold",
+        "species": "Slowking"
+      },
+      {
+        "ability": "Liquid Ooze",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Ice Beam",
+          "Rapid Spin",
+          "Surf",
+          "Toxic"
+        ],
+        "nature": "Timid",
+        "species": "Tentacruel"
+      }
+    ],
+    "name": "Slowking Bulky Offense"
+  },
+  {
+    "data": [
+      {
+        "ability": "Hyper Cutter",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Silk Scarf",
+        "ivs": {
+          "atk": 30,
+          "def": 30,
+          "spd": 30
+        },
+        "moves": [
+          "Double-Edge",
+          "Earthquake",
+          "Hidden Power Bug",
+          "Swords Dance"
+        ],
+        "nature": "Jolly",
+        "species": "Pinsir"
+      },
+      {
+        "ability": "Inner Focus",
+        "evs": {
+          "def": 4,
+          "hp": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 30,
+          "spa": 30
+        },
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Hidden Power Grass",
+          "Spikes"
+        ],
+        "nature": "Jolly",
+        "species": "Glalie"
+      },
+      {
+        "ability": "Cloud Nine",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "F",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "spa": 30
+        },
+        "moves": [
+          "Calm Mind",
+          "Hidden Power Grass",
+          "Hydro Pump",
+          "Psychic"
+        ],
+        "nature": "Modest",
+        "species": "Golduck"
+      },
+      {
+        "ability": "Early Bird",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Double-Edge",
+          "Earthquake",
+          "Shadow Ball",
+          "Yawn"
+        ],
+        "nature": "Adamant",
+        "species": "Kangaskhan"
+      },
+      {
+        "ability": "Sand Veil",
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Double-Edge",
+          "Earthquake",
+          "Rock Slide",
+          "Swords Dance"
+        ],
+        "nature": "Jolly",
+        "species": "Sandslash"
+      },
+      {
+        "ability": "Swarm",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Silk Scarf",
+        "ivs": {
+          "def": 30,
+          "spa": 30,
+          "spd": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Double-Edge",
+          "Hidden Power Fighting",
+          "Quick Attack",
+          "Swords Dance"
+        ],
+        "nature": "Jolly",
+        "species": "Scyther"
+      }
+    ],
+    "name": "Pinsir Hyper Offensive"
+  },
+  {
+    "data": [
+      {
+        "ability": "Inner Focus",
+        "evs": {
+          "def": 4,
+          "hp": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 30,
+          "spa": 30
+        },
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Hidden Power Grass",
+          "Spikes"
+        ],
+        "nature": "Jolly",
+        "species": "Glalie"
+      },
+      {
+        "ability": "Static",
+        "evs": {
+          "atk": 100,
+          "spa": 192,
+          "spe": 216
+        },
+        "item": "Magnet",
+        "ivs": {
+          "atk": 30,
+          "def": 30
+        },
+        "moves": [
+          "Explosion",
+          "Hidden Power Ice",
+          "Taunt",
+          "Thunderbolt"
+        ],
+        "nature": "Naive",
+        "species": "Electrode"
+      },
+      {
+        "ability": "Swift Swim",
+        "evs": {
+          "hp": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Mystic Water",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Hydro Pump",
+          "Psychic",
+          "Rain Dance",
+          "Surf"
+        ],
+        "nature": "Timid",
+        "species": "Gorebyss"
+      },
+      {
+        "ability": "Early Bird",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Double-Edge",
+          "Earthquake",
+          "Shadow Ball",
+          "Yawn"
+        ],
+        "nature": "Adamant",
+        "species": "Kangaskhan"
+      },
+      {
+        "ability": "Sand Veil",
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Double-Edge",
+          "Earthquake",
+          "Rock Slide",
+          "Swords Dance"
+        ],
+        "nature": "Jolly",
+        "species": "Sandslash"
+      },
+      {
+        "ability": "Swarm",
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Salac Berry",
+        "ivs": {
+          "atk": 30,
+          "def": 30,
+          "hp": 30,
+          "spa": 30,
+          "spd": 30
+        },
+        "moves": [
+          "Hidden Power Flying",
+          "Reversal",
+          "Substitute",
+          "Swords Dance"
+        ],
+        "nature": "Jolly",
+        "species": "Scyther"
+      }
+    ],
+    "name": "Gorebyss Hyper Offensive"
+  }
+]

@@ -1,0 +1,1278 @@
+[
+  {
+    "author": "BeeOrSomething",
+    "data": [
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 29,
+          "hp": 15
+        },
+        "moves": [
+          "Hidden Power Electric",
+          "Psychic",
+          "Rest",
+          "Sleep Talk"
+        ],
+        "species": "Xatu"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Screech",
+          "Substitute"
+        ],
+        "species": "Dugtrio"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 29,
+          "hp": 15
+        },
+        "moves": [
+          "Hidden Power Electric",
+          "Rest",
+          "Sleep Talk",
+          "Surf"
+        ],
+        "species": "Octillery"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Explosion",
+          "Rapid Spin",
+          "Spikes",
+          "Toxic"
+        ],
+        "species": "Pineco"
+      },
+      {
+        "gender": "M",
+        "happiness": 0,
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Frustration",
+          "Rest",
+          "Sleep Talk"
+        ],
+        "species": "Stantler"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Explosion",
+          "Fire Blast",
+          "Sludge Bomb",
+          "Thunder"
+        ],
+        "species": "Weezing"
+      }
+    ],
+    "name": "XaDug + RestTalk Deer Spikes"
+  },
+  {
+    "author": "MrSoup",
+    "data": [
+      {
+        "gender": "M",
+        "happiness": 0,
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Frustration",
+          "Rest",
+          "Sleep Talk"
+        ],
+        "species": "Stantler"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Double-Edge",
+          "Drill Peck",
+          "Rest",
+          "Sleep Talk"
+        ],
+        "species": "Fearow"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 29,
+          "hp": 15
+        },
+        "moves": [
+          "Hidden Power Electric",
+          "Rest",
+          "Sleep Talk",
+          "Surf"
+        ],
+        "species": "Octillery"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Explosion",
+          "Rapid Spin",
+          "Spikes",
+          "Toxic"
+        ],
+        "species": "Pineco"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Explosion",
+          "Fire Blast",
+          "Sludge Bomb",
+          "Thunder"
+        ],
+        "species": "Weezing"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 29,
+          "hp": 15
+        },
+        "moves": [
+          "Hidden Power Electric",
+          "Psychic",
+          "Rest",
+          "Sleep Talk"
+        ],
+        "species": "Xatu"
+      }
+    ],
+    "name": "Lead RestTalk Deer Double Bird Spikes"
+  },
+  {
+    "author": "dawnbuster",
+    "data": [
+      {
+        "gender": "M",
+        "happiness": 0,
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Frustration",
+          "Rest",
+          "Sleep Talk"
+        ],
+        "species": "Stantler"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Ice Beam",
+          "Rest",
+          "Sleep Talk",
+          "Surf"
+        ],
+        "species": "Dewgong"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Screech",
+          "Substitute"
+        ],
+        "species": "Dugtrio"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Explosion",
+          "Giga Drain",
+          "Rapid Spin",
+          "Spikes"
+        ],
+        "species": "Pineco"
+      },
+      {
+        "item": "Leftovers",
+        "moves": [
+          "Curse",
+          "Double-Edge",
+          "Recover",
+          "Thunder Wave"
+        ],
+        "species": "Porygon"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Explosion",
+          "Haze",
+          "Sludge Bomb",
+          "Thunder"
+        ],
+        "species": "Weezing"
+      }
+    ],
+    "name": "Porygon + Dugtrio Gong Spikes"
+  },
+  {
+    "author": "Estarossa",
+    "data": [
+      {
+        "gender": "M",
+        "moves": [
+          "Double-Edge",
+          "Hypnosis",
+          "Screech",
+          "Thief"
+        ],
+        "species": "Persian"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Rest",
+          "Sleep Talk",
+          "Surf",
+          "Thunder"
+        ],
+        "species": "Chinchou"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Double-Edge",
+          "Drill Peck",
+          "Rest",
+          "Sleep Talk"
+        ],
+        "species": "Fearow"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 29,
+          "hp": 15
+        },
+        "moves": [
+          "Ice Beam",
+          "Rest",
+          "Sleep Talk",
+          "Surf"
+        ],
+        "species": "Octillery"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Explosion",
+          "Rapid Spin",
+          "Spikes",
+          "Toxic"
+        ],
+        "species": "Pineco"
+      },
+      {
+        "gender": "M",
+        "happiness": 255,
+        "item": "Leftovers",
+        "moves": [
+          "Curse",
+          "Earthquake",
+          "Light Screen",
+          "Return"
+        ],
+        "species": "Stantler"
+      }
+    ],
+    "name": "Chinchou Triple Normal Spikes"
+  },
+  {
+    "author": "BeeOrSomething",
+    "data": [
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 29,
+          "hp": 15
+        },
+        "moves": [
+          "Hidden Power Electric",
+          "Rest",
+          "Sleep Talk",
+          "Surf"
+        ],
+        "species": "Octillery"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Double-Edge",
+          "Drill Peck",
+          "Rest",
+          "Sleep Talk"
+        ],
+        "species": "Fearow"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Explosion",
+          "Rapid Spin",
+          "Spikes",
+          "Toxic"
+        ],
+        "species": "Pineco"
+      },
+      {
+        "item": "Leftovers",
+        "moves": [
+          "Curse",
+          "Double-Edge",
+          "Recover",
+          "Thunder Wave"
+        ],
+        "species": "Porygon"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Cross Chop",
+          "Rest",
+          "Sleep Talk",
+          "Thunder"
+        ],
+        "species": "Primeape"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Explosion",
+          "Fire Blast",
+          "Sludge Bomb",
+          "Thunder"
+        ],
+        "species": "Weezing"
+      }
+    ],
+    "name": "Fearow + RestTalk Ape + Porygon Oct Spikes"
+  },
+  {
+    "author": "dawnbuster",
+    "data": [
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 29,
+          "def": 29,
+          "hp": 7
+        },
+        "moves": [
+          "Baton Pass",
+          "Fire Blast",
+          "Growth",
+          "Hidden Power Grass"
+        ],
+        "species": "Flareon"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 29,
+          "def": 29,
+          "hp": 7
+        },
+        "moves": [
+          "Hidden Power Grass",
+          "Ice Beam",
+          "Protect",
+          "Surf"
+        ],
+        "species": "Dewgong"
+      },
+      {
+        "gender": "M",
+        "happiness": 0,
+        "item": "Leftovers",
+        "moves": [
+          "Curse",
+          "Earthquake",
+          "Frustration",
+          "Light Screen"
+        ],
+        "species": "Stantler"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 29,
+          "def": 27,
+          "hp": 15
+        },
+        "moves": [
+          "Explosion",
+          "Hidden Power Water",
+          "Sludge Bomb",
+          "Thunder"
+        ],
+        "species": "Weezing"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Curse",
+          "Double-Edge",
+          "Rest",
+          "Sleep Talk"
+        ],
+        "species": "Wigglytuff"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 29,
+          "hp": 15
+        },
+        "moves": [
+          "Hidden Power Electric",
+          "Psychic",
+          "Rest",
+          "Sleep Talk"
+        ],
+        "species": "Xatu"
+      }
+    ],
+    "name": "Lead Growth Pass Flare + Wiggly + Curse LS Deer"
+  },
+  {
+    "author": "MrSoup",
+    "data": [
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 29,
+          "hp": 15
+        },
+        "moves": [
+          "Hidden Power Electric",
+          "Rest",
+          "Sleep Talk",
+          "Surf"
+        ],
+        "species": "Octillery"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Encore",
+          "Ice Beam",
+          "Protect",
+          "Toxic"
+        ],
+        "species": "Dewgong"
+      },
+      {
+        "item": "Leftovers",
+        "ivs": {
+          "def": 27
+        },
+        "moves": [
+          "Hidden Power Ice",
+          "Rest",
+          "Sleep Talk",
+          "Thunder"
+        ],
+        "species": "Magnemite"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Explosion",
+          "Rapid Spin",
+          "Spikes",
+          "Toxic"
+        ],
+        "species": "Pineco"
+      },
+      {
+        "gender": "M",
+        "happiness": 255,
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Rest",
+          "Return",
+          "Sleep Talk"
+        ],
+        "species": "Stantler"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Explosion",
+          "Fire Blast",
+          "Sludge Bomb",
+          "Thunder"
+        ],
+        "species": "Weezing"
+      }
+    ],
+    "name": "Oct + Toxic Encore Gong + Mag Spikes"
+  },
+  {
+    "author": "BeeOrSomething",
+    "data": [
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Flamethrower",
+          "Rest",
+          "Sleep Talk",
+          "Sunny Day"
+        ],
+        "species": "Ninetales"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 29,
+          "hp": 15
+        },
+        "moves": [
+          "Hidden Power Electric",
+          "Rest",
+          "Sleep Talk",
+          "Surf"
+        ],
+        "species": "Octillery"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Explosion",
+          "Rapid Spin",
+          "Spikes",
+          "Toxic"
+        ],
+        "species": "Pineco"
+      },
+      {
+        "gender": "M",
+        "happiness": 255,
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Rest",
+          "Return",
+          "Sleep Talk"
+        ],
+        "species": "Stantler"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Explosion",
+          "Fire Blast",
+          "Sludge Bomb",
+          "Thunder"
+        ],
+        "species": "Weezing"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "def": 27
+        },
+        "moves": [
+          "Hidden Power Ice",
+          "Psychic",
+          "Rest",
+          "Sleep Talk"
+        ],
+        "species": "Xatu"
+      }
+    ],
+    "name": "Sunny Tales + Weezing Xatu Spikes"
+  },
+  {
+    "author": "Estarossa",
+    "data": [
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Double-Edge",
+          "Fire Blast",
+          "Rest",
+          "Sleep Talk"
+        ],
+        "species": "Rapidash"
+      },
+      {
+        "item": "Leftovers",
+        "ivs": {
+          "def": 27
+        },
+        "moves": [
+          "Hidden Power Ice",
+          "Rest",
+          "Sleep Talk",
+          "Thunder"
+        ],
+        "species": "Magnemite"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 29,
+          "hp": 15
+        },
+        "moves": [
+          "Hidden Power Electric",
+          "Rest",
+          "Sleep Talk",
+          "Surf"
+        ],
+        "species": "Octillery"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Explosion",
+          "Giga Drain",
+          "Rapid Spin",
+          "Spikes"
+        ],
+        "species": "Pineco"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Body Slam",
+          "Curse",
+          "Rest",
+          "Sleep Talk"
+        ],
+        "species": "Wigglytuff"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 29,
+          "hp": 15
+        },
+        "moves": [
+          "Hidden Power Electric",
+          "Psychic",
+          "Rest",
+          "Sleep Talk"
+        ],
+        "species": "Xatu"
+      }
+    ],
+    "name": "Edit of Dash Mag Wiggly Spikes"
+  },
+  {
+    "author": "dawnbuster",
+    "data": [
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Double-Edge",
+          "Fire Blast",
+          "Rest",
+          "Sleep Talk"
+        ],
+        "species": "Flareon"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Ice Beam",
+          "Rest",
+          "Sleep Talk",
+          "Surf"
+        ],
+        "species": "Dewgong"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Explosion",
+          "Giga Drain",
+          "Rapid Spin",
+          "Spikes"
+        ],
+        "species": "Pineco"
+      },
+      {
+        "item": "Leftovers",
+        "moves": [
+          "Curse",
+          "Double-Edge",
+          "Recover",
+          "Thunder Wave"
+        ],
+        "species": "Porygon"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Cross Chop",
+          "Rest",
+          "Sleep Talk",
+          "Thunder"
+        ],
+        "species": "Primeape"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Explosion",
+          "Fire Blast",
+          "Sludge Bomb",
+          "Thunder"
+        ],
+        "species": "Weezing"
+      }
+    ],
+    "name": "Lead Flare + Porygon + Primeape Gong Spikes"
+  },
+  {
+    "author": "Oathkeeper",
+    "data": [
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Cross Chop",
+          "Fire Blast",
+          "Sunny Day",
+          "Thunder Punch"
+        ],
+        "species": "Magmar"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Double-Edge",
+          "Drill Peck",
+          "Rest",
+          "Sleep Talk"
+        ],
+        "species": "Fearow"
+      },
+      {
+        "item": "Leftovers",
+        "ivs": {
+          "def": 27
+        },
+        "moves": [
+          "Hidden Power Ice",
+          "Rest",
+          "Sleep Talk",
+          "Thunder"
+        ],
+        "species": "Magnemite"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 29,
+          "hp": 15
+        },
+        "moves": [
+          "Hidden Power Electric",
+          "Rest",
+          "Sleep Talk",
+          "Surf"
+        ],
+        "species": "Octillery"
+      },
+      {
+        "gender": "M",
+        "happiness": 0,
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Frustration",
+          "Rest",
+          "Sleep Talk"
+        ],
+        "species": "Stantler"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Explosion",
+          "Fire Blast",
+          "Sludge Bomb",
+          "Thunder"
+        ],
+        "species": "Weezing"
+      }
+    ],
+    "name": "Edit of Lead Magmar + Magnemite Spikeless"
+  },
+  {
+    "author": "MrSoup",
+    "data": [
+      {
+        "item": "Leftovers",
+        "moves": [
+          "Body Slam",
+          "High Jump Kick",
+          "Rest",
+          "Sleep Talk"
+        ],
+        "species": "Hitmonlee"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Ice Beam",
+          "Rest",
+          "Sleep Talk",
+          "Surf"
+        ],
+        "species": "Dewgong"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Double-Edge",
+          "Drill Peck",
+          "Rest",
+          "Sleep Talk"
+        ],
+        "species": "Fearow"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 27,
+          "def": 25,
+          "hp": 23
+        },
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Hidden Power Rock",
+          "Rapid Spin"
+        ],
+        "species": "Graveler"
+      },
+      {
+        "gender": "M",
+        "happiness": 0,
+        "item": "Leftovers",
+        "moves": [
+          "Curse",
+          "Earthquake",
+          "Frustration",
+          "Light Screen"
+        ],
+        "species": "Stantler"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Explosion",
+          "Fire Blast",
+          "Sludge Bomb",
+          "Thunder"
+        ],
+        "species": "Weezing"
+      }
+    ],
+    "name": "Hitmonlee + Curse LS Stantler Gong Spikeless"
+  },
+  {
+    "author": "BeeOrSomething",
+    "data": [
+      {
+        "gender": "M",
+        "happiness": 0,
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Frustration",
+          "Rest",
+          "Sleep Talk"
+        ],
+        "species": "Stantler"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Double-Edge",
+          "Drill Peck",
+          "Rest",
+          "Sleep Talk"
+        ],
+        "species": "Fearow"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 29,
+          "def": 29,
+          "hp": 7
+        },
+        "moves": [
+          "Cross Chop",
+          "Fire Blast",
+          "Hidden Power Grass",
+          "Sunny Day"
+        ],
+        "species": "Magmar"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 29,
+          "hp": 15
+        },
+        "moves": [
+          "Hidden Power Electric",
+          "Rest",
+          "Sleep Talk",
+          "Surf"
+        ],
+        "species": "Octillery"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Explosion",
+          "Rapid Spin",
+          "Spikes",
+          "Toxic"
+        ],
+        "species": "Pineco"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 29,
+          "def": 27,
+          "hp": 15
+        },
+        "moves": [
+          "Explosion",
+          "Hidden Power Water",
+          "Sludge Bomb",
+          "Thunder"
+        ],
+        "species": "Weezing"
+      }
+    ],
+    "name": "Weezing Fearow Magmar Spikes"
+  },
+  {
+    "author": "Oathkeeper",
+    "data": [
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Flamethrower",
+          "Rest",
+          "Sleep Talk",
+          "Sunny Day"
+        ],
+        "species": "Ninetales"
+      },
+      {
+        "gender": "M",
+        "happiness": 255,
+        "item": "Leftovers",
+        "moves": [
+          "Curse",
+          "Rest",
+          "Return",
+          "Sleep Talk"
+        ],
+        "species": "Dunsparce"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Double-Edge",
+          "Drill Peck",
+          "Rest",
+          "Sleep Talk"
+        ],
+        "species": "Fearow"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Curse",
+          "Moonlight",
+          "Sludge Bomb",
+          "Stun Spore"
+        ],
+        "species": "Gloom"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 27,
+          "def": 25,
+          "hp": 23
+        },
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Hidden Power Rock",
+          "Rapid Spin"
+        ],
+        "species": "Graveler"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 29,
+          "hp": 15
+        },
+        "moves": [
+          "Hidden Power Electric",
+          "Rest",
+          "Sleep Talk",
+          "Surf"
+        ],
+        "species": "Octillery"
+      }
+    ],
+    "name": "Edit of Tales Sparce Grav Spikeless"
+  },
+  {
+    "author": "Estarossa",
+    "data": [
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 29,
+          "hp": 15
+        },
+        "moves": [
+          "Hidden Power Electric",
+          "Psychic",
+          "Rest",
+          "Sleep Talk"
+        ],
+        "species": "Xatu"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 27,
+          "def": 25,
+          "hp": 23
+        },
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Hidden Power Rock",
+          "Rapid Spin"
+        ],
+        "species": "Graveler"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 29,
+          "hp": 15
+        },
+        "moves": [
+          "Hidden Power Electric",
+          "Rest",
+          "Sleep Talk",
+          "Surf"
+        ],
+        "species": "Octillery"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Explosion",
+          "Rapid Spin",
+          "Spikes",
+          "Toxic"
+        ],
+        "species": "Pineco"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Cross Chop",
+          "Rest",
+          "Sleep Talk",
+          "Thunder"
+        ],
+        "species": "Primeape"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Explosion",
+          "Fire Blast",
+          "Sludge Bomb",
+          "Thunder"
+        ],
+        "species": "Weezing"
+      }
+    ],
+    "name": "Edit of Grav Ape Spikes"
+  },
+  {
+    "author": "MrSoup",
+    "data": [
+      {
+        "gender": "M",
+        "item": "Miracle Berry",
+        "moves": [
+          "Explosion",
+          "Rapid Spin",
+          "Spikes",
+          "Toxic"
+        ],
+        "species": "Pineco"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Rest",
+          "Sleep Talk",
+          "Surf",
+          "Thunder"
+        ],
+        "species": "Chinchou"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Screech",
+          "Substitute"
+        ],
+        "species": "Dugtrio"
+      },
+      {
+        "gender": "M",
+        "happiness": 0,
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 25,
+          "hp": 15
+        },
+        "moves": [
+          "Frustration",
+          "Hidden Power Ground",
+          "Substitute",
+          "Swords Dance"
+        ],
+        "species": "Kingler"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Curse",
+          "Earthquake",
+          "Rock Slide",
+          "Self-Destruct"
+        ],
+        "species": "Sudowoodo"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Explosion",
+          "Fire Blast",
+          "Sludge Bomb",
+          "Thunder"
+        ],
+        "species": "Weezing"
+      }
+    ],
+    "name": "Triple Boom + Kingler + Chinch + Dug"
+  }
+]

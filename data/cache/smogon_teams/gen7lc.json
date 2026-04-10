@@ -1,0 +1,1239 @@
+[
+  {
+    "data": [
+      {
+        "ability": "Snow Warning",
+        "evs": {
+          "hp": 52,
+          "spa": 200,
+          "spe": 240
+        },
+        "gender": "M",
+        "item": "Light Clay",
+        "ivs": {
+          "atk": 0,
+          "spa": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Aurora Veil",
+          "Blizzard",
+          "Freeze-Dry",
+          "Hidden Power Fire"
+        ],
+        "nature": "Timid",
+        "shiny": true,
+        "species": "Vulpix-Alola"
+      },
+      {
+        "ability": "Arena Trap",
+        "evs": {
+          "atk": 236,
+          "hp": 36,
+          "spe": 236
+        },
+        "gender": "M",
+        "item": "Groundium Z",
+        "moves": [
+          "Earthquake",
+          "Memento",
+          "Stealth Rock",
+          "Substitute"
+        ],
+        "nature": "Jolly",
+        "shiny": true,
+        "species": "Diglett"
+      },
+      {
+        "ability": "Skill Link",
+        "evs": {
+          "atk": 236,
+          "spd": 76,
+          "spe": 196
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Icicle Spear",
+          "Liquidation",
+          "Rock Blast",
+          "Shell Smash"
+        ],
+        "nature": "Adamant",
+        "shiny": true,
+        "species": "Shellder"
+      },
+      {
+        "ability": "Solid Rock",
+        "evs": {
+          "atk": 212,
+          "def": 12,
+          "hp": 4,
+          "spd": 76,
+          "spe": 180
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Shell Smash",
+          "Stone Edge",
+          "Waterfall",
+          "Zen Headbutt"
+        ],
+        "nature": "Jolly",
+        "shiny": true,
+        "species": "Tirtouga"
+      },
+      {
+        "ability": "Weak Armor",
+        "evs": {
+          "spa": 240,
+          "spe": 196
+        },
+        "item": "Berry Juice",
+        "ivs": {
+          "atk": 0,
+          "spa": 30
+        },
+        "moves": [
+          "Air Slash",
+          "Heat Wave",
+          "Hidden Power Grass",
+          "Nasty Plot"
+        ],
+        "nature": "Modest",
+        "shiny": true,
+        "species": "Vullaby"
+      },
+      {
+        "ability": "Pickup",
+        "evs": {
+          "atk": 196,
+          "def": 108,
+          "hp": 132,
+          "spd": 28,
+          "spe": 36
+        },
+        "gender": "M",
+        "item": "Berry Juice",
+        "moves": [
+          "Belly Drum",
+          "Extreme Speed",
+          "Protect",
+          "Thief"
+        ],
+        "nature": "Adamant",
+        "shiny": true,
+        "species": "Zigzagoon"
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "ability": "Skill Link",
+        "evs": {
+          "atk": 236,
+          "spd": 76,
+          "spe": 196
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Icicle Spear",
+          "Razor Shell",
+          "Rock Blast",
+          "Shell Smash"
+        ],
+        "nature": "Adamant",
+        "species": "Shellder"
+      },
+      {
+        "ability": "Prankster",
+        "evs": {
+          "def": 196,
+          "hp": 36,
+          "spa": 60,
+          "spd": 196
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Dazzling Gleam",
+          "Giga Drain",
+          "Knock Off",
+          "Memento"
+        ],
+        "nature": "Bold",
+        "species": "Cottonee"
+      },
+      {
+        "ability": "Arena Trap",
+        "evs": {
+          "atk": 236,
+          "hp": 36,
+          "spe": 236
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Earthquake",
+          "Memento",
+          "Rock Slide",
+          "Stealth Rock"
+        ],
+        "nature": "Jolly",
+        "species": "Diglett"
+      },
+      {
+        "ability": "Defiant",
+        "evs": {
+          "atk": 236,
+          "def": 36,
+          "spd": 36,
+          "spe": 196
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "moves": [
+          "Brick Break",
+          "Iron Head",
+          "Knock Off",
+          "Pursuit"
+        ],
+        "nature": "Jolly",
+        "species": "Pawniard"
+      },
+      {
+        "ability": "Guts",
+        "evs": {
+          "atk": 116,
+          "def": 156,
+          "spd": 236
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Bulk Up",
+          "Drain Punch",
+          "Knock Off",
+          "Mach Punch"
+        ],
+        "nature": "Careful",
+        "species": "Timburr"
+      },
+      {
+        "ability": "Pickup",
+        "evs": {
+          "atk": 196,
+          "def": 108,
+          "hp": 132,
+          "spd": 28,
+          "spe": 36
+        },
+        "gender": "M",
+        "item": "Berry Juice",
+        "moves": [
+          "Belly Drum",
+          "Extreme Speed",
+          "Protect",
+          "Thief"
+        ],
+        "nature": "Adamant",
+        "species": "Zigzagoon"
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "ability": "Analytic",
+        "evs": {
+          "hp": 36,
+          "spa": 200,
+          "spe": 240
+        },
+        "item": "Eviolite",
+        "ivs": {
+          "atk": 0,
+          "spa": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Hidden Power Fire",
+          "Hydro Pump",
+          "Psychic",
+          "Thunderbolt"
+        ],
+        "nature": "Timid",
+        "species": "Staryu"
+      },
+      {
+        "ability": "Iron Barbs",
+        "evs": {
+          "def": 188,
+          "hp": 84,
+          "spa": 84,
+          "spd": 148
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Giga Drain",
+          "Knock Off",
+          "Stealth Rock",
+          "Thunder Wave"
+        ],
+        "nature": "Calm",
+        "species": "Ferroseed"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "def": 196,
+          "spd": 36,
+          "spe": 236
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Fake Out",
+          "High Jump Kick",
+          "Knock Off",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "species": "Mienfoo"
+      },
+      {
+        "ability": "Stamina",
+        "evs": {
+          "atk": 196,
+          "def": 36,
+          "hp": 36,
+          "spe": 236
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "moves": [
+          "Close Combat",
+          "Earthquake",
+          "Heavy Slam",
+          "Rock Slide"
+        ],
+        "nature": "Adamant",
+        "species": "Mudbray"
+      },
+      {
+        "ability": "Aroma Veil",
+        "evs": {
+          "def": 196,
+          "hp": 212,
+          "spa": 12,
+          "spd": 76,
+          "spe": 12
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Covet",
+          "Moonblast",
+          "Protect",
+          "Wish"
+        ],
+        "nature": "Bold",
+        "species": "Spritzee"
+      },
+      {
+        "ability": "Weak Armor",
+        "evs": {
+          "atk": 160,
+          "def": 76,
+          "spa": 80,
+          "spe": 116
+        },
+        "item": "Flyinium Z",
+        "ivs": {
+          "atk": 30,
+          "spa": 30
+        },
+        "moves": [
+          "Brave Bird",
+          "Heat Wave",
+          "Hidden Power Grass",
+          "Knock Off"
+        ],
+        "nature": "Naughty",
+        "species": "Vullaby"
+      }
+    ],
+    "name": "FerroSpritz + Scarf Mudbray"
+  },
+  {
+    "data": [
+      {
+        "ability": "Arena Trap",
+        "evs": {
+          "atk": 156,
+          "hp": 196,
+          "spd": 76,
+          "spe": 76
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "moves": [
+          "Beat Up",
+          "Earthquake",
+          "Final Gambit",
+          "Pursuit"
+        ],
+        "nature": "Jolly",
+        "species": "Diglett"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "atk": 12,
+          "def": 180,
+          "hp": 116,
+          "spa": 12,
+          "spd": 180
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Knock Off",
+          "Recover",
+          "Scald",
+          "Sludge Bomb"
+        ],
+        "nature": "Bold",
+        "species": "Mareanie"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "def": 196,
+          "hp": 236,
+          "spd": 36
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Fake Out",
+          "High Jump Kick",
+          "Knock Off",
+          "U-turn"
+        ],
+        "nature": "Impish",
+        "species": "Mienfoo"
+      },
+      {
+        "ability": "Defiant",
+        "evs": {
+          "atk": 236,
+          "def": 36,
+          "spd": 116,
+          "spe": 116
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Iron Head",
+          "Knock Off",
+          "Stealth Rock",
+          "Sucker Punch"
+        ],
+        "nature": "Adamant",
+        "species": "Pawniard"
+      },
+      {
+        "ability": "Analytic",
+        "evs": {
+          "def": 76,
+          "spa": 196,
+          "spe": 236
+        },
+        "item": "Icium Z",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Blizzard",
+          "Hydro Pump",
+          "Psychic",
+          "Thunderbolt"
+        ],
+        "nature": "Timid",
+        "species": "Staryu"
+      },
+      {
+        "ability": "Overcoat",
+        "evs": {
+          "atk": 156,
+          "hp": 116,
+          "spd": 160,
+          "spe": 40
+        },
+        "item": "Berry Juice",
+        "ivs": {
+          "def": 30,
+          "spa": 30,
+          "spd": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Brave Bird",
+          "Hidden Power Fighting",
+          "Knock Off",
+          "U-turn"
+        ],
+        "nature": "Docile",
+        "species": "Vullaby"
+      }
+    ],
+    "name": "Icium-Z Staryu"
+  },
+  {
+    "data": [
+      {
+        "ability": "Levitate",
+        "evs": {
+          "spa": 200,
+          "spd": 80,
+          "spe": 200
+        },
+        "gender": "F",
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 1,
+          "def": 30,
+          "spa": 30,
+          "spd": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Hidden Power Fighting",
+          "Shadow Ball",
+          "Sludge Bomb",
+          "Substitute"
+        ],
+        "nature": "Timid",
+        "shiny": true,
+        "species": "Gastly"
+      },
+      {
+        "ability": "Arena Trap",
+        "evs": {
+          "atk": 156,
+          "hp": 116,
+          "spe": 236
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Beat Up",
+          "Earthquake",
+          "Final Gambit",
+          "Pursuit"
+        ],
+        "nature": "Jolly",
+        "species": "Diglett"
+      },
+      {
+        "ability": "Iron Barbs",
+        "evs": {
+          "atk": 36,
+          "def": 108,
+          "hp": 84,
+          "spa": 4,
+          "spd": 228,
+          "spe": 36
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Giga Drain",
+          "Knock Off",
+          "Stealth Rock",
+          "Thunder Wave"
+        ],
+        "nature": "Relaxed",
+        "species": "Ferroseed"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "atk": 12,
+          "def": 180,
+          "hp": 116,
+          "spa": 12,
+          "spd": 180
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Knock Off",
+          "Recover",
+          "Scald",
+          "Sludge Bomb"
+        ],
+        "nature": "Bold",
+        "species": "Mareanie"
+      },
+      {
+        "ability": "Reckless",
+        "evs": {
+          "atk": 236,
+          "def": 36,
+          "spe": 236
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "moves": [
+          "Drain Punch",
+          "High Jump Kick",
+          "Knock Off",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "species": "Mienfoo"
+      },
+      {
+        "ability": "Weak Armor",
+        "evs": {
+          "atk": 236,
+          "def": 76,
+          "spa": 80,
+          "spe": 116
+        },
+        "item": "Flyinium Z",
+        "ivs": {
+          "hp": 30,
+          "spa": 30
+        },
+        "moves": [
+          "Brave Bird",
+          "Heat Wave",
+          "Hidden Power Grass",
+          "Knock Off"
+        ],
+        "nature": "Naughty",
+        "species": "Vullaby"
+      }
+    ],
+    "name": "Scarf Mienfoo Offense"
+  },
+  {
+    "data": [
+      {
+        "ability": "Reckless",
+        "evs": {
+          "atk": 236,
+          "def": 36,
+          "spe": 236
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "moves": [
+          "Drain Punch",
+          "High Jump Kick",
+          "Knock Off",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "species": "Mienfoo"
+      },
+      {
+        "ability": "Arena Trap",
+        "evs": {
+          "atk": 236,
+          "hp": 36,
+          "spe": 236
+        },
+        "gender": "M",
+        "item": "Groundium Z",
+        "moves": [
+          "Earthquake",
+          "Pursuit",
+          "Rock Slide",
+          "Screech"
+        ],
+        "nature": "Jolly",
+        "species": "Diglett"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "def": 156,
+          "hp": 124,
+          "spd": 156
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Giga Drain",
+          "Sludge Bomb",
+          "Spore",
+          "Synthesis"
+        ],
+        "nature": "Bold",
+        "species": "Foongus"
+      },
+      {
+        "ability": "Weak Armor",
+        "evs": {
+          "atk": 236,
+          "hp": 76,
+          "spe": 196
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Rock Blast",
+          "Stealth Rock"
+        ],
+        "nature": "Jolly",
+        "species": "Onix"
+      },
+      {
+        "ability": "Iron Fist",
+        "evs": {
+          "atk": 196,
+          "def": 76,
+          "hp": 76,
+          "spd": 156
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Drain Punch",
+          "Ice Punch",
+          "Knock Off",
+          "Mach Punch"
+        ],
+        "nature": "Adamant",
+        "species": "Timburr"
+      },
+      {
+        "ability": "Weak Armor",
+        "evs": {
+          "atk": 236,
+          "def": 76,
+          "spe": 196
+        },
+        "item": "Berry Juice",
+        "moves": [
+          "Brave Bird",
+          "Defog",
+          "Knock Off",
+          "U-turn"
+        ],
+        "nature": "Adamant",
+        "species": "Vullaby"
+      }
+    ],
+    "name": "Screech Diglett Fightspam"
+  },
+  {
+    "data": [
+      {
+        "ability": "Snow Warning",
+        "evs": {
+          "def": 36,
+          "hp": 212,
+          "spe": 236
+        },
+        "gender": "M",
+        "item": "Light Clay",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Aurora Veil",
+          "Blizzard",
+          "Encore",
+          "Safeguard"
+        ],
+        "nature": "Timid",
+        "species": "Vulpix-Alola"
+      },
+      {
+        "ability": "Arena Trap",
+        "evs": {
+          "atk": 236,
+          "hp": 36,
+          "spe": 236
+        },
+        "gender": "M",
+        "item": "Focus Sash",
+        "moves": [
+          "Earthquake",
+          "Memento",
+          "Protect",
+          "Stealth Rock"
+        ],
+        "nature": "Jolly",
+        "species": "Diglett"
+      },
+      {
+        "ability": "Vital Spirit",
+        "evs": {
+          "atk": 156,
+          "hp": 76,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Berry Juice",
+        "moves": [
+          "Belly Drum",
+          "Fire Punch",
+          "Mach Punch",
+          "Thunder Punch"
+        ],
+        "nature": "Jolly",
+        "species": "Magby"
+      },
+      {
+        "ability": "Moxie",
+        "evs": {
+          "atk": 156,
+          "def": 36,
+          "hp": 36,
+          "spd": 36,
+          "spe": 212
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Dragon Dance",
+          "Dual Chop",
+          "High Jump Kick",
+          "Zen Headbutt"
+        ],
+        "nature": "Adamant",
+        "species": "Scraggy"
+      },
+      {
+        "ability": "Aroma Veil",
+        "evs": {
+          "def": 116,
+          "hp": 52,
+          "spa": 252,
+          "spd": 76,
+          "spe": 12
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Moonblast",
+          "Nasty Plot",
+          "Psychic",
+          "Trick Room"
+        ],
+        "nature": "Modest",
+        "species": "Spritzee"
+      },
+      {
+        "ability": "Weak Armor",
+        "evs": {
+          "hp": 36,
+          "spa": 240,
+          "spe": 196
+        },
+        "item": "Berry Juice",
+        "ivs": {
+          "atk": 0,
+          "spa": 30
+        },
+        "moves": [
+          "Air Slash",
+          "Heat Wave",
+          "Hidden Power Grass",
+          "Nasty Plot"
+        ],
+        "nature": "Modest",
+        "species": "Vullaby"
+      }
+    ],
+    "name": "Veils Setup Spam"
+  },
+  {
+    "data": [
+      {
+        "ability": "Arena Trap",
+        "evs": {
+          "atk": 156,
+          "hp": 116,
+          "spe": 236
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "moves": [
+          "Beat Up",
+          "Earthquake",
+          "Final Gambit",
+          "Rock Tomb"
+        ],
+        "nature": "Jolly",
+        "species": "Diglett"
+      },
+      {
+        "ability": "Magic Guard",
+        "evs": {
+          "def": 156,
+          "spa": 80,
+          "spe": 200
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "ivs": {
+          "atk": 0,
+          "spa": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Dazzling Gleam",
+          "Energy Ball",
+          "Hidden Power Fire",
+          "Psychic"
+        ],
+        "nature": "Timid",
+        "species": "Abra"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "spa": 200,
+          "spd": 80,
+          "spe": 200
+        },
+        "gender": "F",
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 1,
+          "def": 30,
+          "spa": 30,
+          "spd": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Hidden Power Fighting",
+          "Psychic",
+          "Sludge Bomb",
+          "Thunderbolt"
+        ],
+        "nature": "Timid",
+        "species": "Gastly"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "def": 196,
+          "hp": 76,
+          "spd": 196
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "High Jump Kick",
+          "Knock Off",
+          "Sleep Talk",
+          "U-turn"
+        ],
+        "nature": "Impish",
+        "species": "Mienfoo"
+      },
+      {
+        "ability": "Weak Armor",
+        "evs": {
+          "atk": 236,
+          "hp": 76,
+          "spe": 196
+        },
+        "gender": "M",
+        "item": "Groundium Z",
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Rock Blast",
+          "Stealth Rock"
+        ],
+        "nature": "Jolly",
+        "species": "Onix"
+      },
+      {
+        "ability": "Weak Armor",
+        "evs": {
+          "atk": 236,
+          "def": 76,
+          "spa": 80,
+          "spe": 116
+        },
+        "item": "Flyinium Z",
+        "ivs": {
+          "hp": 30,
+          "spa": 30
+        },
+        "moves": [
+          "Brave Bird",
+          "Heat Wave",
+          "Hidden Power Grass",
+          "Knock Off"
+        ],
+        "nature": "Naughty",
+        "species": "Vullaby"
+      }
+    ],
+    "name": "GastBra Hyper-Offense"
+  },
+  {
+    "data": [
+      {
+        "ability": "Stamina",
+        "evs": {
+          "atk": 196,
+          "def": 36,
+          "hp": 116,
+          "spe": 156
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Counter",
+          "Earthquake",
+          "Heavy Slam",
+          "Stealth Rock"
+        ],
+        "nature": "Adamant",
+        "species": "Mudbray"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "def": 156,
+          "hp": 124,
+          "spd": 156
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "ivs": {
+          "atk": 0,
+          "spa": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Giga Drain",
+          "Hidden Power Fire",
+          "Sludge Bomb",
+          "Spore"
+        ],
+        "nature": "Bold",
+        "species": "Foongus"
+      },
+      {
+        "ability": "Defiant",
+        "evs": {
+          "atk": 236,
+          "def": 36,
+          "spd": 36,
+          "spe": 196
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "moves": [
+          "Iron Head",
+          "Knock Off",
+          "Pursuit",
+          "Sucker Punch"
+        ],
+        "nature": "Jolly",
+        "species": "Pawniard"
+      },
+      {
+        "ability": "Flame Body",
+        "evs": {
+          "atk": 76,
+          "def": 156,
+          "spd": 76,
+          "spe": 196
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Flame Charge",
+          "Flare Blitz",
+          "Morning Sun",
+          "Will-O-Wisp"
+        ],
+        "nature": "Jolly",
+        "species": "Ponyta"
+      },
+      {
+        "ability": "Analytic",
+        "evs": {
+          "def": 156,
+          "spa": 116,
+          "spe": 236
+        },
+        "item": "Eviolite",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Hydro Pump",
+          "Rapid Spin",
+          "Recover",
+          "Thunderbolt"
+        ],
+        "nature": "Timid",
+        "species": "Staryu"
+      },
+      {
+        "ability": "Weak Armor",
+        "evs": {
+          "hp": 116,
+          "spa": 236,
+          "spe": 116
+        },
+        "item": "Berry Juice",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Air Slash",
+          "Dark Pulse",
+          "Heat Wave",
+          "Nasty Plot"
+        ],
+        "nature": "Modest",
+        "species": "Vullaby"
+      }
+    ],
+    "name": "Scarf Pawniard + NP Vull"
+  },
+  {
+    "data": [
+      {
+        "ability": "Analytic",
+        "evs": {
+          "def": 156,
+          "spa": 116,
+          "spe": 236
+        },
+        "item": "Eviolite",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Hydro Pump",
+          "Psychic",
+          "Recover",
+          "Thunderbolt"
+        ],
+        "nature": "Timid",
+        "species": "Staryu"
+      },
+      {
+        "ability": "Arena Trap",
+        "evs": {
+          "atk": 236,
+          "hp": 36,
+          "spe": 236
+        },
+        "gender": "M",
+        "item": "Groundium Z",
+        "moves": [
+          "Beat Up",
+          "Earthquake",
+          "Substitute",
+          "Sucker Punch"
+        ],
+        "nature": "Jolly",
+        "species": "Diglett"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "def": 156,
+          "hp": 124,
+          "spd": 156
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Giga Drain",
+          "Sludge Bomb",
+          "Spore",
+          "Synthesis"
+        ],
+        "nature": "Bold",
+        "species": "Foongus"
+      },
+      {
+        "ability": "Defiant",
+        "evs": {
+          "atk": 156,
+          "def": 36,
+          "spd": 116,
+          "spe": 196
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Iron Head",
+          "Knock Off",
+          "Stealth Rock",
+          "Sucker Punch"
+        ],
+        "nature": "Jolly",
+        "species": "Pawniard"
+      },
+      {
+        "ability": "Iron Fist",
+        "evs": {
+          "atk": 196,
+          "def": 236,
+          "spd": 76
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Drain Punch",
+          "Ice Punch",
+          "Knock Off",
+          "Mach Punch"
+        ],
+        "nature": "Adamant",
+        "species": "Timburr"
+      },
+      {
+        "ability": "Weak Armor",
+        "evs": {
+          "atk": 76,
+          "hp": 116,
+          "spd": 156,
+          "spe": 116
+        },
+        "item": "Berry Juice",
+        "moves": [
+          "Brave Bird",
+          "Defog",
+          "Knock Off",
+          "U-turn"
+        ],
+        "nature": "Careful",
+        "species": "Vullaby"
+      }
+    ],
+    "name": "Standard Bulky Offense"
+  }
+]

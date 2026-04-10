@@ -1,0 +1,362 @@
+[
+  {
+    "author": "Jho",
+    "data": [
+      {
+        "ability": "Vital Spirit",
+        "evs": {
+          "hp": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Focus Sash",
+        "moves": [
+          "Spikes",
+          "Stealth Rock",
+          "Taunt",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "species": "Fidgit"
+      },
+      {
+        "ability": "Huge Power",
+        "evs": {
+          "atk": 252,
+          "hp": 28,
+          "spe": 228
+        },
+        "gender": "M",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Aqua Jet",
+          "Belly Drum",
+          "Knock Off",
+          "Play Rough"
+        ],
+        "nature": "Adamant",
+        "species": "Azumarill"
+      },
+      {
+        "ability": "Defiant",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Life Orb",
+        "moves": [
+          "Iron Head",
+          "Knock Off",
+          "Sucker Punch",
+          "Swords Dance"
+        ],
+        "nature": "Jolly",
+        "species": "Bisharp"
+      },
+      {
+        "ability": "Forewarn",
+        "evs": {
+          "atk": 252,
+          "hp": 8,
+          "spe": 248
+        },
+        "item": "White Herb",
+        "moves": [
+          "Power Whip",
+          "Shadow Claw",
+          "Shadow Sneak",
+          "Shell Smash"
+        ],
+        "nature": "Adamant",
+        "species": "Necturna"
+      },
+      {
+        "ability": "Hyper Cutter",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "happiness": 255,
+        "item": "Pinsirite",
+        "moves": [
+          "Earthquake",
+          "Quick Attack",
+          "Return",
+          "Swords Dance"
+        ],
+        "nature": "Jolly",
+        "species": "Pinsir"
+      },
+      {
+        "ability": "Contrary",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Light Clay",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Glare",
+          "Leaf Storm",
+          "Light Screen",
+          "Reflect"
+        ],
+        "nature": "Timid",
+        "species": "Serperior"
+      }
+    ],
+    "name": "serp ho"
+  },
+  {
+    "author": "2spoopy4u",
+    "data": [
+      {
+        "ability": "Cute Charm",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "happiness": 0,
+        "item": "Lopunnite",
+        "moves": [
+          "Fake Out",
+          "Frustration",
+          "High Jump Kick",
+          "Ice Punch"
+        ],
+        "nature": "Jolly",
+        "species": "Lopunny"
+      },
+      {
+        "ability": "Mold Breaker",
+        "evs": {
+          "def": 252,
+          "hp": 40,
+          "spe": 216
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Iron Head",
+          "Rapid Spin",
+          "Toxic"
+        ],
+        "nature": "Impish",
+        "species": "Excadrill"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 252,
+          "hp": 248,
+          "spe": 8
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Hydro Pump",
+          "Pain Split",
+          "Volt Switch",
+          "Will-O-Wisp"
+        ],
+        "nature": "Bold",
+        "species": "Rotom-Wash"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "def": 60,
+          "hp": 252,
+          "spd": 196
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Protect",
+          "Scald",
+          "Slack Off",
+          "Thunder Wave"
+        ],
+        "nature": "Calm",
+        "species": "Slowking"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "def": 32,
+          "spa": 252,
+          "spe": 224
+        },
+        "gender": "M",
+        "item": "Sharp Beak",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Earth Power",
+          "Hurricane",
+          "Roost",
+          "Stealth Rock"
+        ],
+        "nature": "Timid",
+        "species": "Tomohawk"
+      },
+      {
+        "ability": "Victory Star",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "moves": [
+          "Bolt Strike",
+          "Trick",
+          "U-turn",
+          "V-create"
+        ],
+        "nature": "Jolly",
+        "species": "Victini"
+      }
+    ],
+    "name": "lop bo"
+  },
+  {
+    "author": "2spoopy4u",
+    "data": [
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Aura Sphere",
+          "Earth Power",
+          "Hurricane",
+          "Roost"
+        ],
+        "nature": "Timid",
+        "species": "Tomohawk"
+      },
+      {
+        "ability": "Magic Guard",
+        "evs": {
+          "def": 252,
+          "hp": 252,
+          "spd": 4
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Flamethrower",
+          "Moonblast",
+          "Soft-Boiled"
+        ],
+        "nature": "Bold",
+        "species": "Clefable"
+      },
+      {
+        "ability": "Rough Skin",
+        "evs": {
+          "def": 168,
+          "hp": 248,
+          "spe": 92
+        },
+        "gender": "M",
+        "item": "Rocky Helmet",
+        "moves": [
+          "Dragon Tail",
+          "Earthquake",
+          "Fire Blast",
+          "Stealth Rock"
+        ],
+        "nature": "Impish",
+        "species": "Garchomp"
+      },
+      {
+        "ability": "Clear Body",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Metagrossite",
+        "moves": [
+          "Meteor Mash",
+          "Pursuit",
+          "Thunder Punch",
+          "Zen Headbutt"
+        ],
+        "nature": "Jolly",
+        "species": "Metagross"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 252,
+          "hp": 248,
+          "spd": 8
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0,
+          "spe": 30
+        },
+        "moves": [
+          "Hydro Pump",
+          "Pain Split",
+          "Volt Switch",
+          "Will-O-Wisp"
+        ],
+        "nature": "Bold",
+        "species": "Rotom-Wash"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "hp": 96,
+          "spa": 160,
+          "spe": 252
+        },
+        "item": "Assault Vest",
+        "moves": [
+          "Hurricane",
+          "Knock Off",
+          "Superpower",
+          "U-turn"
+        ],
+        "nature": "Hasty",
+        "species": "Tornadus-Therian"
+      }
+    ],
+    "name": "offensive hawk"
+  }
+]

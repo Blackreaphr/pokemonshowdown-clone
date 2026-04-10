@@ -1,0 +1,497 @@
+[
+  {
+    "author": "MrAldo",
+    "data": [
+      {
+        "ability": "Levitate",
+        "evs": {
+          "hp": 252,
+          "spa": 40,
+          "spe": 216
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Psychic",
+          "Substitute",
+          "Thunderbolt"
+        ],
+        "nature": "Timid",
+        "species": "Uxie"
+      },
+      {
+        "ability": "Swarm",
+        "evs": {
+          "atk": 252,
+          "hp": 132,
+          "spe": 124
+        },
+        "gender": "M",
+        "happiness": 255,
+        "item": "Custap Berry",
+        "moves": [
+          "Endure",
+          "Megahorn",
+          "Return",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Escavalier"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 4,
+          "hp": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Black Sludge",
+        "moves": [
+          "Destiny Bond",
+          "Spikes",
+          "Taunt",
+          "Waterfall"
+        ],
+        "nature": "Jolly",
+        "species": "Qwilfish"
+      },
+      {
+        "ability": "Rock Head",
+        "evs": {
+          "atk": 56,
+          "def": 60,
+          "hp": 108,
+          "spd": 252,
+          "spe": 32
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Earthquake",
+          "Megahorn",
+          "Stealth Rock",
+          "Stone Edge"
+        ],
+        "nature": "Adamant",
+        "species": "Rhydon"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Shadow Ball",
+          "Thunderbolt",
+          "Volt Switch",
+          "Will-O-Wisp"
+        ],
+        "nature": "Timid",
+        "species": "Rotom"
+      },
+      {
+        "ability": "Unburden",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Flying Gem",
+        "moves": [
+          "Acrobatics",
+          "Earthquake",
+          "Leaf Blade",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Sceptile"
+      }
+    ],
+    "name": "Sceptile + CM Uxie Offense"
+  },
+  {
+    "author": "Luna",
+    "data": [
+      {
+        "ability": "Sturdy",
+        "evs": {
+          "atk": 4,
+          "def": 184,
+          "hp": 252,
+          "spd": 44,
+          "spe": 24
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Roar",
+          "Stealth Rock",
+          "Toxic"
+        ],
+        "nature": "Impish",
+        "species": "Steelix"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "atk": 220,
+          "spa": 36,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Life Orb",
+        "moves": [
+          "Earthquake",
+          "Fire Blast",
+          "Roost",
+          "Stone Edge"
+        ],
+        "nature": "Hasty",
+        "species": "Aerodactyl"
+      },
+      {
+        "ability": "Magnet Pull",
+        "evs": {
+          "hp": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 2,
+          "spa": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Flash Cannon",
+          "Hidden Power Fire",
+          "Thunderbolt",
+          "Volt Switch"
+        ],
+        "nature": "Timid",
+        "species": "Magneton"
+      },
+      {
+        "ability": "Unburden",
+        "evs": {
+          "atk": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Flying Gem",
+        "ivs": {
+          "atk": 30,
+          "spa": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Acrobatics",
+          "Hidden Power Fire",
+          "Leaf Storm",
+          "Rock Slide"
+        ],
+        "nature": "Mild",
+        "species": "Sceptile"
+      },
+      {
+        "ability": "Aftermath",
+        "evs": {
+          "atk": 252,
+          "spa": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Life Orb",
+        "moves": [
+          "Crunch",
+          "Fire Blast",
+          "Pursuit",
+          "Sucker Punch"
+        ],
+        "nature": "Lonely",
+        "species": "Skuntank"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "hp": 96,
+          "spa": 188,
+          "spe": 224
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Psychic",
+          "Signal Beam",
+          "Substitute"
+        ],
+        "nature": "Timid",
+        "species": "Uxie"
+      }
+    ],
+    "name": "Skunk Offense"
+  },
+  {
+    "author": "MrAldo",
+    "data": [
+      {
+        "ability": "Compound Eyes",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Specs",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Bug Buzz",
+          "Giga Drain",
+          "Thunder",
+          "Volt Switch"
+        ],
+        "nature": "Timid",
+        "species": "Galvantula"
+      },
+      {
+        "ability": "Sheer Force",
+        "evs": {
+          "atk": 252,
+          "hp": 64,
+          "spe": 192
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "moves": [
+          "Fire Punch",
+          "Outrage",
+          "Sucker Punch",
+          "Thunder Punch"
+        ],
+        "nature": "Adamant",
+        "species": "Druddigon"
+      },
+      {
+        "ability": "Iron Fist",
+        "evs": {
+          "atk": 224,
+          "def": 4,
+          "hp": 64,
+          "spe": 216
+        },
+        "item": "Rindo Berry",
+        "moves": [
+          "Earthquake",
+          "Ice Punch",
+          "Shadow Punch",
+          "Stealth Rock"
+        ],
+        "nature": "Adamant",
+        "species": "Golurk"
+      },
+      {
+        "ability": "Weak Armor",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Rock Gem",
+        "moves": [
+          "Aqua Jet",
+          "Rapid Spin",
+          "Stone Edge",
+          "Waterfall"
+        ],
+        "nature": "Adamant",
+        "species": "Kabutops"
+      },
+      {
+        "ability": "Magnet Pull",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 2,
+          "spa": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Flash Cannon",
+          "Hidden Power Fire",
+          "Thunderbolt",
+          "Volt Switch"
+        ],
+        "nature": "Timid",
+        "species": "Magneton"
+      },
+      {
+        "ability": "Magic Guard",
+        "evs": {
+          "def": 76,
+          "spa": 180,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Heat Wave",
+          "Psychic",
+          "Roost"
+        ],
+        "nature": "Timid",
+        "species": "Sigilyph"
+      }
+    ],
+    "name": "Double Electric Whammy"
+  },
+  {
+    "author": "DnB",
+    "data": [
+      {
+        "ability": "No Guard",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Life Orb",
+        "moves": [
+          "Dynamic Punch",
+          "Earthquake",
+          "Rock Polish",
+          "Shadow Punch"
+        ],
+        "nature": "Adamant",
+        "shiny": true,
+        "species": "Golurk"
+      },
+      {
+        "ability": "Hustle",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Lum Berry",
+        "moves": [
+          "Hone Claws",
+          "Superpower",
+          "Thunder Fang",
+          "X-Scissor"
+        ],
+        "nature": "Jolly",
+        "shiny": true,
+        "species": "Durant"
+      },
+      {
+        "ability": "Torrent",
+        "evs": {
+          "atk": 252,
+          "hp": 40,
+          "spe": 216
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Aqua Jet",
+          "Crunch",
+          "Substitute",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Feraligatr"
+      },
+      {
+        "ability": "Weak Armor",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Focus Sash",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Ice Beam",
+          "Scald",
+          "Spikes",
+          "Stealth Rock"
+        ],
+        "nature": "Timid",
+        "shiny": true,
+        "species": "Omastar"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Shadow Ball",
+          "Thunderbolt",
+          "Trick",
+          "Volt Switch"
+        ],
+        "nature": "Timid",
+        "shiny": true,
+        "species": "Rotom"
+      },
+      {
+        "ability": "Unburden",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Flying Gem",
+        "moves": [
+          "Acrobatics",
+          "Earthquake",
+          "Leaf Blade",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "shiny": true,
+        "species": "Sceptile"
+      }
+    ],
+    "name": "Golurk and Sash Omastar"
+  }
+]

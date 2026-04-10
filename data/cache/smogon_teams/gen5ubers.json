@@ -1,0 +1,2338 @@
+[
+  {
+    "data": [
+      {
+        "ability": "Pressure",
+        "evs": {
+          "def": 196,
+          "hp": 248,
+          "spd": 44,
+          "spe": 20
+        },
+        "item": "Rocky Helmet",
+        "ivs": {
+          "atk": 2,
+          "spa": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Dark Pulse",
+          "Hidden Power Fire",
+          "Spikes",
+          "Stealth Rock"
+        ],
+        "nature": "Timid",
+        "species": "Deoxys-Speed"
+      },
+      {
+        "ability": "Multitype",
+        "evs": {
+          "atk": 252,
+          "hp": 128,
+          "spe": 128
+        },
+        "item": "Silk Scarf",
+        "moves": [
+          "Earthquake",
+          "Extreme Speed",
+          "Shadow Claw",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Arceus"
+      },
+      {
+        "ability": "Bad Dreams",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Dark Pulse",
+          "Dark Void",
+          "Focus Blast",
+          "Taunt"
+        ],
+        "nature": "Timid",
+        "species": "Darkrai"
+      },
+      {
+        "ability": "Download",
+        "evs": {
+          "atk": 232,
+          "spa": 8,
+          "spd": 16,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "moves": [
+          "Explosion",
+          "Ice Beam",
+          "Iron Head",
+          "U-turn"
+        ],
+        "nature": "Hasty",
+        "shiny": true,
+        "species": "Genesect"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "atk": 176,
+          "def": 248,
+          "spe": 84
+        },
+        "item": "Griseous Orb",
+        "moves": [
+          "Dragon Tail",
+          "Magic Coat",
+          "Shadow Sneak",
+          "Will-O-Wisp"
+        ],
+        "nature": "Adamant",
+        "species": "Giratina-Origin"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 12,
+          "spa": 228,
+          "spd": 16,
+          "spe": 252
+        },
+        "item": "Soul Dew",
+        "ivs": {
+          "atk": 2,
+          "spa": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Draco Meteor",
+          "Hidden Power Fire",
+          "Psyshock",
+          "Surf"
+        ],
+        "nature": "Timid",
+        "species": "Latios"
+      }
+    ],
+    "name": "Deoxys-S Offense"
+  },
+  {
+    "data": [
+      {
+        "ability": "Pressure",
+        "evs": {
+          "hp": 252,
+          "spa": 4,
+          "spe": 252
+        },
+        "item": "Rocky Helmet",
+        "moves": [
+          "Dark Pulse",
+          "Spikes",
+          "Stealth Rock",
+          "Taunt"
+        ],
+        "nature": "Timid",
+        "species": "Deoxys-Speed"
+      },
+      {
+        "ability": "Multitype",
+        "evs": {
+          "hp": 248,
+          "spa": 8,
+          "spe": 252
+        },
+        "item": "Iron Plate",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Judgment",
+          "Recover",
+          "Thunder"
+        ],
+        "nature": "Timid",
+        "species": "Arceus-Steel"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "atk": 168,
+          "def": 248,
+          "spe": 92
+        },
+        "item": "Griseous Orb",
+        "moves": [
+          "Dragon Tail",
+          "Earthquake",
+          "Magic Coat",
+          "Shadow Sneak"
+        ],
+        "nature": "Adamant",
+        "species": "Giratina-Origin"
+      },
+      {
+        "ability": "Swift Swim",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Life Orb",
+        "moves": [
+          "Low Kick",
+          "Rapid Spin",
+          "Stone Edge",
+          "Waterfall"
+        ],
+        "nature": "Adamant",
+        "species": "Kabutops"
+      },
+      {
+        "ability": "Drizzle",
+        "evs": {
+          "hp": 168,
+          "spa": 252,
+          "spe": 88
+        },
+        "item": "Choice Specs",
+        "moves": [
+          "Hydro Pump",
+          "Ice Beam",
+          "Thunder",
+          "Water Spout"
+        ],
+        "nature": "Modest",
+        "species": "Kyogre"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Haban Berry",
+        "moves": [
+          "Dragon Tail",
+          "Fire Blast",
+          "Hydro Pump",
+          "Spacial Rend"
+        ],
+        "nature": "Timid",
+        "species": "Palkia"
+      }
+    ],
+    "name": "Steel Arceus Offense"
+  },
+  {
+    "author": "Steelskitty",
+    "data": [
+      {
+        "ability": "Pressure",
+        "evs": {
+          "atk": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Focus Sash",
+        "moves": [
+          "Dark Pulse",
+          "Extreme Speed",
+          "Spikes",
+          "Superpower"
+        ],
+        "nature": "Naive",
+        "species": "Deoxys-Attack"
+      },
+      {
+        "ability": "Multitype",
+        "evs": {
+          "hp": 160,
+          "spa": 96,
+          "spe": 252
+        },
+        "item": "Spooky Plate",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Focus Blast",
+          "Judgment",
+          "Recover"
+        ],
+        "nature": "Timid",
+        "species": "Arceus-Ghost"
+      },
+      {
+        "ability": "Bad Dreams",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Dark Pulse",
+          "Dark Void",
+          "Focus Blast",
+          "Taunt"
+        ],
+        "nature": "Timid",
+        "species": "Darkrai"
+      },
+      {
+        "ability": "Download",
+        "evs": {
+          "atk": 248,
+          "spa": 8,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "moves": [
+          "Flamethrower",
+          "Ice Beam",
+          "Iron Head",
+          "U-turn"
+        ],
+        "nature": "Naive",
+        "species": "Genesect"
+      },
+      {
+        "ability": "Drought",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "item": "Earth Plate",
+        "moves": [
+          "Dragon Tail",
+          "Earthquake",
+          "Stealth Rock",
+          "Stone Edge"
+        ],
+        "nature": "Jolly",
+        "species": "Groudon"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "hp": 24,
+          "spa": 252,
+          "spd": 48,
+          "spe": 184
+        },
+        "item": "Soul Dew",
+        "ivs": {
+          "atk": 2,
+          "spa": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Draco Meteor",
+          "Hidden Power Fire",
+          "Psyshock",
+          "Roar"
+        ],
+        "nature": "Timid",
+        "species": "Latias"
+      }
+    ],
+    "name": "Hazard Stack Sun HO"
+  },
+  {
+    "author": "Hack",
+    "data": [
+      {
+        "ability": "Mold Breaker",
+        "evs": {
+          "atk": 92,
+          "hp": 32,
+          "spd": 252,
+          "spe": 132
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Protect",
+          "Rapid Spin",
+          "Toxic"
+        ],
+        "nature": "Adamant",
+        "species": "Excadrill"
+      },
+      {
+        "ability": "Multitype",
+        "evs": {
+          "def": 8,
+          "hp": 248,
+          "spe": 252
+        },
+        "item": "Spooky Plate",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Judgment",
+          "Recover",
+          "Stealth Rock",
+          "Will-O-Wisp"
+        ],
+        "nature": "Timid",
+        "species": "Arceus-Ghost"
+      },
+      {
+        "ability": "Iron Barbs",
+        "evs": {
+          "def": 8,
+          "hp": 248,
+          "spd": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "spe": 0
+        },
+        "moves": [
+          "Gyro Ball",
+          "Knock Off",
+          "Leech Seed",
+          "Spikes"
+        ],
+        "nature": "Careful",
+        "species": "Ferrothorn"
+      },
+      {
+        "ability": "Download",
+        "evs": {
+          "atk": 8,
+          "spa": 248,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "moves": [
+          "Bug Buzz",
+          "Ice Beam",
+          "Thunder",
+          "U-turn"
+        ],
+        "nature": "Naive",
+        "species": "Genesect"
+      },
+      {
+        "ability": "Drizzle",
+        "evs": {
+          "def": 120,
+          "hp": 252,
+          "spd": 136
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Rest",
+          "Roar",
+          "Scald",
+          "Sleep Talk"
+        ],
+        "nature": "Calm",
+        "species": "Kyogre"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "hp": 88,
+          "spa": 168,
+          "spe": 252
+        },
+        "item": "Soul Dew",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Draco Meteor",
+          "Roar",
+          "Roost",
+          "Thunder"
+        ],
+        "nature": "Timid",
+        "species": "Latias"
+      }
+    ],
+    "name": "Pi Face Revamp"
+  },
+  {
+    "data": [
+      {
+        "ability": "Bad Dreams",
+        "evs": {
+          "hp": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Focus Sash",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Dark Pulse",
+          "Dark Void",
+          "Focus Blast",
+          "Taunt"
+        ],
+        "nature": "Timid",
+        "species": "Darkrai"
+      },
+      {
+        "ability": "Multitype",
+        "evs": {
+          "atk": 252,
+          "hp": 128,
+          "spe": 128
+        },
+        "item": "Silk Scarf",
+        "moves": [
+          "Brick Break",
+          "Extreme Speed",
+          "Shadow Claw",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Arceus"
+      },
+      {
+        "ability": "Magic Bounce",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "F",
+        "item": "Focus Sash",
+        "ivs": {
+          "atk": 3,
+          "def": 30,
+          "spa": 30,
+          "spd": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Grass Knot",
+          "Hidden Power Fighting",
+          "Psyshock",
+          "Shadow Ball"
+        ],
+        "nature": "Timid",
+        "species": "Espeon"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "atk": 156,
+          "def": 248,
+          "spe": 104
+        },
+        "item": "Griseous Orb",
+        "moves": [
+          "Dragon Tail",
+          "Earthquake",
+          "Outrage",
+          "Shadow Sneak"
+        ],
+        "nature": "Adamant",
+        "species": "Giratina-Origin"
+      },
+      {
+        "ability": "Drought",
+        "evs": {
+          "hp": 240,
+          "spd": 252,
+          "spe": 16
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Stealth Rock",
+          "Stone Edge",
+          "Thunder Wave"
+        ],
+        "nature": "Careful",
+        "species": "Groudon"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        },
+        "item": "Choice Band",
+        "moves": [
+          "Brave Bird",
+          "Earthquake",
+          "Sacred Fire",
+          "Sleep Talk"
+        ],
+        "nature": "Jolly",
+        "species": "Ho-Oh"
+      }
+    ],
+    "name": "Dracomasters \"Magic\" Sun"
+  },
+  {
+    "data": [
+      {
+        "ability": "Pressure",
+        "evs": {
+          "hp": 240,
+          "spa": 16,
+          "spe": 252
+        },
+        "item": "Rocky Helmet",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Dark Pulse",
+          "Spikes",
+          "Stealth Rock",
+          "Taunt"
+        ],
+        "nature": "Timid",
+        "species": "Deoxys-Speed"
+      },
+      {
+        "ability": "Multitype",
+        "evs": {
+          "hp": 248,
+          "spa": 8,
+          "spe": 252
+        },
+        "item": "Fist Plate",
+        "moves": [
+          "Judgment",
+          "Recover",
+          "Stone Edge",
+          "Toxic"
+        ],
+        "nature": "Timid",
+        "species": "Arceus-Fighting"
+      },
+      {
+        "ability": "Download",
+        "evs": {
+          "atk": 248,
+          "spa": 8,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "moves": [
+          "Explosion",
+          "Ice Beam",
+          "Iron Head",
+          "U-turn"
+        ],
+        "nature": "Naive",
+        "species": "Genesect"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "atk": 160,
+          "def": 252,
+          "spe": 96
+        },
+        "item": "Griseous Orb",
+        "moves": [
+          "Dragon Tail",
+          "Earthquake",
+          "Shadow Sneak",
+          "Substitute"
+        ],
+        "nature": "Adamant",
+        "species": "Giratina-Origin"
+      },
+      {
+        "ability": "Drizzle",
+        "evs": {
+          "hp": 88,
+          "spa": 252,
+          "spe": 168
+        },
+        "item": "Choice Specs",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Hydro Pump",
+          "Ice Beam",
+          "Thunder",
+          "Water Spout"
+        ],
+        "nature": "Modest",
+        "species": "Kyogre"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "hp": 112,
+          "spa": 200,
+          "spe": 196
+        },
+        "item": "Soul Dew",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Draco Meteor",
+          "Psyshock",
+          "Recover"
+        ],
+        "nature": "Timid",
+        "species": "Latias"
+      }
+    ],
+    "name": "Fight Arceus + CM Latias Balance"
+  },
+  {
+    "data": [
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "atk": 64,
+          "hp": 248,
+          "spd": 184,
+          "spe": 12
+        },
+        "gender": "M",
+        "item": "Lum Berry",
+        "moves": [
+          "Crunch",
+          "Pursuit",
+          "Stealth Rock",
+          "Superpower"
+        ],
+        "nature": "Adamant",
+        "species": "Tyranitar"
+      },
+      {
+        "ability": "Multitype",
+        "evs": {
+          "def": 4,
+          "hp": 248,
+          "spa": 4,
+          "spe": 252
+        },
+        "item": "Meadow Plate",
+        "moves": [
+          "Ice Beam",
+          "Judgment",
+          "Recover",
+          "Will-O-Wisp"
+        ],
+        "nature": "Timid",
+        "species": "Arceus-Grass"
+      },
+      {
+        "ability": "Sand Rush",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Air Balloon",
+        "moves": [
+          "Earthquake",
+          "Iron Head",
+          "Rapid Spin",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Excadrill"
+      },
+      {
+        "ability": "Download",
+        "evs": {
+          "atk": 248,
+          "spa": 8,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "moves": [
+          "Explosion",
+          "Ice Beam",
+          "Iron Head",
+          "U-turn"
+        ],
+        "nature": "Naive",
+        "species": "Genesect"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "atk": 176,
+          "hp": 208,
+          "spd": 28,
+          "spe": 96
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Brave Bird",
+          "Roost",
+          "Sacred Fire",
+          "Substitute"
+        ],
+        "nature": "Adamant",
+        "species": "Ho-Oh"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Lustrous Orb",
+        "moves": [
+          "Dragon Tail",
+          "Fire Blast",
+          "Hydro Pump",
+          "Spacial Rend"
+        ],
+        "nature": "Timid",
+        "species": "Palkia"
+      }
+    ],
+    "name": "IDM Standard Sand"
+  },
+  {
+    "author": "steelskitty",
+    "data": [
+      {
+        "ability": "Pressure",
+        "evs": {
+          "atk": 48,
+          "spa": 208,
+          "spe": 252
+        },
+        "item": "Life Orb",
+        "ivs": {
+          "hp": 29
+        },
+        "moves": [
+          "Extreme Speed",
+          "Psycho Boost",
+          "Superpower",
+          "Taunt"
+        ],
+        "nature": "Rash",
+        "species": "Deoxys-Attack"
+      },
+      {
+        "ability": "Multitype",
+        "evs": {
+          "atk": 252,
+          "hp": 128,
+          "spe": 128
+        },
+        "item": "Silk Scarf",
+        "moves": [
+          "Earthquake",
+          "Extreme Speed",
+          "Shadow Claw",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Arceus"
+      },
+      {
+        "ability": "Iron Barbs",
+        "evs": {
+          "def": 4,
+          "hp": 248,
+          "spd": 252,
+          "spe": 4
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "spe": 0
+        },
+        "moves": [
+          "Gyro Ball",
+          "Leech Seed",
+          "Spikes",
+          "Stealth Rock"
+        ],
+        "nature": "Sassy",
+        "shiny": true,
+        "species": "Ferrothorn"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "atk": 208,
+          "def": 252,
+          "spe": 48
+        },
+        "item": "Griseous Orb",
+        "moves": [
+          "Dragon Tail",
+          "Magic Coat",
+          "Shadow Sneak",
+          "Will-O-Wisp"
+        ],
+        "nature": "Adamant",
+        "shiny": true,
+        "species": "Giratina-Origin"
+      },
+      {
+        "ability": "Swift Swim",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 0,
+          "hp": 29
+        },
+        "moves": [
+          "Draco Meteor",
+          "Dragon Pulse",
+          "Hydro Pump",
+          "Yawn"
+        ],
+        "nature": "Modest",
+        "species": "Kingdra"
+      },
+      {
+        "ability": "Drizzle",
+        "evs": {
+          "hp": 248,
+          "spd": 216,
+          "spe": 44
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Rest",
+          "Roar",
+          "Scald",
+          "Sleep Talk"
+        ],
+        "nature": "Calm",
+        "species": "Kyogre"
+      }
+    ],
+    "name": "inalienable dreamless"
+  },
+  {
+    "author": "Problems n' Hack",
+    "data": [
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "atk": 252,
+          "spa": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Focus Sash",
+        "moves": [
+          "Crunch",
+          "Fire Blast",
+          "Stealth Rock",
+          "Superpower"
+        ],
+        "nature": "Hasty",
+        "species": "Tyranitar"
+      },
+      {
+        "ability": "Multitype",
+        "evs": {
+          "def": 8,
+          "hp": 248,
+          "spe": 252
+        },
+        "item": "Fist Plate",
+        "moves": [
+          "Judgment",
+          "Recover",
+          "Stone Edge",
+          "Toxic"
+        ],
+        "nature": "Timid",
+        "species": "Arceus-Fighting"
+      },
+      {
+        "ability": "Iron Barbs",
+        "evs": {
+          "atk": 4,
+          "hp": 252,
+          "spd": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Knock Off",
+          "Leech Seed",
+          "Power Whip",
+          "Spikes"
+        ],
+        "nature": "Careful",
+        "species": "Ferrothorn"
+      },
+      {
+        "ability": "Download",
+        "evs": {
+          "atk": 8,
+          "spa": 248,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "moves": [
+          "Bug Buzz",
+          "Ice Beam",
+          "Thunder",
+          "U-turn"
+        ],
+        "nature": "Naive",
+        "species": "Genesect"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "atk": 156,
+          "def": 248,
+          "spe": 104
+        },
+        "item": "Griseous Orb",
+        "moves": [
+          "Dragon Tail",
+          "Earthquake",
+          "Shadow Sneak",
+          "Substitute"
+        ],
+        "nature": "Adamant",
+        "species": "Giratina-Origin"
+      },
+      {
+        "ability": "Drizzle",
+        "evs": {
+          "hp": 248,
+          "spd": 224,
+          "spe": 36
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Rest",
+          "Roar",
+          "Scald",
+          "Sleep Talk"
+        ],
+        "nature": "Calm",
+        "species": "Kyogre"
+      }
+    ],
+    "name": "Sand Spike Stack"
+  },
+  {
+    "author": "Problems",
+    "data": [
+      {
+        "ability": "Drizzle",
+        "evs": {
+          "hp": 152,
+          "spa": 252,
+          "spe": 104
+        },
+        "item": "Choice Specs",
+        "moves": [
+          "Hydro Pump",
+          "Ice Beam",
+          "Thunder",
+          "Water Spout"
+        ],
+        "nature": "Modest",
+        "species": "Kyogre"
+      },
+      {
+        "ability": "Multitype",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "item": "Earth Plate",
+        "moves": [
+          "Earthquake",
+          "Recover",
+          "Stone Edge",
+          "Swords Dance"
+        ],
+        "nature": "Jolly",
+        "species": "Arceus-Ground"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "hp": 252,
+          "spa": 28,
+          "spd": 208,
+          "spe": 20
+        },
+        "item": "Lum Berry",
+        "moves": [
+          "Draco Meteor",
+          "Fire Blast",
+          "Roar",
+          "Stealth Rock"
+        ],
+        "nature": "Modest",
+        "species": "Dialga"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "atk": 240,
+          "def": 176,
+          "spe": 92
+        },
+        "item": "Griseous Orb",
+        "moves": [
+          "Aqua Tail",
+          "Dragon Tail",
+          "Shadow Sneak",
+          "Substitute"
+        ],
+        "nature": "Adamant",
+        "species": "Giratina-Origin"
+      },
+      {
+        "ability": "Swift Swim",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Life Orb",
+        "moves": [
+          "Draco Meteor",
+          "Dragon Pulse",
+          "Hydro Pump",
+          "Substitute"
+        ],
+        "nature": "Modest",
+        "species": "Kingdra"
+      },
+      {
+        "ability": "Sturdy",
+        "evs": {
+          "hp": 240,
+          "spd": 248,
+          "spe": 20
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Roost",
+          "Spikes",
+          "Taunt",
+          "Whirlwind"
+        ],
+        "nature": "Calm",
+        "species": "Skarmory"
+      }
+    ],
+    "name": "Ground Arceus + Kingdra"
+  },
+  {
+    "data": [
+      {
+        "ability": "Own Tempo",
+        "evs": {
+          "def": 252,
+          "hp": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Focus Sash",
+        "moves": [
+          "Baton Pass",
+          "Shell Smash",
+          "Spore",
+          "Taunt"
+        ],
+        "nature": "Timid",
+        "species": "Smeargle"
+      },
+      {
+        "ability": "Multitype",
+        "evs": {
+          "atk": 252,
+          "hp": 200,
+          "spe": 56
+        },
+        "item": "Lum Berry",
+        "moves": [
+          "Brick Break",
+          "Extreme Speed",
+          "Shadow Claw",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Arceus"
+      },
+      {
+        "ability": "Skill Link",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Focus Sash",
+        "moves": [
+          "Icicle Spear",
+          "Rapid Spin",
+          "Shell Smash",
+          "Spikes"
+        ],
+        "nature": "Jolly",
+        "species": "Cloyster"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "White Herb",
+        "moves": [
+          "Aura Sphere",
+          "Dragon Pulse",
+          "Flamethrower",
+          "Thunder"
+        ],
+        "nature": "Modest",
+        "species": "Dialga"
+      },
+      {
+        "ability": "Drought",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "item": "Earth Plate",
+        "moves": [
+          "Dragon Tail",
+          "Earthquake",
+          "Sleep Talk",
+          "Stealth Rock"
+        ],
+        "nature": "Jolly",
+        "species": "Groudon"
+      },
+      {
+        "ability": "Turboblaze",
+        "evs": {
+          "def": 56,
+          "spa": 252,
+          "spe": 200
+        },
+        "item": "White Herb",
+        "moves": [
+          "Ancient Power",
+          "Dragon Pulse",
+          "Fusion Flare",
+          "Ice Beam"
+        ],
+        "nature": "Modest",
+        "species": "Kyurem-White"
+      }
+    ],
+    "name": "SmashPass Smeargle + E-Killer Arceus"
+  },
+  {
+    "author": "Hack",
+    "data": [
+      {
+        "ability": "Drought",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "item": "Earth Plate",
+        "moves": [
+          "Dragon Tail",
+          "Earthquake",
+          "Stealth Rock",
+          "Stone Edge"
+        ],
+        "nature": "Jolly",
+        "species": "Groudon"
+      },
+      {
+        "ability": "Multitype",
+        "evs": {
+          "atk": 252,
+          "hp": 200,
+          "spe": 56
+        },
+        "item": "Silk Scarf",
+        "moves": [
+          "Brick Break",
+          "Extreme Speed",
+          "Shadow Claw",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Arceus"
+      },
+      {
+        "ability": "Speed Boost",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Life Orb",
+        "moves": [
+          "Flare Blitz",
+          "Low Kick",
+          "Protect",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Blaziken"
+      },
+      {
+        "ability": "Sturdy",
+        "evs": {
+          "atk": 252
+        },
+        "gender": "M",
+        "item": "Custap Berry",
+        "ivs": {
+          "def": 0,
+          "hp": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        },
+        "moves": [
+          "Gyro Ball",
+          "Rapid Spin",
+          "Spikes",
+          "Toxic Spikes"
+        ],
+        "nature": "Brave",
+        "species": "Forretress"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "atk": 252,
+          "hp": 112,
+          "spe": 144
+        },
+        "item": "Choice Band",
+        "moves": [
+          "Brave Bird",
+          "Earthquake",
+          "Sacred Fire",
+          "Sleep Talk"
+        ],
+        "nature": "Adamant",
+        "species": "Ho-Oh"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 4,
+          "hp": 48,
+          "spa": 252,
+          "spd": 8,
+          "spe": 196
+        },
+        "item": "Soul Dew",
+        "ivs": {
+          "atk": 30,
+          "spa": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Draco Meteor",
+          "Healing Wish",
+          "Hidden Power Fire",
+          "Psyshock"
+        ],
+        "nature": "Timid",
+        "species": "Latias"
+      }
+    ],
+    "name": "Blaziken Sun"
+  },
+  {
+    "author": "Zf",
+    "data": [
+      {
+        "ability": "Pressure",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Aura Sphere",
+          "Draco Meteor",
+          "Stealth Rock",
+          "Thunder"
+        ],
+        "nature": "Timid",
+        "species": "Dialga"
+      },
+      {
+        "ability": "Multitype",
+        "evs": {
+          "hp": 248,
+          "spa": 8,
+          "spe": 252
+        },
+        "item": "Meadow Plate",
+        "moves": [
+          "Calm Mind",
+          "Ice Beam",
+          "Judgment",
+          "Recover"
+        ],
+        "nature": "Timid",
+        "species": "Arceus-Grass"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "atk": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Focus Sash",
+        "moves": [
+          "Dark Pulse",
+          "Icy Wind",
+          "Spikes",
+          "Superpower"
+        ],
+        "nature": "Naive",
+        "species": "Deoxys-Attack"
+      },
+      {
+        "ability": "Download",
+        "evs": {
+          "atk": 248,
+          "spa": 8,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "moves": [
+          "Ice Beam",
+          "Iron Head",
+          "Thunder",
+          "U-turn"
+        ],
+        "nature": "Naive",
+        "species": "Genesect"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "atk": 168,
+          "def": 248,
+          "spe": 92
+        },
+        "item": "Griseous Orb",
+        "moves": [
+          "Dragon Tail",
+          "Magic Coat",
+          "Shadow Sneak",
+          "Will-O-Wisp"
+        ],
+        "nature": "Adamant",
+        "species": "Giratina-Origin"
+      },
+      {
+        "ability": "Drizzle",
+        "evs": {
+          "hp": 88,
+          "spa": 252,
+          "spe": 168
+        },
+        "item": "Choice Specs",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Hydro Pump",
+          "Ice Beam",
+          "Thunder",
+          "Water Spout"
+        ],
+        "nature": "Modest",
+        "species": "Kyogre"
+      }
+    ],
+    "name": "Grassceus HO"
+  },
+  {
+    "author": "Dice",
+    "data": [
+      {
+        "ability": "Pressure",
+        "evs": {
+          "hp": 240,
+          "spa": 16,
+          "spe": 252
+        },
+        "item": "Rocky Helmet",
+        "moves": [
+          "Dark Pulse",
+          "Spikes",
+          "Stealth Rock",
+          "Taunt"
+        ],
+        "nature": "Timid",
+        "species": "Deoxys-Speed"
+      },
+      {
+        "ability": "Multitype",
+        "evs": {
+          "hp": 248,
+          "spa": 8,
+          "spe": 252
+        },
+        "item": "Zap Plate",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Ice Beam",
+          "Recover",
+          "Thunder"
+        ],
+        "nature": "Timid",
+        "species": "Arceus-Electric"
+      },
+      {
+        "ability": "Download",
+        "evs": {
+          "atk": 248,
+          "spa": 8,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "moves": [
+          "Explosion",
+          "Ice Beam",
+          "Iron Head",
+          "U-turn"
+        ],
+        "nature": "Naive",
+        "species": "Genesect"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "atk": 252,
+          "def": 160,
+          "spe": 96
+        },
+        "item": "Griseous Orb",
+        "moves": [
+          "Dragon Tail",
+          "Earthquake",
+          "Shadow Sneak",
+          "Substitute"
+        ],
+        "nature": "Adamant",
+        "species": "Giratina-Origin"
+      },
+      {
+        "ability": "Drizzle",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Choice Specs",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Hydro Pump",
+          "Ice Beam",
+          "Thunder",
+          "Water Spout"
+        ],
+        "nature": "Timid",
+        "species": "Kyogre"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Lustrous Orb",
+        "moves": [
+          "Dragon Tail",
+          "Fire Blast",
+          "Hydro Pump",
+          "Spacial Rend"
+        ],
+        "nature": "Timid",
+        "species": "Palkia"
+      }
+    ],
+    "name": "Arc-Electric + Deo-A"
+  },
+  {
+    "data": [
+      {
+        "ability": "Pressure",
+        "evs": {
+          "atk": 252,
+          "spa": 4,
+          "spe": 252
+        },
+        "item": "Focus Sash",
+        "moves": [
+          "Fire Punch",
+          "Skill Swap",
+          "Spikes",
+          "Taunt"
+        ],
+        "nature": "Naive",
+        "species": "Deoxys-Speed"
+      },
+      {
+        "ability": "Multitype",
+        "evs": {
+          "atk": 252,
+          "hp": 128,
+          "spe": 128
+        },
+        "item": "Silk Scarf",
+        "moves": [
+          "Earthquake",
+          "Extreme Speed",
+          "Shadow Claw",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Arceus"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "atk": 252,
+          "hp": 168,
+          "spe": 88
+        },
+        "item": "Griseous Orb",
+        "moves": [
+          "Dragon Tail",
+          "Earthquake",
+          "Shadow Sneak",
+          "Substitute"
+        ],
+        "nature": "Adamant",
+        "species": "Giratina-Origin"
+      },
+      {
+        "ability": "Drought",
+        "evs": {
+          "atk": 252,
+          "hp": 80,
+          "spe": 176
+        },
+        "item": "Lum Berry",
+        "moves": [
+          "Earthquake",
+          "Rock Polish",
+          "Stone Edge",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Groudon"
+      },
+      {
+        "ability": "Flash Fire",
+        "evs": {
+          "hp": 252,
+          "spd": 252,
+          "spe": 4
+        },
+        "gender": "F",
+        "item": "Leftovers",
+        "moves": [
+          "Lava Plume",
+          "Roar",
+          "Stealth Rock",
+          "Taunt"
+        ],
+        "nature": "Calm",
+        "species": "Heatran"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "atk": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Haban Berry",
+        "moves": [
+          "Dragon Tail",
+          "Fire Blast",
+          "Spacial Rend",
+          "Thunder"
+        ],
+        "nature": "Hasty",
+        "species": "Palkia"
+      }
+    ],
+    "name": "blim heatran sun mod"
+  },
+  {
+    "author": "Sweep",
+    "data": [
+      {
+        "ability": "Drought",
+        "evs": {
+          "def": 8,
+          "hp": 248,
+          "spd": 200,
+          "spe": 52
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Stealth Rock",
+          "Stone Edge",
+          "Thunder Wave"
+        ],
+        "nature": "Careful",
+        "species": "Groudon"
+      },
+      {
+        "ability": "Multitype",
+        "evs": {
+          "def": 76,
+          "hp": 248,
+          "spa": 8,
+          "spe": 176
+        },
+        "item": "Dread Plate",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Judgment",
+          "Recover",
+          "Refresh"
+        ],
+        "nature": "Timid",
+        "species": "Arceus-Dark"
+      },
+      {
+        "ability": "Sturdy",
+        "evs": {
+          "def": 8,
+          "hp": 248,
+          "spd": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Pain Split",
+          "Rapid Spin",
+          "Spikes",
+          "Toxic"
+        ],
+        "nature": "Careful",
+        "species": "Forretress"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "atk": 252,
+          "hp": 152,
+          "spe": 104
+        },
+        "item": "Griseous Orb",
+        "moves": [
+          "Dragon Tail",
+          "Earthquake",
+          "Magic Coat",
+          "Shadow Sneak"
+        ],
+        "nature": "Adamant",
+        "species": "Giratina-Origin"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Soul Dew",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Draco Meteor",
+          "Psyshock",
+          "Roost"
+        ],
+        "nature": "Timid",
+        "species": "Latios"
+      },
+      {
+        "ability": "Turboblaze",
+        "evs": {
+          "atk": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "moves": [
+          "Blue Flare",
+          "Draco Meteor",
+          "Sleep Talk",
+          "Stone Edge"
+        ],
+        "nature": "Hasty",
+        "species": "Reshiram"
+      }
+    ],
+    "name": "Reshiram + Arceus-Dark"
+  },
+  {
+    "author": "Steelskitty",
+    "data": [
+      {
+        "ability": "Multiscale",
+        "evs": {
+          "def": 56,
+          "hp": 248,
+          "spe": 204
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Ice Beam",
+          "Roost",
+          "Substitute",
+          "Whirlwind"
+        ],
+        "nature": "Bold",
+        "species": "Lugia"
+      },
+      {
+        "ability": "Multitype",
+        "evs": {
+          "def": 8,
+          "hp": 248,
+          "spe": 252
+        },
+        "item": "Meadow Plate",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Judgment",
+          "Recover",
+          "Stealth Rock",
+          "Will-O-Wisp"
+        ],
+        "nature": "Timid",
+        "species": "Arceus-Grass"
+      },
+      {
+        "ability": "Sturdy",
+        "evs": {
+          "def": 8,
+          "hp": 248,
+          "spd": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Pain Split",
+          "Rapid Spin",
+          "Spikes",
+          "Toxic"
+        ],
+        "nature": "Careful",
+        "species": "Forretress"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "hp": 248,
+          "spd": 212,
+          "spe": 48
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Rest",
+          "Roar",
+          "Sleep Talk",
+          "Will-O-Wisp"
+        ],
+        "nature": "Calm",
+        "species": "Giratina"
+      },
+      {
+        "ability": "Serene Grace",
+        "evs": {
+          "hp": 248,
+          "spd": 252,
+          "spe": 8
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Iron Head",
+          "Protect",
+          "Thunder",
+          "Wish"
+        ],
+        "nature": "Sassy",
+        "species": "Jirachi"
+      },
+      {
+        "ability": "Drizzle",
+        "evs": {
+          "hp": 248,
+          "spd": 200,
+          "spe": 60
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Rest",
+          "Roar",
+          "Scald",
+          "Sleep Talk"
+        ],
+        "nature": "Calm",
+        "species": "Kyogre"
+      }
+    ],
+    "name": "Refinement of the Decline"
+  },
+  {
+    "data": [
+      {
+        "ability": "Poison Heal",
+        "evs": {
+          "def": 44,
+          "hp": 248,
+          "spe": 216
+        },
+        "gender": "M",
+        "item": "Toxic Orb",
+        "moves": [
+          "Earthquake",
+          "Substitute",
+          "Taunt",
+          "Toxic"
+        ],
+        "nature": "Jolly",
+        "species": "Gliscor"
+      },
+      {
+        "ability": "Multitype",
+        "evs": {
+          "hp": 248,
+          "spd": 84,
+          "spe": 176
+        },
+        "item": "Fist Plate",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Ice Beam",
+          "Judgment",
+          "Recover",
+          "Toxic"
+        ],
+        "nature": "Timid",
+        "species": "Arceus-Fighting"
+      },
+      {
+        "ability": "Sand Rush",
+        "evs": {
+          "atk": 248,
+          "spd": 68,
+          "spe": 192
+        },
+        "gender": "M",
+        "item": "Air Balloon",
+        "moves": [
+          "Earthquake",
+          "Rapid Spin",
+          "Shadow Claw",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Excadrill"
+      },
+      {
+        "ability": "Iron Barbs",
+        "evs": {
+          "def": 8,
+          "hp": 248,
+          "spd": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Leech Seed",
+          "Power Whip",
+          "Protect",
+          "Spikes"
+        ],
+        "nature": "Careful",
+        "shiny": true,
+        "species": "Ferrothorn"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "hp": 224,
+          "spd": 252,
+          "spe": 32
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Dragon Tail",
+          "Rest",
+          "Roar",
+          "Sleep Talk"
+        ],
+        "nature": "Careful",
+        "species": "Giratina"
+      },
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "atk": 84,
+          "def": 48,
+          "hp": 252,
+          "spd": 124
+        },
+        "gender": "M",
+        "item": "Chople Berry",
+        "moves": [
+          "Fire Blast",
+          "Payback",
+          "Pursuit",
+          "Stealth Rock"
+        ],
+        "nature": "Sassy",
+        "species": "Tyranitar"
+      }
+    ],
+    "name": "Tyranitar Ferrothorn Stall"
+  },
+  {
+    "data": [
+      {
+        "ability": "Drought",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "item": "Earth Plate",
+        "moves": [
+          "Dragon Tail",
+          "Earthquake",
+          "Stealth Rock",
+          "Stone Edge"
+        ],
+        "nature": "Jolly",
+        "species": "Groudon"
+      },
+      {
+        "ability": "Multitype",
+        "evs": {
+          "def": 84,
+          "hp": 248,
+          "spe": 176
+        },
+        "item": "Fist Plate",
+        "moves": [
+          "Judgment",
+          "Recover",
+          "Stone Edge",
+          "Toxic"
+        ],
+        "nature": "Timid",
+        "species": "Arceus-Fighting"
+      },
+      {
+        "ability": "Sturdy",
+        "evs": {
+          "atk": 8,
+          "hp": 248,
+          "spd": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Pain Split",
+          "Rapid Spin",
+          "Spikes",
+          "Toxic"
+        ],
+        "nature": "Sassy",
+        "species": "Forretress"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "hp": 248,
+          "spd": 248,
+          "spe": 12
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Dragon Tail",
+          "Rest",
+          "Sleep Talk",
+          "Will-O-Wisp"
+        ],
+        "nature": "Careful",
+        "shiny": true,
+        "species": "Giratina"
+      },
+      {
+        "ability": "Flash Fire",
+        "evs": {
+          "hp": 248,
+          "spd": 252,
+          "spe": 8
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Lava Plume",
+          "Roar",
+          "Taunt",
+          "Toxic"
+        ],
+        "nature": "Calm",
+        "species": "Heatran"
+      },
+      {
+        "ability": "Multiscale",
+        "evs": {
+          "def": 56,
+          "hp": 248,
+          "spe": 204
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Roost",
+          "Substitute",
+          "Toxic",
+          "Whirlwind"
+        ],
+        "nature": "Bold",
+        "species": "Lugia"
+      }
+    ],
+    "name": "Sun Stall"
+  },
+  {
+    "author": "Lance",
+    "data": [
+      {
+        "ability": "Multitype",
+        "evs": {
+          "def": 80,
+          "hp": 252,
+          "spe": 176
+        },
+        "item": "Stone Plate",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Judgment",
+          "Recover",
+          "Stealth Rock",
+          "Will-O-Wisp"
+        ],
+        "nature": "Timid",
+        "species": "Arceus-Rock"
+      },
+      {
+        "ability": "Iron Barbs",
+        "evs": {
+          "def": 4,
+          "hp": 252,
+          "spd": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "spe": 0
+        },
+        "moves": [
+          "Gyro Ball",
+          "Leech Seed",
+          "Protect",
+          "Spikes"
+        ],
+        "nature": "Sassy",
+        "species": "Ferrothorn"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 8,
+          "hp": 248,
+          "spe": 252
+        },
+        "item": "Griseous Orb",
+        "moves": [
+          "Dragon Tail",
+          "Rest",
+          "Roar",
+          "Sleep Talk"
+        ],
+        "nature": "Jolly",
+        "species": "Giratina-Origin"
+      },
+      {
+        "ability": "Drizzle",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Ice Beam",
+          "Surf",
+          "Thunder",
+          "Water Spout"
+        ],
+        "nature": "Modest",
+        "species": "Kyogre"
+      },
+      {
+        "ability": "Multiscale",
+        "evs": {
+          "def": 56,
+          "hp": 248,
+          "spe": 204
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Roost",
+          "Substitute",
+          "Toxic",
+          "Whirlwind"
+        ],
+        "nature": "Impish",
+        "species": "Lugia"
+      },
+      {
+        "ability": "Rain Dish",
+        "evs": {
+          "def": 32,
+          "hp": 252,
+          "spd": 224
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Rapid Spin",
+          "Scald",
+          "Toxic",
+          "Toxic Spikes"
+        ],
+        "nature": "Calm",
+        "species": "Tentacruel"
+      }
+    ],
+    "name": "RainStall Mod"
+  }
+]

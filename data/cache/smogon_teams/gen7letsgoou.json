@@ -1,0 +1,545 @@
+[
+  {
+    "author": "Hayburner",
+    "data": [
+      {
+        "ability": "No Ability",
+        "evs": {
+          "atk": 248,
+          "def": 252,
+          "hp": 252,
+          "spa": 252,
+          "spd": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Venusaurite",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Leech Seed",
+          "Mega Drain",
+          "Sleep Powder",
+          "Sludge Bomb"
+        ],
+        "nature": "Bold",
+        "species": "Venusaur"
+      },
+      {
+        "ability": "No Ability",
+        "evs": {
+          "atk": 252,
+          "def": 252,
+          "hp": 252,
+          "spa": 252,
+          "spd": 252,
+          "spe": 252
+        },
+        "level": 50,
+        "moves": [
+          "Seismic Toss",
+          "Soft-Boiled",
+          "Teleport",
+          "Thunder Wave"
+        ],
+        "nature": "Calm",
+        "species": "Chansey"
+      },
+      {
+        "ability": "No Ability",
+        "evs": {
+          "atk": 252,
+          "def": 252,
+          "hp": 252,
+          "spa": 252,
+          "spd": 252,
+          "spe": 252
+        },
+        "level": 50,
+        "moves": [
+          "Double Iron Bash",
+          "Earthquake",
+          "Ice Punch",
+          "Toxic"
+        ],
+        "nature": "Impish",
+        "species": "Melmetal"
+      },
+      {
+        "ability": "No Ability",
+        "evs": {
+          "atk": 252,
+          "def": 252,
+          "hp": 252,
+          "spa": 252,
+          "spd": 252,
+          "spe": 252
+        },
+        "ivs": {
+          "spe": 23
+        },
+        "level": 50,
+        "moves": [
+          "Flamethrower",
+          "Psychic",
+          "Roost",
+          "U-turn"
+        ],
+        "nature": "Bold",
+        "species": "Mew"
+      },
+      {
+        "ability": "No Ability",
+        "evs": {
+          "atk": 252,
+          "def": 252,
+          "hp": 252,
+          "spa": 252,
+          "spd": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "level": 50,
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Stealth Rock",
+          "Toxic"
+        ],
+        "nature": "Impish",
+        "species": "Rhydon"
+      },
+      {
+        "ability": "No Ability",
+        "evs": {
+          "atk": 252,
+          "def": 252,
+          "hp": 252,
+          "spa": 252,
+          "spd": 252,
+          "spe": 252
+        },
+        "level": 50,
+        "moves": [
+          "Roost",
+          "Thunderbolt",
+          "Toxic",
+          "U-turn"
+        ],
+        "nature": "Bold",
+        "species": "Zapdos"
+      }
+    ],
+    "name": "Wishkiller"
+  },
+  {
+    "author": "Ezaphs",
+    "data": [
+      {
+        "ability": "No Ability",
+        "evs": {
+          "atk": 248,
+          "def": 252,
+          "hp": 252,
+          "spa": 252,
+          "spd": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Charizardite X",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Dragon Pulse",
+          "Fire Blast",
+          "Roost",
+          "Toxic"
+        ],
+        "nature": "Calm",
+        "species": "Charizard"
+      },
+      {
+        "ability": "Run Away",
+        "evs": {
+          "atk": 252,
+          "def": 252,
+          "hp": 252,
+          "spa": 252,
+          "spd": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "level": 50,
+        "moves": [
+          "Glitzy Glow",
+          "Protect",
+          "Sappy Seed",
+          "Sparkly Swirl"
+        ],
+        "nature": "Bold",
+        "species": "Eevee-Starter"
+      },
+      {
+        "ability": "No Ability",
+        "evs": {
+          "atk": 252,
+          "def": 252,
+          "hp": 252,
+          "spa": 252,
+          "spd": 252,
+          "spe": 252
+        },
+        "level": 50,
+        "moves": [
+          "Double Iron Bash",
+          "Earthquake",
+          "Ice Punch",
+          "Rest"
+        ],
+        "nature": "Adamant",
+        "species": "Melmetal"
+      },
+      {
+        "ability": "No Ability",
+        "evs": {
+          "atk": 248,
+          "def": 252,
+          "hp": 252,
+          "spa": 252,
+          "spd": 252,
+          "spe": 252
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Calm Mind",
+          "Roost",
+          "Scald",
+          "Taunt"
+        ],
+        "nature": "Timid",
+        "species": "Mew"
+      },
+      {
+        "ability": "Poison Touch",
+        "evs": {
+          "atk": 252,
+          "def": 252,
+          "hp": 252,
+          "spa": 252,
+          "spd": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "level": 50,
+        "moves": [
+          "Crunch",
+          "Fire Blast",
+          "Rest",
+          "Toxic"
+        ],
+        "nature": "Sassy",
+        "species": "Muk-Alola"
+      },
+      {
+        "ability": "No Ability",
+        "evs": {
+          "atk": 252,
+          "def": 252,
+          "hp": 252,
+          "spa": 252,
+          "spd": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "level": 50,
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Stealth Rock",
+          "Toxic"
+        ],
+        "nature": "Impish",
+        "species": "Sandslash"
+      }
+    ],
+    "name": "Standard"
+  },
+  {
+    "author": "Ryota Mitarai",
+    "data": [
+      {
+        "ability": "Mold Breaker",
+        "evs": {
+          "atk": 252,
+          "def": 252,
+          "hp": 252,
+          "spa": 252,
+          "spd": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Gyaradosite",
+        "level": 50,
+        "moves": [
+          "Crunch",
+          "Earthquake",
+          "Substitute",
+          "Waterfall"
+        ],
+        "nature": "Jolly",
+        "species": "Gyarados"
+      },
+      {
+        "ability": "Cute Charm",
+        "evs": {
+          "atk": 248,
+          "def": 252,
+          "hp": 252,
+          "spa": 252,
+          "spd": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Encore",
+          "Flamethrower",
+          "Moonblast",
+          "Stealth Rock"
+        ],
+        "nature": "Bold",
+        "species": "Clefable"
+      },
+      {
+        "ability": "Inner Focus",
+        "evs": {
+          "atk": 252,
+          "def": 252,
+          "hp": 252,
+          "spa": 252,
+          "spd": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "level": 50,
+        "moves": [
+          "Agility",
+          "Earthquake",
+          "Outrage",
+          "Roost"
+        ],
+        "nature": "Adamant",
+        "species": "Dragonite"
+      },
+      {
+        "ability": "Iron Fist",
+        "evs": {
+          "atk": 252,
+          "def": 252,
+          "hp": 252,
+          "spa": 252,
+          "spd": 252,
+          "spe": 252
+        },
+        "level": 50,
+        "moves": [
+          "Double Iron Bash",
+          "Earthquake",
+          "Ice Punch",
+          "Thunder Wave"
+        ],
+        "nature": "Adamant",
+        "species": "Melmetal"
+      },
+      {
+        "ability": "Synchronize",
+        "evs": {
+          "atk": 248,
+          "def": 252,
+          "hp": 252,
+          "spa": 252,
+          "spd": 252,
+          "spe": 252
+        },
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Fire Blast",
+          "Ice Beam",
+          "Nasty Plot",
+          "Thunderbolt"
+        ],
+        "nature": "Timid",
+        "species": "Mew"
+      },
+      {
+        "ability": "Immunity",
+        "evs": {
+          "atk": 252,
+          "def": 252,
+          "hp": 252,
+          "spa": 252,
+          "spd": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "level": 50,
+        "moves": [
+          "Earthquake",
+          "Facade",
+          "Self-Destruct",
+          "Toxic"
+        ],
+        "nature": "Careful",
+        "species": "Snorlax"
+      }
+    ],
+    "name": "Mega Gyarados + Clef?"
+  },
+  {
+    "author": "Yoshi",
+    "data": [
+      {
+        "ability": "No Ability",
+        "evs": {
+          "atk": 252,
+          "def": 252,
+          "hp": 252,
+          "spa": 252,
+          "spd": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "level": 50,
+        "moves": [
+          "Agility",
+          "Earthquake",
+          "Outrage",
+          "Roost"
+        ],
+        "nature": "Adamant",
+        "species": "Dragonite"
+      },
+      {
+        "ability": "Adaptability",
+        "evs": {
+          "atk": 252,
+          "def": 252,
+          "hp": 252,
+          "spa": 252,
+          "spd": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Beedrillite",
+        "level": 50,
+        "moves": [
+          "Drill Run",
+          "Poison Jab",
+          "U-turn",
+          "X-Scissor"
+        ],
+        "nature": "Jolly",
+        "species": "Beedrill"
+      },
+      {
+        "ability": "Iron Fist",
+        "evs": {
+          "atk": 252,
+          "def": 252,
+          "hp": 252,
+          "spa": 252,
+          "spd": 252,
+          "spe": 252
+        },
+        "level": 50,
+        "moves": [
+          "Double Iron Bash",
+          "Earthquake",
+          "Thunder Punch",
+          "Thunder Wave"
+        ],
+        "nature": "Adamant",
+        "species": "Melmetal"
+      },
+      {
+        "ability": "Synchronize",
+        "evs": {
+          "atk": 252,
+          "def": 252,
+          "hp": 252,
+          "spa": 252,
+          "spd": 252,
+          "spe": 252
+        },
+        "ivs": {
+          "spe": 23
+        },
+        "level": 50,
+        "moves": [
+          "Psychic",
+          "Roost",
+          "U-turn",
+          "Will-O-Wisp"
+        ],
+        "nature": "Relaxed",
+        "species": "Mew"
+      },
+      {
+        "ability": "Water Absorb",
+        "evs": {
+          "atk": 252,
+          "def": 252,
+          "hp": 252,
+          "spa": 252,
+          "spd": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "level": 50,
+        "moves": [
+          "Earthquake",
+          "Ice Punch",
+          "Superpower",
+          "Waterfall"
+        ],
+        "nature": "Impish",
+        "species": "Poliwrath"
+      },
+      {
+        "ability": "Lightning Rod",
+        "evs": {
+          "atk": 252,
+          "def": 252,
+          "hp": 252,
+          "spa": 252,
+          "spd": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "level": 50,
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Stealth Rock",
+          "Toxic"
+        ],
+        "nature": "Adamant",
+        "species": "Rhydon"
+      }
+    ],
+    "name": "Mega Bee Team"
+  }
+]

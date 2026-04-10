@@ -1,0 +1,871 @@
+[
+  {
+    "author": "Anty",
+    "data": [
+      {
+        "ability": "Sticky Hold",
+        "evs": {
+          "def": 12,
+          "hp": 252,
+          "spd": 244
+        },
+        "gender": "M",
+        "item": "Black Sludge",
+        "moves": [
+          "Curse",
+          "Poison Jab",
+          "Rest",
+          "Sleep Talk"
+        ],
+        "nature": "Careful",
+        "species": "Muk"
+      },
+      {
+        "ability": "Magic Guard",
+        "evs": {
+          "hp": 252,
+          "spa": 4,
+          "spd": 252
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Moonblast",
+          "Soft-Boiled",
+          "Stealth Rock",
+          "Thunder Wave"
+        ],
+        "nature": "Calm",
+        "species": "Clefairy"
+      },
+      {
+        "ability": "Chlorophyll",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Yache Berry",
+        "moves": [
+          "Knock Off",
+          "Leaf Blade",
+          "Swords Dance",
+          "Synthesis"
+        ],
+        "nature": "Jolly",
+        "species": "Leafeon"
+      },
+      {
+        "ability": "Soundproof",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Dazzling Gleam",
+          "Focus Blast",
+          "Healing Wish",
+          "Psychic"
+        ],
+        "nature": "Timid",
+        "species": "Mr. Mime"
+      },
+      {
+        "ability": "Magnet Pull",
+        "evs": {
+          "hp": 172,
+          "spa": 252,
+          "spe": 84
+        },
+        "gender": "M",
+        "item": "Air Balloon",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Earth Power",
+          "Flash Cannon",
+          "Taunt",
+          "Volt Switch"
+        ],
+        "nature": "Modest",
+        "species": "Probopass"
+      },
+      {
+        "ability": "Overcoat",
+        "evs": {
+          "def": 252,
+          "hp": 248,
+          "spd": 8
+        },
+        "item": "Eviolite",
+        "moves": [
+          "Defog",
+          "Foul Play",
+          "Roost",
+          "U-turn"
+        ],
+        "nature": "Impish",
+        "species": "Vullaby"
+      }
+    ],
+    "name": "Muk+Trapper"
+  },
+  {
+    "author": "False.",
+    "data": [
+      {
+        "ability": "Pressure",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Hurricane",
+          "Ice Beam",
+          "Roost",
+          "Substitute"
+        ],
+        "nature": "Timid",
+        "shiny": true,
+        "species": "Articuno"
+      },
+      {
+        "ability": "Thick Fat",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Focus Blast",
+          "Psychic",
+          "Shadow Ball",
+          "Trick"
+        ],
+        "nature": "Timid",
+        "species": "Grumpig"
+      },
+      {
+        "ability": "Leaf Guard",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Yache Berry",
+        "moves": [
+          "Knock Off",
+          "Leaf Blade",
+          "Swords Dance",
+          "Synthesis"
+        ],
+        "nature": "Jolly",
+        "species": "Leafeon"
+      },
+      {
+        "ability": "Storm Drain",
+        "evs": {
+          "def": 188,
+          "hp": 244,
+          "spe": 76
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Defog",
+          "Scald",
+          "Toxic",
+          "U-turn"
+        ],
+        "nature": "Bold",
+        "species": "Lumineon"
+      },
+      {
+        "ability": "Sticky Hold",
+        "evs": {
+          "def": 8,
+          "hp": 252,
+          "spd": 236,
+          "spe": 12
+        },
+        "gender": "M",
+        "item": "Black Sludge",
+        "moves": [
+          "Curse",
+          "Poison Jab",
+          "Rest",
+          "Sleep Talk"
+        ],
+        "nature": "Careful",
+        "species": "Muk"
+      },
+      {
+        "ability": "Magnet Pull",
+        "evs": {
+          "hp": 80,
+          "spa": 252,
+          "spe": 176
+        },
+        "gender": "M",
+        "item": "Air Balloon",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Earth Power",
+          "Flash Cannon",
+          "Stealth Rock",
+          "Volt Switch"
+        ],
+        "nature": "Modest",
+        "species": "Probopass"
+      }
+    ],
+    "name": "Muk+Articuno"
+  },
+  {
+    "author": "RawMelon",
+    "data": [
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 208,
+          "hp": 248,
+          "spe": 52
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Air Slash",
+          "Pain Split",
+          "Volt Switch",
+          "Will-O-Wisp"
+        ],
+        "nature": "Bold",
+        "species": "Rotom-Fan"
+      },
+      {
+        "ability": "Sap Sipper",
+        "evs": {
+          "atk": 252,
+          "hp": 120,
+          "spe": 136
+        },
+        "gender": "M",
+        "happiness": 0,
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Frustration",
+          "Substitute",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Bouffalant"
+      },
+      {
+        "ability": "Sturdy",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Stone Edge",
+          "Sucker Punch"
+        ],
+        "nature": "Adamant",
+        "species": "Golem"
+      },
+      {
+        "ability": "Soundproof",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Dazzling Gleam",
+          "Healing Wish",
+          "Psychic",
+          "Trick"
+        ],
+        "nature": "Timid",
+        "species": "Mr. Mime"
+      },
+      {
+        "ability": "Torrent",
+        "evs": {
+          "def": 252,
+          "hp": 248,
+          "spd": 8
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Defog",
+          "Scald",
+          "Signal Beam",
+          "Stealth Rock"
+        ],
+        "nature": "Bold",
+        "species": "Prinplup"
+      },
+      {
+        "ability": "Flash Fire",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Drill Run",
+          "Flare Blitz",
+          "Morning Sun",
+          "Will-O-Wisp"
+        ],
+        "nature": "Jolly",
+        "species": "Rapidash"
+      }
+    ],
+    "name": "Rotom-S Bulky Offense"
+  },
+  {
+    "author": "EnemyJurist",
+    "data": [
+      {
+        "ability": "Early Bird",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "happiness": 255,
+        "item": "Choice Band",
+        "moves": [
+          "Brave Bird",
+          "Knock Off",
+          "Quick Attack",
+          "Return"
+        ],
+        "nature": "Jolly",
+        "species": "Dodrio"
+      },
+      {
+        "ability": "Water Absorb",
+        "evs": {
+          "atk": 40,
+          "spa": 252,
+          "spe": 216
+        },
+        "gender": "M",
+        "item": "Life Orb",
+        "ivs": {
+          "hp": 29
+        },
+        "moves": [
+          "Dark Pulse",
+          "Focus Blast",
+          "Giga Drain",
+          "Sucker Punch"
+        ],
+        "nature": "Rash",
+        "species": "Cacturne"
+      },
+      {
+        "ability": "Sturdy",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Weakness Policy",
+        "moves": [
+          "Earthquake",
+          "Stealth Rock",
+          "Stone Edge",
+          "Sucker Punch"
+        ],
+        "nature": "Adamant",
+        "species": "Golem"
+      },
+      {
+        "ability": "Sheer Force",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Life Orb",
+        "ivs": {
+          "hp": 29
+        },
+        "moves": [
+          "Iron Head",
+          "Play Rough",
+          "Sucker Punch",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Mawile"
+      },
+      {
+        "ability": "Soundproof",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Dazzling Gleam",
+          "Focus Blast",
+          "Healing Wish",
+          "Psychic"
+        ],
+        "nature": "Timid",
+        "species": "Mr. Mime"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0,
+          "def": 30,
+          "spa": 30
+        },
+        "moves": [
+          "Air Slash",
+          "Hidden Power Water",
+          "Thunderbolt",
+          "Will-O-Wisp"
+        ],
+        "nature": "Timid",
+        "species": "Rotom-Fan"
+      }
+    ],
+    "name": "Dodrio+Cacturne HO"
+  },
+  {
+    "author": "Megazard",
+    "data": [
+      {
+        "ability": "Scrappy",
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "happiness": 0,
+        "item": "Choice Band",
+        "moves": [
+          "Facade",
+          "Frustration",
+          "Pursuit",
+          "Superpower"
+        ],
+        "nature": "Jolly",
+        "species": "Stoutland"
+      },
+      {
+        "ability": "Soundproof",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Twisted Spoon",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Dazzling Gleam",
+          "Focus Blast",
+          "Nasty Plot",
+          "Psyshock"
+        ],
+        "nature": "Timid",
+        "species": "Mr. Mime"
+      },
+      {
+        "ability": "Sticky Hold",
+        "evs": {
+          "hp": 252,
+          "spd": 252,
+          "spe": 4
+        },
+        "gender": "M",
+        "item": "Black Sludge",
+        "moves": [
+          "Curse",
+          "Poison Jab",
+          "Rest",
+          "Sleep Talk"
+        ],
+        "nature": "Careful",
+        "species": "Muk"
+      },
+      {
+        "ability": "Torrent",
+        "evs": {
+          "def": 252,
+          "hp": 248,
+          "spe": 8
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Defog",
+          "Scald",
+          "Signal Beam",
+          "Yawn"
+        ],
+        "nature": "Bold",
+        "species": "Prinplup"
+      },
+      {
+        "ability": "Magnet Pull",
+        "evs": {
+          "hp": 168,
+          "spa": 252,
+          "spe": 88
+        },
+        "gender": "M",
+        "item": "Air Balloon",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Earth Power",
+          "Flash Cannon",
+          "Stealth Rock",
+          "Volt Switch"
+        ],
+        "nature": "Modest",
+        "species": "Probopass"
+      },
+      {
+        "ability": "Lightning Rod",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 0,
+          "spa": 30
+        },
+        "moves": [
+          "Hidden Power Grass",
+          "Overheat",
+          "Thunderbolt",
+          "Volt Switch"
+        ],
+        "nature": "Timid",
+        "species": "Zebstrika"
+      }
+    ],
+    "name": "Stout-Muk Balance"
+  },
+  {
+    "author": "2xTheTap",
+    "data": [
+      {
+        "ability": "Soundproof",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 0,
+          "hp": 29
+        },
+        "moves": [
+          "Dazzling Gleam",
+          "Focus Blast",
+          "Future Sight",
+          "Healing Wish"
+        ],
+        "nature": "Timid",
+        "species": "Mr. Mime"
+      },
+      {
+        "ability": "Frisk",
+        "evs": {
+          "atk": 252,
+          "hp": 192,
+          "spe": 64
+        },
+        "gender": "M",
+        "item": "Life Orb",
+        "moves": [
+          "Earthquake",
+          "Ice Punch",
+          "Pursuit",
+          "Shadow Sneak"
+        ],
+        "nature": "Adamant",
+        "species": "Dusknoir"
+      },
+      {
+        "ability": "Sturdy",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Weakness Policy",
+        "moves": [
+          "Earthquake",
+          "Stealth Rock",
+          "Stone Edge",
+          "Sucker Punch"
+        ],
+        "nature": "Adamant",
+        "species": "Golem"
+      },
+      {
+        "ability": "Chlorophyll",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Yache Berry",
+        "moves": [
+          "Knock Off",
+          "Leaf Blade",
+          "Sunny Day",
+          "Synthesis"
+        ],
+        "nature": "Jolly",
+        "species": "Leafeon"
+      },
+      {
+        "ability": "Iron Fist",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Close Combat",
+          "Flare Blitz",
+          "Mach Punch",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Monferno"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Blizzard",
+          "Thunderbolt",
+          "Trick",
+          "Volt Switch"
+        ],
+        "nature": "Timid",
+        "species": "Rotom-Frost"
+      }
+    ],
+    "name": "Monferno Offense"
+  },
+  {
+    "author": "RawMelon",
+    "data": [
+      {
+        "ability": "Iron Fist",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Close Combat",
+          "Fire Punch",
+          "Mach Punch",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Monferno"
+      },
+      {
+        "ability": "Sap Sipper",
+        "evs": {
+          "atk": 252,
+          "hp": 248,
+          "spd": 8
+        },
+        "gender": "M",
+        "happiness": 0,
+        "item": "Assault Vest",
+        "moves": [
+          "Earthquake",
+          "Facade",
+          "Frustration",
+          "Pursuit"
+        ],
+        "nature": "Adamant",
+        "species": "Bouffalant"
+      },
+      {
+        "ability": "Water Veil",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 30,
+          "spa": 30
+        },
+        "moves": [
+          "Hidden Power Grass",
+          "Hydro Pump",
+          "Ice Beam",
+          "Switcheroo"
+        ],
+        "nature": "Modest",
+        "species": "Floatzel"
+      },
+      {
+        "ability": "Sturdy",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Weakness Policy",
+        "moves": [
+          "Earthquake",
+          "Rock Blast",
+          "Stealth Rock",
+          "Sucker Punch"
+        ],
+        "nature": "Adamant",
+        "species": "Golem"
+      },
+      {
+        "ability": "Thick Fat",
+        "evs": {
+          "hp": 80,
+          "spa": 252,
+          "spe": 176
+        },
+        "gender": "M",
+        "item": "Colbur Berry",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Focus Blast",
+          "Psychic",
+          "Taunt",
+          "Thunder Wave"
+        ],
+        "nature": "Timid",
+        "species": "Grumpig"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Blizzard",
+          "Substitute",
+          "Thunderbolt",
+          "Will-O-Wisp"
+        ],
+        "nature": "Timid",
+        "species": "Rotom-Frost"
+      }
+    ],
+    "name": "Crutch"
+  }
+]

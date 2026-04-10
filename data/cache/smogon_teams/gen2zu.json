@@ -1,0 +1,327 @@
+[
+  {
+    "data": [
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Double-Edge",
+          "Metronome",
+          "Rest",
+          "Sleep Talk"
+        ],
+        "species": "Togetic"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Rest",
+          "Roar",
+          "Sleep Talk",
+          "Surf"
+        ],
+        "species": "Croconaw"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Curse",
+          "Explosion",
+          "Fire Blast",
+          "Sludge Bomb"
+        ],
+        "species": "Grimer"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 29,
+          "def": 29,
+          "hp": 7
+        },
+        "moves": [
+          "Hidden Power Grass",
+          "Rest",
+          "Sleep Talk",
+          "Thunderbolt"
+        ],
+        "species": "Mareep"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Curse",
+          "Earthquake",
+          "Explosion",
+          "Rock Slide"
+        ],
+        "species": "Onix"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 27,
+          "def": 27
+        },
+        "moves": [
+          "Giga Drain",
+          "Hidden Power Bug",
+          "Sludge Bomb",
+          "Spore"
+        ],
+        "species": "Parasect"
+      }
+    ],
+    "name": "[t04ster] Boom Bulky Offense"
+  },
+  {
+    "author": "JonAmon25",
+    "data": [
+      {
+        "gender": "M",
+        "ivs": {
+          "atk": 29,
+          "def": 29,
+          "hp": 7
+        },
+        "moves": [
+          "Fire Blast",
+          "Hidden Power Grass",
+          "Sunny Day",
+          "Thief"
+        ],
+        "species": "Magby"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Ice Beam",
+          "Rest",
+          "Sleep Talk",
+          "Surf"
+        ],
+        "species": "Croconaw"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Explosion",
+          "Haze",
+          "Pain Split",
+          "Sludge Bomb"
+        ],
+        "species": "Koffing"
+      },
+      {
+        "item": "Leftovers",
+        "moves": [
+          "Blizzard",
+          "Hidden Power Dark",
+          "Ice Beam",
+          "Psychic"
+        ],
+        "species": "Smoochum"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Curse",
+          "Double-Edge",
+          "Rest",
+          "Sleep Talk"
+        ],
+        "species": "Togetic"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 25,
+          "hp": 15
+        },
+        "moves": [
+          "Hidden Power Ground",
+          "Sleep Powder",
+          "Sludge Bomb",
+          "Swords Dance"
+        ],
+        "species": "Weepinbell"
+      }
+    ],
+    "name": "Standard Balance"
+  },
+  {
+    "author": "ReeceHughes",
+    "data": [
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Curse",
+          "Double-Edge",
+          "Rest",
+          "Sleep Talk"
+        ],
+        "species": "Togetic"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Ice Beam",
+          "Rest",
+          "Sleep Talk",
+          "Surf"
+        ],
+        "species": "Croconaw"
+      },
+      {
+        "gender": "M",
+        "happiness": 255,
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 25,
+          "hp": 15
+        },
+        "moves": [
+          "Belly Drum",
+          "Hidden Power Ground",
+          "Lovely Kiss",
+          "Return"
+        ],
+        "species": "Poliwag"
+      },
+      {
+        "moves": [
+          "Hidden Power Dark",
+          "Ice Beam",
+          "Psychic",
+          "Thief"
+        ],
+        "species": "Smoochum"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Hydro Pump",
+          "Sludge Bomb",
+          "Substitute",
+          "Swords Dance"
+        ],
+        "species": "Tentacool"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 25,
+          "hp": 15
+        },
+        "moves": [
+          "Hidden Power Ground",
+          "Sludge Bomb",
+          "Stun Spore",
+          "Swords Dance"
+        ],
+        "species": "Weepinbell"
+      }
+    ],
+    "name": "Double SD Poison Offense"
+  },
+  {
+    "author": "t04ster",
+    "data": [
+      {
+        "gender": "M",
+        "item": "Miracle Berry",
+        "ivs": {
+          "atk": 29,
+          "def": 29,
+          "hp": 7
+        },
+        "moves": [
+          "Hidden Power Grass",
+          "Psychic",
+          "Sleep Powder",
+          "Substitute"
+        ],
+        "species": "Butterfree"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 25,
+          "def": 29,
+          "hp": 7
+        },
+        "moves": [
+          "Giga Drain",
+          "Hidden Power Poison",
+          "Swords Dance",
+          "Synthesis"
+        ],
+        "species": "Ivysaur"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Explosion",
+          "Haze",
+          "Pain Split",
+          "Sludge Bomb"
+        ],
+        "species": "Koffing"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 29,
+          "def": 29,
+          "hp": 7
+        },
+        "moves": [
+          "Fire Blast",
+          "Protect",
+          "Thunder Punch",
+          "Toxic"
+        ],
+        "species": "Magby"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Encore",
+          "Rest",
+          "Sleep Talk",
+          "Surf"
+        ],
+        "species": "Seel"
+      },
+      {
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Curse",
+          "Double-Edge",
+          "Rest",
+          "Sleep Talk"
+        ],
+        "species": "Togetic"
+      }
+    ],
+    "name": "Seel FWG"
+  }
+]

@@ -1,0 +1,629 @@
+[
+  {
+    "author": "zS",
+    "data": [
+      {
+        "ability": "Levitate",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Shadow Ball",
+          "Thunderbolt",
+          "Trick",
+          "Will-O-Wisp"
+        ],
+        "nature": "Timid",
+        "species": "Misdreavus"
+      },
+      {
+        "ability": "Chlorophyll",
+        "evs": {
+          "hp": 252,
+          "spa": 68,
+          "spd": 172,
+          "spe": 16
+        },
+        "gender": "F",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "def": 30
+        },
+        "moves": [
+          "Energy Ball",
+          "Hidden Power Ice",
+          "Sleep Powder",
+          "Synthesis"
+        ],
+        "nature": "Calm",
+        "species": "Bellossom"
+      },
+      {
+        "ability": "Blaze",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "moves": [
+          "Close Combat",
+          "Flare Blitz",
+          "Sleep Talk",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "species": "Monferno"
+      },
+      {
+        "ability": "Thick Fat",
+        "evs": {
+          "atk": 252,
+          "spa": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "happiness": 255,
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 30,
+          "spa": 30
+        },
+        "moves": [
+          "Fake Out",
+          "Hidden Power Grass",
+          "Return",
+          "U-turn"
+        ],
+        "nature": "Hasty",
+        "species": "Purugly"
+      },
+      {
+        "ability": "Water Absorb",
+        "evs": {
+          "def": 96,
+          "hp": 252,
+          "spd": 160
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Curse",
+          "Earthquake",
+          "Recover",
+          "Toxic"
+        ],
+        "nature": "Impish",
+        "species": "Quagsire"
+      },
+      {
+        "ability": "Rock Head",
+        "evs": {
+          "atk": 252,
+          "hp": 120,
+          "spe": 136
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Head Smash",
+          "Stealth Rock",
+          "Waterfall"
+        ],
+        "nature": "Adamant",
+        "shiny": true,
+        "species": "Relicanth"
+      }
+    ],
+    "name": "Band Monferno Offense"
+  },
+  {
+    "author": "Drud",
+    "data": [
+      {
+        "ability": "Clear Body",
+        "evs": {
+          "atk": 252,
+          "hp": 252,
+          "spe": 4
+        },
+        "item": "Lum Berry",
+        "moves": [
+          "Bullet Punch",
+          "Meteor Mash",
+          "Stealth Rock",
+          "Zen Headbutt"
+        ],
+        "nature": "Adamant",
+        "shiny": true,
+        "species": "Metang"
+      },
+      {
+        "ability": "Static",
+        "evs": {
+          "hp": 252,
+          "spd": 120,
+          "spe": 136
+        },
+        "gender": "F",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "spa": 30
+        },
+        "moves": [
+          "Discharge",
+          "Hidden Power Grass",
+          "Rest",
+          "Sleep Talk"
+        ],
+        "nature": "Calm",
+        "shiny": true,
+        "species": "Ampharos"
+      },
+      {
+        "ability": "Flame Body",
+        "evs": {
+          "atk": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Life Orb",
+        "ivs": {
+          "spa": 30
+        },
+        "moves": [
+          "Fire Blast",
+          "Focus Blast",
+          "Hidden Power Electric",
+          "Mach Punch"
+        ],
+        "nature": "Hasty",
+        "shiny": true,
+        "species": "Magmar"
+      },
+      {
+        "ability": "Thick Fat",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "happiness": 255,
+        "item": "Silk Scarf",
+        "moves": [
+          "Fake Out",
+          "Return",
+          "Sucker Punch",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "shiny": true,
+        "species": "Purugly"
+      },
+      {
+        "ability": "Water Absorb",
+        "evs": {
+          "def": 252,
+          "hp": 252,
+          "spa": 4
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Recover",
+          "Surf",
+          "Toxic"
+        ],
+        "nature": "Relaxed",
+        "shiny": true,
+        "species": "Quagsire"
+      },
+      {
+        "ability": "Chlorophyll",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Life Orb",
+        "moves": [
+          "Leaf Blade",
+          "Sleep Powder",
+          "Sucker Punch",
+          "Swords Dance"
+        ],
+        "nature": "Jolly",
+        "shiny": true,
+        "species": "Victreebel"
+      }
+    ],
+    "name": "QuagAmph Balance"
+  },
+  {
+    "author": "Alice",
+    "data": [
+      {
+        "ability": "No Guard",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Focus Sash",
+        "moves": [
+          "Bullet Punch",
+          "Dynamic Punch",
+          "Payback",
+          "Protect"
+        ],
+        "nature": "Adamant",
+        "species": "Machoke"
+      },
+      {
+        "ability": "Sand Veil",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "F",
+        "item": "Choice Band",
+        "moves": [
+          "Dragon Claw",
+          "Earthquake",
+          "Outrage",
+          "Sleep Talk"
+        ],
+        "nature": "Jolly",
+        "species": "Gabite"
+      },
+      {
+        "ability": "Sticky Hold",
+        "evs": {
+          "def": 4,
+          "hp": 252,
+          "spd": 252
+        },
+        "gender": "M",
+        "item": "Black Sludge",
+        "moves": [
+          "Payback",
+          "Poison Jab",
+          "Rest",
+          "Sleep Talk"
+        ],
+        "nature": "Careful",
+        "species": "Muk"
+      },
+      {
+        "ability": "Rock Head",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Shuca Berry",
+        "moves": [
+          "Head Smash",
+          "Stealth Rock",
+          "Toxic",
+          "Waterfall"
+        ],
+        "nature": "Adamant",
+        "shiny": true,
+        "species": "Relicanth"
+      },
+      {
+        "ability": "Chlorophyll",
+        "evs": {
+          "def": 156,
+          "hp": 252,
+          "spe": 100
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Energy Ball",
+          "Leech Seed",
+          "Sleep Powder",
+          "Synthesis"
+        ],
+        "nature": "Bold",
+        "species": "Tangela"
+      },
+      {
+        "ability": "Immunity",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "F",
+        "happiness": 0,
+        "item": "Choice Scarf",
+        "moves": [
+          "Close Combat",
+          "Frustration",
+          "Pursuit",
+          "Quick Attack"
+        ],
+        "nature": "Jolly",
+        "shiny": true,
+        "species": "Zangoose"
+      }
+    ],
+    "name": "MukTang Balance"
+  },
+  {
+    "author": "Akir",
+    "data": [
+      {
+        "ability": "Inner Focus",
+        "evs": {
+          "atk": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Focus Sash",
+        "moves": [
+          "Explosion",
+          "Ice Beam",
+          "Spikes",
+          "Taunt"
+        ],
+        "nature": "Hasty",
+        "species": "Glalie"
+      },
+      {
+        "ability": "Chlorophyll",
+        "evs": {
+          "def": 8,
+          "hp": 248,
+          "spd": 252
+        },
+        "gender": "F",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "spa": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Energy Ball",
+          "Hidden Power Fire",
+          "Sleep Powder",
+          "Synthesis"
+        ],
+        "nature": "Calm",
+        "species": "Bellossom"
+      },
+      {
+        "ability": "Insomnia",
+        "evs": {
+          "atk": 252,
+          "spa": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 30,
+          "spa": 30
+        },
+        "moves": [
+          "Brave Bird",
+          "Heat Wave",
+          "Hidden Power Grass",
+          "Sucker Punch"
+        ],
+        "nature": "Hasty",
+        "species": "Murkrow"
+      },
+      {
+        "ability": "Thick Fat",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "happiness": 0,
+        "item": "Silk Scarf",
+        "moves": [
+          "Fake Out",
+          "Frustration",
+          "Sucker Punch",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "species": "Purugly"
+      },
+      {
+        "ability": "Rock Head",
+        "evs": {
+          "atk": 252,
+          "hp": 116,
+          "spe": 140
+        },
+        "gender": "M",
+        "item": "Shuca Berry",
+        "moves": [
+          "Head Smash",
+          "Rock Polish",
+          "Stealth Rock",
+          "Waterfall"
+        ],
+        "nature": "Adamant",
+        "species": "Relicanth"
+      },
+      {
+        "ability": "Synchronize",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "moves": [
+          "Giga Drain",
+          "Heat Wave",
+          "Psychic",
+          "U-turn"
+        ],
+        "nature": "Timid",
+        "species": "Xatu"
+      }
+    ],
+    "name": "GlalieMurkrow HO"
+  },
+  {
+    "author": "Chrisloud",
+    "data": [
+      {
+        "ability": "Inner Focus",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "F",
+        "item": "Focus Sash",
+        "ivs": {
+          "atk": 3,
+          "spa": 30,
+          "spd": 30
+        },
+        "moves": [
+          "Counter",
+          "Hidden Power Ground",
+          "Psychic",
+          "Taunt"
+        ],
+        "nature": "Timid",
+        "species": "Kadabra"
+      },
+      {
+        "ability": "Sand Veil",
+        "evs": {
+          "atk": 8,
+          "def": 252,
+          "hp": 248
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Dragon Claw",
+          "Earthquake",
+          "Stealth Rock",
+          "Toxic"
+        ],
+        "nature": "Impish",
+        "species": "Gabite"
+      },
+      {
+        "ability": "Cloud Nine",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "F",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 3,
+          "spa": 30
+        },
+        "moves": [
+          "Calm Mind",
+          "Hidden Power Electric",
+          "Substitute",
+          "Surf"
+        ],
+        "nature": "Timid",
+        "species": "Golduck"
+      },
+      {
+        "ability": "Clear Body",
+        "evs": {
+          "atk": 252,
+          "hp": 240,
+          "spe": 16
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Bullet Punch",
+          "Earthquake",
+          "Explosion",
+          "Meteor Mash"
+        ],
+        "nature": "Adamant",
+        "species": "Metang"
+      },
+      {
+        "ability": "Thick Fat",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "happiness": 0,
+        "item": "Silk Scarf",
+        "moves": [
+          "Fake Out",
+          "Frustration",
+          "Sucker Punch",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "species": "Purugly"
+      },
+      {
+        "ability": "Chlorophyll",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "F",
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 2,
+          "spa": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Hidden Power Fire",
+          "Leaf Storm",
+          "Sleep Powder",
+          "Sludge Bomb"
+        ],
+        "nature": "Modest",
+        "species": "Victreebel"
+      }
+    ],
+    "name": "GabiteMetang Offense"
+  }
+]

@@ -1,0 +1,3110 @@
+[
+  {
+    "author": "FNH",
+    "data": [
+      {
+        "ability": "Keen Eye",
+        "evs": {
+          "def": 8,
+          "hp": 252,
+          "spd": 248
+        },
+        "gender": "F",
+        "item": "Leftovers",
+        "moves": [
+          "Protect",
+          "Spikes",
+          "Toxic",
+          "Whirlwind"
+        ],
+        "nature": "Careful",
+        "species": "Skarmory"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "def": 252,
+          "spa": 112,
+          "spe": 144
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Fire Blast",
+          "Ice Beam",
+          "Soft-Boiled",
+          "Toxic"
+        ],
+        "nature": "Modest",
+        "shiny": true,
+        "species": "Blissey"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 52,
+          "hp": 248,
+          "spa": 12,
+          "spd": 100,
+          "spe": 96
+        },
+        "gender": "F",
+        "item": "Leftovers",
+        "moves": [
+          "Explosion",
+          "Fire Punch",
+          "Thunderbolt",
+          "Will-O-Wisp"
+        ],
+        "nature": "Timid",
+        "species": "Gengar"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "hp": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Hydro Pump",
+          "Ice Beam",
+          "Rapid Spin",
+          "Thunderbolt"
+        ],
+        "nature": "Timid",
+        "species": "Starmie"
+      },
+      {
+        "ability": "Torrent",
+        "evs": {
+          "def": 136,
+          "hp": 240,
+          "spa": 40,
+          "spd": 48,
+          "spe": 44
+        },
+        "gender": "F",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Hydro Pump",
+          "Ice Beam",
+          "Protect"
+        ],
+        "nature": "Relaxed",
+        "species": "Swampert"
+      },
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "atk": 196,
+          "def": 12,
+          "hp": 248,
+          "spd": 52
+        },
+        "gender": "F",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 30,
+          "def": 30,
+          "spd": 30
+        },
+        "moves": [
+          "Earthquake",
+          "Hidden Power Bug",
+          "Roar",
+          "Rock Slide"
+        ],
+        "nature": "Adamant",
+        "species": "Tyranitar"
+      }
+    ],
+    "name": "Starmie TSS submitted by UD"
+  },
+  {
+    "author": "Golden Sun (Altina edit)",
+    "data": [
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "hp": 252,
+          "spa": 252,
+          "spd": 4
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Crunch",
+          "Earthquake",
+          "Ice Beam",
+          "Pursuit"
+        ],
+        "nature": "Modest",
+        "species": "Tyranitar"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 224,
+          "hp": 252,
+          "spe": 32
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Protect",
+          "Rock Slide",
+          "Toxic"
+        ],
+        "nature": "Impish",
+        "species": "Flygon"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 44,
+          "hp": 248,
+          "spa": 8,
+          "spd": 112,
+          "spe": 96
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Ice Punch",
+          "Taunt",
+          "Thunderbolt",
+          "Will-O-Wisp"
+        ],
+        "nature": "Timid",
+        "species": "Gengar"
+      },
+      {
+        "ability": "Serene Grace",
+        "evs": {
+          "atk": 44,
+          "def": 68,
+          "hp": 248,
+          "spd": 100,
+          "spe": 48
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Body Slam",
+          "Fire Punch",
+          "Protect",
+          "Wish"
+        ],
+        "nature": "Sassy",
+        "species": "Jirachi"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "spa": 30
+        },
+        "moves": [
+          "Fire Blast",
+          "Hidden Power Grass",
+          "Protect",
+          "Will-O-Wisp"
+        ],
+        "nature": "Timid",
+        "species": "Moltres"
+      },
+      {
+        "ability": "Keen Eye",
+        "evs": {
+          "def": 4,
+          "hp": 252,
+          "spd": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Protect",
+          "Roar",
+          "Spikes",
+          "Toxic"
+        ],
+        "nature": "Careful",
+        "species": "Skarmory"
+      }
+    ],
+    "name": "Molt Superman by Golden Sun"
+  },
+  {
+    "data": [
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "def": 92,
+          "hp": 240,
+          "spe": 176
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "spa": 30
+        },
+        "moves": [
+          "Hidden Power Grass",
+          "Leech Seed",
+          "Light Screen",
+          "Recover"
+        ],
+        "nature": "Timid",
+        "species": "Celebi"
+      },
+      {
+        "ability": "Rock Head",
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "ivs": {
+          "atk": 30,
+          "def": 30,
+          "spd": 30
+        },
+        "moves": [
+          "Double-Edge",
+          "Earthquake",
+          "Hidden Power Bug",
+          "Rock Slide"
+        ],
+        "nature": "Jolly",
+        "species": "Aerodactyl"
+      },
+      {
+        "ability": "Magnet Pull",
+        "evs": {
+          "hp": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "spa": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Hidden Power Fire",
+          "Protect",
+          "Thunderbolt",
+          "Toxic"
+        ],
+        "nature": "Modest",
+        "species": "Magneton"
+      },
+      {
+        "ability": "Keen Eye",
+        "evs": {
+          "hp": 252,
+          "spd": 232,
+          "spe": 24
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Protect",
+          "Spikes",
+          "Toxic",
+          "Whirlwind"
+        ],
+        "nature": "Careful",
+        "species": "Skarmory"
+      },
+      {
+        "ability": "Torrent",
+        "evs": {
+          "def": 216,
+          "hp": 240,
+          "spd": 52
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Protect",
+          "Refresh",
+          "Surf",
+          "Toxic"
+        ],
+        "nature": "Bold",
+        "species": "Swampert"
+      },
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "hp": 240,
+          "spa": 188,
+          "spd": 48,
+          "spe": 32
+        },
+        "gender": "F",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "spa": 30
+        },
+        "moves": [
+          "Crunch",
+          "Fire Blast",
+          "Hidden Power Grass",
+          "Pursuit"
+        ],
+        "nature": "Quiet",
+        "species": "Tyranitar"
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "atk": 108,
+          "def": 36,
+          "hp": 252,
+          "spe": 112
+        },
+        "gender": "F",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Taunt",
+          "Toxic"
+        ],
+        "nature": "Adamant",
+        "species": "Tyranitar"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "def": 252,
+          "spa": 236,
+          "spe": 20
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Ice Beam",
+          "Seismic Toss",
+          "Soft-Boiled",
+          "Toxic"
+        ],
+        "nature": "Bold",
+        "species": "Blissey"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 48,
+          "hp": 252,
+          "spd": 112,
+          "spe": 96
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Ice Punch",
+          "Taunt",
+          "Thunderbolt",
+          "Will-O-Wisp"
+        ],
+        "nature": "Timid",
+        "species": "Gengar"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "spa": 30
+        },
+        "moves": [
+          "Flamethrower",
+          "Hidden Power Grass",
+          "Roar",
+          "Will-O-Wisp"
+        ],
+        "nature": "Modest",
+        "species": "Moltres"
+      },
+      {
+        "ability": "Keen Eye",
+        "evs": {
+          "hp": 252,
+          "spd": 212,
+          "spe": 44
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Spikes",
+          "Taunt",
+          "Toxic",
+          "Whirlwind"
+        ],
+        "nature": "Calm",
+        "species": "Skarmory"
+      },
+      {
+        "ability": "Torrent",
+        "evs": {
+          "def": 148,
+          "hp": 248,
+          "spa": 64,
+          "spd": 4,
+          "spe": 44
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Hydro Pump",
+          "Ice Beam",
+          "Protect"
+        ],
+        "nature": "Relaxed",
+        "species": "Swampert"
+      }
+    ]
+  },
+  {
+    "author": "starmaster",
+    "data": [
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "def": 104,
+          "hp": 16,
+          "spa": 252,
+          "spe": 136
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Brick Break",
+          "Dragon Claw",
+          "Fire Blast",
+          "Roar"
+        ],
+        "nature": "Rash",
+        "species": "Salamence"
+      },
+      {
+        "ability": "Rock Head",
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spd": 72,
+          "spe": 180
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "ivs": {
+          "def": 30,
+          "spa": 30,
+          "spd": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Double-Edge",
+          "Earthquake",
+          "Hidden Power Fighting",
+          "Rock Slide"
+        ],
+        "nature": "Jolly",
+        "species": "Aerodactyl"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "def": 252,
+          "hp": 252,
+          "spd": 4
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Counter",
+          "Seismic Toss",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "nature": "Bold",
+        "species": "Blissey"
+      },
+      {
+        "ability": "Sturdy",
+        "evs": {
+          "hp": 252,
+          "spd": 252,
+          "spe": 4
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Rapid Spin",
+          "Spikes"
+        ],
+        "nature": "Careful",
+        "species": "Forretress"
+      },
+      {
+        "ability": "Serene Grace",
+        "evs": {
+          "def": 224,
+          "hp": 252,
+          "spe": 32
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Fire Punch",
+          "Protect",
+          "Toxic",
+          "Wish"
+        ],
+        "nature": "Bold",
+        "species": "Jirachi"
+      },
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "def": 60,
+          "hp": 232,
+          "spa": 216
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Counter",
+          "Crunch",
+          "Fire Blast",
+          "Pursuit"
+        ],
+        "nature": "Modest",
+        "species": "Tyranitar"
+      }
+    ],
+    "name": "MixMence Aero Forre TSS"
+  },
+  {
+    "author": "Kerts",
+    "data": [
+      {
+        "ability": "Keen Eye",
+        "evs": {
+          "hp": 252,
+          "spd": 252,
+          "spe": 4
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Protect",
+          "Roar",
+          "Spikes",
+          "Toxic"
+        ],
+        "nature": "Careful",
+        "species": "Skarmory"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "hp": 40,
+          "spa": 252,
+          "spe": 216
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 30,
+          "spa": 30
+        },
+        "moves": [
+          "Explosion",
+          "Fire Punch",
+          "Hidden Power Grass",
+          "Ice Punch"
+        ],
+        "nature": "Hasty",
+        "species": "Gengar"
+      },
+      {
+        "ability": "Volt Absorb",
+        "evs": {
+          "hp": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "gender": "F",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "spa": 30
+        },
+        "moves": [
+          "Baton Pass",
+          "Hidden Power Grass",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "nature": "Timid",
+        "species": "Jolteon"
+      },
+      {
+        "ability": "Clear Body",
+        "evs": {
+          "atk": 252,
+          "hp": 68,
+          "spe": 188
+        },
+        "item": "Choice Band",
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Meteor Mash",
+          "Rock Slide"
+        ],
+        "nature": "Adamant",
+        "species": "Metagross"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "hp": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Hydro Pump",
+          "Ice Beam",
+          "Psychic",
+          "Thunderbolt"
+        ],
+        "nature": "Timid",
+        "species": "Starmie"
+      },
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "hp": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "spd": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Earthquake",
+          "Focus Punch",
+          "Hidden Power Bug",
+          "Rock Slide"
+        ],
+        "nature": "Adamant",
+        "species": "Tyranitar"
+      }
+    ],
+    "name": "JoltStar Spike Stack by Kerts"
+  },
+  {
+    "data": [
+      {
+        "ability": "Pressure",
+        "evs": {
+          "hp": 248,
+          "spd": 228,
+          "spe": 32
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Rest",
+          "Thunderbolt",
+          "Thunder Wave",
+          "Toxic"
+        ],
+        "nature": "Calm",
+        "species": "Zapdos"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "def": 100,
+          "hp": 240,
+          "spd": 136,
+          "spe": 32
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Leech Seed",
+          "Psychic",
+          "Recover"
+        ],
+        "nature": "Calm",
+        "species": "Celebi"
+      },
+      {
+        "ability": "Arena Trap",
+        "evs": {
+          "atk": 248,
+          "hp": 8,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "ivs": {
+          "atk": 30,
+          "def": 30,
+          "spd": 30
+        },
+        "moves": [
+          "Aerial Ace",
+          "Earthquake",
+          "Hidden Power Bug",
+          "Rock Slide"
+        ],
+        "nature": "Jolly",
+        "species": "Dugtrio"
+      },
+      {
+        "ability": "Keen Eye",
+        "evs": {
+          "hp": 248,
+          "spd": 216,
+          "spe": 44
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Spikes",
+          "Taunt",
+          "Toxic",
+          "Whirlwind"
+        ],
+        "nature": "Careful",
+        "species": "Skarmory"
+      },
+      {
+        "ability": "Torrent",
+        "evs": {
+          "def": 188,
+          "hp": 240,
+          "spd": 56,
+          "spe": 24
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Protect",
+          "Refresh",
+          "Surf",
+          "Toxic"
+        ],
+        "nature": "Bold",
+        "species": "Swampert"
+      },
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "atk": 204,
+          "hp": 184,
+          "spe": 120
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 30,
+          "def": 30,
+          "spd": 30
+        },
+        "moves": [
+          "Earthquake",
+          "Focus Punch",
+          "Hidden Power Bug",
+          "Rock Slide"
+        ],
+        "nature": "Adamant",
+        "species": "Tyranitar"
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "def": 40,
+          "hp": 184,
+          "spa": 200,
+          "spe": 84
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Crunch",
+          "Flamethrower",
+          "Pursuit",
+          "Roar"
+        ],
+        "nature": "Modest",
+        "species": "Tyranitar"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "def": 252,
+          "hp": 232,
+          "spe": 24
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0,
+          "spa": 30
+        },
+        "moves": [
+          "Seismic Toss",
+          "Soft-Boiled",
+          "Thunder Wave",
+          "Wish"
+        ],
+        "nature": "Bold",
+        "species": "Blissey"
+      },
+      {
+        "ability": "Arena Trap",
+        "evs": {
+          "atk": 252,
+          "hp": 8,
+          "spd": 20,
+          "spe": 228
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "ivs": {
+          "atk": 30,
+          "def": 30,
+          "spd": 30
+        },
+        "moves": [
+          "Aerial Ace",
+          "Earthquake",
+          "Hidden Power Bug",
+          "Rock Slide"
+        ],
+        "nature": "Adamant",
+        "species": "Dugtrio"
+      },
+      {
+        "ability": "Sturdy",
+        "evs": {
+          "def": 12,
+          "hp": 252,
+          "spd": 244
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Rapid Spin",
+          "Spikes"
+        ],
+        "nature": "Sassy",
+        "species": "Forretress"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 52,
+          "hp": 248,
+          "spd": 112,
+          "spe": 96
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Explosion",
+          "Ice Punch",
+          "Thunderbolt",
+          "Will-O-Wisp"
+        ],
+        "nature": "Timid",
+        "species": "Gengar"
+      },
+      {
+        "ability": "Torrent",
+        "evs": {
+          "def": 128,
+          "hp": 248,
+          "spa": 84,
+          "spe": 48
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Ice Beam",
+          "Protect",
+          "Refresh"
+        ],
+        "nature": "Relaxed",
+        "species": "Swampert"
+      }
+    ]
+  },
+  {
+    "author": "Zokuru",
+    "data": [
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "atk": 196,
+          "def": 120,
+          "hp": 184,
+          "spe": 8
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 30,
+          "def": 30,
+          "spd": 30
+        },
+        "moves": [
+          "Earthquake",
+          "Hidden Power Bug",
+          "Roar",
+          "Rock Slide"
+        ],
+        "nature": "Adamant",
+        "species": "Tyranitar"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "def": 244,
+          "hp": 40,
+          "spa": 208,
+          "spe": 16
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Ice Beam",
+          "Seismic Toss",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "nature": "Bold",
+        "species": "Blissey"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "atk": 228,
+          "hp": 224,
+          "spa": 36,
+          "spe": 20
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Psychic",
+          "Rapid Spin",
+          "Refresh"
+        ],
+        "nature": "Adamant",
+        "species": "Claydol"
+      },
+      {
+        "ability": "Arena Trap",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "ivs": {
+          "atk": 30,
+          "def": 30,
+          "spd": 30
+        },
+        "moves": [
+          "Aerial Ace",
+          "Earthquake",
+          "Hidden Power Bug",
+          "Screech"
+        ],
+        "nature": "Jolly",
+        "species": "Dugtrio"
+      },
+      {
+        "ability": "Marvel Scale",
+        "evs": {
+          "def": 212,
+          "hp": 248,
+          "spe": 48
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Recover",
+          "Refresh",
+          "Surf",
+          "Toxic"
+        ],
+        "nature": "Bold",
+        "species": "Milotic"
+      },
+      {
+        "ability": "Keen Eye",
+        "evs": {
+          "hp": 248,
+          "spd": 236,
+          "spe": 24
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Drill Peck",
+          "Roar",
+          "Spikes",
+          "Toxic"
+        ],
+        "nature": "Careful",
+        "species": "Skarmory"
+      }
+    ],
+    "name": "MiloDol TSS by Zokuru"
+  },
+  {
+    "author": "starmaster",
+    "data": [
+      {
+        "ability": "Guts",
+        "evs": {
+          "atk": 228,
+          "def": 160,
+          "spd": 60,
+          "spe": 60
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "spd": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Brick Break",
+          "Focus Punch",
+          "Hidden Power Bug",
+          "Knock Off"
+        ],
+        "nature": "Adamant",
+        "species": "Hariyama"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "def": 80,
+          "hp": 252,
+          "spa": 40,
+          "spe": 136
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "spa": 30
+        },
+        "moves": [
+          "Hidden Power Grass",
+          "Leech Seed",
+          "Psychic",
+          "Recover"
+        ],
+        "nature": "Bold",
+        "species": "Celebi"
+      },
+      {
+        "ability": "Serene Grace",
+        "evs": {
+          "def": 148,
+          "hp": 244,
+          "spd": 116
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Body Slam",
+          "Fire Punch",
+          "Protect",
+          "Wish"
+        ],
+        "nature": "Sassy",
+        "species": "Jirachi"
+      },
+      {
+        "ability": "Rock Head",
+        "evs": {
+          "atk": 252,
+          "hp": 24,
+          "spd": 4,
+          "spe": 228
+        },
+        "gender": "M",
+        "item": "Thick Club",
+        "ivs": {
+          "spd": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Earthquake",
+          "Focus Punch",
+          "Hidden Power Bug",
+          "Rock Slide"
+        ],
+        "nature": "Adamant",
+        "species": "Marowak"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "def": 224,
+          "hp": 252,
+          "spe": 32
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Flamethrower",
+          "Protect",
+          "Toxic",
+          "Wish"
+        ],
+        "nature": "Bold",
+        "species": "Salamence"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "def": 40,
+          "hp": 252,
+          "spa": 8,
+          "spd": 32,
+          "spe": 176
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Rapid Spin",
+          "Recover",
+          "Surf",
+          "Thunder Wave"
+        ],
+        "nature": "Timid",
+        "species": "Starmie"
+      }
+    ],
+    "name": "Hariyama Marowak SpinMie Balance"
+  },
+  {
+    "author": "TDK",
+    "data": [
+      {
+        "ability": "Pressure",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "def": 30
+        },
+        "moves": [
+          "Baton Pass",
+          "Hidden Power Ice",
+          "Substitute",
+          "Thunderbolt"
+        ],
+        "nature": "Timid",
+        "species": "Zapdos"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "def": 252,
+          "hp": 252,
+          "spd": 4
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Ice Beam",
+          "Seismic Toss",
+          "Soft-Boiled",
+          "Wish"
+        ],
+        "nature": "Bold",
+        "species": "Blissey"
+      },
+      {
+        "ability": "Guts",
+        "evs": {
+          "atk": 216,
+          "def": 108,
+          "spd": 124,
+          "spe": 60
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "spd": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Brick Break",
+          "Focus Punch",
+          "Hidden Power Bug",
+          "Rock Slide"
+        ],
+        "nature": "Adamant",
+        "species": "Hariyama"
+      },
+      {
+        "ability": "Clear Body",
+        "evs": {
+          "def": 152,
+          "hp": 252,
+          "spd": 60,
+          "spe": 44
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Meteor Mash",
+          "Protect"
+        ],
+        "nature": "Impish",
+        "species": "Metagross"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "def": 4,
+          "hp": 252,
+          "spe": 252
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Rapid Spin",
+          "Recover",
+          "Surf",
+          "Thunder Wave"
+        ],
+        "nature": "Timid",
+        "species": "Starmie"
+      },
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "atk": 144,
+          "spa": 252,
+          "spe": 112
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 30,
+          "spa": 30
+        },
+        "moves": [
+          "Fire Blast",
+          "Focus Punch",
+          "Hidden Power Grass",
+          "Rock Slide"
+        ],
+        "nature": "Mild",
+        "species": "Tyranitar"
+      }
+    ],
+    "name": "SubZap OffYama SpinMie Balance"
+  },
+  {
+    "author": "FNH",
+    "data": [
+      {
+        "ability": "Pressure",
+        "evs": {
+          "hp": 100,
+          "spa": 252,
+          "spe": 156
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Hydro Pump",
+          "Ice Beam",
+          "Roar"
+        ],
+        "nature": "Modest",
+        "species": "Suicune"
+      },
+      {
+        "ability": "Swarm",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Salac Berry",
+        "ivs": {
+          "hp": 30
+        },
+        "moves": [
+          "Megahorn",
+          "Rock Slide",
+          "Substitute",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Heracross"
+      },
+      {
+        "ability": "Magnet Pull",
+        "evs": {
+          "hp": 68,
+          "spa": 252,
+          "spe": 188
+        },
+        "item": "Magnet",
+        "ivs": {
+          "atk": 2,
+          "spa": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Hidden Power Fire",
+          "Rain Dance",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "nature": "Timid",
+        "species": "Magneton"
+      },
+      {
+        "ability": "Clear Body",
+        "evs": {
+          "atk": 252,
+          "hp": 68,
+          "spe": 188
+        },
+        "item": "Choice Band",
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Meteor Mash",
+          "Rock Slide"
+        ],
+        "nature": "Adamant",
+        "species": "Metagross"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 30,
+          "spa": 30
+        },
+        "moves": [
+          "Brick Break",
+          "Dragon Claw",
+          "Fire Blast",
+          "Hidden Power Grass"
+        ],
+        "nature": "Rash",
+        "species": "Salamence"
+      },
+      {
+        "ability": "Immunity",
+        "evs": {
+          "atk": 244,
+          "def": 116,
+          "hp": 16,
+          "spd": 116,
+          "spe": 16
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Self-Destruct",
+          "Shadow Ball"
+        ],
+        "nature": "Adamant",
+        "species": "Snorlax"
+      }
+    ],
+    "name": "Blue Offense By Noitu"
+  },
+  {
+    "data": [
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "def": 30,
+          "spa": 30
+        },
+        "moves": [
+          "Brick Break",
+          "Dragon Claw",
+          "Fire Blast",
+          "Hidden Power Grass"
+        ],
+        "nature": "Naive",
+        "species": "Salamence"
+      },
+      {
+        "ability": "Clear Body",
+        "evs": {
+          "atk": 36,
+          "spa": 252,
+          "spe": 220
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "def": 30,
+          "spa": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Explosion",
+          "Hidden Power Fire",
+          "Meteor Mash",
+          "Psychic"
+        ],
+        "nature": "Rash",
+        "species": "Metagross"
+      },
+      {
+        "ability": "Immunity",
+        "evs": {
+          "atk": 176,
+          "def": 120,
+          "hp": 16,
+          "spd": 160,
+          "spe": 36
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Body Slam",
+          "Focus Punch",
+          "Self-Destruct",
+          "Shadow Ball"
+        ],
+        "nature": "Adamant",
+        "species": "Snorlax"
+      },
+      {
+        "ability": "Torrent",
+        "evs": {
+          "atk": 28,
+          "spa": 252,
+          "spe": 228
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Focus Punch",
+          "Hydro Pump",
+          "Ice Beam"
+        ],
+        "nature": "Rash",
+        "species": "Swampert"
+      },
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Lum Berry",
+        "ivs": {
+          "atk": 30,
+          "def": 30,
+          "spd": 30
+        },
+        "moves": [
+          "Dragon Dance",
+          "Earthquake",
+          "Hidden Power Bug",
+          "Rock Slide"
+        ],
+        "nature": "Jolly",
+        "species": "Tyranitar"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "def": 30
+        },
+        "moves": [
+          "Hidden Power Ice",
+          "Roar",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "nature": "Timid",
+        "species": "Zapdos"
+      }
+    ]
+  },
+  {
+    "author": "submitted by eden",
+    "data": [
+      {
+        "ability": "Pressure",
+        "evs": {
+          "hp": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "spa": 30
+        },
+        "moves": [
+          "Baton Pass",
+          "Hidden Power Grass",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "nature": "Timid",
+        "species": "Zapdos"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "def": 64,
+          "hp": 252,
+          "spd": 192
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0,
+          "spe": 30
+        },
+        "moves": [
+          "Baton Pass",
+          "Leech Seed",
+          "Psychic",
+          "Recover"
+        ],
+        "nature": "Calm",
+        "species": "Celebi"
+      },
+      {
+        "ability": "Arena Trap",
+        "evs": {
+          "atk": 252,
+          "hp": 136,
+          "spd": 24,
+          "spe": 96
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "ivs": {
+          "atk": 30,
+          "def": 30,
+          "spd": 30
+        },
+        "moves": [
+          "Aerial Ace",
+          "Beat Up",
+          "Earthquake",
+          "Hidden Power Bug"
+        ],
+        "nature": "Jolly",
+        "species": "Dugtrio"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "hp": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Hydro Pump",
+          "Ice Beam",
+          "Rapid Spin",
+          "Thunderbolt"
+        ],
+        "nature": "Timid",
+        "species": "Starmie"
+      },
+      {
+        "ability": "Torrent",
+        "evs": {
+          "def": 212,
+          "hp": 252,
+          "spd": 44
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Hydro Pump",
+          "Ice Beam",
+          "Protect"
+        ],
+        "nature": "Relaxed",
+        "species": "Swampert"
+      },
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "atk": 252,
+          "hp": 248,
+          "spd": 8
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "spd": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Earthquake",
+          "Focus Punch",
+          "Hidden Power Bug",
+          "Rock Slide"
+        ],
+        "nature": "Adamant",
+        "species": "Tyranitar"
+      }
+    ],
+    "name": "ZapDug Offense"
+  },
+  {
+    "author": "eden",
+    "data": [
+      {
+        "ability": "Water Absorb",
+        "evs": {
+          "hp": 16,
+          "spa": 228,
+          "spd": 12,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Salac Berry",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Baton Pass",
+          "Hydro Pump",
+          "Ice Beam",
+          "Substitute"
+        ],
+        "nature": "Timid",
+        "species": "Vaporeon"
+      },
+      {
+        "ability": "Rock Head",
+        "evs": {
+          "atk": 224,
+          "spd": 32,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "ivs": {
+          "atk": 30,
+          "def": 30,
+          "spd": 30
+        },
+        "moves": [
+          "Double-Edge",
+          "Earthquake",
+          "Hidden Power Bug",
+          "Rock Slide"
+        ],
+        "nature": "Jolly",
+        "species": "Aerodactyl"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 196,
+          "hp": 8,
+          "spa": 104,
+          "spe": 200
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 30,
+          "spa": 30
+        },
+        "moves": [
+          "Explosion",
+          "Fire Punch",
+          "Hidden Power Grass",
+          "Ice Punch"
+        ],
+        "nature": "Timid",
+        "species": "Gengar"
+      },
+      {
+        "ability": "Clear Body",
+        "evs": {
+          "atk": 32,
+          "spa": 252,
+          "spe": 224
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 30,
+          "spa": 30
+        },
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Hidden Power Grass",
+          "Thunder Punch"
+        ],
+        "nature": "Rash",
+        "species": "Metagross"
+      },
+      {
+        "ability": "Own Tempo",
+        "evs": {
+          "atk": 20,
+          "hp": 4,
+          "spd": 232,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Salac Berry",
+        "moves": [
+          "Explosion",
+          "Spikes",
+          "Spore",
+          "Thunder Wave"
+        ],
+        "nature": "Jolly",
+        "species": "Smeargle"
+      },
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "atk": 80,
+          "hp": 228,
+          "spd": 84,
+          "spe": 116
+        },
+        "gender": "M",
+        "item": "Lum Berry",
+        "moves": [
+          "Double-Edge",
+          "Dragon Dance",
+          "Earthquake",
+          "Rock Slide"
+        ],
+        "nature": "Adamant",
+        "species": "Tyranitar"
+      }
+    ],
+    "name": "Smeargle Vaporeon Offense"
+  },
+  {
+    "author": "McMeghan",
+    "data": [
+      {
+        "ability": "Pressure",
+        "evs": {
+          "hp": 112,
+          "spa": 252,
+          "spe": 144
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "spa": 30
+        },
+        "moves": [
+          "Baton Pass",
+          "Hidden Power Grass",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "nature": "Modest",
+        "species": "Zapdos"
+      },
+      {
+        "ability": "Rock Head",
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "ivs": {
+          "atk": 30,
+          "def": 30,
+          "spd": 30
+        },
+        "moves": [
+          "Double-Edge",
+          "Earthquake",
+          "Hidden Power Bug",
+          "Rock Slide"
+        ],
+        "nature": "Jolly",
+        "species": "Aerodactyl"
+      },
+      {
+        "ability": "Clear Body",
+        "evs": {
+          "atk": 252,
+          "hp": 72,
+          "spe": 184
+        },
+        "item": "Choice Band",
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Meteor Mash",
+          "Rock Slide"
+        ],
+        "nature": "Adamant",
+        "species": "Metagross"
+      },
+      {
+        "ability": "Own Tempo",
+        "evs": {
+          "hp": 68,
+          "spd": 188,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Salac Berry",
+        "moves": [
+          "Explosion",
+          "Spikes",
+          "Spore",
+          "Will-O-Wisp"
+        ],
+        "nature": "Jolly",
+        "species": "Smeargle"
+      },
+      {
+        "ability": "Torrent",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Salac Berry",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Endeavor",
+          "Hydro Pump",
+          "Ice Beam",
+          "Substitute"
+        ],
+        "nature": "Timid",
+        "species": "Swampert"
+      },
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Lum Berry",
+        "moves": [
+          "Double-Edge",
+          "Dragon Dance",
+          "Earthquake",
+          "Rock Slide"
+        ],
+        "nature": "Jolly",
+        "species": "Tyranitar"
+      }
+    ],
+    "name": "Smeargle Zapdos Offense"
+  },
+  {
+    "author": "dekzeh",
+    "data": [
+      {
+        "ability": "Pressure",
+        "evs": {
+          "hp": 28,
+          "spa": 252,
+          "spe": 228
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Calm Mind",
+          "Hydro Pump",
+          "Ice Beam",
+          "Roar"
+        ],
+        "nature": "Modest",
+        "species": "Suicune"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "hp": 104,
+          "spa": 252,
+          "spe": 152
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 30,
+          "spa": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Baton Pass",
+          "Calm Mind",
+          "Giga Drain",
+          "Hidden Power Fire"
+        ],
+        "nature": "Timid",
+        "species": "Celebi"
+      },
+      {
+        "ability": "Arena Trap",
+        "evs": {
+          "atk": 228,
+          "spd": 48,
+          "spe": 232
+        },
+        "gender": "F",
+        "item": "Choice Band",
+        "ivs": {
+          "atk": 30,
+          "def": 30,
+          "spd": 30
+        },
+        "moves": [
+          "Aerial Ace",
+          "Earthquake",
+          "Hidden Power Bug",
+          "Rock Slide"
+        ],
+        "nature": "Adamant",
+        "species": "Dugtrio"
+      },
+      {
+        "ability": "Serene Grace",
+        "evs": {
+          "hp": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 30,
+          "spa": 30
+        },
+        "moves": [
+          "Calm Mind",
+          "Fire Punch",
+          "Hidden Power Grass",
+          "Psychic"
+        ],
+        "nature": "Timid",
+        "species": "Jirachi"
+      },
+      {
+        "ability": "Trace",
+        "evs": {
+          "def": 200,
+          "hp": 252,
+          "spa": 56
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Ice Beam",
+          "Recover",
+          "Thunderbolt",
+          "Toxic"
+        ],
+        "nature": "Bold",
+        "species": "Porygon2"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "hp": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 30,
+          "def": 30
+        },
+        "moves": [
+          "Calm Mind",
+          "Hidden Power Ice",
+          "Roar",
+          "Thunderbolt"
+        ],
+        "nature": "Timid",
+        "species": "Raikou"
+      }
+    ],
+    "name": "CM Spam by dekzeh "
+  },
+  {
+    "author": "vapicuno",
+    "data": [
+      {
+        "ability": "Pressure",
+        "evs": {
+          "hp": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "spa": 30
+        },
+        "moves": [
+          "Baton Pass",
+          "Hidden Power Grass",
+          "Roar",
+          "Thunderbolt"
+        ],
+        "nature": "Timid",
+        "species": "Zapdos"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "def": 12,
+          "hp": 252,
+          "spd": 68,
+          "spe": 176
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Baton Pass",
+          "Calm Mind",
+          "Leech Seed",
+          "Psychic"
+        ],
+        "nature": "Timid",
+        "species": "Celebi"
+      },
+      {
+        "ability": "Serene Grace",
+        "evs": {
+          "def": 40,
+          "hp": 252,
+          "spa": 64,
+          "spe": 152
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "def": 30,
+          "spa": 30
+        },
+        "moves": [
+          "Calm Mind",
+          "Hidden Power Water",
+          "Psychic",
+          "Substitute"
+        ],
+        "nature": "Modest",
+        "species": "Jirachi"
+      },
+      {
+        "ability": "Magnet Pull",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Magnet",
+        "ivs": {
+          "atk": 2,
+          "spa": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Hidden Power Fire",
+          "Metal Sound",
+          "Substitute",
+          "Thunderbolt"
+        ],
+        "nature": "Modest",
+        "species": "Magneton"
+      },
+      {
+        "ability": "Trace",
+        "evs": {
+          "def": 224,
+          "hp": 252,
+          "spa": 32
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "def": 30,
+          "spa": 30,
+          "spd": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Hidden Power Fighting",
+          "Ice Beam",
+          "Recover",
+          "Thunder Wave"
+        ],
+        "nature": "Relaxed",
+        "species": "Porygon2"
+      },
+      {
+        "ability": "Torrent",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Salac Berry",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Endeavor",
+          "Roar",
+          "Substitute",
+          "Surf"
+        ],
+        "nature": "Timid",
+        "species": "Swampert"
+      }
+    ],
+    "name": "Magneton Special Spam"
+  },
+  {
+    "author": "vapicuno",
+    "data": [
+      {
+        "ability": "Clear Body",
+        "evs": {
+          "atk": 224,
+          "spd": 68,
+          "spe": 216
+        },
+        "item": "Choice Band",
+        "moves": [
+          "Brick Break",
+          "Double-Edge",
+          "Explosion",
+          "Meteor Mash"
+        ],
+        "nature": "Jolly",
+        "species": "Metagross"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "hp": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Baton Pass",
+          "Leech Seed",
+          "Psychic",
+          "Substitute"
+        ],
+        "nature": "Timid",
+        "species": "Celebi"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 252,
+          "hp": 28,
+          "spe": 228
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "def": 30,
+          "spd": 30
+        },
+        "moves": [
+          "Double-Edge",
+          "Dragon Dance",
+          "Earthquake",
+          "Hidden Power Ghost"
+        ],
+        "nature": "Jolly",
+        "species": "Gyarados"
+      },
+      {
+        "ability": "Magnet Pull",
+        "evs": {
+          "spa": 252,
+          "spd": 32,
+          "spe": 224
+        },
+        "item": "Salac Berry",
+        "ivs": {
+          "atk": 2,
+          "spa": 30
+        },
+        "moves": [
+          "Endure",
+          "Hidden Power Grass",
+          "Substitute",
+          "Thunderbolt"
+        ],
+        "nature": "Timid",
+        "species": "Magneton"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 180,
+          "spd": 212,
+          "spe": 116
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "spa": 30,
+          "spd": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Dragon Dance",
+          "Earthquake",
+          "Hidden Power Flying",
+          "Rock Slide"
+        ],
+        "nature": "Adamant",
+        "species": "Salamence"
+      },
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "atk": 232,
+          "spa": 24,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Lum Berry",
+        "ivs": {
+          "atk": 30,
+          "spa": 30
+        },
+        "moves": [
+          "Dragon Dance",
+          "Earthquake",
+          "Hidden Power Grass",
+          "Rock Slide"
+        ],
+        "nature": "Hasty",
+        "species": "Tyranitar"
+      }
+    ],
+    "name": "CBMeta Mag SubPassBi DDSpam"
+  },
+  {
+    "data": [
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "ivs": {
+          "atk": 30,
+          "def": 30,
+          "hp": 30,
+          "spa": 30,
+          "spd": 30
+        },
+        "moves": [
+          "Brick Break",
+          "Earthquake",
+          "Fire Blast",
+          "Hidden Power Flying"
+        ],
+        "nature": "Jolly",
+        "species": "Salamence"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "def": 120,
+          "hp": 248,
+          "spa": 28,
+          "spd": 92,
+          "spe": 20
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "spa": 30
+        },
+        "moves": [
+          "Hidden Power Grass",
+          "Leech Seed",
+          "Perish Song",
+          "Recover"
+        ],
+        "nature": "Bold",
+        "species": "Celebi"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "atk": 200,
+          "hp": 252,
+          "spe": 56
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Psychic",
+          "Rapid Spin"
+        ],
+        "nature": "Adamant",
+        "species": "Claydol"
+      },
+      {
+        "ability": "Magnet Pull",
+        "evs": {
+          "hp": 172,
+          "spa": 252,
+          "spe": 84
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "spa": 30
+        },
+        "moves": [
+          "Hidden Power Grass",
+          "Thunderbolt",
+          "Thunder Wave",
+          "Toxic"
+        ],
+        "nature": "Modest",
+        "species": "Magneton"
+      },
+      {
+        "ability": "Immunity",
+        "evs": {
+          "atk": 128,
+          "def": 124,
+          "hp": 92,
+          "spd": 164
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Body Slam",
+          "Curse",
+          "Rest",
+          "Shadow Ball"
+        ],
+        "nature": "Adamant",
+        "species": "Snorlax"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "def": 220,
+          "hp": 252,
+          "spe": 36
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Rest",
+          "Roar",
+          "Surf"
+        ],
+        "nature": "Bold",
+        "species": "Suicune"
+      }
+    ]
+  },
+  {
+    "author": "z0mog",
+    "data": [
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "def": 16,
+          "hp": 252,
+          "spa": 240
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Brick Break",
+          "Crunch",
+          "Ice Beam",
+          "Pursuit"
+        ],
+        "nature": "Quiet",
+        "species": "Tyranitar"
+      },
+      {
+        "ability": "Rock Head",
+        "evs": {
+          "atk": 244,
+          "hp": 12,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Liechi Berry",
+        "moves": [
+          "Double-Edge",
+          "Earthquake",
+          "Rock Slide",
+          "Substitute"
+        ],
+        "nature": "Jolly",
+        "species": "Aerodactyl"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "def": 76,
+          "hp": 252,
+          "spd": 144,
+          "spe": 36
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Baton Pass",
+          "Leech Seed",
+          "Recover",
+          "Swords Dance"
+        ],
+        "nature": "Bold",
+        "species": "Celebi"
+      },
+      {
+        "ability": "Magnet Pull",
+        "evs": {
+          "spa": 252,
+          "spd": 40,
+          "spe": 216
+        },
+        "item": "Magnet",
+        "ivs": {
+          "atk": 2,
+          "spa": 30
+        },
+        "moves": [
+          "Hidden Power Grass",
+          "Substitute",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "nature": "Timid",
+        "species": "Magneton"
+      },
+      {
+        "ability": "Clear Body",
+        "evs": {
+          "atk": 252,
+          "hp": 72,
+          "spe": 184
+        },
+        "item": "Lum Berry",
+        "moves": [
+          "Agility",
+          "Earthquake",
+          "Explosion",
+          "Meteor Mash"
+        ],
+        "nature": "Adamant",
+        "species": "Metagross"
+      },
+      {
+        "ability": "Torrent",
+        "evs": {
+          "atk": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "gender": "F",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Focus Punch",
+          "Hydro Pump",
+          "Ice Beam"
+        ],
+        "nature": "Rash",
+        "species": "Swampert"
+      }
+    ],
+    "name": "SD Pass by z0mog"
+  },
+  {
+    "author": "Teclis",
+    "data": [
+      {
+        "ability": "Clear Body",
+        "evs": {
+          "atk": 252,
+          "hp": 152,
+          "spe": 104
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Agility",
+          "Earthquake",
+          "Explosion",
+          "Meteor Mash"
+        ],
+        "nature": "Adamant",
+        "species": "Metagross"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "def": 44,
+          "hp": 240,
+          "spd": 4,
+          "spe": 220
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "def": 30,
+          "spd": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Baton Pass",
+          "Hidden Power Rock",
+          "Recover",
+          "Swords Dance"
+        ],
+        "nature": "Jolly",
+        "species": "Celebi"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 30,
+          "def": 30,
+          "hp": 30,
+          "spa": 30,
+          "spd": 30
+        },
+        "moves": [
+          "Double-Edge",
+          "Dragon Dance",
+          "Earthquake",
+          "Hidden Power Flying"
+        ],
+        "nature": "Jolly",
+        "species": "Gyarados"
+      },
+      {
+        "ability": "Guts",
+        "evs": {
+          "atk": 16,
+          "hp": 144,
+          "spd": 184,
+          "spe": 164
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "def": 30,
+          "spd": 30
+        },
+        "moves": [
+          "Brick Break",
+          "Hidden Power Ghost",
+          "Megahorn",
+          "Rock Slide"
+        ],
+        "nature": "Adamant",
+        "species": "Heracross"
+      },
+      {
+        "ability": "Magnet Pull",
+        "evs": {
+          "hp": 144,
+          "spa": 112,
+          "spe": 252
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "spa": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Hidden Power Fire",
+          "Thunderbolt",
+          "Thunder Wave",
+          "Toxic"
+        ],
+        "nature": "Timid",
+        "species": "Magneton"
+      },
+      {
+        "ability": "Marvel Scale",
+        "evs": {
+          "def": 212,
+          "hp": 248,
+          "spe": 48
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Hypnosis",
+          "Ice Beam",
+          "Recover",
+          "Surf"
+        ],
+        "nature": "Bold",
+        "species": "Milotic"
+      }
+    ],
+    "name": "Milotic SD Pass"
+  },
+  {
+    "author": "UD",
+    "data": [
+      {
+        "ability": "Keen Eye",
+        "evs": {
+          "def": 8,
+          "hp": 252,
+          "spd": 248
+        },
+        "gender": "F",
+        "item": "Leftovers",
+        "moves": [
+          "Protect",
+          "Spikes",
+          "Toxic",
+          "Whirlwind"
+        ],
+        "nature": "Careful",
+        "species": "Skarmory"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "def": 252,
+          "spa": 112,
+          "spe": 144
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Fire Blast",
+          "Ice Beam",
+          "Soft-Boiled",
+          "Toxic"
+        ],
+        "nature": "Modest",
+        "species": "Blissey"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 52,
+          "hp": 248,
+          "spa": 12,
+          "spd": 100,
+          "spe": 96
+        },
+        "gender": "F",
+        "item": "Leftovers",
+        "moves": [
+          "Explosion",
+          "Fire Punch",
+          "Thunderbolt",
+          "Will-O-Wisp"
+        ],
+        "nature": "Timid",
+        "species": "Gengar"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "hp": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Hydro Pump",
+          "Ice Beam",
+          "Rapid Spin",
+          "Thunderbolt"
+        ],
+        "nature": "Timid",
+        "species": "Starmie"
+      },
+      {
+        "ability": "Torrent",
+        "evs": {
+          "def": 136,
+          "hp": 240,
+          "spa": 40,
+          "spd": 48,
+          "spe": 44
+        },
+        "gender": "F",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Hydro Pump",
+          "Ice Beam",
+          "Protect"
+        ],
+        "nature": "Relaxed",
+        "species": "Swampert"
+      },
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "atk": 196,
+          "def": 12,
+          "hp": 248,
+          "spd": 52
+        },
+        "gender": "F",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 30,
+          "def": 30,
+          "spd": 30
+        },
+        "moves": [
+          "Earthquake",
+          "Hidden Power Bug",
+          "Roar",
+          "Rock Slide"
+        ],
+        "nature": "Adamant",
+        "species": "Tyranitar"
+      }
+    ],
+    "name": "Starmie TSS submitted"
+  },
+  {
+    "data": [
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "ivs": {
+          "atk": 30,
+          "def": 30,
+          "hp": 30,
+          "spa": 30,
+          "spd": 30
+        },
+        "moves": [
+          "Brick Break",
+          "Earthquake",
+          "Fire Blast",
+          "Hidden Power Flying"
+        ],
+        "nature": "Jolly",
+        "species": "Salamence"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "def": 120,
+          "hp": 248,
+          "spa": 28,
+          "spd": 92,
+          "spe": 20
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "spa": 30
+        },
+        "moves": [
+          "Hidden Power Grass",
+          "Leech Seed",
+          "Perish Song",
+          "Recover"
+        ],
+        "nature": "Bold",
+        "species": "Celebi"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "atk": 200,
+          "hp": 252,
+          "spe": 56
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Psychic",
+          "Rapid Spin",
+          "Refresh"
+        ],
+        "nature": "Adamant",
+        "species": "Claydol"
+      },
+      {
+        "ability": "Magnet Pull",
+        "evs": {
+          "hp": 172,
+          "spa": 252,
+          "spe": 84
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "spa": 30
+        },
+        "moves": [
+          "Hidden Power Grass",
+          "Thunderbolt",
+          "Thunder Wave",
+          "Toxic"
+        ],
+        "nature": "Modest",
+        "species": "Magneton"
+      },
+      {
+        "ability": "Thick Fat",
+        "evs": {
+          "atk": 128,
+          "def": 124,
+          "hp": 92,
+          "spd": 164
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Body Slam",
+          "Curse",
+          "Rest",
+          "Shadow Ball"
+        ],
+        "nature": "Adamant",
+        "species": "Snorlax"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "def": 220,
+          "hp": 252,
+          "spe": 36
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Rest",
+          "Roar",
+          "Surf"
+        ],
+        "nature": "Bold",
+        "species": "Suicune"
+      }
+    ],
+    "name": "ClayMag+Lax+PerishCele CZ edit of CB Dan"
+  }
+]

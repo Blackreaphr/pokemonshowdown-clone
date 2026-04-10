@@ -1,0 +1,847 @@
+[
+  {
+    "author": "adem",
+    "data": [
+      {
+        "ability": "Pressure",
+        "evs": {
+          "def": 64,
+          "hp": 252,
+          "spe": 192
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Cosmic Power",
+          "Night Shade",
+          "Recover",
+          "Taunt"
+        ],
+        "nature": "Timid",
+        "species": "Deoxys-Defense"
+      },
+      {
+        "ability": "Iron Barbs",
+        "evs": {
+          "def": 24,
+          "hp": 252,
+          "spd": 232
+        },
+        "gender": "F",
+        "item": "Leftovers",
+        "moves": [
+          "Knock Off",
+          "Leech Seed",
+          "Power Whip",
+          "Spikes"
+        ],
+        "nature": "Careful",
+        "species": "Ferrothorn"
+      },
+      {
+        "ability": "Flash Fire",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Grassium Z",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Earth Power",
+          "Magma Storm",
+          "Solar Beam",
+          "Toxic"
+        ],
+        "nature": "Timid",
+        "species": "Heatran"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "def": 252,
+          "hp": 252,
+          "spe": 4
+        },
+        "hpType": "Ice",
+        "item": "Rocky Helmet",
+        "ivs": {
+          "atk": 30,
+          "def": 30
+        },
+        "moves": [
+          "Earthquake",
+          "Hidden Power Ice",
+          "Stealth Rock",
+          "U-turn"
+        ],
+        "nature": "Lax",
+        "species": "Landorus-Therian"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "hp": 248,
+          "spa": 8,
+          "spe": 252
+        },
+        "item": "Latiasite",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Aura Sphere",
+          "Calm Mind",
+          "Psyshock",
+          "Roost"
+        ],
+        "nature": "Timid",
+        "species": "Latias"
+      },
+      {
+        "ability": "Misty Surge",
+        "evs": {
+          "hp": 248,
+          "spd": 44,
+          "spe": 216
+        },
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Defog",
+          "Hydro Pump",
+          "Moonblast",
+          "Trick"
+        ],
+        "nature": "Timid",
+        "species": "Tapu Fini"
+      }
+    ],
+    "name": "CHAINSAW MAN"
+  },
+  {
+    "author": "adem",
+    "data": [
+      {
+        "ability": "Beast Boost",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "item": "Grassium Z",
+        "moves": [
+          "Knock Off",
+          "Leaf Blade",
+          "Sacred Sword",
+          "Swords Dance"
+        ],
+        "nature": "Jolly",
+        "species": "Kartana"
+      },
+      {
+        "ability": "Battle Bond",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "hpType": "Ghost",
+        "item": "Choice Specs",
+        "moves": [
+          "Dark Pulse",
+          "Hydro Pump",
+          "Spikes",
+          "Water Shuriken"
+        ],
+        "nature": "Timid",
+        "species": "Greninja-Bond"
+      },
+      {
+        "ability": "Flash Fire",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Air Balloon",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Earth Power",
+          "Eruption",
+          "Magma Storm",
+          "Stealth Rock"
+        ],
+        "nature": "Modest",
+        "species": "Heatran"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "def": 232,
+          "hp": 252,
+          "spe": 24
+        },
+        "item": "Rocky Helmet",
+        "moves": [
+          "Defog",
+          "Earthquake",
+          "Explosion",
+          "U-turn"
+        ],
+        "nature": "Impish",
+        "species": "Landorus-Therian"
+      },
+      {
+        "ability": "Light Metal",
+        "evs": {
+          "atk": 40,
+          "hp": 248,
+          "spe": 220
+        },
+        "gender": "M",
+        "item": "Scizorite",
+        "moves": [
+          "Bullet Punch",
+          "Roost",
+          "Sand Tomb",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Scizor"
+      },
+      {
+        "ability": "Misty Surge",
+        "evs": {
+          "def": 44,
+          "hp": 248,
+          "spe": 216
+        },
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Moonblast",
+          "Surf",
+          "Trick"
+        ],
+        "nature": "Timid",
+        "species": "Tapu Fini"
+      }
+    ],
+    "name": "YO"
+  },
+  {
+    "author": "Mountain Climb",
+    "data": [
+      {
+        "ability": "Pressure",
+        "evs": {
+          "def": 216,
+          "hp": 240,
+          "spa": 52
+        },
+        "item": "Electrium Z",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Defog",
+          "Heat Wave",
+          "Roost",
+          "Thunderbolt"
+        ],
+        "nature": "Bold",
+        "species": "Zapdos"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "def": 252,
+          "hp": 248,
+          "spd": 8
+        },
+        "item": "Eviolite",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Aromatherapy",
+          "Seismic Toss",
+          "Soft-Boiled",
+          "Stealth Rock"
+        ],
+        "nature": "Bold",
+        "species": "Chansey"
+      },
+      {
+        "ability": "Poison Heal",
+        "evs": {
+          "hp": 252,
+          "spd": 144,
+          "spe": 112
+        },
+        "gender": "M",
+        "item": "Toxic Orb",
+        "moves": [
+          "Defog",
+          "Earthquake",
+          "Roost",
+          "Toxic"
+        ],
+        "nature": "Jolly",
+        "species": "Gliscor"
+      },
+      {
+        "ability": "Technician",
+        "evs": {
+          "atk": 40,
+          "hp": 248,
+          "spd": 220
+        },
+        "gender": "M",
+        "item": "Scizorite",
+        "moves": [
+          "Bullet Punch",
+          "Knock Off",
+          "Roost",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Scizor"
+      },
+      {
+        "ability": "Sturdy",
+        "evs": {
+          "def": 244,
+          "hp": 252,
+          "spe": 12
+        },
+        "gender": "M",
+        "item": "Rocky Helmet",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Body Press",
+          "Iron Defense",
+          "Roost",
+          "Spikes"
+        ],
+        "nature": "Impish",
+        "species": "Skarmory"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "def": 104,
+          "hp": 252,
+          "spd": 152
+        },
+        "gender": "M",
+        "item": "Payapa Berry",
+        "moves": [
+          "Haze",
+          "Knock Off",
+          "Recover",
+          "Toxic"
+        ],
+        "nature": "Calm",
+        "species": "Toxapex"
+      }
+    ]
+  },
+  {
+    "author": "Ryuji-Sensei",
+    "data": [
+      {
+        "ability": "Pressure",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "hpType": "Fire",
+        "item": "Icium Z",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Earth Power",
+          "Freeze-Dry",
+          "Hidden Power Fire",
+          "Roost"
+        ],
+        "nature": "Modest",
+        "species": "Kyurem"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "def": 240,
+          "hp": 248,
+          "spe": 20
+        },
+        "hpType": "Ice",
+        "item": "Rocky Helmet",
+        "ivs": {
+          "atk": 30,
+          "def": 30
+        },
+        "moves": [
+          "Earthquake",
+          "Hidden Power Ice",
+          "Stealth Rock",
+          "U-turn"
+        ],
+        "nature": "Impish",
+        "species": "Landorus-Therian"
+      },
+      {
+        "ability": "Limber",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "happiness": 0,
+        "item": "Lopunnite",
+        "moves": [
+          "Close Combat",
+          "Fake Out",
+          "Frustration",
+          "Quick Attack"
+        ],
+        "nature": "Jolly",
+        "species": "Lopunny"
+      },
+      {
+        "ability": "Iron Fist",
+        "evs": {
+          "atk": 252,
+          "spd": 244,
+          "spe": 12
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Double Iron Bash",
+          "Earthquake",
+          "Protect",
+          "Toxic"
+        ],
+        "nature": "Adamant",
+        "species": "Melmetal"
+      },
+      {
+        "ability": "Misty Surge",
+        "evs": {
+          "hp": 248,
+          "spd": 68,
+          "spe": 192
+        },
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Defog",
+          "Hydro Pump",
+          "Moonblast",
+          "Trick"
+        ],
+        "nature": "Timid",
+        "species": "Tapu Fini"
+      },
+      {
+        "ability": "Victory Star",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Heavy-Duty Boots",
+        "moves": [
+          "Bolt Strike",
+          "Encore",
+          "U-turn",
+          "V-create"
+        ],
+        "nature": "Jolly",
+        "species": "Victini"
+      }
+    ],
+    "name": "rem punny"
+  },
+  {
+    "author": "Ryuji-Sensei",
+    "data": [
+      {
+        "ability": "Pure Power",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Medichamite",
+        "moves": [
+          "Bullet Punch",
+          "Fake Out",
+          "High Jump Kick",
+          "Zen Headbutt"
+        ],
+        "nature": "Adamant",
+        "species": "Medicham"
+      },
+      {
+        "ability": "Magic Guard",
+        "evs": {
+          "def": 220,
+          "hp": 252,
+          "spe": 36
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Moonblast",
+          "Soft-Boiled",
+          "Stealth Rock",
+          "Thunder Wave"
+        ],
+        "nature": "Bold",
+        "species": "Clefable"
+      },
+      {
+        "ability": "Iron Barbs",
+        "evs": {
+          "def": 92,
+          "hp": 252,
+          "spd": 164
+        },
+        "gender": "M",
+        "item": "Rocky Helmet",
+        "moves": [
+          "Iron Head",
+          "Leech Seed",
+          "Spikes",
+          "Thunder Wave"
+        ],
+        "nature": "Careful",
+        "species": "Ferrothorn"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 252,
+          "hp": 12,
+          "spe": 244
+        },
+        "item": "Choice Scarf",
+        "moves": [
+          "Defog",
+          "Earthquake",
+          "Stone Edge",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "species": "Landorus-Therian"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "hp": 252,
+          "spa": 68,
+          "spd": 188
+        },
+        "item": "Waterium Z",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Hydro Pump",
+          "Pain Split",
+          "Thunder Wave",
+          "Volt Switch"
+        ],
+        "nature": "Calm",
+        "species": "Rotom-Wash"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "moves": [
+          "Ice Shard",
+          "Knock Off",
+          "Pursuit",
+          "Triple Axel"
+        ],
+        "nature": "Jolly",
+        "species": "Weavile"
+      }
+    ],
+    "name": "mmedi para spam"
+  },
+  {
+    "data": [
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 16,
+          "hp": 240,
+          "spe": 252
+        },
+        "item": "Latiasite",
+        "moves": [
+          "Aura Sphere",
+          "Calm Mind",
+          "Psyshock",
+          "Roost"
+        ],
+        "nature": "Timid",
+        "species": "Latias"
+      },
+      {
+        "ability": "Magic Guard",
+        "evs": {
+          "def": 248,
+          "hp": 252,
+          "spe": 8
+        },
+        "gender": "M",
+        "item": "Life Orb",
+        "moves": [
+          "Calm Mind",
+          "Moonblast",
+          "Soft-Boiled",
+          "Thunder"
+        ],
+        "nature": "Bold",
+        "species": "Clefable"
+      },
+      {
+        "ability": "Storm Drain",
+        "evs": {
+          "def": 20,
+          "hp": 248,
+          "spd": 216,
+          "spe": 24
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Clear Smog",
+          "Earthquake",
+          "Recover",
+          "Scald"
+        ],
+        "nature": "Sassy",
+        "species": "Gastrodon"
+      },
+      {
+        "ability": "Flash Fire",
+        "evs": {
+          "hp": 252,
+          "spd": 48,
+          "spe": 208
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Earth Power",
+          "Magma Storm",
+          "Stealth Rock",
+          "Toxic"
+        ],
+        "nature": "Calm",
+        "species": "Heatran"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "hp": 236,
+          "spd": 64,
+          "spe": 208
+        },
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Defog",
+          "Hydro Pump",
+          "Trick",
+          "Volt Switch"
+        ],
+        "nature": "Timid",
+        "species": "Rotom-Wash"
+      },
+      {
+        "ability": "Sturdy",
+        "evs": {
+          "def": 164,
+          "hp": 248,
+          "spe": 96
+        },
+        "gender": "M",
+        "item": "Rocky Helmet",
+        "moves": [
+          "Body Press",
+          "Iron Defense",
+          "Roost",
+          "Spikes"
+        ],
+        "nature": "Bold",
+        "species": "Skarmory"
+      }
+    ]
+  },
+  {
+    "author": "nduudrei anti larp",
+    "data": [
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 4,
+          "hp": 252,
+          "spe": 252
+        },
+        "item": "Latiasite",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Ice Beam",
+          "Psyshock",
+          "Roost"
+        ],
+        "nature": "Timid",
+        "species": "Latias"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "def": 252,
+          "hp": 248,
+          "spd": 8
+        },
+        "item": "Eviolite",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Seismic Toss",
+          "Soft-Boiled",
+          "Stealth Rock",
+          "Toxic"
+        ],
+        "nature": "Bold",
+        "species": "Chansey"
+      },
+      {
+        "ability": "Iron Barbs",
+        "evs": {
+          "def": 252,
+          "hp": 252,
+          "spd": 4
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Body Press",
+          "Iron Defense",
+          "Leech Seed",
+          "Spikes"
+        ],
+        "nature": "Bold",
+        "species": "Ferrothorn"
+      },
+      {
+        "ability": "Poison Heal",
+        "evs": {
+          "def": 52,
+          "hp": 244,
+          "spd": 188,
+          "spe": 24
+        },
+        "gender": "M",
+        "item": "Toxic Orb",
+        "moves": [
+          "Earthquake",
+          "Knock Off",
+          "Roost",
+          "Swords Dance"
+        ],
+        "nature": "Jolly",
+        "species": "Gliscor"
+      },
+      {
+        "ability": "Electric Surge",
+        "evs": {
+          "hp": 40,
+          "spa": 252,
+          "spe": 216
+        },
+        "item": "Fairium Z",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Dazzling Gleam",
+          "Roost",
+          "Thunderbolt"
+        ],
+        "nature": "Timid",
+        "species": "Tapu Koko"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "def": 252,
+          "hp": 248,
+          "spd": 8
+        },
+        "gender": "M",
+        "item": "Heavy-Duty Boots",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Haze",
+          "Recover",
+          "Scald",
+          "Toxic"
+        ],
+        "nature": "Bold",
+        "species": "Toxapex"
+      }
+    ],
+    "name": "cmkoko (original squad by JP)"
+  }
+]

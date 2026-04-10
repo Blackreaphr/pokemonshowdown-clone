@@ -1,0 +1,599 @@
+[
+  {
+    "author": "Specs",
+    "data": [
+      {
+        "ability": "Super Luck",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "moves": [
+          "Knock Off",
+          "Play Rough",
+          "Pursuit",
+          "Superpower"
+        ],
+        "nature": "Jolly",
+        "species": "Absol"
+      },
+      {
+        "ability": "Volt Absorb",
+        "evs": {
+          "def": 220,
+          "hp": 40,
+          "spd": 248
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Heal Bell",
+          "Scald",
+          "Toxic",
+          "Volt Switch"
+        ],
+        "nature": "Calm",
+        "species": "Lanturn"
+      },
+      {
+        "ability": "Defiant",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "moves": [
+          "Close Combat",
+          "Earthquake",
+          "Stone Edge",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "species": "Primeape"
+      },
+      {
+        "ability": "Clear Body",
+        "evs": {
+          "def": 4,
+          "hp": 252,
+          "spd": 252
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Drain Punch",
+          "Stealth Rock",
+          "Stone Edge",
+          "Toxic"
+        ],
+        "nature": "Careful",
+        "species": "Regirock"
+      },
+      {
+        "ability": "RKS System",
+        "evs": {
+          "atk": 216,
+          "def": 40,
+          "spe": 252
+        },
+        "item": "Fairy Memory",
+        "moves": [
+          "Defog",
+          "Flamethrower",
+          "Multi-Attack",
+          "Parting Shot"
+        ],
+        "nature": "Jolly",
+        "species": "Silvally-Fairy"
+      },
+      {
+        "ability": "Chlorophyll",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "gender": "F",
+        "hpType": "Fire",
+        "item": "Grassium Z",
+        "ivs": {
+          "atk": 1
+        },
+        "moves": [
+          "Hidden Power Fire",
+          "Leaf Storm",
+          "Sludge Bomb",
+          "Strength Sap"
+        ],
+        "nature": "Timid",
+        "species": "Victreebel"
+      }
+    ],
+    "name": "Absol + Victreebel Bulky Offense"
+  },
+  {
+    "author": "Megazard",
+    "data": [
+      {
+        "ability": "Stamina",
+        "evs": {
+          "def": 244,
+          "hp": 248,
+          "spe": 16
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Close Combat",
+          "Earthquake",
+          "Stealth Rock",
+          "Toxic"
+        ],
+        "nature": "Impish",
+        "species": "Mudsdale"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "hp": 248,
+          "spa": 8,
+          "spd": 252
+        },
+        "gender": "M",
+        "item": "Assault Vest",
+        "moves": [
+          "Drain Punch",
+          "Flamethrower",
+          "Giga Drain",
+          "U-turn"
+        ],
+        "nature": "Sassy",
+        "species": "Eelektross"
+      },
+      {
+        "ability": "Cursed Body",
+        "evs": {
+          "def": 224,
+          "hp": 252,
+          "spe": 32
+        },
+        "gender": "M",
+        "item": "Colbur Berry",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Hex",
+          "Recover",
+          "Taunt",
+          "Will-O-Wisp"
+        ],
+        "nature": "Bold",
+        "species": "Jellicent"
+      },
+      {
+        "ability": "Leaf Guard",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Normalium Z",
+        "moves": [
+          "Celebrate",
+          "Double-Edge",
+          "Leaf Blade",
+          "Synthesis"
+        ],
+        "nature": "Jolly",
+        "species": "Leafeon"
+      },
+      {
+        "ability": "Aftermath",
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "moves": [
+          "Crunch",
+          "Defog",
+          "Poison Jab",
+          "Pursuit"
+        ],
+        "nature": "Jolly",
+        "species": "Skuntank"
+      },
+      {
+        "ability": "Chlorophyll",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Life Orb",
+        "moves": [
+          "Knock Off",
+          "Poison Jab",
+          "Power Whip",
+          "Swords Dance"
+        ],
+        "nature": "Jolly",
+        "species": "Victreebel"
+      }
+    ],
+    "name": "Grass Spam"
+  },
+  {
+    "author": "tlenit",
+    "data": [
+      {
+        "ability": "Sap Sipper",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Specs",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Draco Meteor",
+          "Energy Ball",
+          "Fire Blast",
+          "Hyper Voice"
+        ],
+        "nature": "Timid",
+        "species": "Drampa"
+      },
+      {
+        "ability": "Dancer",
+        "evs": {
+          "hp": 156,
+          "spa": 100,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Colbur Berry",
+        "moves": [
+          "Hurricane",
+          "Revelation Dance",
+          "Roost",
+          "U-turn"
+        ],
+        "nature": "Timid",
+        "species": "Oricorio-Sensu"
+      },
+      {
+        "ability": "Defiant",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "moves": [
+          "Close Combat",
+          "Gunk Shot",
+          "Stone Edge",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "species": "Primeape"
+      },
+      {
+        "ability": "Clear Body",
+        "evs": {
+          "def": 180,
+          "hp": 244,
+          "spd": 76,
+          "spe": 8
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Drain Punch",
+          "Rock Slide",
+          "Stealth Rock",
+          "Toxic"
+        ],
+        "nature": "Impish",
+        "species": "Regirock"
+      },
+      {
+        "ability": "RKS System",
+        "evs": {
+          "atk": 248,
+          "spa": 8,
+          "spe": 252
+        },
+        "item": "Fairy Memory",
+        "moves": [
+          "Defog",
+          "Flamethrower",
+          "Multi-Attack",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "species": "Silvally-Fairy"
+      },
+      {
+        "ability": "Blaze",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Grassium Z",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Fire Blast",
+          "Focus Blast",
+          "Grass Knot",
+          "Nasty Plot"
+        ],
+        "nature": "Timid",
+        "species": "Simisear"
+      }
+    ],
+    "name": "Triple U-turn Offense"
+  },
+  {
+    "author": "Ktutverde",
+    "data": [
+      {
+        "ability": "Overgrow",
+        "evs": {
+          "hp": 248,
+          "spd": 108,
+          "spe": 152
+        },
+        "gender": "M",
+        "item": "Lum Berry",
+        "moves": [
+          "Earthquake",
+          "Stealth Rock",
+          "Synthesis",
+          "Wood Hammer"
+        ],
+        "nature": "Careful",
+        "species": "Torterra"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "hp": 172,
+          "spa": 84,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Dragonium Z",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Defog",
+          "Draco Meteor",
+          "Fire Blast",
+          "Roost"
+        ],
+        "nature": "Timid",
+        "species": "Altaria"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "atk": 80,
+          "hp": 228,
+          "spd": 200
+        },
+        "gender": "M",
+        "item": "Assault Vest",
+        "moves": [
+          "Discharge",
+          "Drain Punch",
+          "Knock Off",
+          "U-turn"
+        ],
+        "nature": "Brave",
+        "species": "Eelektross"
+      },
+      {
+        "ability": "Cursed Body",
+        "evs": {
+          "def": 212,
+          "hp": 252,
+          "spe": 44
+        },
+        "gender": "M",
+        "item": "Colbur Berry",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Hex",
+          "Recover",
+          "Taunt",
+          "Will-O-Wisp"
+        ],
+        "nature": "Bold",
+        "species": "Jellicent"
+      },
+      {
+        "ability": "Defiant",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "moves": [
+          "Close Combat",
+          "Ice Punch",
+          "Seed Bomb",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "species": "Primeape"
+      },
+      {
+        "ability": "Slush Rush",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "moves": [
+          "Earthquake",
+          "Icicle Crash",
+          "Iron Head",
+          "Rapid Spin"
+        ],
+        "nature": "Jolly",
+        "species": "Sandslash-Alola"
+      }
+    ],
+    "name": "Altaria-Torterra Balance"
+  },
+  {
+    "author": "LordST",
+    "data": [
+      {
+        "ability": "Sap Sipper",
+        "evs": {
+          "hp": 84,
+          "spa": 252,
+          "spe": 172
+        },
+        "gender": "M",
+        "item": "Choice Specs",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Draco Meteor",
+          "Energy Ball",
+          "Fire Blast",
+          "Hyper Voice"
+        ],
+        "nature": "Modest",
+        "species": "Drampa"
+      },
+      {
+        "ability": "Cursed Body",
+        "evs": {
+          "def": 212,
+          "hp": 252,
+          "spa": 12,
+          "spe": 32
+        },
+        "gender": "M",
+        "item": "Rindo Berry",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Recover",
+          "Scald",
+          "Taunt",
+          "Will-O-Wisp"
+        ],
+        "nature": "Bold",
+        "species": "Jellicent"
+      },
+      {
+        "ability": "Stamina",
+        "evs": {
+          "def": 252,
+          "hp": 252,
+          "spd": 4
+        },
+        "gender": "M",
+        "item": "Figy Berry",
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Stealth Rock",
+          "Toxic"
+        ],
+        "nature": "Impish",
+        "species": "Mudsdale"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Blizzard",
+          "Thunderbolt",
+          "Trick",
+          "Volt Switch"
+        ],
+        "nature": "Timid",
+        "species": "Rotom-Frost"
+      },
+      {
+        "ability": "RKS System",
+        "evs": {
+          "hp": 252,
+          "spd": 108,
+          "spe": 148
+        },
+        "item": "Poison Memory",
+        "moves": [
+          "Defog",
+          "Flamethrower",
+          "Multi-Attack",
+          "Parting Shot"
+        ],
+        "nature": "Careful",
+        "species": "Silvally-Poison"
+      },
+      {
+        "ability": "Blaze",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Firium Z",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Fire Blast",
+          "Grass Knot",
+          "Nasty Plot",
+          "Protect"
+        ],
+        "nature": "Timid",
+        "species": "Simisear"
+      }
+    ],
+    "name": "Specs Drampa Bulky Offense"
+  }
+]

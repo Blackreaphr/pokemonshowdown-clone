@@ -1,0 +1,661 @@
+[
+  {
+    "data": [
+      {
+        "ability": "Keen Eye",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "moves": [
+          "Brick Break",
+          "Double-Edge",
+          "Quick Attack",
+          "Shadow Ball"
+        ],
+        "nature": "Jolly",
+        "species": "Furret"
+      },
+      {
+        "ability": "Shed Skin",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "def": 30,
+          "spa": 30,
+          "spd": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Double-Edge",
+          "Dragon Dance",
+          "Hidden Power Fighting",
+          "Iron Tail"
+        ],
+        "nature": "Adamant",
+        "species": "Dragonair"
+      },
+      {
+        "ability": "Flash Fire",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "F",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "spa": 30
+        },
+        "moves": [
+          "Crunch",
+          "Fire Blast",
+          "Hidden Power Grass",
+          "Pursuit"
+        ],
+        "nature": "Modest",
+        "species": "Houndour"
+      },
+      {
+        "ability": "Overgrow",
+        "evs": {
+          "def": 228,
+          "hp": 248,
+          "spe": 32
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 30,
+          "spa": 30
+        },
+        "moves": [
+          "Hidden Power Grass",
+          "Leech Seed",
+          "Sludge Bomb",
+          "Synthesis"
+        ],
+        "nature": "Bold",
+        "species": "Ivysaur"
+      },
+      {
+        "ability": "Minus",
+        "evs": {
+          "hp": 248,
+          "spd": 8,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Baton Pass",
+          "Protect",
+          "Thunderbolt",
+          "Wish"
+        ],
+        "nature": "Timid",
+        "species": "Minun"
+      },
+      {
+        "ability": "Shell Armor",
+        "evs": {
+          "def": 252,
+          "hp": 252,
+          "spd": 4
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Ice Beam",
+          "Protect",
+          "Spikes",
+          "Surf"
+        ],
+        "nature": "Bold",
+        "species": "Omanyte"
+      }
+    ],
+    "name": "Furret Spikes Balance"
+  },
+  {
+    "data": [
+      {
+        "ability": "Overgrow",
+        "evs": {
+          "def": 4,
+          "hp": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Leaf Blade",
+          "Leech Seed",
+          "Protect",
+          "Substitute"
+        ],
+        "nature": "Timid",
+        "species": "Grovyle"
+      },
+      {
+        "ability": "Early Bird",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "ivs": {
+          "spa": 30,
+          "spd": 30
+        },
+        "moves": [
+          "Double-Edge",
+          "Drill Peck",
+          "Hidden Power Ground",
+          "Quick Attack"
+        ],
+        "nature": "Jolly",
+        "species": "Doduo"
+      },
+      {
+        "ability": "Shed Skin",
+        "evs": {
+          "def": 128,
+          "hp": 248,
+          "spd": 132
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Haze",
+          "Ice Beam",
+          "Rest",
+          "Thunder Wave"
+        ],
+        "nature": "Bold",
+        "species": "Dragonair"
+      },
+      {
+        "ability": "Insomnia",
+        "evs": {
+          "hp": 248,
+          "spd": 248,
+          "spe": 12
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Protect",
+          "Seismic Toss",
+          "Toxic",
+          "Wish"
+        ],
+        "nature": "Calm",
+        "species": "Drowzee"
+      },
+      {
+        "ability": "Shell Armor",
+        "evs": {
+          "def": 240,
+          "hp": 248,
+          "spe": 20
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Ice Beam",
+          "Protect",
+          "Spikes",
+          "Surf"
+        ],
+        "nature": "Bold",
+        "species": "Omanyte"
+      },
+      {
+        "ability": "Thick Fat",
+        "evs": {
+          "hp": 40,
+          "spa": 252,
+          "spe": 216
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Encore",
+          "Ice Beam",
+          "Substitute",
+          "Surf"
+        ],
+        "nature": "Modest",
+        "species": "Sealeo"
+      }
+    ],
+    "name": "SubSeed Grovyle Balance"
+  },
+  {
+    "data": [
+      {
+        "ability": "Torrent",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "ivs": {
+          "def": 30,
+          "spd": 30
+        },
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Hidden Power Ghost",
+          "Rock Slide"
+        ],
+        "nature": "Adamant",
+        "species": "Marshtomp"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "def": 252,
+          "hp": 252,
+          "spe": 4
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Ice Beam",
+          "Recover",
+          "Reflect",
+          "Surf"
+        ],
+        "nature": "Bold",
+        "species": "Corsola"
+      },
+      {
+        "ability": "Shed Skin",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "def": 30,
+          "spa": 30,
+          "spd": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Double-Edge",
+          "Dragon Dance",
+          "Hidden Power Fighting",
+          "Iron Tail"
+        ],
+        "nature": "Adamant",
+        "species": "Dragonair"
+      },
+      {
+        "ability": "Flash Fire",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "F",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "spa": 30
+        },
+        "moves": [
+          "Crunch",
+          "Fire Blast",
+          "Hidden Power Grass",
+          "Pursuit"
+        ],
+        "nature": "Modest",
+        "species": "Houndour"
+      },
+      {
+        "ability": "Minus",
+        "evs": {
+          "hp": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Baton Pass",
+          "Protect",
+          "Thunderbolt",
+          "Wish"
+        ],
+        "nature": "Timid",
+        "species": "Minun"
+      },
+      {
+        "ability": "Insomnia",
+        "evs": {
+          "def": 120,
+          "hp": 252,
+          "spe": 136
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Protect",
+          "Psychic",
+          "Substitute",
+          "Toxic"
+        ],
+        "nature": "Bold",
+        "species": "Noctowl"
+      }
+    ],
+    "name": "Banded Marshtomp Balance"
+  },
+  {
+    "author": "Akir",
+    "data": [
+      {
+        "ability": "Keen Eye",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "moves": [
+          "Brick Break",
+          "Double-Edge",
+          "Quick Attack",
+          "Shadow Ball"
+        ],
+        "nature": "Jolly",
+        "species": "Furret"
+      },
+      {
+        "ability": "Blaze",
+        "evs": {
+          "atk": 252,
+          "spa": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "spa": 30,
+          "spd": 30
+        },
+        "moves": [
+          "Belly Drum",
+          "Fire Blast",
+          "Hidden Power Ground",
+          "Rock Slide"
+        ],
+        "nature": "Naive",
+        "species": "Charmeleon"
+      },
+      {
+        "ability": "Shed Skin",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "F",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "spa": 30
+        },
+        "moves": [
+          "Hidden Power Grass",
+          "Ice Beam",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "nature": "Modest",
+        "species": "Dragonair"
+      },
+      {
+        "ability": "Rock Head",
+        "evs": {
+          "atk": 252,
+          "def": 8,
+          "hp": 248
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Body Slam",
+          "Double-Edge",
+          "Earthquake",
+          "Rock Slide"
+        ],
+        "nature": "Adamant",
+        "species": "Lairon"
+      },
+      {
+        "ability": "Minus",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "F",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "def": 30
+        },
+        "moves": [
+          "Baton Pass",
+          "Hidden Power Ice",
+          "Substitute",
+          "Thunderbolt"
+        ],
+        "nature": "Timid",
+        "species": "Minun"
+      },
+      {
+        "ability": "Thick Fat",
+        "evs": {
+          "def": 248,
+          "hp": 252,
+          "spe": 8
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Ice Beam",
+          "Roar",
+          "Surf",
+          "Toxic"
+        ],
+        "nature": "Bold",
+        "species": "Sealeo"
+      }
+    ],
+    "name": "Charmeleon Offense"
+  },
+  {
+    "data": [
+      {
+        "ability": "Keen Eye",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "moves": [
+          "Brick Break",
+          "Double-Edge",
+          "Quick Attack",
+          "Shadow Ball"
+        ],
+        "nature": "Jolly",
+        "species": "Furret"
+      },
+      {
+        "ability": "Swarm",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Lum Berry",
+        "ivs": {
+          "def": 30,
+          "spd": 30
+        },
+        "moves": [
+          "Brick Break",
+          "Hidden Power Ghost",
+          "Sludge Bomb",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Beedrill"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "atk": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Magnet",
+        "ivs": {
+          "atk": 30,
+          "def": 30
+        },
+        "moves": [
+          "Explosion",
+          "Giga Drain",
+          "Hidden Power Ice",
+          "Thunderbolt"
+        ],
+        "nature": "Hasty",
+        "species": "Gastly"
+      },
+      {
+        "ability": "Minus",
+        "evs": {
+          "hp": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "F",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "def": 30
+        },
+        "moves": [
+          "Hidden Power Ice",
+          "Protect",
+          "Thunderbolt",
+          "Wish"
+        ],
+        "nature": "Timid",
+        "species": "Minun"
+      },
+      {
+        "ability": "Shell Armor",
+        "evs": {
+          "def": 236,
+          "hp": 248,
+          "spe": 24
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Ice Beam",
+          "Protect",
+          "Spikes",
+          "Surf"
+        ],
+        "nature": "Bold",
+        "species": "Omanyte"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "ivs": {
+          "def": 30,
+          "spd": 30
+        },
+        "moves": [
+          "Earthquake",
+          "Hidden Power Ghost",
+          "Quick Attack",
+          "Rock Slide"
+        ],
+        "nature": "Jolly",
+        "species": "Vibrava"
+      }
+    ],
+    "name": "Standard Offense"
+  }
+]

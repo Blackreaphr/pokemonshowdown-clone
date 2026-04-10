@@ -1,0 +1,902 @@
+[
+  {
+    "author": "melanie",
+    "data": [
+      {
+        "moves": [
+          "Hypnosis",
+          "Psychic",
+          "Rest",
+          "Thunder Wave"
+        ],
+        "species": "Drowzee"
+      },
+      {
+        "moves": [
+          "Counter",
+          "Psychic",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Abra"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Explosion",
+          "Psychic",
+          "Sleep Powder"
+        ],
+        "species": "Exeggcute"
+      },
+      {
+        "moves": [
+          "Explosion",
+          "Hypnosis",
+          "Night Shade",
+          "Psychic"
+        ],
+        "species": "Gastly"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Bubble Beam",
+          "Slash",
+          "Thunderbolt"
+        ],
+        "species": "Meowth"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Surf",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Staryu"
+      }
+    ],
+    "name": "Drowzee + Meowth"
+  },
+  {
+    "author": "KidNelson",
+    "data": [
+      {
+        "moves": [
+          "Hypnosis",
+          "Psychic",
+          "Rest",
+          "Seismic Toss"
+        ],
+        "species": "Drowzee"
+      },
+      {
+        "moves": [
+          "Psychic",
+          "Seismic Toss",
+          "Substitute",
+          "Thunder Wave"
+        ],
+        "species": "Abra"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Slash",
+          "Substitute"
+        ],
+        "species": "Diglett"
+      },
+      {
+        "moves": [
+          "Agility",
+          "Blizzard",
+          "Hyper Beam",
+          "Wrap"
+        ],
+        "species": "Dratini"
+      },
+      {
+        "moves": [
+          "Explosion",
+          "Psychic",
+          "Sleep Powder",
+          "Stun Spore"
+        ],
+        "species": "Exeggcute"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Recover",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Staryu"
+      }
+    ],
+    "name": "AgiliWrap Dratini"
+  },
+  {
+    "author": "DracovishStan",
+    "data": [
+      {
+        "moves": [
+          "Counter",
+          "Psychic",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Abra"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Clefairy"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Explosion",
+          "Psychic",
+          "Sleep Powder"
+        ],
+        "species": "Exeggcute"
+      },
+      {
+        "moves": [
+          "Explosion",
+          "Mega Drain",
+          "Psychic",
+          "Thunderbolt"
+        ],
+        "species": "Gastly"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Rock Slide",
+          "Substitute"
+        ],
+        "species": "Rhyhorn"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Recover",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Staryu"
+      }
+    ],
+    "name": "Staryu + Rhyhorn"
+  },
+  {
+    "author": "Alpha Male Psyduck",
+    "data": [
+      {
+        "moves": [
+          "Counter",
+          "Psychic",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Abra"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Rock Slide",
+          "Slash"
+        ],
+        "species": "Diglett"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Explosion",
+          "Psychic",
+          "Sleep Powder"
+        ],
+        "species": "Exeggcute"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Bubble Beam",
+          "Slash",
+          "Thunderbolt"
+        ],
+        "species": "Meowth"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Surf",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Pikachu"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Recover",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Staryu"
+      }
+    ],
+    "name": "Pikachu Offense"
+  },
+  {
+    "author": "Beelzemon 2003",
+    "data": [
+      {
+        "moves": [
+          "Counter",
+          "Psychic",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Abra"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Slash",
+          "Substitute"
+        ],
+        "species": "Diglett"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Explosion",
+          "Psychic",
+          "Sleep Powder"
+        ],
+        "species": "Exeggcute"
+      },
+      {
+        "moves": [
+          "Explosion",
+          "Night Shade",
+          "Psychic",
+          "Thunderbolt"
+        ],
+        "species": "Gastly"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Slash",
+          "Swords Dance"
+        ],
+        "species": "Sandshrew"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Recover",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Staryu"
+      }
+    ],
+    "name": "Double Ground"
+  },
+  {
+    "author": "Beelzemon 2003",
+    "data": [
+      {
+        "moves": [
+          "Counter",
+          "Psychic",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Abra"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Clefairy"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Explosion",
+          "Psychic",
+          "Sleep Powder"
+        ],
+        "species": "Exeggcute"
+      },
+      {
+        "moves": [
+          "Explosion",
+          "Night Shade",
+          "Psychic",
+          "Thunderbolt"
+        ],
+        "species": "Gastly"
+      },
+      {
+        "moves": [
+          "Amnesia",
+          "Blizzard",
+          "Psychic",
+          "Surf"
+        ],
+        "species": "Slowpoke"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Recover",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Staryu"
+      }
+    ],
+    "name": "Slowpoke + Clefairy"
+  },
+  {
+    "author": "Beelzemon 2003",
+    "data": [
+      {
+        "moves": [
+          "Counter",
+          "Psychic",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Abra"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Slash",
+          "Substitute"
+        ],
+        "species": "Diglett"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Explosion",
+          "Psychic",
+          "Sleep Powder"
+        ],
+        "species": "Exeggcute"
+      },
+      {
+        "moves": [
+          "Explosion",
+          "Night Shade",
+          "Psychic",
+          "Thunderbolt"
+        ],
+        "species": "Gastly"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Slash",
+          "Substitute",
+          "Surf"
+        ],
+        "species": "Kabuto"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Recover",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Staryu"
+      }
+    ],
+    "name": "Double Water"
+  },
+  {
+    "author": "Beelzemon 2003",
+    "data": [
+      {
+        "moves": [
+          "Counter",
+          "Psychic",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Abra"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Clefairy"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Rock Slide",
+          "Slash"
+        ],
+        "species": "Diglett"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Explosion",
+          "Psychic",
+          "Sleep Powder"
+        ],
+        "species": "Exeggcute"
+      },
+      {
+        "moves": [
+          "Explosion",
+          "Night Shade",
+          "Psychic",
+          "Thunderbolt"
+        ],
+        "species": "Gastly"
+      },
+      {
+        "moves": [
+          "Amnesia",
+          "Blizzard",
+          "Psychic",
+          "Surf"
+        ],
+        "species": "Poliwag"
+      }
+    ],
+    "name": "Clefairy + Poliwag"
+  },
+  {
+    "author": "Beelzemon 2003",
+    "data": [
+      {
+        "moves": [
+          "Blizzard",
+          "Recover",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Staryu"
+      },
+      {
+        "moves": [
+          "Counter",
+          "Psychic",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Abra"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Slash",
+          "Substitute"
+        ],
+        "species": "Diglett"
+      },
+      {
+        "moves": [
+          "Agility",
+          "Hyper Beam",
+          "Surf",
+          "Wrap"
+        ],
+        "species": "Dratini"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Explosion",
+          "Psychic",
+          "Sleep Powder"
+        ],
+        "species": "Exeggcute"
+      },
+      {
+        "moves": [
+          "Explosion",
+          "Hypnosis",
+          "Psychic",
+          "Thunderbolt"
+        ],
+        "species": "Gastly"
+      }
+    ],
+    "name": "Staryu + Dratini"
+  },
+  {
+    "author": "Beelzemon 2003",
+    "data": [
+      {
+        "moves": [
+          "Blizzard",
+          "Recover",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Staryu"
+      },
+      {
+        "moves": [
+          "Counter",
+          "Psychic",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Abra"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Slash",
+          "Substitute"
+        ],
+        "species": "Diglett"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Double-Edge",
+          "Drill Peck",
+          "Substitute"
+        ],
+        "species": "Doduo"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Explosion",
+          "Psychic",
+          "Sleep Powder"
+        ],
+        "species": "Exeggcute"
+      },
+      {
+        "moves": [
+          "Explosion",
+          "Night Shade",
+          "Psychic",
+          "Thunderbolt"
+        ],
+        "species": "Gastly"
+      }
+    ],
+    "name": "Gastly + Doduo"
+  },
+  {
+    "author": "Beelzemon 2003",
+    "data": [
+      {
+        "moves": [
+          "Counter",
+          "Psychic",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Abra"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Razor Leaf",
+          "Sleep Powder",
+          "Swords Dance"
+        ],
+        "species": "Bulbasaur"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Slash",
+          "Substitute"
+        ],
+        "species": "Diglett"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Explosion",
+          "Psychic",
+          "Sleep Powder"
+        ],
+        "species": "Exeggcute"
+      },
+      {
+        "moves": [
+          "Explosion",
+          "Night Shade",
+          "Psychic",
+          "Thunderbolt"
+        ],
+        "species": "Gastly"
+      },
+      {
+        "moves": [
+          "Bubble Beam",
+          "Slash",
+          "Substitute",
+          "Thunderbolt"
+        ],
+        "species": "Meowth"
+      }
+    ],
+    "name": "Meowth + Bulbasaur"
+  },
+  {
+    "author": "Beelzemon 2003",
+    "data": [
+      {
+        "moves": [
+          "Bubble Beam",
+          "Slash",
+          "Substitute",
+          "Thunderbolt"
+        ],
+        "species": "Meowth"
+      },
+      {
+        "moves": [
+          "Counter",
+          "Psychic",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Abra"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Slash",
+          "Substitute"
+        ],
+        "species": "Diglett"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Explosion",
+          "Psychic",
+          "Sleep Powder"
+        ],
+        "species": "Exeggcute"
+      },
+      {
+        "moves": [
+          "Explosion",
+          "Mega Drain",
+          "Psychic",
+          "Thunderbolt"
+        ],
+        "species": "Gastly"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Surf",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Pikachu"
+      }
+    ],
+    "name": "Pikachu + Meowth"
+  },
+  {
+    "author": "Beelzemon 2003",
+    "data": [
+      {
+        "moves": [
+          "Blizzard",
+          "Surf",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Staryu"
+      },
+      {
+        "moves": [
+          "Counter",
+          "Psychic",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Abra"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Sand Attack",
+          "Slash"
+        ],
+        "species": "Diglett"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Explosion",
+          "Psychic",
+          "Sleep Powder"
+        ],
+        "species": "Exeggcute"
+      },
+      {
+        "moves": [
+          "Explosion",
+          "Night Shade",
+          "Psychic",
+          "Thunderbolt"
+        ],
+        "species": "Gastly"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Explosion",
+          "Rock Slide"
+        ],
+        "species": "Geodude"
+      }
+    ],
+    "name": "Staryu + Geodude"
+  },
+  {
+    "author": "Beelzemon 2003",
+    "data": [
+      {
+        "moves": [
+          "Explosion",
+          "Thunderbolt",
+          "Thunder Wave",
+          "Toxic"
+        ],
+        "species": "Voltorb"
+      },
+      {
+        "moves": [
+          "Counter",
+          "Psychic",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Abra"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Slash",
+          "Substitute"
+        ],
+        "species": "Diglett"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Explosion",
+          "Psychic",
+          "Sleep Powder"
+        ],
+        "species": "Exeggcute"
+      },
+      {
+        "moves": [
+          "Explosion",
+          "Night Shade",
+          "Psychic",
+          "Thunderbolt"
+        ],
+        "species": "Gastly"
+      },
+      {
+        "moves": [
+          "Amnesia",
+          "Blizzard",
+          "Seismic Toss",
+          "Surf"
+        ],
+        "species": "Psyduck"
+      }
+    ],
+    "name": "Lead Voltorb + Psyduck"
+  },
+  {
+    "author": "Beelzemon 2003",
+    "data": [
+      {
+        "moves": [
+          "Counter",
+          "Psychic",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Abra"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Slash",
+          "Substitute"
+        ],
+        "species": "Diglett"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Explosion",
+          "Psychic",
+          "Sleep Powder"
+        ],
+        "species": "Exeggcute"
+      },
+      {
+        "moves": [
+          "Explosion",
+          "Night Shade",
+          "Psychic",
+          "Thunderbolt"
+        ],
+        "species": "Gastly"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Fire Blast",
+          "Fire Spin",
+          "Substitute"
+        ],
+        "species": "Ponyta"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Recover",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Staryu"
+      }
+    ],
+    "name": "Ponyta Offense"
+  }
+]

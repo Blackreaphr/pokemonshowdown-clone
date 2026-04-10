@@ -1,0 +1,475 @@
+[
+  {
+    "author": "pichus",
+    "data": [
+      {
+        "ability": "Air Lock",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Life Orb",
+        "moves": [
+          "Dragon Ascent",
+          "Dragon Dance",
+          "Extreme Speed",
+          "V-create"
+        ],
+        "nature": "Adamant",
+        "species": "Rayquaza"
+      },
+      {
+        "ability": "Multitype",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Chople Berry",
+        "moves": [
+          "Extreme Speed",
+          "Facade",
+          "Shadow Claw",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Arceus"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "def": 84,
+          "hp": 208,
+          "spe": 216
+        },
+        "item": "Light Clay",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Light Screen",
+          "Reflect",
+          "Stealth Rock",
+          "Taunt"
+        ],
+        "nature": "Timid",
+        "species": "Deoxys-Speed"
+      },
+      {
+        "ability": "Beast Boost",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Dragonium Z",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Draco Meteor",
+          "Fire Blast",
+          "Nasty Plot",
+          "Sludge Wave"
+        ],
+        "nature": "Timid",
+        "shiny": true,
+        "species": "Naganadel"
+      },
+      {
+        "ability": "Prism Armor",
+        "evs": {
+          "atk": 244,
+          "spd": 8,
+          "spe": 252
+        },
+        "item": "Weakness Policy",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Earthquake",
+          "Rock Polish",
+          "Sunsteel Strike",
+          "Swords Dance"
+        ],
+        "nature": "Timid",
+        "species": "Necrozma-Dusk-Mane"
+      },
+      {
+        "ability": "Fairy Aura",
+        "evs": {
+          "def": 96,
+          "spa": 252,
+          "spe": 160
+        },
+        "item": "Power Herb",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Focus Blast",
+          "Geomancy",
+          "Moonblast",
+          "Psyshock"
+        ],
+        "nature": "Modest",
+        "species": "Xerneas"
+      }
+    ],
+    "name": "Deoxys Screens HO"
+  },
+  {
+    "author": "Zenithial",
+    "data": [
+      {
+        "ability": "Sturdy",
+        "evs": {
+          "def": 8,
+          "hp": 248,
+          "spd": 252
+        },
+        "gender": "M",
+        "item": "Mental Herb",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Encore",
+          "Infestation",
+          "Stealth Rock",
+          "Sticky Web"
+        ],
+        "nature": "Calm",
+        "species": "Shuckle"
+      },
+      {
+        "ability": "Multitype",
+        "evs": {
+          "atk": 252,
+          "hp": 36,
+          "spe": 220
+        },
+        "item": "Normalium Z",
+        "moves": [
+          "Extreme Speed",
+          "Giga Impact",
+          "Shadow Claw",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Arceus"
+      },
+      {
+        "ability": "Drought",
+        "evs": {
+          "atk": 252,
+          "spd": 104,
+          "spe": 152
+        },
+        "item": "Red Orb",
+        "moves": [
+          "Precipice Blades",
+          "Rock Tomb",
+          "Stealth Rock",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Groudon"
+      },
+      {
+        "ability": "Air Lock",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Life Orb",
+        "moves": [
+          "Dragon Ascent",
+          "Earthquake",
+          "Extreme Speed",
+          "Swords Dance"
+        ],
+        "nature": "Jolly",
+        "species": "Rayquaza"
+      },
+      {
+        "ability": "Fairy Aura",
+        "evs": {
+          "def": 104,
+          "spa": 252,
+          "spe": 152
+        },
+        "item": "Power Herb",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Focus Blast",
+          "Geomancy",
+          "Moonblast",
+          "Thunder"
+        ],
+        "nature": "Modest",
+        "species": "Xerneas"
+      },
+      {
+        "ability": "Dark Aura",
+        "evs": {
+          "atk": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Life Orb",
+        "moves": [
+          "Dark Pulse",
+          "Oblivion Wing",
+          "Sucker Punch",
+          "Taunt"
+        ],
+        "nature": "Rash",
+        "species": "Yveltal"
+      }
+    ],
+    "name": "Shuckle Webs"
+  },
+  {
+    "author": "icemaster523",
+    "data": [
+      {
+        "ability": "Multitype",
+        "evs": {
+          "atk": 12,
+          "def": 8,
+          "hp": 252,
+          "spd": 136,
+          "spe": 100
+        },
+        "item": "Poisonium Z",
+        "moves": [
+          "Poison Jab",
+          "Recover",
+          "Stealth Rock",
+          "Will-O-Wisp"
+        ],
+        "nature": "Jolly",
+        "species": "Arceus-Poison"
+      },
+      {
+        "ability": "Multitype",
+        "evs": {
+          "def": 232,
+          "hp": 252,
+          "spe": 24
+        },
+        "item": "Dread Plate",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Defog",
+          "Judgment",
+          "Recover",
+          "Toxic"
+        ],
+        "nature": "Bold",
+        "species": "Arceus-Dark"
+      },
+      {
+        "ability": "Multitype",
+        "evs": {
+          "def": 232,
+          "hp": 252,
+          "spe": 24
+        },
+        "item": "Splash Plate",
+        "moves": [
+          "Ice Beam",
+          "Liquidation",
+          "Recover",
+          "Toxic"
+        ],
+        "nature": "Impish",
+        "species": "Arceus-Water"
+      },
+      {
+        "ability": "Iron Barbs",
+        "evs": {
+          "def": 4,
+          "hp": 252,
+          "spd": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "spe": 0
+        },
+        "moves": [
+          "Gyro Ball",
+          "Leech Seed",
+          "Spikes",
+          "Toxic"
+        ],
+        "nature": "Sassy",
+        "species": "Ferrothorn"
+      },
+      {
+        "ability": "Technician",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Life Orb",
+        "moves": [
+          "Close Combat",
+          "Pursuit",
+          "Shadow Sneak",
+          "Spectral Thief"
+        ],
+        "nature": "Jolly",
+        "species": "Marshadow"
+      },
+      {
+        "ability": "Air Lock",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Choice Band",
+        "moves": [
+          "Dragon Ascent",
+          "Extreme Speed",
+          "Outrage",
+          "V-create"
+        ],
+        "nature": "Adamant",
+        "species": "Rayquaza"
+      }
+    ],
+    "name": "Band Ray Hazard Stack"
+  },
+  {
+    "author": "icemaster523",
+    "data": [
+      {
+        "ability": "Air Lock",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Life Orb",
+        "moves": [
+          "Dragon Ascent",
+          "Dragon Dance",
+          "Earthquake",
+          "Extreme Speed"
+        ],
+        "nature": "Adamant",
+        "species": "Rayquaza"
+      },
+      {
+        "ability": "Multitype",
+        "evs": {
+          "def": 168,
+          "hp": 252,
+          "spe": 88
+        },
+        "item": "Dread Plate",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Defog",
+          "Judgment",
+          "Recover",
+          "Toxic"
+        ],
+        "nature": "Bold",
+        "species": "Arceus-Dark"
+      },
+      {
+        "ability": "Multitype",
+        "evs": {
+          "def": 224,
+          "hp": 248,
+          "spe": 36
+        },
+        "item": "Earth Plate",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Ice Beam",
+          "Judgment",
+          "Recover",
+          "Toxic"
+        ],
+        "nature": "Bold",
+        "species": "Arceus-Ground"
+      },
+      {
+        "ability": "Drought",
+        "evs": {
+          "def": 4,
+          "hp": 252,
+          "spd": 252
+        },
+        "item": "Red Orb",
+        "ivs": {
+          "spe": 0
+        },
+        "moves": [
+          "Dragon Tail",
+          "Precipice Blades",
+          "Stealth Rock",
+          "Toxic"
+        ],
+        "nature": "Sassy",
+        "species": "Groudon"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "def": 204,
+          "hp": 252,
+          "spd": 52
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Defog",
+          "Sacred Fire",
+          "Toxic",
+          "Whirlwind"
+        ],
+        "nature": "Impish",
+        "species": "Ho-Oh"
+      },
+      {
+        "ability": "Prism Armor",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Ultranecrozium Z",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Dragon Pulse",
+          "Heat Wave",
+          "Photon Geyser"
+        ],
+        "nature": "Timid",
+        "species": "Necrozma-Dusk-Mane"
+      }
+    ],
+    "name": "DD Ray + CM Unecro BO"
+  }
+]

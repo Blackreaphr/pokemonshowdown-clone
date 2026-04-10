@@ -1,0 +1,482 @@
+[
+  {
+    "data": [
+      {
+        "level": 55,
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam"
+        ],
+        "species": "Tauros"
+      },
+      {
+        "level": 50,
+        "moves": [
+          "Double Team",
+          "Explosion",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Electrode"
+      },
+      {
+        "level": 50,
+        "moves": [
+          "Blizzard",
+          "Double Team",
+          "Lovely Kiss",
+          "Psychic"
+        ],
+        "species": "Jynx"
+      },
+      {
+        "level": 50,
+        "moves": [
+          "Blizzard",
+          "Double Team",
+          "Rest",
+          "Thunderbolt"
+        ],
+        "species": "Lapras"
+      },
+      {
+        "level": 50,
+        "moves": [
+          "Blizzard",
+          "Earthquake",
+          "Rock Slide",
+          "Substitute"
+        ],
+        "species": "Rhydon"
+      },
+      {
+        "level": 55,
+        "moves": [
+          "Blizzard",
+          "Minimize",
+          "Recover",
+          "Thunderbolt"
+        ],
+        "species": "Starmie"
+      }
+    ],
+    "name": "Standard BullMie"
+  },
+  {
+    "author": "PvK",
+    "data": [
+      {
+        "level": 55,
+        "moves": [
+          "Agility",
+          "Blizzard",
+          "Hyper Beam",
+          "Ice Beam"
+        ],
+        "species": "Articuno"
+      },
+      {
+        "level": 50,
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Slash",
+          "Toxic"
+        ],
+        "species": "Dugtrio"
+      },
+      {
+        "level": 50,
+        "moves": [
+          "Explosion",
+          "Psychic",
+          "Sleep Powder",
+          "Stun Spore"
+        ],
+        "species": "Exeggutor"
+      },
+      {
+        "level": 50,
+        "moves": [
+          "Explosion",
+          "Hypnosis",
+          "Psychic",
+          "Thunderbolt"
+        ],
+        "species": "Gengar"
+      },
+      {
+        "level": 50,
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam"
+        ],
+        "species": "Tauros"
+      },
+      {
+        "level": 55,
+        "moves": [
+          "Drill Peck",
+          "Hyper Beam",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Zapdos"
+      }
+    ],
+    "name": "ZapCuno + Gengar"
+  },
+  {
+    "author": "PvK",
+    "data": [
+      {
+        "level": 50,
+        "moves": [
+          "Blizzard",
+          "Double Team",
+          "Lovely Kiss",
+          "Psychic"
+        ],
+        "species": "Jynx"
+      },
+      {
+        "level": 50,
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Toxic"
+        ],
+        "species": "Alakazam"
+      },
+      {
+        "level": 50,
+        "moves": [
+          "Double Kick",
+          "Pin Missile",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Jolteon"
+      },
+      {
+        "level": 50,
+        "moves": [
+          "Blizzard",
+          "Double Team",
+          "Rest",
+          "Thunderbolt"
+        ],
+        "species": "Lapras"
+      },
+      {
+        "level": 55,
+        "moves": [
+          "Blizzard",
+          "Earthquake",
+          "Horn Drill",
+          "Thunderbolt"
+        ],
+        "species": "Nidoking"
+      },
+      {
+        "level": 55,
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam"
+        ],
+        "species": "Tauros"
+      }
+    ],
+    "name": "L55 Nidoking + Lapras"
+  },
+  {
+    "data": [
+      {
+        "level": 55,
+        "moves": [
+          "Drill Peck",
+          "Hyper Beam",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Zapdos"
+      },
+      {
+        "level": 50,
+        "moves": [
+          "Double Team",
+          "Explosion",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Electrode"
+      },
+      {
+        "level": 50,
+        "moves": [
+          "Explosion",
+          "Psychic",
+          "Sleep Powder",
+          "Stun Spore"
+        ],
+        "species": "Exeggutor"
+      },
+      {
+        "level": 50,
+        "moves": [
+          "Blizzard",
+          "Double Team",
+          "Lovely Kiss",
+          "Psychic"
+        ],
+        "species": "Jynx"
+      },
+      {
+        "level": 50,
+        "moves": [
+          "Blizzard",
+          "Double Team",
+          "Rest",
+          "Thunderbolt"
+        ],
+        "species": "Lapras"
+      },
+      {
+        "level": 55,
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam"
+        ],
+        "species": "Tauros"
+      }
+    ],
+    "name": "Tauros + L55 Zapdos"
+  },
+  {
+    "author": "PvK",
+    "data": [
+      {
+        "level": 50,
+        "moves": [
+          "Explosion",
+          "Thunderbolt",
+          "Thunder Wave",
+          "Toxic"
+        ],
+        "species": "Electrode"
+      },
+      {
+        "level": 50,
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Slash",
+          "Substitute"
+        ],
+        "species": "Dugtrio"
+      },
+      {
+        "level": 50,
+        "moves": [
+          "Blizzard",
+          "Double Team",
+          "Lovely Kiss",
+          "Psychic"
+        ],
+        "species": "Jynx"
+      },
+      {
+        "level": 50,
+        "moves": [
+          "Blizzard",
+          "Double Team",
+          "Rest",
+          "Thunderbolt"
+        ],
+        "species": "Lapras"
+      },
+      {
+        "level": 55,
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam"
+        ],
+        "species": "Tauros"
+      },
+      {
+        "level": 55,
+        "moves": [
+          "Body Slam",
+          "Leech Seed",
+          "Razor Leaf",
+          "Sleep Powder"
+        ],
+        "species": "Venusaur"
+      }
+    ],
+    "name": "Leech Seed Venusaur"
+  },
+  {
+    "author": "PvK",
+    "data": [
+      {
+        "level": 55,
+        "moves": [
+          "Agility",
+          "Blizzard",
+          "Thunder Wave",
+          "Wrap"
+        ],
+        "species": "Dragonite"
+      },
+      {
+        "level": 50,
+        "moves": [
+          "Blizzard",
+          "Clamp",
+          "Explosion",
+          "Toxic"
+        ],
+        "species": "Cloyster"
+      },
+      {
+        "level": 50,
+        "moves": [
+          "Double Kick",
+          "Double Team",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Jolteon"
+      },
+      {
+        "level": 50,
+        "moves": [
+          "Blizzard",
+          "Double Team",
+          "Lovely Kiss",
+          "Psychic"
+        ],
+        "species": "Jynx"
+      },
+      {
+        "level": 55,
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Hyper Beam",
+          "Stomp"
+        ],
+        "species": "Tauros"
+      },
+      {
+        "level": 50,
+        "moves": [
+          "Razor Leaf",
+          "Sleep Powder",
+          "Stun Spore",
+          "Wrap"
+        ],
+        "species": "Victreebel"
+      }
+    ],
+    "name": "Dragonite + VicCloy"
+  },
+  {
+    "author": "Toru Miyasawa",
+    "data": [
+      {
+        "evs": {
+          "atk": 0,
+          "spd": 0
+        },
+        "level": 50,
+        "moves": [
+          "Blizzard",
+          "Double Team",
+          "Lovely Kiss",
+          "Psychic"
+        ],
+        "species": "Jynx"
+      },
+      {
+        "evs": {
+          "spd": 0
+        },
+        "level": 50,
+        "moves": [
+          "Blizzard",
+          "Double Team",
+          "Fly",
+          "Ice Beam"
+        ],
+        "species": "Articuno"
+      },
+      {
+        "evs": {
+          "spd": 0
+        },
+        "level": 50,
+        "moves": [
+          "Explosion",
+          "Light Screen",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Electrode"
+      },
+      {
+        "evs": {
+          "spd": 0
+        },
+        "level": 55,
+        "moves": [
+          "Blizzard",
+          "Earthquake",
+          "Hyper Beam",
+          "Rock Slide"
+        ],
+        "species": "Kangaskhan"
+      },
+      {
+        "evs": {
+          "atk": 0,
+          "spd": 0
+        },
+        "level": 55,
+        "moves": [
+          "Minimize",
+          "Psychic",
+          "Recover",
+          "Surf"
+        ],
+        "species": "Starmie"
+      },
+      {
+        "evs": {
+          "spd": 0
+        },
+        "level": 55,
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam"
+        ],
+        "species": "Tauros"
+      }
+    ],
+    "name": "Kangaskhan + Starmie (NC97 Winner)"
+  }
+]

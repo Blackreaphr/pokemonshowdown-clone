@@ -1,0 +1,3181 @@
+[
+  {
+    "data": [
+      {
+        "ability": "Disguise",
+        "evs": {
+          "atk": 252,
+          "hp": 252,
+          "spd": 4
+        },
+        "gender": "M",
+        "item": "Mental Herb",
+        "ivs": {
+          "spe": 0
+        },
+        "level": 50,
+        "moves": [
+          "Play Rough",
+          "Psych Up",
+          "Shadow Sneak",
+          "Trick Room"
+        ],
+        "nature": "Brave",
+        "species": "Mimikyu"
+      },
+      {
+        "ability": "Thick Fat",
+        "evs": {
+          "def": 204,
+          "hp": 76,
+          "spd": 228
+        },
+        "gender": "M",
+        "item": "Normalium Z",
+        "ivs": {
+          "spe": 0
+        },
+        "level": 50,
+        "moves": [
+          "Belly Drum",
+          "Close Combat",
+          "Fake Out",
+          "Rock Slide"
+        ],
+        "nature": "Sassy",
+        "species": "Hariyama"
+      },
+      {
+        "ability": "Clear Body",
+        "evs": {
+          "atk": 124,
+          "def": 132,
+          "hp": 252
+        },
+        "item": "Psychium Z",
+        "level": 50,
+        "moves": [
+          "Bullet Punch",
+          "Protect",
+          "Psych Up",
+          "Zen Headbutt"
+        ],
+        "nature": "Impish",
+        "species": "Metagross"
+      },
+      {
+        "ability": "Oblivious",
+        "evs": {
+          "def": 4,
+          "hp": 252,
+          "spd": 252
+        },
+        "gender": "M",
+        "item": "Sitrus Berry",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Flamethrower",
+          "Heal Pulse",
+          "Scald",
+          "Trick Room"
+        ],
+        "nature": "Calm",
+        "species": "Slowking"
+      },
+      {
+        "ability": "Own Tempo",
+        "evs": {
+          "atk": 252,
+          "def": 248,
+          "hp": 248,
+          "spa": 248,
+          "spd": 248,
+          "spe": 240
+        },
+        "gender": "M",
+        "item": "Focus Sash",
+        "ivs": {
+          "def": 0,
+          "hp": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        },
+        "level": 50,
+        "moves": [
+          "Endeavor",
+          "Fake Out",
+          "Follow Me",
+          "Spore"
+        ],
+        "nature": "Brave",
+        "species": "Smeargle"
+      },
+      {
+        "ability": "Gluttony",
+        "evs": {
+          "def": 236,
+          "hp": 244,
+          "spd": 28
+        },
+        "gender": "M",
+        "happiness": 255,
+        "item": "Figy Berry",
+        "ivs": {
+          "spe": 0
+        },
+        "level": 50,
+        "moves": [
+          "Belly Drum",
+          "Crunch",
+          "Recycle",
+          "Return"
+        ],
+        "nature": "Relaxed",
+        "species": "Snorlax"
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "ability": "Magnet Pull",
+        "evs": {
+          "hp": 248,
+          "spa": 252,
+          "spd": 8
+        },
+        "item": "Choice Specs",
+        "ivs": {
+          "atk": 0,
+          "def": 30,
+          "hp": 30,
+          "spd": 30,
+          "spe": 30
+        },
+        "level": 50,
+        "moves": [
+          "Flash Cannon",
+          "Hidden Power Ground",
+          "Thunderbolt",
+          "Volt Switch"
+        ],
+        "nature": "Modest",
+        "species": "Magnezone"
+      },
+      {
+        "ability": "Water Bubble",
+        "evs": {
+          "atk": 252,
+          "hp": 252,
+          "spd": 4
+        },
+        "gender": "M",
+        "item": "Waterium Z",
+        "ivs": {
+          "spe": 0
+        },
+        "level": 50,
+        "moves": [
+          "Leech Life",
+          "Liquidation",
+          "Protect",
+          "Wide Guard"
+        ],
+        "nature": "Brave",
+        "species": "Araquanid"
+      },
+      {
+        "ability": "Cloud Nine",
+        "evs": {
+          "def": 12,
+          "hp": 244,
+          "spa": 252
+        },
+        "gender": "M",
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 0,
+          "spe": 0
+        },
+        "level": 50,
+        "moves": [
+          "Draco Meteor",
+          "Energy Ball",
+          "Fire Blast",
+          "Protect"
+        ],
+        "nature": "Quiet",
+        "species": "Drampa"
+      },
+      {
+        "ability": "Guts",
+        "evs": {
+          "atk": 252,
+          "def": 164,
+          "hp": 92
+        },
+        "gender": "M",
+        "item": "Flame Orb",
+        "ivs": {
+          "spe": 0
+        },
+        "level": 50,
+        "moves": [
+          "Close Combat",
+          "Fake Out",
+          "Feint",
+          "Knock Off"
+        ],
+        "nature": "Brave",
+        "species": "Hariyama"
+      },
+      {
+        "ability": "Disguise",
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Ghostium Z",
+        "level": 50,
+        "moves": [
+          "Play Rough",
+          "Shadow Claw",
+          "Taunt",
+          "Trick Room"
+        ],
+        "nature": "Jolly",
+        "species": "Mimikyu"
+      },
+      {
+        "ability": "Download",
+        "evs": {
+          "def": 252,
+          "hp": 252,
+          "spa": 4
+        },
+        "item": "Eviolite",
+        "ivs": {
+          "atk": 0,
+          "spe": 0
+        },
+        "level": 50,
+        "moves": [
+          "Ice Beam",
+          "Recover",
+          "Thunderbolt",
+          "Trick Room"
+        ],
+        "nature": "Bold",
+        "species": "Porygon2"
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "ability": "Drizzle",
+        "evs": {
+          "hp": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Focus Sash",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Hurricane",
+          "Protect",
+          "Scald",
+          "Tailwind"
+        ],
+        "nature": "Modest",
+        "species": "Pelipper"
+      },
+      {
+        "ability": "Swift Swim",
+        "evs": {
+          "def": 4,
+          "hp": 140,
+          "spa": 252,
+          "spd": 28,
+          "spe": 84
+        },
+        "gender": "M",
+        "item": "Waterium Z",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Hydro Pump",
+          "Ice Beam",
+          "Protect",
+          "Scald"
+        ],
+        "nature": "Modest",
+        "species": "Golduck"
+      },
+      {
+        "ability": "Gluttony",
+        "evs": {
+          "atk": 252,
+          "def": 44,
+          "hp": 188,
+          "spd": 20,
+          "spe": 4
+        },
+        "gender": "M",
+        "item": "Figy Berry",
+        "ivs": {
+          "spe": 13
+        },
+        "level": 50,
+        "moves": [
+          "Curse",
+          "Knock Off",
+          "Poison Jab",
+          "Protect"
+        ],
+        "nature": "Adamant",
+        "species": "Muk-Alola"
+      },
+      {
+        "ability": "Download",
+        "evs": {
+          "def": 132,
+          "hp": 236,
+          "spd": 124
+        },
+        "item": "Eviolite",
+        "ivs": {
+          "atk": 0,
+          "spe": 0
+        },
+        "moves": [
+          "Ice Beam",
+          "Recover",
+          "Toxic",
+          "Trick Room"
+        ],
+        "nature": "Sassy",
+        "species": "Porygon2"
+      },
+      {
+        "ability": "Grassy Surge",
+        "evs": {
+          "atk": 92,
+          "def": 108,
+          "hp": 252,
+          "spd": 4,
+          "spe": 52
+        },
+        "item": "Miracle Seed",
+        "moves": [
+          "Horn Leech",
+          "Protect",
+          "Whirlwind",
+          "Wood Hammer"
+        ],
+        "nature": "Adamant",
+        "species": "Tapu Bulu"
+      },
+      {
+        "ability": "Electric Surge",
+        "evs": {
+          "def": 4,
+          "hp": 4,
+          "spa": 244,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Dazzling Gleam",
+          "Protect",
+          "Thunder",
+          "Volt Switch"
+        ],
+        "nature": "Modest",
+        "species": "Tapu Koko"
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "ability": "Beast Boost",
+        "evs": {
+          "atk": 44,
+          "def": 116,
+          "hp": 228,
+          "spd": 116,
+          "spe": 4
+        },
+        "item": "Leftovers",
+        "level": 50,
+        "moves": [
+          "Heavy Slam",
+          "Leech Seed",
+          "Protect",
+          "Substitute"
+        ],
+        "nature": "Adamant",
+        "species": "Celesteela"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "def": 52,
+          "hp": 252,
+          "spa": 124,
+          "spd": 76
+        },
+        "gender": "M",
+        "item": "Firium Z",
+        "level": 50,
+        "moves": [
+          "Burn Up",
+          "Protect",
+          "Snarl",
+          "Will-O-Wisp"
+        ],
+        "nature": "Bold",
+        "species": "Arcanine"
+      },
+      {
+        "ability": "Sand Veil",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Groundium Z",
+        "ivs": {
+          "spa": 0
+        },
+        "level": 50,
+        "moves": [
+          "Dragon Claw",
+          "Earthquake",
+          "Poison Jab",
+          "Protect"
+        ],
+        "nature": "Jolly",
+        "species": "Garchomp"
+      },
+      {
+        "ability": "Storm Drain",
+        "evs": {
+          "def": 252,
+          "hp": 252,
+          "spa": 4
+        },
+        "gender": "M",
+        "item": "Sitrus Berry",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Ice Beam",
+          "Protect",
+          "Recover",
+          "Scald"
+        ],
+        "nature": "Bold",
+        "species": "Gastrodon-East"
+      },
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "atk": 252,
+          "hp": 244,
+          "spd": 12
+        },
+        "gender": "M",
+        "item": "Assault Vest",
+        "level": 50,
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Heavy Slam",
+          "Rock Slide"
+        ],
+        "nature": "Adamant",
+        "species": "Gigalith"
+      },
+      {
+        "ability": "Electric Surge",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Dazzling Gleam",
+          "Grass Knot",
+          "Protect",
+          "Thunderbolt"
+        ],
+        "nature": "Timid",
+        "species": "Tapu Koko"
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "ability": "Misty Surge",
+        "evs": {
+          "hp": 252,
+          "spa": 252,
+          "spe": 4
+        },
+        "item": "Choice Specs",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Dazzling Gleam",
+          "Moonblast",
+          "Muddy Water",
+          "Scald"
+        ],
+        "nature": "Modest",
+        "species": "Tapu Fini"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "hp": 76,
+          "spd": 12,
+          "spe": 164
+        },
+        "gender": "F",
+        "item": "Firium Z",
+        "level": 50,
+        "moves": [
+          "Extreme Speed",
+          "Flare Blitz",
+          "Protect",
+          "Wild Charge"
+        ],
+        "nature": "Adamant",
+        "species": "Arcanine"
+      },
+      {
+        "ability": "Storm Drain",
+        "evs": {
+          "def": 92,
+          "hp": 164,
+          "spa": 252
+        },
+        "gender": "M",
+        "item": "Sitrus Berry",
+        "ivs": {
+          "atk": 0,
+          "spe": 0
+        },
+        "level": 50,
+        "moves": [
+          "Ice Beam",
+          "Protect",
+          "Scald",
+          "Sludge Bomb"
+        ],
+        "nature": "Quiet",
+        "species": "Gastrodon-East"
+      },
+      {
+        "ability": "Beast Boost",
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        },
+        "item": "Focus Sash",
+        "moves": [
+          "Leaf Blade",
+          "Protect",
+          "Sacred Sword",
+          "Smart Strike"
+        ],
+        "nature": "Jolly",
+        "species": "Kartana"
+      },
+      {
+        "ability": "Gluttony",
+        "evs": {
+          "atk": 252,
+          "def": 44,
+          "hp": 204,
+          "spd": 4,
+          "spe": 4
+        },
+        "gender": "F",
+        "item": "Figy Berry",
+        "level": 50,
+        "moves": [
+          "Knock Off",
+          "Poison Jab",
+          "Protect",
+          "Shadow Sneak"
+        ],
+        "nature": "Adamant",
+        "species": "Muk-Alola"
+      },
+      {
+        "ability": "Adaptability",
+        "evs": {
+          "hp": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Dark Pulse",
+          "Hyper Beam",
+          "Ice Beam",
+          "Tri Attack"
+        ],
+        "nature": "Modest",
+        "species": "Porygon-Z"
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Dragonium Z",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Draco Meteor",
+          "Flamethrower",
+          "Protect",
+          "Substitute"
+        ],
+        "nature": "Timid",
+        "species": "Salamence"
+      },
+      {
+        "ability": "Magnet Pull",
+        "evs": {
+          "def": 68,
+          "hp": 188,
+          "spa": 100,
+          "spd": 108,
+          "spe": 44
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Flash Cannon",
+          "Protect",
+          "Substitute",
+          "Thunderbolt"
+        ],
+        "nature": "Bold",
+        "species": "Magnezone"
+      },
+      {
+        "ability": "Gluttony",
+        "evs": {
+          "atk": 252,
+          "hp": 220,
+          "spe": 36
+        },
+        "gender": "M",
+        "item": "Figy Berry",
+        "level": 50,
+        "moves": [
+          "Knock Off",
+          "Poison Jab",
+          "Protect",
+          "Shadow Sneak"
+        ],
+        "nature": "Adamant",
+        "species": "Muk-Alola"
+      },
+      {
+        "ability": "Snow Warning",
+        "evs": {
+          "hp": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Focus Sash",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Aurora Veil",
+          "Blizzard",
+          "Freeze-Dry",
+          "Protect"
+        ],
+        "nature": "Timid",
+        "species": "Ninetales-Alola"
+      },
+      {
+        "ability": "Drizzle",
+        "evs": {
+          "def": 76,
+          "hp": 244,
+          "spa": 76,
+          "spd": 108,
+          "spe": 4
+        },
+        "gender": "M",
+        "item": "Sitrus Berry",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Encore",
+          "Perish Song",
+          "Protect",
+          "Scald"
+        ],
+        "nature": "Calm",
+        "species": "Politoed"
+      },
+      {
+        "ability": "Grassy Surge",
+        "evs": {
+          "atk": 28,
+          "def": 140,
+          "hp": 252,
+          "spd": 28,
+          "spe": 60
+        },
+        "item": "Lum Berry",
+        "level": 50,
+        "moves": [
+          "Horn Leech",
+          "Leech Seed",
+          "Protect",
+          "Substitute"
+        ],
+        "nature": "Adamant",
+        "species": "Tapu Bulu"
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "ability": "Rough Skin",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Groundium Z",
+        "level": 50,
+        "moves": [
+          "Earthquake",
+          "Fire Fang",
+          "Protect",
+          "Rock Slide"
+        ],
+        "nature": "Jolly",
+        "species": "Garchomp"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "def": 252,
+          "hp": 12,
+          "spa": 4,
+          "spd": 236,
+          "spe": 4
+        },
+        "gender": "M",
+        "item": "Aguav Berry",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Flamethrower",
+          "Morning Sun",
+          "Snarl",
+          "Will-O-Wisp"
+        ],
+        "nature": "Bold",
+        "species": "Arcanine"
+      },
+      {
+        "ability": "Gluttony",
+        "evs": {
+          "atk": 132,
+          "def": 116,
+          "hp": 212,
+          "spd": 44,
+          "spe": 4
+        },
+        "gender": "M",
+        "item": "Figy Berry",
+        "level": 50,
+        "moves": [
+          "Knock Off",
+          "Poison Jab",
+          "Protect",
+          "Shadow Sneak"
+        ],
+        "nature": "Adamant",
+        "species": "Muk-Alola"
+      },
+      {
+        "ability": "Download",
+        "evs": {
+          "def": 116,
+          "hp": 244,
+          "spa": 116,
+          "spd": 28
+        },
+        "item": "Eviolite",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Ice Beam",
+          "Recover",
+          "Shadow Ball",
+          "Tri Attack"
+        ],
+        "nature": "Modest",
+        "species": "Porygon2"
+      },
+      {
+        "ability": "Misty Surge",
+        "evs": {
+          "def": 212,
+          "hp": 252,
+          "spa": 44
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Heal Pulse",
+          "Moonblast",
+          "Scald",
+          "Swagger"
+        ],
+        "nature": "Bold",
+        "species": "Tapu Fini"
+      },
+      {
+        "ability": "Psychic Surge",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Moonblast",
+          "Psychic",
+          "Shadow Ball",
+          "Thunderbolt"
+        ],
+        "nature": "Modest",
+        "species": "Tapu Lele"
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "ability": "Beast Boost",
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        },
+        "item": "Focus Sash",
+        "level": 50,
+        "moves": [
+          "Leaf Blade",
+          "Protect",
+          "Sacred Sword",
+          "Smart Strike"
+        ],
+        "nature": "Jolly",
+        "species": "Kartana"
+      },
+      {
+        "ability": "Water Bubble",
+        "evs": {
+          "atk": 252,
+          "hp": 252,
+          "spd": 4
+        },
+        "gender": "M",
+        "item": "Mystic Water",
+        "level": 50,
+        "moves": [
+          "Liquidation",
+          "Protect",
+          "Toxic",
+          "Wide Guard"
+        ],
+        "nature": "Adamant",
+        "species": "Araquanid"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "def": 4,
+          "hp": 252,
+          "spa": 4,
+          "spd": 92,
+          "spe": 156
+        },
+        "gender": "M",
+        "item": "Sitrus Berry",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Flamethrower",
+          "Roar",
+          "Snarl",
+          "Will-O-Wisp"
+        ],
+        "nature": "Calm",
+        "species": "Arcanine"
+      },
+      {
+        "ability": "Gluttony",
+        "evs": {
+          "atk": 252,
+          "def": 44,
+          "hp": 204,
+          "spd": 4,
+          "spe": 4
+        },
+        "gender": "M",
+        "item": "Iapapa Berry",
+        "level": 50,
+        "moves": [
+          "Imprison",
+          "Knock Off",
+          "Poison Jab",
+          "Protect"
+        ],
+        "nature": "Adamant",
+        "species": "Muk-Alola"
+      },
+      {
+        "ability": "Download",
+        "evs": {
+          "def": 92,
+          "hp": 252,
+          "spa": 20,
+          "spd": 140
+        },
+        "item": "Eviolite",
+        "ivs": {
+          "atk": 0,
+          "spe": 0
+        },
+        "moves": [
+          "Ice Beam",
+          "Recover",
+          "Shadow Ball",
+          "Trick Room"
+        ],
+        "nature": "Sassy",
+        "species": "Porygon2"
+      },
+      {
+        "ability": "Electric Surge",
+        "evs": {
+          "hp": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Fairium Z",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Dazzling Gleam",
+          "Protect",
+          "Taunt",
+          "Thunderbolt"
+        ],
+        "nature": "Timid",
+        "species": "Tapu Koko"
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "ability": "Beast Boost",
+        "evs": {
+          "hp": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Focus Sash",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Hidden Power Ice",
+          "Power Gem",
+          "Protect",
+          "Sludge Bomb"
+        ],
+        "nature": "Timid",
+        "species": "Nihilego"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Electrium Z",
+        "level": 50,
+        "moves": [
+          "Extreme Speed",
+          "Flare Blitz",
+          "Roar",
+          "Wild Charge"
+        ],
+        "nature": "Adamant",
+        "species": "Arcanine"
+      },
+      {
+        "ability": "Beast Boost",
+        "evs": {
+          "atk": 116,
+          "hp": 252,
+          "spd": 140
+        },
+        "item": "Misty Seed",
+        "ivs": {
+          "spe": 27
+        },
+        "level": 50,
+        "moves": [
+          "Flamethrower",
+          "Heavy Slam",
+          "Leech Seed",
+          "Wide Guard"
+        ],
+        "nature": "Brave",
+        "species": "Celesteela"
+      },
+      {
+        "ability": "Rough Skin",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "level": 50,
+        "moves": [
+          "Earthquake",
+          "Fire Fang",
+          "Poison Jab",
+          "Rock Slide"
+        ],
+        "nature": "Jolly",
+        "species": "Garchomp"
+      },
+      {
+        "ability": "Beast Boost",
+        "evs": {
+          "atk": 44,
+          "def": 4,
+          "hp": 44,
+          "spd": 164,
+          "spe": 252
+        },
+        "item": "Assault Vest",
+        "level": 50,
+        "moves": [
+          "Leaf Blade",
+          "Night Slash",
+          "Sacred Sword",
+          "Smart Strike"
+        ],
+        "nature": "Jolly",
+        "species": "Kartana"
+      },
+      {
+        "ability": "Misty Surge",
+        "evs": {
+          "def": 172,
+          "hp": 252,
+          "spa": 12,
+          "spd": 36,
+          "spe": 36
+        },
+        "item": "Aguav Berry",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Calm Mind",
+          "Moonblast",
+          "Muddy Water",
+          "Taunt"
+        ],
+        "nature": "Modest",
+        "species": "Tapu Fini"
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "ability": "Moody",
+        "evs": {
+          "def": 252,
+          "spd": 252
+        },
+        "gender": "M",
+        "item": "Focus Sash",
+        "ivs": {
+          "hp": 0,
+          "spa": 0,
+          "spe": 0
+        },
+        "level": 50,
+        "moves": [
+          "Endeavor",
+          "Fake Out",
+          "Follow Me",
+          "Water Shuriken"
+        ],
+        "nature": "Sassy",
+        "species": "Smeargle"
+      },
+      {
+        "ability": "Beast Boost",
+        "evs": {
+          "atk": 124,
+          "def": 12,
+          "hp": 252,
+          "spa": 4,
+          "spd": 60,
+          "spe": 52
+        },
+        "item": "Leftovers",
+        "level": 50,
+        "moves": [
+          "Flamethrower",
+          "Heavy Slam",
+          "Leech Seed",
+          "Protect"
+        ],
+        "nature": "Adamant",
+        "species": "Celesteela"
+      },
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "atk": 252,
+          "hp": 252,
+          "spd": 4
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "ivs": {
+          "spe": 0
+        },
+        "level": 50,
+        "moves": [
+          "Earthquake",
+          "Heavy Slam",
+          "Rock Slide",
+          "Stone Edge"
+        ],
+        "nature": "Brave",
+        "species": "Gigalith"
+      },
+      {
+        "ability": "Water Compaction",
+        "evs": {
+          "hp": 244,
+          "spa": 20,
+          "spd": 244
+        },
+        "gender": "M",
+        "item": "Weakness Policy",
+        "ivs": {
+          "atk": 0,
+          "spe": 0
+        },
+        "level": 50,
+        "moves": [
+          "Amnesia",
+          "Earth Power",
+          "Shadow Ball",
+          "Shore Up"
+        ],
+        "nature": "Quiet",
+        "shiny": true,
+        "species": "Palossand"
+      },
+      {
+        "ability": "Adaptability",
+        "evs": {
+          "def": 4,
+          "hp": 252,
+          "spa": 252
+        },
+        "item": "Normalium Z",
+        "ivs": {
+          "atk": 0,
+          "spe": 0
+        },
+        "level": 50,
+        "moves": [
+          "Hyper Beam",
+          "Ice Beam",
+          "Protect",
+          "Trick Room"
+        ],
+        "nature": "Quiet",
+        "species": "Porygon-Z"
+      },
+      {
+        "ability": "Electric Surge",
+        "evs": {
+          "def": 36,
+          "hp": 252,
+          "spa": 12,
+          "spd": 100,
+          "spe": 108
+        },
+        "item": "Aguav Berry",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Dazzling Gleam",
+          "Psych Up",
+          "Roost",
+          "Thunderbolt"
+        ],
+        "nature": "Timid",
+        "species": "Tapu Koko"
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 4,
+          "hp": 140,
+          "spa": 92,
+          "spd": 28,
+          "spe": 244
+        },
+        "gender": "F",
+        "item": "Ghostium Z",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Protect",
+          "Shadow Ball",
+          "Taunt",
+          "Will-O-Wisp"
+        ],
+        "nature": "Timid",
+        "species": "Mismagius"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "def": 4,
+          "hp": 76,
+          "spa": 196,
+          "spd": 76,
+          "spe": 156
+        },
+        "gender": "M",
+        "item": "Sitrus Berry",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Flamethrower",
+          "Protect",
+          "Roar",
+          "Snarl"
+        ],
+        "nature": "Timid",
+        "species": "Arcanine"
+      },
+      {
+        "ability": "Rough Skin",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Groundium Z",
+        "level": 50,
+        "moves": [
+          "Dragon Claw",
+          "Earthquake",
+          "Poison Jab",
+          "Protect"
+        ],
+        "nature": "Jolly",
+        "species": "Garchomp"
+      },
+      {
+        "ability": "Storm Drain",
+        "evs": {
+          "def": 196,
+          "hp": 252,
+          "spd": 60
+        },
+        "gender": "M",
+        "item": "Maranga Berry",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Protect",
+          "Recover",
+          "Scald",
+          "Toxic"
+        ],
+        "nature": "Bold",
+        "species": "Gastrodon-East"
+      },
+      {
+        "ability": "Beast Boost",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Focus Sash",
+        "level": 50,
+        "moves": [
+          "Leaf Blade",
+          "Protect",
+          "Sacred Sword",
+          "Smart Strike"
+        ],
+        "nature": "Jolly",
+        "species": "Kartana"
+      },
+      {
+        "ability": "Electric Surge",
+        "evs": {
+          "def": 4,
+          "hp": 252,
+          "spa": 12,
+          "spd": 140,
+          "spe": 100
+        },
+        "item": "Assault Vest",
+        "level": 50,
+        "moves": [
+          "Dazzling Gleam",
+          "Nature's Madness",
+          "Sky Drop",
+          "Thunderbolt"
+        ],
+        "nature": "Timid",
+        "species": "Tapu Koko"
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "ability": "Sturdy",
+        "evs": {
+          "hp": 252,
+          "spa": 252,
+          "spd": 4
+        },
+        "item": "Choice Specs",
+        "ivs": {
+          "atk": 0,
+          "spe": 30
+        },
+        "level": 50,
+        "moves": [
+          "Flash Cannon",
+          "Hidden Power Ground",
+          "Thunderbolt",
+          "Volt Switch"
+        ],
+        "nature": "Modest",
+        "species": "Magnezone"
+      },
+      {
+        "ability": "Water Bubble",
+        "evs": {
+          "atk": 252,
+          "hp": 252,
+          "spd": 4
+        },
+        "gender": "M",
+        "item": "Waterium Z",
+        "ivs": {
+          "spe": 0
+        },
+        "level": 50,
+        "moves": [
+          "Liquidation",
+          "Lunge",
+          "Protect",
+          "Substitute"
+        ],
+        "nature": "Brave",
+        "species": "Araquanid"
+      },
+      {
+        "ability": "Guts",
+        "evs": {
+          "atk": 252,
+          "def": 164,
+          "hp": 92
+        },
+        "gender": "M",
+        "item": "Flame Orb",
+        "ivs": {
+          "spe": 0
+        },
+        "level": 50,
+        "moves": [
+          "Close Combat",
+          "Fake Out",
+          "Feint",
+          "Knock Off"
+        ],
+        "nature": "Brave",
+        "species": "Hariyama"
+      },
+      {
+        "ability": "Disguise",
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Ghostium Z",
+        "level": 50,
+        "moves": [
+          "Destiny Bond",
+          "Shadow Claw",
+          "Taunt",
+          "Trick Room"
+        ],
+        "nature": "Jolly",
+        "species": "Mimikyu"
+      },
+      {
+        "ability": "Download",
+        "evs": {
+          "def": 252,
+          "hp": 252,
+          "spa": 4
+        },
+        "item": "Eviolite",
+        "ivs": {
+          "atk": 0,
+          "spe": 0
+        },
+        "level": 50,
+        "moves": [
+          "Ice Beam",
+          "Recover",
+          "Thunderbolt",
+          "Trick Room"
+        ],
+        "nature": "Bold",
+        "species": "Porygon2"
+      },
+      {
+        "ability": "Gluttony",
+        "evs": {
+          "atk": 252,
+          "def": 188,
+          "hp": 68
+        },
+        "gender": "M",
+        "happiness": 255,
+        "item": "Figy Berry",
+        "ivs": {
+          "spe": 2
+        },
+        "level": 50,
+        "moves": [
+          "Belly Drum",
+          "High Horsepower",
+          "Protect",
+          "Return"
+        ],
+        "nature": "Brave",
+        "species": "Snorlax"
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "ability": "Psychic Surge",
+        "evs": {
+          "def": 60,
+          "hp": 252,
+          "spa": 116,
+          "spd": 4,
+          "spe": 76
+        },
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Dazzling Gleam",
+          "Hidden Power Fire",
+          "Moonblast",
+          "Psychic"
+        ],
+        "nature": "Modest",
+        "species": "Tapu Lele"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Firium Z",
+        "level": 50,
+        "moves": [
+          "Extreme Speed",
+          "Flare Blitz",
+          "Helping Hand",
+          "Protect"
+        ],
+        "nature": "Adamant",
+        "species": "Arcanine"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 252,
+          "hp": 60,
+          "spe": 196
+        },
+        "gender": "M",
+        "item": "Waterium Z",
+        "level": 50,
+        "moves": [
+          "Dragon Dance",
+          "Protect",
+          "Taunt",
+          "Waterfall"
+        ],
+        "nature": "Jolly",
+        "shiny": true,
+        "species": "Gyarados"
+      },
+      {
+        "ability": "Overcoat",
+        "evs": {
+          "def": 44,
+          "hp": 252,
+          "spa": 4,
+          "spd": 196,
+          "spe": 12
+        },
+        "item": "Psychic Seed",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Foul Play",
+          "Roost",
+          "Tailwind",
+          "Toxic"
+        ],
+        "nature": "Calm",
+        "species": "Mandibuzz"
+      },
+      {
+        "ability": "Beast Boost",
+        "evs": {
+          "hp": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Focus Sash",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Hidden Power Ice",
+          "Power Gem",
+          "Protect",
+          "Sludge Bomb"
+        ],
+        "nature": "Timid",
+        "species": "Nihilego"
+      },
+      {
+        "ability": "Gluttony",
+        "evs": {
+          "atk": 252,
+          "def": 188,
+          "hp": 68
+        },
+        "gender": "M",
+        "happiness": 0,
+        "item": "Iapapa Berry",
+        "ivs": {
+          "spe": 0
+        },
+        "level": 50,
+        "moves": [
+          "Curse",
+          "Frustration",
+          "High Horsepower",
+          "Recycle"
+        ],
+        "nature": "Brave",
+        "species": "Snorlax"
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "ability": "Beast Boost",
+        "evs": {
+          "atk": 252,
+          "spa": 4,
+          "spe": 252
+        },
+        "item": "Focus Sash",
+        "level": 50,
+        "moves": [
+          "High Jump Kick",
+          "Ice Beam",
+          "Poison Jab",
+          "U-turn"
+        ],
+        "nature": "Naughty",
+        "species": "Pheromosa"
+      },
+      {
+        "ability": "Unburden",
+        "evs": {
+          "def": 132,
+          "hp": 4,
+          "spa": 204,
+          "spd": 4,
+          "spe": 164
+        },
+        "gender": "M",
+        "item": "Psychic Seed",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Rain Dance",
+          "Shadow Ball",
+          "Tailwind",
+          "Will-O-Wisp"
+        ],
+        "nature": "Timid",
+        "species": "Drifblim"
+      },
+      {
+        "ability": "Rough Skin",
+        "evs": {
+          "atk": 236,
+          "def": 4,
+          "hp": 188,
+          "spd": 44,
+          "spe": 36
+        },
+        "gender": "M",
+        "item": "Groundium Z",
+        "ivs": {
+          "spa": 3
+        },
+        "level": 50,
+        "moves": [
+          "Earthquake",
+          "Protect",
+          "Rock Slide",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Garchomp"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "hp": 68,
+          "spd": 4,
+          "spe": 180
+        },
+        "gender": "M",
+        "item": "Sitrus Berry",
+        "level": 50,
+        "moves": [
+          "Dragon Dance",
+          "Earthquake",
+          "Protect",
+          "Waterfall"
+        ],
+        "nature": "Jolly",
+        "species": "Gyarados"
+      },
+      {
+        "ability": "Sturdy",
+        "evs": {
+          "def": 4,
+          "hp": 92,
+          "spa": 156,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Electrium Z",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Flash Cannon",
+          "Magnet Rise",
+          "Protect",
+          "Thunderbolt"
+        ],
+        "nature": "Modest",
+        "species": "Magnezone"
+      },
+      {
+        "ability": "Psychic Surge",
+        "evs": {
+          "def": 212,
+          "hp": 236,
+          "spa": 36,
+          "spd": 4,
+          "spe": 20
+        },
+        "item": "Choice Specs",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Dazzling Gleam",
+          "Moonblast",
+          "Psychic",
+          "Thunderbolt"
+        ],
+        "nature": "Modest",
+        "species": "Tapu Lele"
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "ability": "Misty Surge",
+        "evs": {
+          "def": 4,
+          "hp": 156,
+          "spa": 204,
+          "spd": 4,
+          "spe": 140
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Moonblast",
+          "Muddy Water",
+          "Protect"
+        ],
+        "nature": "Modest",
+        "species": "Tapu Fini"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 248,
+          "hp": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Life Orb",
+        "ivs": {
+          "spa": 18
+        },
+        "level": 54,
+        "moves": [
+          "Extreme Speed",
+          "Flare Blitz",
+          "Protect",
+          "Wild Charge"
+        ],
+        "nature": "Adamant",
+        "species": "Arcanine"
+      },
+      {
+        "ability": "Rough Skin",
+        "evs": {
+          "atk": 252,
+          "spe": 248
+        },
+        "gender": "M",
+        "item": "Groundium Z",
+        "level": 52,
+        "moves": [
+          "Earthquake",
+          "Poison Jab",
+          "Protect",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Garchomp"
+      },
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "atk": 252,
+          "hp": 252,
+          "spd": 4
+        },
+        "gender": "M",
+        "item": "Rockium Z",
+        "ivs": {
+          "spe": 0
+        },
+        "level": 50,
+        "moves": [
+          "Earthquake",
+          "Protect",
+          "Rock Slide",
+          "Stone Edge"
+        ],
+        "nature": "Brave",
+        "species": "Gigalith"
+      },
+      {
+        "ability": "Gluttony",
+        "evs": {
+          "atk": 44,
+          "def": 108,
+          "hp": 252,
+          "spd": 100
+        },
+        "gender": "M",
+        "item": "Iapapa Berry",
+        "level": 52,
+        "moves": [
+          "Knock Off",
+          "Poison Jab",
+          "Protect",
+          "Shadow Sneak"
+        ],
+        "nature": "Adamant",
+        "species": "Muk-Alola"
+      },
+      {
+        "ability": "Download",
+        "evs": {
+          "def": 92,
+          "hp": 252,
+          "spd": 164
+        },
+        "item": "Eviolite",
+        "ivs": {
+          "atk": 0,
+          "spe": 0
+        },
+        "level": 50,
+        "moves": [
+          "Ice Beam",
+          "Recover",
+          "Tri Attack",
+          "Trick Room"
+        ],
+        "nature": "Sassy",
+        "species": "Porygon2"
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 252,
+          "hp": 76,
+          "spe": 180
+        },
+        "gender": "M",
+        "item": "Waterium Z",
+        "level": 50,
+        "moves": [
+          "Dragon Dance",
+          "Ice Fang",
+          "Protect",
+          "Waterfall"
+        ],
+        "nature": "Jolly",
+        "shiny": true,
+        "species": "Gyarados"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 252,
+          "hp": 220,
+          "spe": 36
+        },
+        "gender": "M",
+        "item": "Life Orb",
+        "level": 50,
+        "moves": [
+          "Extreme Speed",
+          "Flare Blitz",
+          "Protect",
+          "Wild Charge"
+        ],
+        "nature": "Adamant",
+        "species": "Arcanine"
+      },
+      {
+        "ability": "Rough Skin",
+        "evs": {
+          "atk": 172,
+          "hp": 4,
+          "spd": 92,
+          "spe": 220
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "level": 50,
+        "moves": [
+          "Earthquake",
+          "Fire Fang",
+          "Poison Jab",
+          "Rock Slide"
+        ],
+        "nature": "Adamant",
+        "species": "Garchomp"
+      },
+      {
+        "ability": "Gluttony",
+        "evs": {
+          "atk": 44,
+          "def": 100,
+          "hp": 252,
+          "spd": 100,
+          "spe": 12
+        },
+        "gender": "M",
+        "item": "Figy Berry",
+        "level": 50,
+        "moves": [
+          "Knock Off",
+          "Poison Jab",
+          "Protect",
+          "Taunt"
+        ],
+        "nature": "Adamant",
+        "shiny": true,
+        "species": "Muk-Alola"
+      },
+      {
+        "ability": "Misty Surge",
+        "evs": {
+          "hp": 180,
+          "spa": 252,
+          "spe": 76
+        },
+        "item": "Choice Specs",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Grass Knot",
+          "Hydro Pump",
+          "Moonblast",
+          "Muddy Water"
+        ],
+        "nature": "Modest",
+        "species": "Tapu Fini"
+      },
+      {
+        "ability": "Lightning Rod",
+        "evs": {
+          "def": 12,
+          "hp": 244,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Air Balloon",
+        "level": 50,
+        "moves": [
+          "Encore",
+          "Fake Out",
+          "Spiky Shield",
+          "Zing Zap"
+        ],
+        "nature": "Jolly",
+        "species": "Togedemaru"
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "ability": "Beast Boost",
+        "evs": {
+          "atk": 124,
+          "def": 4,
+          "hp": 52,
+          "spd": 76,
+          "spe": 252
+        },
+        "item": "Scope Lens",
+        "level": 50,
+        "moves": [
+          "Detect",
+          "Leaf Blade",
+          "Sacred Sword",
+          "Substitute"
+        ],
+        "nature": "Jolly",
+        "species": "Kartana"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 148,
+          "def": 20,
+          "hp": 92,
+          "spd": 68,
+          "spe": 180
+        },
+        "gender": "M",
+        "item": "Firium Z",
+        "level": 50,
+        "moves": [
+          "Extreme Speed",
+          "Flare Blitz",
+          "Protect",
+          "Toxic"
+        ],
+        "nature": "Adamant",
+        "species": "Arcanine"
+      },
+      {
+        "ability": "Rough Skin",
+        "evs": {
+          "atk": 84,
+          "def": 20,
+          "hp": 140,
+          "spd": 148,
+          "spe": 116
+        },
+        "gender": "M",
+        "item": "Assault Vest",
+        "level": 50,
+        "moves": [
+          "Bulldoze",
+          "Earthquake",
+          "Fire Fang",
+          "Rock Slide"
+        ],
+        "nature": "Adamant",
+        "species": "Garchomp"
+      },
+      {
+        "ability": "Download",
+        "evs": {
+          "def": 140,
+          "hp": 244,
+          "spa": 28,
+          "spd": 92,
+          "spe": 4
+        },
+        "item": "Eviolite",
+        "ivs": {
+          "atk": 0,
+          "spe": 7
+        },
+        "level": 50,
+        "moves": [
+          "Ice Beam",
+          "Recover",
+          "Thunderbolt",
+          "Trick Room"
+        ],
+        "nature": "Sassy",
+        "species": "Porygon2"
+      },
+      {
+        "ability": "Misty Surge",
+        "evs": {
+          "def": 12,
+          "hp": 252,
+          "spe": 244
+        },
+        "item": "Tapunium Z",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Muddy Water",
+          "Nature's Madness",
+          "Protect",
+          "Substitute"
+        ],
+        "nature": "Timid",
+        "species": "Tapu Fini"
+      },
+      {
+        "ability": "Psychic Surge",
+        "evs": {
+          "def": 244,
+          "hp": 236,
+          "spe": 28
+        },
+        "item": "Wiki Berry",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Calm Mind",
+          "Dazzling Gleam",
+          "Protect",
+          "Psychic"
+        ],
+        "nature": "Modest",
+        "species": "Tapu Lele"
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "ability": "Beast Boost",
+        "evs": {
+          "atk": 252,
+          "spa": 4,
+          "spe": 252
+        },
+        "item": "Life Orb",
+        "level": 50,
+        "moves": [
+          "High Jump Kick",
+          "Ice Beam",
+          "Poison Jab",
+          "Protect"
+        ],
+        "nature": "Naive",
+        "species": "Pheromosa"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "hp": 76,
+          "spd": 4,
+          "spe": 172
+        },
+        "gender": "M",
+        "item": "Mago Berry",
+        "level": 50,
+        "moves": [
+          "Extreme Speed",
+          "Flare Blitz",
+          "Protect",
+          "Wild Charge"
+        ],
+        "nature": "Adamant",
+        "species": "Arcanine"
+      },
+      {
+        "ability": "Sap Sipper",
+        "evs": {
+          "def": 164,
+          "hp": 156,
+          "spa": 76,
+          "spe": 108
+        },
+        "gender": "M",
+        "item": "Assault Vest",
+        "level": 50,
+        "moves": [
+          "Bulldoze",
+          "Dragon Pulse",
+          "Flamethrower",
+          "Sludge Bomb"
+        ],
+        "nature": "Modest",
+        "species": "Goodra"
+      },
+      {
+        "ability": "Clear Body",
+        "evs": {
+          "atk": 76,
+          "hp": 252,
+          "spe": 180
+        },
+        "item": "Weakness Policy",
+        "level": 50,
+        "moves": [
+          "Agility",
+          "Meteor Mash",
+          "Protect",
+          "Zen Headbutt"
+        ],
+        "nature": "Adamant",
+        "species": "Metagross"
+      },
+      {
+        "ability": "Snow Warning",
+        "evs": {
+          "hp": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Focus Sash",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Aurora Veil",
+          "Blizzard",
+          "Icy Wind",
+          "Protect"
+        ],
+        "nature": "Timid",
+        "species": "Ninetales-Alola"
+      },
+      {
+        "ability": "Psychic Surge",
+        "evs": {
+          "def": 4,
+          "hp": 84,
+          "spa": 252,
+          "spd": 4,
+          "spe": 164
+        },
+        "item": "Psychium Z",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Moonblast",
+          "Protect",
+          "Psychic",
+          "Taunt"
+        ],
+        "nature": "Timid",
+        "species": "Tapu Lele"
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "ability": "Beast Boost",
+        "evs": {
+          "hp": 196,
+          "spd": 252,
+          "spe": 60
+        },
+        "item": "Choice Scarf",
+        "level": 50,
+        "moves": [
+          "Leaf Blade",
+          "Razor Leaf",
+          "Sacred Sword",
+          "Smart Strike"
+        ],
+        "nature": "Adamant",
+        "species": "Kartana"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 52,
+          "def": 4,
+          "hp": 252,
+          "spd": 164,
+          "spe": 36
+        },
+        "gender": "M",
+        "item": "Iapapa Berry",
+        "level": 50,
+        "moves": [
+          "Extreme Speed",
+          "Flare Blitz",
+          "Helping Hand",
+          "Protect"
+        ],
+        "nature": "Careful",
+        "species": "Arcanine"
+      },
+      {
+        "ability": "Fur Coat",
+        "evs": {
+          "hp": 4,
+          "spd": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Mago Berry",
+        "level": 50,
+        "moves": [
+          "Fake Out",
+          "Foul Play",
+          "Parting Shot",
+          "Taunt"
+        ],
+        "nature": "Jolly",
+        "species": "Persian-Alola"
+      },
+      {
+        "ability": "Gluttony",
+        "evs": {
+          "atk": 28,
+          "def": 244,
+          "hp": 180,
+          "spd": 52
+        },
+        "gender": "M",
+        "happiness": 255,
+        "item": "Figy Berry",
+        "ivs": {
+          "spe": 0
+        },
+        "level": 50,
+        "moves": [
+          "Curse",
+          "High Horsepower",
+          "Recycle",
+          "Return"
+        ],
+        "nature": "Brave",
+        "species": "Snorlax"
+      },
+      {
+        "ability": "Misty Surge",
+        "evs": {
+          "def": 84,
+          "hp": 236,
+          "spa": 140,
+          "spd": 20,
+          "spe": 28
+        },
+        "item": "Wiki Berry",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Calm Mind",
+          "Moonblast",
+          "Muddy Water",
+          "Protect"
+        ],
+        "nature": "Modest",
+        "species": "Tapu Fini"
+      },
+      {
+        "ability": "Electric Surge",
+        "evs": {
+          "hp": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Normalium Z",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Hidden Power Fire",
+          "Nature Power",
+          "Protect",
+          "Volt Switch"
+        ],
+        "nature": "Modest",
+        "species": "Tapu Koko"
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "ability": "Harvest",
+        "evs": {
+          "def": 92,
+          "hp": 244,
+          "spd": 172
+        },
+        "gender": "M",
+        "item": "Sitrus Berry",
+        "ivs": {
+          "spe": 0
+        },
+        "level": 50,
+        "moves": [
+          "Leech Seed",
+          "Protect",
+          "Trick Room",
+          "Wood Hammer"
+        ],
+        "nature": "Sassy",
+        "species": "Exeggutor-Alola"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 92,
+          "def": 44,
+          "hp": 252,
+          "spd": 76,
+          "spe": 44
+        },
+        "gender": "M",
+        "item": "Aguav Berry",
+        "level": 50,
+        "moves": [
+          "Extreme Speed",
+          "Flare Blitz",
+          "Protect",
+          "Snarl"
+        ],
+        "nature": "Adamant",
+        "species": "Arcanine"
+      },
+      {
+        "ability": "Beast Boost",
+        "evs": {
+          "hp": 116,
+          "spd": 140,
+          "spe": 252
+        },
+        "item": "Assault Vest",
+        "level": 50,
+        "moves": [
+          "Leaf Blade",
+          "Razor Leaf",
+          "Sacred Sword",
+          "Smart Strike"
+        ],
+        "nature": "Jolly",
+        "species": "Kartana"
+      },
+      {
+        "ability": "Stamina",
+        "evs": {
+          "atk": 196,
+          "def": 12,
+          "hp": 172,
+          "spd": 124
+        },
+        "gender": "M",
+        "item": "Groundium Z",
+        "ivs": {
+          "spe": 24
+        },
+        "level": 50,
+        "moves": [
+          "Close Combat",
+          "High Horsepower",
+          "Protect",
+          "Substitute"
+        ],
+        "nature": "Brave",
+        "species": "Mudsdale"
+      },
+      {
+        "ability": "Gluttony",
+        "evs": {
+          "atk": 100,
+          "def": 252,
+          "hp": 156
+        },
+        "gender": "M",
+        "happiness": 255,
+        "item": "Iapapa Berry",
+        "ivs": {
+          "spe": 0
+        },
+        "level": 50,
+        "moves": [
+          "Curse",
+          "High Horsepower",
+          "Recycle",
+          "Return"
+        ],
+        "nature": "Brave",
+        "species": "Snorlax"
+      },
+      {
+        "ability": "Misty Surge",
+        "evs": {
+          "def": 76,
+          "hp": 252,
+          "spa": 132,
+          "spd": 12,
+          "spe": 36
+        },
+        "item": "Mago Berry",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Light Screen",
+          "Moonblast",
+          "Muddy Water",
+          "Protect"
+        ],
+        "nature": "Calm",
+        "species": "Tapu Fini"
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "ability": "Drought",
+        "evs": {
+          "hp": 132,
+          "spa": 252,
+          "spd": 124
+        },
+        "gender": "M",
+        "item": "Firium Z",
+        "ivs": {
+          "atk": 0,
+          "spe": 4
+        },
+        "level": 50,
+        "moves": [
+          "Eruption",
+          "Flamethrower",
+          "Protect",
+          "Solar Beam"
+        ],
+        "nature": "Quiet",
+        "species": "Torkoal"
+      },
+      {
+        "ability": "Chlorophyll",
+        "evs": {
+          "hp": 196,
+          "spa": 252,
+          "spe": 60
+        },
+        "item": "Wide Lens",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "After You",
+          "Leaf Storm",
+          "Protect",
+          "Sleep Powder"
+        ],
+        "nature": "Modest",
+        "species": "Lilligant"
+      },
+      {
+        "ability": "Stamina",
+        "evs": {
+          "atk": 252,
+          "hp": 252,
+          "spd": 4
+        },
+        "gender": "M",
+        "item": "Quick Claw",
+        "ivs": {
+          "spe": 0
+        },
+        "level": 50,
+        "moves": [
+          "Close Combat",
+          "Heavy Slam",
+          "High Horsepower",
+          "Protect"
+        ],
+        "nature": "Brave",
+        "species": "Mudsdale"
+      },
+      {
+        "ability": "Beast Boost",
+        "evs": {
+          "hp": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Focus Sash",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Hidden Power Fire",
+          "Power Gem",
+          "Protect",
+          "Sludge Bomb"
+        ],
+        "nature": "Timid",
+        "species": "Nihilego"
+      },
+      {
+        "ability": "Download",
+        "evs": {
+          "def": 188,
+          "hp": 252,
+          "spa": 68
+        },
+        "item": "Eviolite",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Ice Beam",
+          "Recover",
+          "Thunderbolt",
+          "Trick Room"
+        ],
+        "nature": "Bold",
+        "species": "Porygon2"
+      },
+      {
+        "ability": "Grassy Surge",
+        "evs": {
+          "atk": 248,
+          "hp": 28,
+          "spe": 224
+        },
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 30,
+          "spa": 30,
+          "spe": 30
+        },
+        "level": 50,
+        "moves": [
+          "Hidden Power Fire",
+          "Horn Leech",
+          "Rock Slide",
+          "Wood Hammer"
+        ],
+        "nature": "Naive",
+        "species": "Tapu Bulu"
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "ability": "Electric Surge",
+        "evs": {
+          "def": 4,
+          "hp": 52,
+          "spa": 212,
+          "spd": 84,
+          "spe": 156
+        },
+        "item": "Assault Vest",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Dazzling Gleam",
+          "Hidden Power Fire",
+          "Sky Drop",
+          "Volt Switch"
+        ],
+        "nature": "Timid",
+        "species": "Tapu Koko"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 76,
+          "def": 4,
+          "hp": 252,
+          "spd": 132,
+          "spe": 44
+        },
+        "gender": "M",
+        "item": "Misty Seed",
+        "level": 50,
+        "moves": [
+          "Extreme Speed",
+          "Flare Blitz",
+          "Protect",
+          "Thief"
+        ],
+        "nature": "Adamant",
+        "species": "Arcanine"
+      },
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "atk": 116,
+          "hp": 244,
+          "spd": 148
+        },
+        "gender": "M",
+        "item": "Rockium Z",
+        "ivs": {
+          "spe": 0
+        },
+        "level": 50,
+        "moves": [
+          "Curse",
+          "Protect",
+          "Rock Slide",
+          "Stone Edge"
+        ],
+        "nature": "Brave",
+        "species": "Gigalith"
+      },
+      {
+        "ability": "Beast Boost",
+        "evs": {
+          "atk": 116,
+          "def": 4,
+          "hp": 4,
+          "spd": 132,
+          "spe": 252
+        },
+        "item": "Grassium Z",
+        "level": 50,
+        "moves": [
+          "Detect",
+          "Leaf Blade",
+          "Sacred Sword",
+          "Substitute"
+        ],
+        "nature": "Jolly",
+        "species": "Kartana"
+      },
+      {
+        "ability": "Download",
+        "evs": {
+          "def": 156,
+          "hp": 244,
+          "spa": 4,
+          "spd": 100,
+          "spe": 4
+        },
+        "item": "Eviolite",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Ice Beam",
+          "Recover",
+          "Thunderbolt",
+          "Trick Room"
+        ],
+        "nature": "Bold",
+        "species": "Porygon2"
+      },
+      {
+        "ability": "Misty Surge",
+        "evs": {
+          "def": 4,
+          "hp": 236,
+          "spa": 196,
+          "spd": 12,
+          "spe": 60
+        },
+        "item": "Mago Berry",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Calm Mind",
+          "Moonblast",
+          "Muddy Water",
+          "Protect"
+        ],
+        "nature": "Modest",
+        "species": "Tapu Fini"
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "ability": "Unburden",
+        "evs": {
+          "def": 132,
+          "hp": 4,
+          "spa": 164,
+          "spd": 4,
+          "spe": 204
+        },
+        "gender": "M",
+        "item": "Psychic Seed",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Shadow Ball",
+          "Sunny Day",
+          "Tailwind",
+          "Will-O-Wisp"
+        ],
+        "nature": "Timid",
+        "species": "Drifblim"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 76,
+          "def": 92,
+          "hp": 164,
+          "spd": 172,
+          "spe": 4
+        },
+        "gender": "M",
+        "item": "Iapapa Berry",
+        "moves": [
+          "Flare Blitz",
+          "Helping Hand",
+          "Protect",
+          "Toxic"
+        ],
+        "nature": "Careful",
+        "species": "Arcanine"
+      },
+      {
+        "ability": "Rough Skin",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "hp": 4,
+          "spd": 44,
+          "spe": 204
+        },
+        "gender": "M",
+        "item": "Groundium Z",
+        "level": 50,
+        "moves": [
+          "Earthquake",
+          "Poison Jab",
+          "Protect",
+          "Rock Slide"
+        ],
+        "nature": "Adamant",
+        "species": "Garchomp"
+      },
+      {
+        "ability": "Gluttony",
+        "evs": {
+          "atk": 52,
+          "def": 244,
+          "hp": 116,
+          "spd": 92
+        },
+        "gender": "M",
+        "item": "Figy Berry",
+        "ivs": {
+          "spe": 0
+        },
+        "level": 50,
+        "moves": [
+          "Curse",
+          "Facade",
+          "High Horsepower",
+          "Recycle"
+        ],
+        "nature": "Adamant",
+        "species": "Snorlax"
+      },
+      {
+        "ability": "Electric Surge",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Electrium Z",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Dazzling Gleam",
+          "Protect",
+          "Thunderbolt",
+          "Volt Switch"
+        ],
+        "nature": "Modest",
+        "species": "Tapu Koko"
+      },
+      {
+        "ability": "Psychic Surge",
+        "evs": {
+          "def": 212,
+          "hp": 236,
+          "spa": 36,
+          "spd": 4,
+          "spe": 20
+        },
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Moonblast",
+          "Protect",
+          "Psychic",
+          "Thunderbolt"
+        ],
+        "nature": "Modest",
+        "species": "Tapu Lele"
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "ability": "Psychic Surge",
+        "evs": {
+          "hp": 92,
+          "spa": 252,
+          "spe": 164
+        },
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Hidden Power Fire",
+          "Moonblast",
+          "Psychic",
+          "Psyshock"
+        ],
+        "nature": "Modest",
+        "species": "Tapu Lele"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 132,
+          "def": 12,
+          "hp": 204,
+          "spd": 116,
+          "spe": 44
+        },
+        "gender": "M",
+        "item": "Firium Z",
+        "level": 50,
+        "moves": [
+          "Bulldoze",
+          "Extreme Speed",
+          "Flare Blitz",
+          "Protect"
+        ],
+        "nature": "Adamant",
+        "species": "Arcanine"
+      },
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "atk": 212,
+          "hp": 236,
+          "spd": 60
+        },
+        "gender": "M",
+        "item": "Figy Berry",
+        "ivs": {
+          "spe": 0
+        },
+        "level": 50,
+        "moves": [
+          "Curse",
+          "Protect",
+          "Rock Slide",
+          "Wide Guard"
+        ],
+        "nature": "Brave",
+        "species": "Gigalith"
+      },
+      {
+        "ability": "Beast Boost",
+        "evs": {
+          "atk": 68,
+          "def": 4,
+          "hp": 84,
+          "spd": 100,
+          "spe": 252
+        },
+        "item": "Scope Lens",
+        "level": 50,
+        "moves": [
+          "Detect",
+          "Leaf Blade",
+          "Sacred Sword",
+          "Substitute"
+        ],
+        "nature": "Jolly",
+        "species": "Kartana"
+      },
+      {
+        "ability": "Download",
+        "evs": {
+          "def": 108,
+          "hp": 244,
+          "spd": 156
+        },
+        "item": "Eviolite",
+        "ivs": {
+          "atk": 0,
+          "spe": 0
+        },
+        "level": 50,
+        "moves": [
+          "Ice Beam",
+          "Recover",
+          "Thunderbolt",
+          "Trick Room"
+        ],
+        "nature": "Sassy",
+        "species": "Porygon2"
+      },
+      {
+        "ability": "Beast Boost",
+        "evs": {
+          "def": 116,
+          "hp": 252,
+          "spa": 4,
+          "spd": 44,
+          "spe": 92
+        },
+        "item": "Wiki Berry",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Dazzling Gleam",
+          "Protect",
+          "Tail Glow",
+          "Thunderbolt"
+        ],
+        "nature": "Modest",
+        "species": "Xurkitree"
+      }
+    ]
+  }
+]

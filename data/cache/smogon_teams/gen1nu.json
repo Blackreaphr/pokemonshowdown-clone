@@ -1,0 +1,938 @@
+[
+  {
+    "author": "Sabelette",
+    "data": [
+      {
+        "moves": [
+          "Double-Edge",
+          "Fire Blast",
+          "Hyper Beam",
+          "Sky Attack"
+        ],
+        "species": "Aerodactyl"
+      },
+      {
+        "moves": [
+          "Hyper Beam",
+          "Slash",
+          "Surf",
+          "Swords Dance"
+        ],
+        "species": "Kabutops"
+      },
+      {
+        "moves": [
+          "Agility",
+          "Double-Edge",
+          "Fire Blast",
+          "Hyper Beam"
+        ],
+        "species": "Moltres"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Psychic",
+          "Seismic Toss",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Mr. Mime"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Hyper Beam",
+          "Super Fang",
+          "Thunderbolt"
+        ],
+        "species": "Raticate"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Psychic",
+          "Sleep Powder",
+          "Stun Spore"
+        ],
+        "species": "Venomoth"
+      }
+    ],
+    "name": "Aero Lead + Kabu"
+  },
+  {
+    "author": "TG2513",
+    "data": [
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Reflect",
+          "Thunder",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Magneton"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Fire Blast",
+          "Sky Attack",
+          "Substitute"
+        ],
+        "species": "Aerodactyl"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Fire Blast",
+          "Hyper Beam",
+          "Swords Dance"
+        ],
+        "species": "Charizard"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Counter",
+          "Psychic",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Mr. Mime"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Amnesia",
+          "Blizzard",
+          "Hypnosis",
+          "Surf"
+        ],
+        "species": "Poliwhirl"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Hyper Beam",
+          "Super Fang",
+          "Thunderbolt"
+        ],
+        "species": "Raticate"
+      }
+    ],
+    "name": "Mag Lead Fast Spam"
+  },
+  {
+    "author": "Sabelette",
+    "data": [
+      {
+        "moves": [
+          "Agility",
+          "Body Slam",
+          "Fire Blast",
+          "Hyper Beam"
+        ],
+        "species": "Arcanine"
+      },
+      {
+        "moves": [
+          "Counter",
+          "Earthquake",
+          "Fire Blast",
+          "Slash"
+        ],
+        "species": "Charizard"
+      },
+      {
+        "moves": [
+          "Agility",
+          "Double-Edge",
+          "Fire Blast",
+          "Hyper Beam"
+        ],
+        "species": "Moltres"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Psychic",
+          "Seismic Toss",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Mr. Mime"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Counter",
+          "Hypnosis",
+          "Seismic Toss",
+          "Surf"
+        ],
+        "species": "Poliwrath"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Mega Drain",
+          "Psychic",
+          "Sleep Powder",
+          "Stun Spore"
+        ],
+        "species": "Venomoth"
+      }
+    ],
+    "name": "Fire Spam"
+  },
+  {
+    "author": "Maris Bonibell",
+    "data": [
+      {
+        "moves": [
+          "Agility",
+          "Body Slam",
+          "Fire Blast",
+          "Hyper Beam"
+        ],
+        "species": "Arcanine"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Hyper Beam",
+          "Slash",
+          "Surf"
+        ],
+        "species": "Kabutops"
+      },
+      {
+        "moves": [
+          "Agility",
+          "Fire Blast",
+          "Fire Spin",
+          "Hyper Beam"
+        ],
+        "species": "Moltres"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Psychic",
+          "Seismic Toss",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Mr. Mime"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Hypnosis",
+          "Seismic Toss",
+          "Surf"
+        ],
+        "species": "Poliwrath"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Hyper Beam",
+          "Razor Leaf",
+          "Sleep Powder"
+        ],
+        "species": "Venusaur"
+      }
+    ],
+    "name": "Double Fire+Water + Grass"
+  },
+  {
+    "author": "TG2513",
+    "data": [
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Psychic",
+          "Seismic Toss",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Mr. Mime"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Fire Blast",
+          "Sky Attack",
+          "Substitute"
+        ],
+        "species": "Aerodactyl"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Blizzard",
+          "Counter",
+          "Seismic Toss",
+          "Surf"
+        ],
+        "species": "Blastoise"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Fire Blast",
+          "Hyper Beam",
+          "Swords Dance"
+        ],
+        "species": "Charizard"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Substitute",
+          "Thunder",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Magneton"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Psychic",
+          "Sleep Powder",
+          "Stun Spore"
+        ],
+        "species": "Venomoth"
+      }
+    ],
+    "name": "Mime Lead + Magneton"
+  },
+  {
+    "author": "Shellnuts",
+    "data": [
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Psychic",
+          "Seismic Toss",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Mr. Mime"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Fire Blast",
+          "Swords Dance"
+        ],
+        "species": "Charizard"
+      },
+      {
+        "moves": [
+          "Hyper Beam",
+          "Slash",
+          "Surf",
+          "Swords Dance"
+        ],
+        "species": "Kabutops"
+      },
+      {
+        "moves": [
+          "Agility",
+          "Double-Edge",
+          "Fire Blast",
+          "Hyper Beam"
+        ],
+        "species": "Moltres"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Hyper Beam",
+          "Thunderbolt"
+        ],
+        "species": "Raticate"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Psychic",
+          "Sleep Powder",
+          "Stun Spore"
+        ],
+        "species": "Venomoth"
+      }
+    ],
+    "name": "Mime Lead Fast Spam + Kabu"
+  },
+  {
+    "author": "Tree69420",
+    "data": [
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Psychic",
+          "Seismic Toss",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Mr. Mime"
+      },
+      {
+        "moves": [
+          "Agility",
+          "Double-Edge",
+          "Drill Peck",
+          "Hyper Beam"
+        ],
+        "species": "Fearow"
+      },
+      {
+        "moves": [
+          "Hyper Beam",
+          "Slash",
+          "Surf",
+          "Swords Dance"
+        ],
+        "species": "Kabutops"
+      },
+      {
+        "moves": [
+          "Agility",
+          "Fire Blast",
+          "Fire Spin",
+          "Hyper Beam"
+        ],
+        "species": "Moltres"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Counter",
+          "Hypnosis",
+          "Seismic Toss",
+          "Surf"
+        ],
+        "species": "Poliwrath"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Hyper Beam",
+          "Super Fang",
+          "Thunderbolt"
+        ],
+        "species": "Raticate"
+      }
+    ],
+    "name": "Mime Lead Double Flying + Water"
+  },
+  {
+    "author": "Tree69420",
+    "data": [
+      {
+        "moves": [
+          "Body Slam",
+          "Fire Blast",
+          "Seismic Toss",
+          "Slash"
+        ],
+        "species": "Charizard"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Fire Blast",
+          "Hyper Beam",
+          "Rest"
+        ],
+        "species": "Aerodactyl"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Psychic",
+          "Seismic Toss",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Mr. Mime"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Counter",
+          "Hypnosis",
+          "Seismic Toss",
+          "Surf"
+        ],
+        "species": "Poliwrath"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Hyper Beam",
+          "Super Fang",
+          "Thunderbolt"
+        ],
+        "species": "Raticate"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Psychic",
+          "Sleep Powder",
+          "Stun Spore"
+        ],
+        "species": "Venomoth"
+      }
+    ],
+    "name": "Zard Lead Fast Spam + Wrath"
+  },
+  {
+    "author": "Tree69420",
+    "data": [
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Fire Blast",
+          "Slash"
+        ],
+        "species": "Charizard"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Hyper Beam",
+          "Rest",
+          "Toxic"
+        ],
+        "species": "Aerodactyl"
+      },
+      {
+        "moves": [
+          "Counter",
+          "Earthquake",
+          "Seismic Toss",
+          "Surf"
+        ],
+        "species": "Blastoise"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Hypnosis",
+          "Night Shade",
+          "Psychic",
+          "Thunderbolt"
+        ],
+        "species": "Gastly"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Psychic",
+          "Seismic Toss",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Mr. Mime"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Hyper Beam",
+          "Super Fang",
+          "Thunderbolt"
+        ],
+        "species": "Raticate"
+      }
+    ],
+    "name": "Zard Lead + Blastoise + Gastly"
+  },
+  {
+    "author": "Teh",
+    "data": [
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Flamethrower",
+          "Slash"
+        ],
+        "species": "Charizard"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Amnesia",
+          "Blizzard",
+          "Seismic Toss",
+          "Surf"
+        ],
+        "species": "Golduck"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Rest",
+          "Slash",
+          "Surf"
+        ],
+        "species": "Kabutops"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Psychic",
+          "Seismic Toss",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Mr. Mime"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Agility",
+          "Blizzard",
+          "Hydro Pump",
+          "Surf"
+        ],
+        "species": "Seadra"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Razor Leaf",
+          "Sleep Powder",
+          "Swords Dance"
+        ],
+        "species": "Venusaur"
+      }
+    ],
+    "name": "Zard Lead Waterspam + Venusaur"
+  },
+  {
+    "author": "Sabelette",
+    "data": [
+      {
+        "moves": [
+          "Double-Edge",
+          "Psychic",
+          "Sleep Powder",
+          "Stun Spore"
+        ],
+        "species": "Venomoth"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Fire Blast",
+          "Hyper Beam",
+          "Substitute"
+        ],
+        "species": "Aerodactyl"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Fire Blast",
+          "Hyper Beam",
+          "Slash"
+        ],
+        "species": "Charizard"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Counter",
+          "Seismic Toss",
+          "Surf"
+        ],
+        "species": "Golduck"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Psychic",
+          "Seismic Toss",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Mr. Mime"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Hyper Beam",
+          "Super Fang",
+          "Thunderbolt"
+        ],
+        "species": "Raticate"
+      }
+    ],
+    "name": "Relatively Fast Spam"
+  },
+  {
+    "author": "Sabelette",
+    "data": [
+      {
+        "moves": [
+          "Double-Edge",
+          "Psychic",
+          "Sleep Powder",
+          "Stun Spore"
+        ],
+        "species": "Venomoth"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Fire Blast",
+          "Hyper Beam",
+          "Toxic"
+        ],
+        "species": "Aerodactyl"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Blizzard",
+          "Counter",
+          "Seismic Toss",
+          "Surf"
+        ],
+        "species": "Blastoise"
+      },
+      {
+        "moves": [
+          "Agility",
+          "Double-Edge",
+          "Fire Blast",
+          "Hyper Beam"
+        ],
+        "species": "Moltres"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Psychic",
+          "Seismic Toss",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Mr. Mime"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Hyper Beam",
+          "Super Fang",
+          "Thunderbolt"
+        ],
+        "species": "Raticate"
+      }
+    ],
+    "name": "Moth Lead + Good Stuff"
+  },
+  {
+    "author": "Teh",
+    "data": [
+      {
+        "moves": [
+          "Double-Edge",
+          "Psychic",
+          "Sleep Powder",
+          "Stun Spore"
+        ],
+        "species": "Venomoth"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Hyper Beam",
+          "Substitute",
+          "Toxic"
+        ],
+        "species": "Aerodactyl"
+      },
+      {
+        "moves": [
+          "Agility",
+          "Double-Edge",
+          "Fire Blast",
+          "Hyper Beam"
+        ],
+        "species": "Moltres"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Psychic",
+          "Seismic Toss",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Mr. Mime"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Counter",
+          "Hypnosis",
+          "Seismic Toss",
+          "Surf"
+        ],
+        "species": "Poliwrath"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Hyper Beam",
+          "Super Fang",
+          "Thunderbolt"
+        ],
+        "species": "Raticate"
+      }
+    ],
+    "name": "Moth Lead + Poliwrath"
+  }
+]

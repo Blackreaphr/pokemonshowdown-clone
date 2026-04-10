@@ -1,0 +1,517 @@
+[
+  {
+    "data": [
+      {
+        "ability": "Drizzle",
+        "evs": {
+          "def": 220,
+          "hp": 252,
+          "spa": 4,
+          "spd": 28,
+          "spe": 4
+        },
+        "gender": "M",
+        "item": "Eject Button",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Encore",
+          "Perish Song",
+          "Protect",
+          "Scald"
+        ],
+        "nature": "Calm",
+        "species": "Politoed"
+      },
+      {
+        "ability": "Swift Swim",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Waterium Z",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Draco Meteor",
+          "Hydro Pump",
+          "Ice Beam",
+          "Surf"
+        ],
+        "nature": "Modest",
+        "species": "Kingdra"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 196,
+          "hp": 84,
+          "spd": 28,
+          "spe": 196
+        },
+        "item": "Groundium Z",
+        "level": 50,
+        "moves": [
+          "Earthquake",
+          "Knock Off",
+          "Rock Tomb",
+          "Stealth Rock"
+        ],
+        "nature": "Jolly",
+        "species": "Landorus-Therian"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 36,
+          "hp": 252,
+          "spe": 220
+        },
+        "item": "Latiasite",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Calm Mind",
+          "Ice Beam",
+          "Psychic",
+          "Roost"
+        ],
+        "nature": "Timid",
+        "species": "Latias"
+      },
+      {
+        "ability": "Technician",
+        "evs": {
+          "atk": 172,
+          "def": 76,
+          "hp": 236,
+          "spd": 4,
+          "spe": 20
+        },
+        "gender": "M",
+        "item": "Scizorite",
+        "level": 50,
+        "moves": [
+          "Bullet Punch",
+          "Roost",
+          "Swords Dance",
+          "U-turn"
+        ],
+        "nature": "Adamant",
+        "species": "Scizor"
+      },
+      {
+        "ability": "Electric Surge",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Choice Specs",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Dazzling Gleam",
+          "Hidden Power Ice",
+          "Thunderbolt",
+          "Volt Switch"
+        ],
+        "nature": "Timid",
+        "shiny": true,
+        "species": "Tapu Koko"
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 220,
+          "hp": 84,
+          "spe": 204
+        },
+        "gender": "M",
+        "item": "Salamencite",
+        "level": 50,
+        "moves": [
+          "Double-Edge",
+          "Earthquake",
+          "Roost",
+          "Substitute"
+        ],
+        "nature": "Jolly",
+        "species": "Salamence"
+      },
+      {
+        "ability": "Stance Change",
+        "evs": {
+          "hp": 252,
+          "spa": 252,
+          "spd": 4
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "spe": 29
+        },
+        "level": 50,
+        "moves": [
+          "King's Shield",
+          "Shadow Ball",
+          "Shadow Sneak",
+          "Toxic"
+        ],
+        "nature": "Quiet",
+        "shiny": true,
+        "species": "Aegislash"
+      },
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "atk": 4,
+          "def": 252,
+          "hp": 252
+        },
+        "gender": "F",
+        "item": "Rocky Helmet",
+        "level": 50,
+        "moves": [
+          "Earthquake",
+          "Roar",
+          "Stealth Rock",
+          "Yawn"
+        ],
+        "nature": "Impish",
+        "species": "Hippowdon"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "hp": 236,
+          "spa": 252,
+          "spe": 20
+        },
+        "item": "Firium Z",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Hidden Power Ice",
+          "Overheat",
+          "Thunderbolt",
+          "Volt Switch"
+        ],
+        "nature": "Modest",
+        "species": "Rotom-Heat"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "def": 4,
+          "hp": 172,
+          "spa": 252,
+          "spd": 12,
+          "spe": 68
+        },
+        "item": "Waterium Z",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Calm Mind",
+          "Hydro Pump",
+          "Icy Wind",
+          "Roar"
+        ],
+        "nature": "Modest",
+        "species": "Suicune"
+      },
+      {
+        "ability": "Electric Surge",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Choice Specs",
+        "level": 50,
+        "moves": [
+          "Dazzling Gleam",
+          "Grass Knot",
+          "Thunderbolt",
+          "U-turn"
+        ],
+        "nature": "Timid",
+        "species": "Tapu Koko"
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "ability": "Speed Boost",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Firium Z",
+        "level": 50,
+        "moves": [
+          "Flare Blitz",
+          "High Jump Kick",
+          "Protect",
+          "Swords Dance"
+        ],
+        "nature": "Jolly",
+        "species": "Blaziken"
+      },
+      {
+        "ability": "Magic Bounce",
+        "evs": {
+          "def": 12,
+          "hp": 244,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Light Clay",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Light Screen",
+          "Psychic",
+          "Reflect",
+          "Yawn"
+        ],
+        "nature": "Timid",
+        "species": "Espeon"
+      },
+      {
+        "ability": "Cursed Body",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Gengarite",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Hex",
+          "Hypnosis",
+          "Sludge Bomb",
+          "Substitute"
+        ],
+        "nature": "Timid",
+        "species": "Gengar"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Gyaradosite",
+        "level": 50,
+        "moves": [
+          "Dragon Dance",
+          "Earthquake",
+          "Ice Fang",
+          "Waterfall"
+        ],
+        "nature": "Jolly",
+        "species": "Gyarados"
+      },
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "hp": 252,
+          "spd": 252,
+          "spe": 4
+        },
+        "gender": "M",
+        "item": "Sitrus Berry",
+        "ivs": {
+          "def": 25
+        },
+        "level": 50,
+        "moves": [
+          "Earthquake",
+          "Stealth Rock",
+          "Whirlwind",
+          "Yawn"
+        ],
+        "nature": "Careful",
+        "species": "Hippowdon"
+      },
+      {
+        "ability": "Sturdy",
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Flyinium Z",
+        "level": 50,
+        "moves": [
+          "Brave Bird",
+          "Rock Tomb",
+          "Stealth Rock",
+          "Taunt"
+        ],
+        "nature": "Jolly",
+        "species": "Skarmory"
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "ability": "Blaze",
+        "evs": {
+          "atk": 20,
+          "def": 92,
+          "hp": 252,
+          "spd": 4,
+          "spe": 140
+        },
+        "gender": "M",
+        "item": "Blazikenite",
+        "level": 50,
+        "moves": [
+          "Baton Pass",
+          "Flare Blitz",
+          "High Jump Kick",
+          "Protect"
+        ],
+        "nature": "Adamant",
+        "species": "Blaziken"
+      },
+      {
+        "ability": "Beast Boost",
+        "evs": {
+          "def": 60,
+          "hp": 252,
+          "spa": 4,
+          "spd": 12,
+          "spe": 180
+        },
+        "item": "Leftovers",
+        "level": 50,
+        "moves": [
+          "Air Slash",
+          "Leech Seed",
+          "Protect",
+          "Substitute"
+        ],
+        "nature": "Bold",
+        "species": "Celesteela"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Specs",
+        "level": 50,
+        "moves": [
+          "Dark Pulse",
+          "Draco Meteor",
+          "Flamethrower",
+          "U-turn"
+        ],
+        "nature": "Modest",
+        "species": "Hydreigon"
+      },
+      {
+        "ability": "Grassy Surge",
+        "evs": {
+          "atk": 4,
+          "def": 4,
+          "hp": 244,
+          "spd": 108,
+          "spe": 148
+        },
+        "item": "Iapapa Berry",
+        "level": 50,
+        "moves": [
+          "Bulk Up",
+          "Horn Leech",
+          "Rock Tomb",
+          "Superpower"
+        ],
+        "nature": "Adamant",
+        "species": "Tapu Bulu"
+      },
+      {
+        "ability": "Misty Surge",
+        "evs": {
+          "def": 4,
+          "hp": 236,
+          "spa": 196,
+          "spd": 4,
+          "spe": 68
+        },
+        "item": "Waterium Z",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Calm Mind",
+          "Hidden Power Fire",
+          "Moonblast",
+          "Surf"
+        ],
+        "nature": "Modest",
+        "species": "Tapu Fini"
+      },
+      {
+        "ability": "Volt Absorb",
+        "evs": {
+          "hp": 252,
+          "spa": 148,
+          "spe": 108
+        },
+        "item": "Sitrus Berry",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Focus Blast",
+          "Hidden Power Ice",
+          "Nasty Plot",
+          "Thunderbolt"
+        ],
+        "nature": "Modest",
+        "species": "Thundurus-Therian"
+      }
+    ]
+  }
+]

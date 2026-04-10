@@ -1,0 +1,606 @@
+[
+  {
+    "author": "Lighthouses",
+    "data": [
+      {
+        "ability": "Technician",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Leaf Storm",
+          "Sleep Powder",
+          "Sludge Bomb",
+          "Synthesis"
+        ],
+        "nature": "Timid",
+        "species": "Roserade"
+      },
+      {
+        "ability": "Fluffy",
+        "evs": {
+          "atk": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "happiness": 255,
+        "item": "Choice Band",
+        "moves": [
+          "Drain Punch",
+          "Return",
+          "Shadow Claw",
+          "Superpower"
+        ],
+        "nature": "Adamant",
+        "species": "Bewear"
+      },
+      {
+        "ability": "Flash Fire",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "hpType": "Ice",
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Dark Pulse",
+          "Fire Blast",
+          "Hidden Power Ice",
+          "Toxic"
+        ],
+        "nature": "Modest",
+        "species": "Houndoom"
+      },
+      {
+        "ability": "Infiltrator",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Flyinium Z",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Defog",
+          "Flamethrower",
+          "Hurricane",
+          "Roost"
+        ],
+        "nature": "Timid",
+        "species": "Noivern"
+      },
+      {
+        "ability": "Clear Body",
+        "evs": {
+          "atk": 4,
+          "hp": 252,
+          "spd": 252
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Seismic Toss",
+          "Stealth Rock",
+          "Toxic"
+        ],
+        "nature": "Careful",
+        "species": "Registeel"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "def": 188,
+          "hp": 252,
+          "spd": 52,
+          "spe": 16
+        },
+        "gender": "M",
+        "item": "Rindo Berry",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Ice Beam",
+          "Psyshock",
+          "Scald",
+          "Slack Off"
+        ],
+        "nature": "Bold",
+        "species": "Slowbro"
+      }
+    ],
+    "name": "Roserade Bulky Offense"
+  },
+  {
+    "author": "MrAldo",
+    "data": [
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "hp": 252,
+          "spa": 172,
+          "spe": 84
+        },
+        "gender": "M",
+        "item": "Assault Vest",
+        "moves": [
+          "Dragon Tail",
+          "Fire Blast",
+          "Psychic",
+          "Scald"
+        ],
+        "nature": "Modest",
+        "species": "Slowking"
+      },
+      {
+        "ability": "Overcoat",
+        "evs": {
+          "def": 96,
+          "hp": 248,
+          "spe": 164
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Defog",
+          "Foul Play",
+          "Roost",
+          "U-turn"
+        ],
+        "nature": "Impish",
+        "species": "Mandibuzz"
+      },
+      {
+        "ability": "Clear Body",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "moves": [
+          "Explosion",
+          "Meteor Mash",
+          "Pursuit",
+          "Zen Headbutt"
+        ],
+        "nature": "Jolly",
+        "species": "Metagross"
+      },
+      {
+        "ability": "Drought",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "hpType": "Electric",
+        "item": "Firium Z",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Fire Blast",
+          "Hidden Power Electric",
+          "Nasty Plot",
+          "Solar Beam"
+        ],
+        "nature": "Timid",
+        "species": "Ninetales"
+      },
+      {
+        "ability": "Solid Rock",
+        "evs": {
+          "atk": 16,
+          "hp": 252,
+          "spd": 76,
+          "spe": 164
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Ice Punch",
+          "Stealth Rock",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Rhyperior"
+      },
+      {
+        "ability": "Chlorophyll",
+        "evs": {
+          "atk": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Life Orb",
+        "moves": [
+          "Earthquake",
+          "Giga Drain",
+          "Growth",
+          "Sludge Bomb"
+        ],
+        "nature": "Rash",
+        "species": "Venusaur"
+      }
+    ],
+    "name": "Ninetales and Venusaur Offense"
+  },
+  {
+    "author": "Lighthouses",
+    "data": [
+      {
+        "ability": "Magic Bounce",
+        "evs": {
+          "hp": 252,
+          "spd": 40,
+          "spe": 216
+        },
+        "gender": "M",
+        "item": "Rocky Helmet",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Heat Wave",
+          "Psyshock",
+          "Roost",
+          "Toxic"
+        ],
+        "nature": "Timid",
+        "species": "Xatu"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "moves": [
+          "Defog",
+          "Earthquake",
+          "Outrage",
+          "U-turn"
+        ],
+        "nature": "Adamant",
+        "species": "Flygon"
+      },
+      {
+        "ability": "Emergency Exit",
+        "evs": {
+          "atk": 252,
+          "hp": 24,
+          "spe": 232
+        },
+        "gender": "M",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Aqua Jet",
+          "Drill Run",
+          "First Impression",
+          "Leech Life"
+        ],
+        "nature": "Adamant",
+        "species": "Golisopod"
+      },
+      {
+        "ability": "Clear Body",
+        "evs": {
+          "atk": 116,
+          "hp": 252,
+          "spd": 48,
+          "spe": 92
+        },
+        "item": "Weakness Policy",
+        "moves": [
+          "Bullet Punch",
+          "Earthquake",
+          "Meteor Mash",
+          "Stealth Rock"
+        ],
+        "nature": "Adamant",
+        "species": "Metagross"
+      },
+      {
+        "ability": "Overgrow",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Sceptilite",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Dragon Pulse",
+          "Leaf Storm",
+          "Leech Seed",
+          "Protect"
+        ],
+        "nature": "Timid",
+        "species": "Sceptile"
+      },
+      {
+        "ability": "Dry Skin",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Poisonium Z",
+        "moves": [
+          "Drain Punch",
+          "Gunk Shot",
+          "Sucker Punch",
+          "Swords Dance"
+        ],
+        "nature": "Jolly",
+        "species": "Toxicroak"
+      }
+    ],
+    "name": "Xatu and Toxicroak Offense"
+  },
+  {
+    "author": "Loom",
+    "data": [
+      {
+        "ability": "Iron Fist",
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Life Orb",
+        "moves": [
+          "Bullet Punch",
+          "Drain Punch",
+          "Knock Off",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "shiny": true,
+        "species": "Pangoro"
+      },
+      {
+        "ability": "Torrent",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Blastoisinite",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Aura Sphere",
+          "Dark Pulse",
+          "Ice Beam",
+          "Rapid Spin"
+        ],
+        "nature": "Timid",
+        "species": "Blastoise"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 4,
+          "hp": 252,
+          "spd": 252
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "spe": 0
+        },
+        "moves": [
+          "Gyro Ball",
+          "Protect",
+          "Stealth Rock",
+          "Toxic"
+        ],
+        "nature": "Sassy",
+        "species": "Bronzong"
+      },
+      {
+        "ability": "Symbiosis",
+        "evs": {
+          "hp": 252,
+          "spa": 32,
+          "spe": 224
+        },
+        "item": "Pixie Plate",
+        "moves": [
+          "Aromatherapy",
+          "Moonblast",
+          "Synthesis",
+          "Wish"
+        ],
+        "nature": "Modest",
+        "species": "Florges"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "moves": [
+          "Aerial Ace",
+          "Earthquake",
+          "Outrage",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "species": "Flygon"
+      },
+      {
+        "ability": "Technician",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "hpType": "Fire",
+        "item": "Poisonium Z",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Hidden Power Fire",
+          "Leaf Storm",
+          "Sludge Bomb",
+          "Spikes"
+        ],
+        "nature": "Timid",
+        "species": "Roserade"
+      }
+    ],
+    "name": "Pangoro Spikestack"
+  },
+  {
+    "author": "Loom",
+    "data": [
+      {
+        "ability": "Dry Skin",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Poisonium Z",
+        "moves": [
+          "Drain Punch",
+          "Gunk Shot",
+          "Sucker Punch",
+          "Swords Dance"
+        ],
+        "nature": "Jolly",
+        "species": "Toxicroak"
+      },
+      {
+        "ability": "Clear Body",
+        "evs": {
+          "hp": 168,
+          "spa": 180,
+          "spe": 156
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Moonblast",
+          "Power Gem",
+          "Stealth Rock",
+          "Toxic"
+        ],
+        "nature": "Modest",
+        "species": "Diancie"
+      },
+      {
+        "ability": "Sturdy",
+        "evs": {
+          "atk": 96,
+          "def": 76,
+          "hp": 248,
+          "spe": 88
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Ice Shard",
+          "Knock Off",
+          "Rapid Spin"
+        ],
+        "nature": "Adamant",
+        "species": "Donphan"
+      },
+      {
+        "ability": "Emergency Exit",
+        "evs": {
+          "atk": 244,
+          "hp": 100,
+          "spe": 164
+        },
+        "gender": "M",
+        "item": "Sitrus Berry",
+        "moves": [
+          "Aqua Jet",
+          "First Impression",
+          "Leech Life",
+          "Liquidation"
+        ],
+        "nature": "Adamant",
+        "shiny": true,
+        "species": "Golisopod"
+      },
+      {
+        "ability": "Clear Body",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "item": "Choice Band",
+        "moves": [
+          "Bullet Punch",
+          "Earthquake",
+          "Meteor Mash",
+          "Pursuit"
+        ],
+        "nature": "Adamant",
+        "species": "Metagross"
+      },
+      {
+        "ability": "Infiltrator",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "moves": [
+          "Draco Meteor",
+          "Hurricane",
+          "Switcheroo",
+          "U-turn"
+        ],
+        "nature": "Timid",
+        "species": "Noivern"
+      }
+    ],
+    "name": "Metagross Poison Z Toxicroak Offense"
+  }
+]

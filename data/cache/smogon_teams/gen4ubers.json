@@ -1,0 +1,715 @@
+[
+  {
+    "author": "Shrang",
+    "data": [
+      {
+        "ability": "Pressure",
+        "evs": {
+          "hp": 248,
+          "spd": 8,
+          "spe": 252
+        },
+        "item": "Focus Sash",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Spikes",
+          "Stealth Rock",
+          "Taunt",
+          "Thunder Wave"
+        ],
+        "nature": "Timid",
+        "species": "Deoxys-Speed"
+      },
+      {
+        "ability": "Bad Dreams",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Dark Pulse",
+          "Dark Void",
+          "Nasty Plot",
+          "Substitute"
+        ],
+        "nature": "Timid",
+        "species": "Darkrai"
+      },
+      {
+        "ability": "Drought",
+        "evs": {
+          "atk": 120,
+          "hp": 252,
+          "spe": 136
+        },
+        "item": "Lum Berry",
+        "moves": [
+          "Dragon Claw",
+          "Earthquake",
+          "Rock Polish",
+          "Stone Edge"
+        ],
+        "nature": "Adamant",
+        "species": "Groudon"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "atk": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Life Orb",
+        "moves": [
+          "Fire Blast",
+          "Grass Knot",
+          "Ice Beam",
+          "Self-Destruct"
+        ],
+        "nature": "Naive",
+        "species": "Mewtwo"
+      },
+      {
+        "ability": "Air Lock",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Life Orb",
+        "moves": [
+          "Dragon Dance",
+          "Earthquake",
+          "Extreme Speed",
+          "Outrage"
+        ],
+        "nature": "Jolly",
+        "species": "Rayquaza"
+      },
+      {
+        "ability": "Shadow Tag",
+        "evs": {
+          "def": 228,
+          "hp": 28,
+          "spd": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Counter",
+          "Encore",
+          "Mirror Coat",
+          "Safeguard"
+        ],
+        "nature": "Calm",
+        "species": "Wobbuffet"
+      }
+    ],
+    "name": "Rayquaza + Life Orb Mewtwo + Trapping classic Hyper Offense"
+  },
+  {
+    "author": "Exiline",
+    "data": [
+      {
+        "ability": "Drizzle",
+        "evs": {
+          "def": 52,
+          "hp": 248,
+          "spa": 96,
+          "spe": 112
+        },
+        "item": "Lum Berry",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Hydro Pump",
+          "Ice Beam",
+          "Thunder",
+          "Thunder Wave"
+        ],
+        "nature": "Modest",
+        "species": "Kyogre"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "hp": 248,
+          "spd": 252,
+          "spe": 8
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Payback",
+          "Stealth Rock"
+        ],
+        "nature": "Careful",
+        "species": "Bronzong"
+      },
+      {
+        "ability": "Bad Dreams",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Dark Pulse",
+          "Dark Void",
+          "Ice Beam",
+          "Trick"
+        ],
+        "nature": "Timid",
+        "species": "Darkrai"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "atk": 252,
+          "hp": 92,
+          "spe": 164
+        },
+        "item": "Choice Band",
+        "moves": [
+          "Dragon Claw",
+          "Earthquake",
+          "Outrage",
+          "Sleep Talk"
+        ],
+        "nature": "Adamant",
+        "species": "Dialga"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "hp": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Soul Dew",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Draco Meteor",
+          "Recover",
+          "Thunder"
+        ],
+        "nature": "Timid",
+        "species": "Latios"
+      },
+      {
+        "ability": "Air Lock",
+        "evs": {
+          "atk": 40,
+          "spa": 252,
+          "spe": 216
+        },
+        "item": "Life Orb",
+        "moves": [
+          "Draco Meteor",
+          "Extreme Speed",
+          "Fire Blast",
+          "Outrage"
+        ],
+        "nature": "Naive",
+        "species": "Rayquaza"
+      }
+    ],
+    "name": "Choice Band Dialga Bulky Offense"
+  },
+  {
+    "author": "WreckDra",
+    "data": [
+      {
+        "ability": "Pressure",
+        "evs": {
+          "hp": 100,
+          "spa": 156,
+          "spe": 252
+        },
+        "item": "Colbur Berry",
+        "moves": [
+          "Psycho Boost",
+          "Spikes",
+          "Superpower",
+          "Taunt"
+        ],
+        "nature": "Naive",
+        "species": "Deoxys-Speed"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 8,
+          "hp": 252,
+          "spd": 248
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Payback",
+          "Stealth Rock"
+        ],
+        "nature": "Careful",
+        "species": "Bronzong"
+      },
+      {
+        "ability": "Bad Dreams",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Dark Pulse",
+          "Dark Void",
+          "Ice Beam",
+          "Trick"
+        ],
+        "nature": "Timid",
+        "species": "Darkrai"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "atk": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Griseous Orb",
+        "moves": [
+          "Draco Meteor",
+          "Outrage",
+          "Shadow Sneak",
+          "Thunder"
+        ],
+        "nature": "Naive",
+        "species": "Giratina-Origin"
+      },
+      {
+        "ability": "Drizzle",
+        "evs": {
+          "def": 164,
+          "hp": 248,
+          "spa": 96
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Hydro Pump",
+          "Ice Beam",
+          "Thunder Wave"
+        ],
+        "nature": "Modest",
+        "species": "Kyogre"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "atk": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Lum Berry",
+        "moves": [
+          "Focus Punch",
+          "Hydro Pump",
+          "Spacial Rend",
+          "Thunder"
+        ],
+        "nature": "Hasty",
+        "species": "Palkia"
+      }
+    ],
+    "name": "Standard Palkia Rain"
+  },
+  {
+    "author": "Seldanna and Nineveh",
+    "data": [
+      {
+        "ability": "Sturdy",
+        "evs": {
+          "hp": 248,
+          "spd": 248,
+          "spe": 12
+        },
+        "gender": "F",
+        "item": "Chesto Berry",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Rapid Spin",
+          "Rest",
+          "Spikes",
+          "Toxic Spikes"
+        ],
+        "nature": "Careful",
+        "species": "Forretress"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "def": 252,
+          "hp": 4,
+          "spd": 252
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Aromatherapy",
+          "Seismic Toss",
+          "Soft-Boiled",
+          "Toxic"
+        ],
+        "nature": "Calm",
+        "species": "Blissey"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 240,
+          "hp": 252,
+          "spd": 16
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "spa": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Hidden Power Fire",
+          "Ice Beam",
+          "Moonlight",
+          "Thunder Wave"
+        ],
+        "nature": "Bold",
+        "species": "Cresselia"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "hp": 52,
+          "spa": 252,
+          "spe": 204
+        },
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Draco Meteor",
+          "Dragon Pulse",
+          "Earth Power",
+          "Fire Blast"
+        ],
+        "nature": "Modest",
+        "species": "Dialga"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "def": 252,
+          "hp": 248,
+          "spd": 8
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Rest",
+          "Roar",
+          "Sleep Talk",
+          "Will-O-Wisp"
+        ],
+        "nature": "Bold",
+        "species": "Giratina"
+      },
+      {
+        "ability": "Drought",
+        "evs": {
+          "def": 8,
+          "hp": 248,
+          "spd": 252
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Lava Plume",
+          "Stealth Rock",
+          "Toxic"
+        ],
+        "nature": "Sassy",
+        "species": "Groudon"
+      }
+    ],
+    "name": "Cresselia + Choice Scarf Dialga Sun Stall"
+  },
+  {
+    "author": "Seldanna",
+    "data": [
+      {
+        "ability": "Pressure",
+        "evs": {
+          "def": 96,
+          "hp": 248,
+          "spd": 164
+        },
+        "item": "Choice Scarf",
+        "moves": [
+          "Spikes",
+          "Taunt",
+          "Thunder Wave",
+          "Trick"
+        ],
+        "nature": "Bold",
+        "species": "Deoxys-Speed"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 8,
+          "hp": 252,
+          "spd": 248
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Payback",
+          "Stealth Rock"
+        ],
+        "nature": "Careful",
+        "species": "Bronzong"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Draco Meteor",
+          "Dragon Pulse",
+          "Sleep Talk",
+          "Thunder"
+        ],
+        "nature": "Timid",
+        "species": "Dialga"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "atk": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Griseous Orb",
+        "moves": [
+          "Draco Meteor",
+          "Outrage",
+          "Shadow Sneak",
+          "Thunder"
+        ],
+        "nature": "Naive",
+        "species": "Giratina-Origin"
+      },
+      {
+        "ability": "Drizzle",
+        "evs": {
+          "def": 52,
+          "hp": 248,
+          "spa": 96,
+          "spe": 112
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Hydro Pump",
+          "Ice Beam",
+          "Thunder Wave"
+        ],
+        "nature": "Modest",
+        "species": "Kyogre"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Soul Dew",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Draco Meteor",
+          "Recover",
+          "Roar",
+          "Thunder"
+        ],
+        "nature": "Timid",
+        "species": "Latios"
+      }
+    ],
+    "name": "Choice Scarf Deoxys-S Rain"
+  },
+  {
+    "data": [
+      {
+        "ability": "Drizzle",
+        "evs": {
+          "def": 12,
+          "hp": 168,
+          "spa": 216,
+          "spe": 112
+        },
+        "item": "Lum Berry",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Hydro Pump",
+          "Ice Beam",
+          "Thunder",
+          "Thunder Wave"
+        ],
+        "nature": "Modest",
+        "species": "Kyogre"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 8,
+          "hp": 252,
+          "spd": 248
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Payback",
+          "Stealth Rock"
+        ],
+        "nature": "Careful",
+        "species": "Bronzong"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "hp": 112,
+          "spa": 252,
+          "spd": 32,
+          "spe": 112
+        },
+        "item": "Life Orb",
+        "moves": [
+          "Draco Meteor",
+          "Earth Power",
+          "Outrage",
+          "Thunder"
+        ],
+        "nature": "Mild",
+        "species": "Dialga"
+      },
+      {
+        "ability": "Sand Veil",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "moves": [
+          "Dragon Claw",
+          "Earthquake",
+          "Outrage",
+          "Sleep Talk"
+        ],
+        "nature": "Jolly",
+        "species": "Garchomp"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "hp": 192,
+          "spa": 64,
+          "spe": 252
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Ice Beam",
+          "Recover",
+          "Thunder"
+        ],
+        "nature": "Timid",
+        "species": "Mewtwo"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Haban Berry",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Fire Blast",
+          "Spacial Rend",
+          "Surf",
+          "Thunder"
+        ],
+        "nature": "Timid",
+        "species": "Palkia"
+      }
+    ],
+    "name": "Calm Mind Mewtwo + Life Orb Dialga Offense"
+  }
+]

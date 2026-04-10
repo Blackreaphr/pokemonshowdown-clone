@@ -1,0 +1,487 @@
+[
+  {
+    "author": "Jordy",
+    "data": [
+      {
+        "ability": "Teravolt",
+        "evs": {
+          "atk": 252,
+          "spa": 4,
+          "spe": 252
+        },
+        "item": "Icium Z",
+        "moves": [
+          "Freeze Shock",
+          "Fusion Bolt",
+          "Ice Beam",
+          "Substitute"
+        ],
+        "nature": "Naive",
+        "species": "Kyurem-Black"
+      },
+      {
+        "ability": "Trace",
+        "evs": {
+          "hp": 248,
+          "spa": 32,
+          "spe": 228
+        },
+        "gender": "M",
+        "hpType": "Ground",
+        "item": "Pixie Plate",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Hidden Power Ground",
+          "Moonblast",
+          "Shore Up",
+          "Wish"
+        ],
+        "nature": "Modest",
+        "species": "Jumbao"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "def": 232,
+          "hp": 248,
+          "spa": 28
+        },
+        "item": "Rocky Helmet",
+        "moves": [
+          "Earthquake",
+          "Stealth Rock",
+          "Toxic",
+          "U-turn"
+        ],
+        "nature": "Relaxed",
+        "species": "Landorus-Therian"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 76,
+          "hp": 248,
+          "spe": 184
+        },
+        "item": "Wiki Berry",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Defog",
+          "Hydro Pump",
+          "Volt Switch",
+          "Will-O-Wisp"
+        ],
+        "nature": "Bold",
+        "species": "Rotom-Wash"
+      },
+      {
+        "ability": "Light Metal",
+        "evs": {
+          "def": 16,
+          "hp": 248,
+          "spd": 244
+        },
+        "gender": "M",
+        "item": "Scizorite",
+        "moves": [
+          "Bullet Punch",
+          "Roost",
+          "Swords Dance",
+          "U-turn"
+        ],
+        "nature": "Impish",
+        "species": "Scizor"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "hp": 80,
+          "spa": 196,
+          "spe": 232
+        },
+        "item": "Assault Vest",
+        "moves": [
+          "Heat Wave",
+          "Knock Off",
+          "Sludge Bomb",
+          "U-turn"
+        ],
+        "nature": "Timid",
+        "species": "Tornadus-Therian"
+      }
+    ],
+    "name": "sub kyub bo"
+  },
+  {
+    "author": "Jho",
+    "data": [
+      {
+        "ability": "Magic Guard",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Alakazite",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Focus Blast",
+          "Psychic",
+          "Recover",
+          "Shadow Ball"
+        ],
+        "nature": "Timid",
+        "species": "Alakazam"
+      },
+      {
+        "ability": "Flash Fire",
+        "evs": {
+          "hp": 252,
+          "spa": 52,
+          "spd": 164,
+          "spe": 40
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Earth Power",
+          "Magma Storm",
+          "Stealth Rock",
+          "Taunt"
+        ],
+        "nature": "Calm",
+        "species": "Heatran"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 188,
+          "def": 52,
+          "hp": 56,
+          "spe": 212
+        },
+        "item": "Choice Scarf",
+        "moves": [
+          "Earthquake",
+          "Knock Off",
+          "Stone Edge",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "species": "Landorus-Therian"
+      },
+      {
+        "ability": "Magnet Pull",
+        "evs": {
+          "hp": 196,
+          "spa": 252,
+          "spe": 60
+        },
+        "hpType": "Fire",
+        "item": "Air Balloon",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Hidden Power Fire",
+          "Magnet Rise",
+          "Substitute",
+          "Thunderbolt"
+        ],
+        "nature": "Modest",
+        "species": "Magnezone"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "hp": 248,
+          "spa": 68,
+          "spe": 192
+        },
+        "gender": "M",
+        "item": "Flyinium Z",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Aura Sphere",
+          "Hurricane",
+          "Rapid Spin",
+          "Roost"
+        ],
+        "nature": "Modest",
+        "species": "Tomohawk"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "def": 124,
+          "hp": 252,
+          "spd": 132
+        },
+        "gender": "M",
+        "item": "Black Sludge",
+        "moves": [
+          "Haze",
+          "Knock Off",
+          "Recover",
+          "Toxic Spikes"
+        ],
+        "nature": "Impish",
+        "species": "Toxapex"
+      }
+    ]
+  },
+  {
+    "author": "Jordy",
+    "data": [
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "atk": 228,
+          "hp": 156,
+          "spe": 124
+        },
+        "gender": "M",
+        "item": "Tyranitarite",
+        "moves": [
+          "Pursuit",
+          "Stealth Rock",
+          "Stone Edge",
+          "Superpower"
+        ],
+        "nature": "Adamant",
+        "species": "Tyranitar"
+      },
+      {
+        "ability": "Unaware",
+        "evs": {
+          "def": 180,
+          "hp": 252,
+          "spd": 76
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Foul Play",
+          "Recover",
+          "Spikes"
+        ],
+        "nature": "Impish",
+        "species": "Arghonaut"
+      },
+      {
+        "ability": "Sand Rush",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Iron Head",
+          "Rapid Spin",
+          "Swords Dance"
+        ],
+        "nature": "Jolly",
+        "species": "Excadrill"
+      },
+      {
+        "ability": "Trace",
+        "evs": {
+          "hp": 240,
+          "spa": 44,
+          "spe": 224
+        },
+        "gender": "M",
+        "hpType": "Ground",
+        "item": "Fairium Z",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Hidden Power Ground",
+          "Moonblast",
+          "Shore Up",
+          "Wish"
+        ],
+        "nature": "Modest",
+        "species": "Jumbao"
+      },
+      {
+        "ability": "Magic Guard",
+        "evs": {
+          "def": 200,
+          "hp": 252,
+          "spe": 56
+        },
+        "gender": "M",
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Focus Blast",
+          "Psyshock",
+          "Recover"
+        ],
+        "nature": "Bold",
+        "species": "Reuniclus"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "hp": 80,
+          "spa": 196,
+          "spe": 232
+        },
+        "item": "Assault Vest",
+        "moves": [
+          "Heat Wave",
+          "Hurricane",
+          "Knock Off",
+          "U-turn"
+        ],
+        "nature": "Timid",
+        "species": "Tornadus-Therian"
+      }
+    ],
+    "name": "reuni sand"
+  },
+  {
+    "author": "Jordy",
+    "data": [
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 8,
+          "hp": 252,
+          "spe": 248
+        },
+        "item": "Latiasite",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Ice Beam",
+          "Recover",
+          "Thunderbolt"
+        ],
+        "nature": "Timid",
+        "species": "Latias"
+      },
+      {
+        "ability": "Unaware",
+        "evs": {
+          "def": 180,
+          "hp": 252,
+          "spd": 76
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Circle Throw",
+          "Knock Off",
+          "Recover",
+          "Spikes"
+        ],
+        "nature": "Impish",
+        "species": "Arghonaut"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "def": 252,
+          "hp": 248,
+          "spd": 8
+        },
+        "item": "Eviolite",
+        "moves": [
+          "Heal Bell",
+          "Seismic Toss",
+          "Soft-Boiled",
+          "Wish"
+        ],
+        "nature": "Bold",
+        "species": "Chansey"
+      },
+      {
+        "ability": "Bulletproof",
+        "evs": {
+          "def": 60,
+          "hp": 252,
+          "spa": 68,
+          "spd": 84,
+          "spe": 44
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Doom Desire",
+          "Earth Power",
+          "Flash Cannon",
+          "Rapid Spin"
+        ],
+        "nature": "Modest",
+        "species": "Equilibra"
+      },
+      {
+        "ability": "Flash Fire",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Firium Z",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Earth Power",
+          "Magma Storm",
+          "Stealth Rock",
+          "Toxic"
+        ],
+        "nature": "Modest",
+        "species": "Heatran"
+      },
+      {
+        "ability": "Pickpocket",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "moves": [
+          "Ice Shard",
+          "Icicle Crash",
+          "Knock Off",
+          "Pursuit"
+        ],
+        "nature": "Jolly",
+        "species": "Weavile"
+      }
+    ],
+    "name": "mlatias balance v2"
+  }
+]

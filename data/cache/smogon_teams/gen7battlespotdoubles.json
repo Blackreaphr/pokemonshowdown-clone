@@ -1,0 +1,266 @@
+[
+  {
+    "data": [
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 212,
+          "spa": 44,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Salamencite",
+        "level": 50,
+        "moves": [
+          "Double-Edge",
+          "Dragon Dance",
+          "Hyper Voice",
+          "Protect"
+        ],
+        "nature": "Naive",
+        "species": "Salamence"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "def": 92,
+          "hp": 252,
+          "spd": 164
+        },
+        "gender": "M",
+        "item": "Sitrus Berry",
+        "ivs": {
+          "atk": 0,
+          "spe": 0
+        },
+        "level": 50,
+        "moves": [
+          "Energy Ball",
+          "Protect",
+          "Rage Powder",
+          "Spore"
+        ],
+        "nature": "Relaxed",
+        "shiny": true,
+        "species": "Amoonguss"
+      },
+      {
+        "ability": "Sand Rush",
+        "evs": {
+          "atk": 252,
+          "hp": 252,
+          "spe": 4
+        },
+        "gender": "M",
+        "item": "Groundium Z",
+        "level": 50,
+        "moves": [
+          "Earthquake",
+          "Iron Head",
+          "Protect",
+          "Rock Slide"
+        ],
+        "nature": "Adamant",
+        "shiny": true,
+        "species": "Excadrill"
+      },
+      {
+        "ability": "Analytic",
+        "evs": {
+          "def": 92,
+          "hp": 244,
+          "spa": 144,
+          "spd": 24
+        },
+        "item": "Eviolite",
+        "ivs": {
+          "atk": 1,
+          "spa": 30,
+          "spd": 30,
+          "spe": 1
+        },
+        "level": 50,
+        "moves": [
+          "Hidden Power Ground",
+          "Ice Beam",
+          "Recover",
+          "Toxic"
+        ],
+        "nature": "Sassy",
+        "shiny": true,
+        "species": "Porygon2"
+      },
+      {
+        "ability": "Electric Surge",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 30,
+          "def": 30
+        },
+        "level": 50,
+        "moves": [
+          "Dazzling Gleam",
+          "Hidden Power Ice",
+          "Protect",
+          "Thunderbolt"
+        ],
+        "nature": "Timid",
+        "species": "Tapu Koko"
+      },
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "atk": 252,
+          "spa": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "level": 50,
+        "moves": [
+          "Crunch",
+          "Fire Blast",
+          "Ice Beam",
+          "Rock Slide"
+        ],
+        "nature": "Naive",
+        "species": "Tyranitar"
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "ability": "Clear Body",
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        },
+        "item": "Metagrossite",
+        "level": 50,
+        "moves": [
+          "Ice Punch",
+          "Meteor Mash",
+          "Protect",
+          "Zen Headbutt"
+        ],
+        "nature": "Jolly",
+        "species": "Metagross"
+      },
+      {
+        "ability": "Sticky Hold",
+        "evs": {
+          "def": 4,
+          "hp": 252,
+          "spa": 252
+        },
+        "gender": "M",
+        "item": "Expert Belt",
+        "ivs": {
+          "atk": 0,
+          "spe": 27
+        },
+        "level": 50,
+        "moves": [
+          "Earth Power",
+          "Ice Beam",
+          "Protect",
+          "Scald"
+        ],
+        "nature": "Modest",
+        "species": "Gastrodon-East"
+      },
+      {
+        "ability": "Flash Fire",
+        "evs": {
+          "def": 4,
+          "hp": 44,
+          "spa": 252,
+          "spd": 4,
+          "spe": 204
+        },
+        "gender": "M",
+        "item": "Shuca Berry",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Earth Power",
+          "Flash Cannon",
+          "Heat Wave",
+          "Protect"
+        ],
+        "nature": "Modest",
+        "species": "Heatran"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "hp": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Dragonium Z",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Dark Pulse",
+          "Draco Meteor",
+          "Protect",
+          "Tailwind"
+        ],
+        "nature": "Modest",
+        "species": "Hydreigon"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "level": 50,
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Superpower",
+          "U-turn"
+        ],
+        "nature": "Adamant",
+        "species": "Landorus-Therian"
+      },
+      {
+        "ability": "Psychic Surge",
+        "evs": {
+          "hp": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 0
+        },
+        "level": 50,
+        "moves": [
+          "Moonblast",
+          "Protect",
+          "Psychic",
+          "Taunt"
+        ],
+        "nature": "Modest",
+        "species": "Tapu Lele"
+      }
+    ]
+  }
+]

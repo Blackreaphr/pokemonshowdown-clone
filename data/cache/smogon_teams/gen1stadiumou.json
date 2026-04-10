@@ -1,0 +1,782 @@
+[
+  {
+    "author": "chuva de perereca (Global Champion 2021)",
+    "data": [
+      {
+        "moves": [
+          "Double-Edge",
+          "Psychic",
+          "Rest",
+          "Stun Spore"
+        ],
+        "species": "Exeggutor"
+      },
+      {
+        "moves": [
+          "Reflect",
+          "Seismic Toss",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Amnesia",
+          "Blizzard",
+          "Body Slam",
+          "Rest"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Recover",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Starmie"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Hyper Beam",
+          "Substitute"
+        ],
+        "species": "Tauros"
+      },
+      {
+        "moves": [
+          "Drill Peck",
+          "Rest",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Zapdos"
+      }
+    ],
+    "name": "Big 4 + ZapMie"
+  },
+  {
+    "author": "chuva de perereca (Global Champion 2021)",
+    "data": [
+      {
+        "moves": [
+          "Double-Edge",
+          "Psychic",
+          "Rest",
+          "Stun Spore"
+        ],
+        "species": "Exeggutor"
+      },
+      {
+        "moves": [
+          "Reflect",
+          "Seismic Toss",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "evs": {
+          "spa": 216
+        },
+        "moves": [
+          "Amnesia",
+          "Ice Beam",
+          "Psychic",
+          "Rest"
+        ],
+        "species": "Slowbro"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Ice Beam",
+          "Reflect",
+          "Rest"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Recover",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Starmie"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Hyper Beam",
+          "Substitute"
+        ],
+        "species": "Tauros"
+      }
+    ],
+    "name": "Big 4 + BroMie"
+  },
+  {
+    "author": "Torchic (GC 2021 Finalist)",
+    "data": [
+      {
+        "moves": [
+          "Amnesia",
+          "Blizzard",
+          "Body Slam",
+          "Rest"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Reflect",
+          "Seismic Toss",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Psychic",
+          "Rest",
+          "Stun Spore"
+        ],
+        "species": "Exeggutor"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Bubble Beam",
+          "Slash",
+          "Substitute"
+        ],
+        "species": "Persian"
+      },
+      {
+        "evs": {
+          "spa": 216
+        },
+        "moves": [
+          "Amnesia",
+          "Psychic",
+          "Rest",
+          "Thunder Wave"
+        ],
+        "species": "Slowbro"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Earthquake",
+          "Stomp"
+        ],
+        "species": "Tauros"
+      }
+    ],
+    "name": "Big 4 + PersianBro"
+  },
+  {
+    "author": "Torchic (GC 2021 Finalist)",
+    "data": [
+      {
+        "moves": [
+          "Body Slam",
+          "Ice Beam",
+          "Reflect",
+          "Rest"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Reflect",
+          "Seismic Toss",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Psychic",
+          "Rest",
+          "Stun Spore"
+        ],
+        "species": "Exeggutor"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Rest",
+          "Rock Slide",
+          "Substitute"
+        ],
+        "species": "Rhydon"
+      },
+      {
+        "evs": {
+          "spa": 216
+        },
+        "moves": [
+          "Amnesia",
+          "Psychic",
+          "Rest",
+          "Thunder Wave"
+        ],
+        "species": "Slowbro"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Stomp",
+          "Substitute"
+        ],
+        "species": "Tauros"
+      }
+    ],
+    "name": "Big 4 + BroDon"
+  },
+  {
+    "author": "Lutra (Spotlight 2021 Winner)",
+    "data": [
+      {
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Substitute",
+          "Thunder Wave"
+        ],
+        "species": "Alakazam"
+      },
+      {
+        "moves": [
+          "Reflect",
+          "Seismic Toss",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Explosion",
+          "Psychic",
+          "Rest",
+          "Stun Spore"
+        ],
+        "species": "Exeggutor"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Ice Beam",
+          "Reflect",
+          "Rest"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Recover",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Starmie"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Double-Edge",
+          "Substitute"
+        ],
+        "species": "Tauros"
+      }
+    ],
+    "name": "Big 6"
+  },
+  {
+    "author": "Oiseau Bleu (GC 2021 Finalist)",
+    "data": [
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Blizzard",
+          "Recover",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Starmie"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Ice Beam",
+          "Soft-Boiled",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Psychic",
+          "Rest",
+          "Stun Spore"
+        ],
+        "species": "Exeggutor"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Rest",
+          "Substitute"
+        ],
+        "species": "Rhydon"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Reflect",
+          "Rest"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Stomp",
+          "Substitute"
+        ],
+        "species": "Tauros"
+      }
+    ],
+    "name": "Big 4 + MieDon"
+  },
+  {
+    "author": "Oiseau Bleu (GC 2021 Finalist)",
+    "data": [
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Alakazam"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Ice Beam",
+          "Soft-Boiled",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Clamp",
+          "Explosion",
+          "Rest"
+        ],
+        "species": "Cloyster"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Psychic",
+          "Rest",
+          "Stun Spore"
+        ],
+        "species": "Exeggutor"
+      },
+      {
+        "moves": [
+          "Amnesia",
+          "Blizzard",
+          "Body Slam",
+          "Rest"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Double-Edge",
+          "Substitute"
+        ],
+        "species": "Tauros"
+      }
+    ],
+    "name": "Big 4 + ZamCloy"
+  },
+  {
+    "author": "Ctown6 (Spotlight Semifinalist)",
+    "data": [
+      {
+        "moves": [
+          "Double-Edge",
+          "Psychic",
+          "Rest",
+          "Stun Spore"
+        ],
+        "species": "Exeggutor"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Counter",
+          "Seismic Toss",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Mega Kick",
+          "Substitute"
+        ],
+        "species": "Kangaskhan"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Ice Beam",
+          "Reflect",
+          "Rest"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Blizzard",
+          "Psychic",
+          "Recover",
+          "Thunder Wave"
+        ],
+        "species": "Starmie"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Earthquake",
+          "Substitute"
+        ],
+        "species": "Tauros"
+      }
+    ],
+    "name": "Big 4 + MieKanga"
+  },
+  {
+    "author": "Ctown6 (Spotlight Semifinalist)",
+    "data": [
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Substitute",
+          "Thunder Wave"
+        ],
+        "species": "Alakazam"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Ice Beam",
+          "Seismic Toss",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Psychic",
+          "Rest",
+          "Stun Spore"
+        ],
+        "species": "Exeggutor"
+      },
+      {
+        "moves": [
+          "Rest",
+          "Slash",
+          "Substitute",
+          "Surf"
+        ],
+        "species": "Kabutops"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Reflect",
+          "Rest"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Earthquake",
+          "Substitute"
+        ],
+        "species": "Tauros"
+      }
+    ],
+    "name": "Big 4 + ZamTops"
+  },
+  {
+    "author": "SMB (GC 2021 Semifinalist)",
+    "data": [
+      {
+        "moves": [
+          "Body Slam",
+          "Ice Beam",
+          "Reflect",
+          "Rest"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Reflect",
+          "Seismic Toss",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Psychic",
+          "Rest",
+          "Stun Spore"
+        ],
+        "species": "Exeggutor"
+      },
+      {
+        "moves": [
+          "Double Kick",
+          "Focus Energy",
+          "Rest",
+          "Thunderbolt"
+        ],
+        "species": "Jolteon"
+      },
+      {
+        "evs": {
+          "spa": 216
+        },
+        "moves": [
+          "Amnesia",
+          "Rest",
+          "Surf",
+          "Thunder Wave"
+        ],
+        "species": "Slowbro"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Stomp",
+          "Substitute"
+        ],
+        "species": "Tauros"
+      }
+    ],
+    "name": "Big 4 + JoltBro"
+  },
+  {
+    "author": "Beelzemon 2003 (Topped Ladder in 2021)",
+    "data": [
+      {
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Alakazam"
+      },
+      {
+        "moves": [
+          "Ice Beam",
+          "Soft-Boiled",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Mega Drain",
+          "Psychic",
+          "Rest"
+        ],
+        "species": "Exeggutor"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Rest",
+          "Rock Slide"
+        ],
+        "species": "Golem"
+      },
+      {
+        "moves": [
+          "Amnesia",
+          "Psychic",
+          "Rest",
+          "Surf"
+        ],
+        "species": "Slowbro"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Reflect",
+          "Rest",
+          "Surf"
+        ],
+        "species": "Snorlax"
+      }
+    ],
+    "name": "Taurosless Big 4 + ZamBroLem"
+  },
+  {
+    "author": "Beelzemon 2003 (Topped Ladder in 2021)",
+    "data": [
+      {
+        "moves": [
+          "Bubble Beam",
+          "Slash",
+          "Substitute",
+          "Thunderbolt"
+        ],
+        "species": "Persian"
+      },
+      {
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Alakazam"
+      },
+      {
+        "moves": [
+          "Ice Beam",
+          "Soft-Boiled",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Mega Drain",
+          "Psychic",
+          "Rest"
+        ],
+        "species": "Exeggutor"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Rest",
+          "Rock Slide",
+          "Substitute"
+        ],
+        "species": "Rhydon"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Rest",
+          "Rock Slide"
+        ],
+        "species": "Snorlax"
+      }
+    ],
+    "name": "Taurosless Big 4 + ZamPerDon"
+  }
+]

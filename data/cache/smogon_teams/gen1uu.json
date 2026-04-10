@@ -1,0 +1,1022 @@
+[
+  {
+    "author": "Tree69420",
+    "data": [
+      {
+        "moves": [
+          "Agility",
+          "Body Slam",
+          "Fire Blast",
+          "Hyper Beam"
+        ],
+        "species": "Arcanine"
+      },
+      {
+        "moves": [
+          "Agility",
+          "Blizzard",
+          "Double-Edge",
+          "Hyper Beam"
+        ],
+        "species": "Articuno"
+      },
+      {
+        "moves": [
+          "Agility",
+          "Body Slam",
+          "Drill Peck",
+          "Hyper Beam"
+        ],
+        "species": "Dodrio"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam",
+          "Rock Slide"
+        ],
+        "species": "Kangaskhan"
+      },
+      {
+        "moves": [
+          "Bubble Beam",
+          "Hyper Beam",
+          "Slash",
+          "Thunderbolt"
+        ],
+        "species": "Persian"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Hyper Beam",
+          "Surf",
+          "Wrap"
+        ],
+        "species": "Tentacruel"
+      }
+    ],
+    "name": "Normal Spam Offense"
+  },
+  {
+    "author": "juoea",
+    "data": [
+      {
+        "moves": [
+          "Blizzard",
+          "Hyper Beam",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Clefable"
+      },
+      {
+        "moves": [
+          "Agility",
+          "Blizzard",
+          "Double-Edge",
+          "Hyper Beam"
+        ],
+        "species": "Articuno"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Slash",
+          "Substitute"
+        ],
+        "species": "Dugtrio"
+      },
+      {
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Kadabra"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam",
+          "Rock Slide"
+        ],
+        "species": "Kangaskhan"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Hydro Pump",
+          "Surf",
+          "Wrap"
+        ],
+        "species": "Tentacruel"
+      }
+    ],
+    "name": "Clef Lead + Good Stuff"
+  },
+  {
+    "author": "Sabelette",
+    "data": [
+      {
+        "moves": [
+          "Blizzard",
+          "Hyper Beam",
+          "Psychic",
+          "Thunder Wave"
+        ],
+        "species": "Clefable"
+      },
+      {
+        "moves": [
+          "Agility",
+          "Body Slam",
+          "Drill Peck",
+          "Hyper Beam"
+        ],
+        "species": "Dodrio"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Slash",
+          "Substitute"
+        ],
+        "species": "Dugtrio"
+      },
+      {
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Kadabra"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam",
+          "Rock Slide"
+        ],
+        "species": "Kangaskhan"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Hyper Beam",
+          "Surf",
+          "Wrap"
+        ],
+        "species": "Tentacruel"
+      }
+    ],
+    "name": "Hyper Beam Spam"
+  },
+  {
+    "author": "Sabelette",
+    "data": [
+      {
+        "moves": [
+          "Agility",
+          "Body Slam",
+          "Drill Peck",
+          "Hyper Beam"
+        ],
+        "species": "Dodrio"
+      },
+      {
+        "moves": [
+          "Agility",
+          "Blizzard",
+          "Double-Edge",
+          "Hyper Beam"
+        ],
+        "species": "Articuno"
+      },
+      {
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Kadabra"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam",
+          "Rock Slide"
+        ],
+        "species": "Kangaskhan"
+      },
+      {
+        "moves": [
+          "Bubble Beam",
+          "Hyper Beam",
+          "Slash",
+          "Thunderbolt"
+        ],
+        "species": "Persian"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Hydro Pump",
+          "Surf",
+          "Wrap"
+        ],
+        "species": "Tentacruel"
+      }
+    ],
+    "name": "Normal High Speed Offense"
+  },
+  {
+    "author": "juoea",
+    "data": [
+      {
+        "moves": [
+          "Agility",
+          "Body Slam",
+          "Drill Peck",
+          "Hyper Beam"
+        ],
+        "species": "Dodrio"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Slash",
+          "Substitute"
+        ],
+        "species": "Dugtrio"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Rock Slide",
+          "Substitute"
+        ],
+        "species": "Golem"
+      },
+      {
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Kadabra"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam",
+          "Rock Slide"
+        ],
+        "species": "Kangaskhan"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Quick Attack",
+          "Rest",
+          "Surf"
+        ],
+        "species": "Vaporeon"
+      }
+    ],
+    "name": "Tentless Vap + Golem"
+  },
+  {
+    "author": "juoea",
+    "data": [
+      {
+        "moves": [
+          "Agility",
+          "Body Slam",
+          "Drill Peck",
+          "Hyper Beam"
+        ],
+        "species": "Dodrio"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Slash",
+          "Substitute"
+        ],
+        "species": "Dugtrio"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Rock Slide",
+          "Substitute"
+        ],
+        "species": "Golem"
+      },
+      {
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Kadabra"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam",
+          "Rock Slide"
+        ],
+        "species": "Kangaskhan"
+      },
+      {
+        "moves": [
+          "Hyper Beam",
+          "Surf",
+          "Swords Dance",
+          "Wrap"
+        ],
+        "species": "Tentacruel"
+      }
+    ],
+    "name": "Double Normal + Golem"
+  },
+  {
+    "author": "Maris Bonibelle",
+    "data": [
+      {
+        "moves": [
+          "Agility",
+          "Body Slam",
+          "Drill Peck",
+          "Hyper Beam"
+        ],
+        "species": "Dodrio"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Slash",
+          "Substitute"
+        ],
+        "species": "Dugtrio"
+      },
+      {
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Kadabra"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam",
+          "Rock Slide"
+        ],
+        "species": "Kangaskhan"
+      },
+      {
+        "moves": [
+          "Bind",
+          "Mega Drain",
+          "Sleep Powder",
+          "Stun Spore"
+        ],
+        "species": "Tangela"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Hydro Pump",
+          "Surf",
+          "Wrap"
+        ],
+        "species": "Tentacruel"
+      }
+    ],
+    "name": "Drio Lead + Tang"
+  },
+  {
+    "author": "Tree69420",
+    "data": [
+      {
+        "moves": [
+          "Body Slam",
+          "Confuse Ray",
+          "Fire Blast",
+          "Hyper Beam"
+        ],
+        "species": "Ninetales"
+      },
+      {
+        "moves": [
+          "Agility",
+          "Body Slam",
+          "Drill Peck",
+          "Hyper Beam"
+        ],
+        "species": "Dodrio"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Slash",
+          "Substitute"
+        ],
+        "species": "Dugtrio"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Hydro Pump",
+          "Thunderbolt"
+        ],
+        "species": "Gyarados"
+      },
+      {
+        "moves": [
+          "Explosion",
+          "Hypnosis",
+          "Psychic",
+          "Thunderbolt"
+        ],
+        "species": "Haunter"
+      },
+      {
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Kadabra"
+      }
+    ],
+    "name": "Tales Lead Balance"
+  },
+  {
+    "author": "Sabelette",
+    "data": [
+      {
+        "moves": [
+          "Body Slam",
+          "Fire Blast",
+          "Hyper Beam",
+          "Quick Attack"
+        ],
+        "species": "Ninetales"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Slash",
+          "Substitute"
+        ],
+        "species": "Dugtrio"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Hyper Beam",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Electabuzz"
+      },
+      {
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Kadabra"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Mega Drain",
+          "Sleep Powder",
+          "Stun Spore"
+        ],
+        "species": "Tangela"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Hyper Beam",
+          "Surf",
+          "Wrap"
+        ],
+        "species": "Tentacruel"
+      }
+    ],
+    "name": "Tales Lead + Tang"
+  },
+  {
+    "author": "juoea",
+    "data": [
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Hyper Beam",
+          "Thunder Wave"
+        ],
+        "species": "Dragonite"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Hyper Beam",
+          "Rest"
+        ],
+        "species": "Dewgong"
+      },
+      {
+        "moves": [
+          "Agility",
+          "Body Slam",
+          "Drill Peck",
+          "Hyper Beam"
+        ],
+        "species": "Dodrio"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Slash",
+          "Substitute"
+        ],
+        "species": "Dugtrio"
+      },
+      {
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Kadabra"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam",
+          "Rock Slide"
+        ],
+        "species": "Kangaskhan"
+      }
+    ],
+    "name": "Wrapless Nite Lead + Gong Tentless"
+  },
+  {
+    "author": "juoea",
+    "data": [
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Thunder Wave",
+          "Wrap"
+        ],
+        "species": "Dragonite"
+      },
+      {
+        "moves": [
+          "Agility",
+          "Blizzard",
+          "Double-Edge",
+          "Hyper Beam"
+        ],
+        "species": "Articuno"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Slash",
+          "Substitute"
+        ],
+        "species": "Dugtrio"
+      },
+      {
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Kadabra"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam",
+          "Rock Slide"
+        ],
+        "species": "Kangaskhan"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Hyper Beam",
+          "Surf",
+          "Wrap"
+        ],
+        "species": "Tentacruel"
+      }
+    ],
+    "name": "Nite Lead + Good Stuff"
+  },
+  {
+    "author": "NotVeryCake",
+    "data": [
+      {
+        "moves": [
+          "Explosion",
+          "Hypnosis",
+          "Night Shade",
+          "Thunderbolt"
+        ],
+        "species": "Haunter"
+      },
+      {
+        "moves": [
+          "Agility",
+          "Blizzard",
+          "Double-Edge",
+          "Hyper Beam"
+        ],
+        "species": "Articuno"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Dragonite"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Slash",
+          "Substitute"
+        ],
+        "species": "Dugtrio"
+      },
+      {
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Kadabra"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Hyper Beam",
+          "Surf",
+          "Wrap"
+        ],
+        "species": "Tentacruel"
+      }
+    ],
+    "name": "Haunter Lead + Good Stuff"
+  },
+  {
+    "author": "juoea",
+    "data": [
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam",
+          "Rock Slide"
+        ],
+        "species": "Kangaskhan"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Slash",
+          "Substitute"
+        ],
+        "species": "Dugtrio"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Surf",
+          "Thunderbolt"
+        ],
+        "species": "Gyarados"
+      },
+      {
+        "moves": [
+          "Explosion",
+          "Hypnosis",
+          "Psychic",
+          "Thunderbolt"
+        ],
+        "species": "Haunter"
+      },
+      {
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Kadabra"
+      },
+      {
+        "moves": [
+          "Hyper Beam",
+          "Surf",
+          "Swords Dance",
+          "Wrap"
+        ],
+        "species": "Tentacruel"
+      }
+    ],
+    "name": "Kang Lead Balance"
+  },
+  {
+    "author": "NotVeryCake",
+    "data": [
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam",
+          "Rock Slide"
+        ],
+        "species": "Kangaskhan"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Rest",
+          "Surf"
+        ],
+        "species": "Dewgong"
+      },
+      {
+        "moves": [
+          "Agility",
+          "Body Slam",
+          "Drill Peck",
+          "Hyper Beam"
+        ],
+        "species": "Dodrio"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Slash",
+          "Substitute"
+        ],
+        "species": "Dugtrio"
+      },
+      {
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Kadabra"
+      },
+      {
+        "moves": [
+          "Hyper Beam",
+          "Surf",
+          "Swords Dance",
+          "Wrap"
+        ],
+        "species": "Tentacruel"
+      }
+    ],
+    "name": "Kang Lead + Gong"
+  },
+  {
+    "author": "juoea",
+    "data": [
+      {
+        "moves": [
+          "Body Slam",
+          "Hyper Beam",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Electabuzz"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Slash",
+          "Substitute"
+        ],
+        "species": "Dugtrio"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Surf",
+          "Thunderbolt"
+        ],
+        "species": "Gyarados"
+      },
+      {
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Kadabra"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam",
+          "Rock Slide"
+        ],
+        "species": "Kangaskhan"
+      },
+      {
+        "moves": [
+          "Hyper Beam",
+          "Surf",
+          "Swords Dance",
+          "Wrap"
+        ],
+        "species": "Tentacruel"
+      }
+    ],
+    "name": "Buzz Lead + Gyara"
+  },
+  {
+    "author": "Leeto64",
+    "data": [
+      {
+        "moves": [
+          "Body Slam",
+          "Hyper Beam",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Electabuzz"
+      },
+      {
+        "moves": [
+          "Agility",
+          "Blizzard",
+          "Double-Edge",
+          "Hyper Beam"
+        ],
+        "species": "Articuno"
+      },
+      {
+        "moves": [
+          "Agility",
+          "Body Slam",
+          "Drill Peck",
+          "Hyper Beam"
+        ],
+        "species": "Dodrio"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Slash",
+          "Substitute"
+        ],
+        "species": "Dugtrio"
+      },
+      {
+        "moves": [
+          "Explosion",
+          "Hypnosis",
+          "Night Shade",
+          "Thunderbolt"
+        ],
+        "species": "Haunter"
+      },
+      {
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Kadabra"
+      }
+    ],
+    "name": "Buzz Lead + Haunter"
+  },
+  {
+    "author": "NotVeryCake",
+    "data": [
+      {
+        "moves": [
+          "Body Slam",
+          "Hyper Beam",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Electabuzz"
+      },
+      {
+        "moves": [
+          "Agility",
+          "Blizzard",
+          "Double-Edge",
+          "Hyper Beam"
+        ],
+        "species": "Articuno"
+      },
+      {
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Slash",
+          "Substitute"
+        ],
+        "species": "Dugtrio"
+      },
+      {
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Kadabra"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam",
+          "Rock Slide"
+        ],
+        "species": "Kangaskhan"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Hyper Beam",
+          "Surf",
+          "Wrap"
+        ],
+        "species": "Tentacruel"
+      }
+    ],
+    "name": "Buzz Lead + Good Stuff"
+  }
+]

@@ -1,0 +1,1227 @@
+[
+  {
+    "data": [
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "atk": 72,
+          "hp": 248,
+          "spd": 188
+        },
+        "gender": "M",
+        "item": "Tanga Berry",
+        "moves": [
+          "Crunch",
+          "Earthquake",
+          "Pursuit",
+          "Stealth Rock"
+        ],
+        "nature": "Careful",
+        "species": "Tyranitar"
+      },
+      {
+        "ability": "Sand Force",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "moves": [
+          "Earthquake",
+          "Iron Head",
+          "Rock Slide",
+          "Toxic"
+        ],
+        "nature": "Jolly",
+        "species": "Excadrill"
+      },
+      {
+        "ability": "Iron Barbs",
+        "evs": {
+          "def": 48,
+          "hp": 248,
+          "spd": 212
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "spe": 0
+        },
+        "moves": [
+          "Gyro Ball",
+          "Knock Off",
+          "Power Whip",
+          "Spikes"
+        ],
+        "nature": "Sassy",
+        "species": "Ferrothorn"
+      },
+      {
+        "ability": "Water Absorb",
+        "evs": {
+          "def": 160,
+          "hp": 248,
+          "spd": 88,
+          "spe": 12
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Night Shade",
+          "Recover",
+          "Taunt",
+          "Will-O-Wisp"
+        ],
+        "nature": "Calm",
+        "species": "Jellicent"
+      },
+      {
+        "ability": "Magic Guard",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "F",
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 2,
+          "spa": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Hidden Power Fire",
+          "Ice Beam",
+          "Surf",
+          "Thunderbolt"
+        ],
+        "nature": "Timid",
+        "species": "Krilowatt"
+      },
+      {
+        "ability": "Prankster",
+        "evs": {
+          "def": 124,
+          "hp": 248,
+          "spe": 136
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Heat Wave",
+          "Rapid Spin",
+          "Roost",
+          "Toxic"
+        ],
+        "nature": "Bold",
+        "species": "Tomohawk"
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "atk": 88,
+          "hp": 248,
+          "spd": 172
+        },
+        "gender": "M",
+        "item": "Custap Berry",
+        "moves": [
+          "Crunch",
+          "Earthquake",
+          "Pursuit",
+          "Superpower"
+        ],
+        "nature": "Adamant",
+        "species": "Tyranitar"
+      },
+      {
+        "ability": "Limber",
+        "evs": {
+          "hp": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Shadow Strike",
+          "Taunt",
+          "U-turn",
+          "Will-O-Wisp"
+        ],
+        "nature": "Jolly",
+        "species": "Kitsunoh"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "def": 76,
+          "hp": 248,
+          "spe": 184
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 30,
+          "def": 30
+        },
+        "moves": [
+          "Earthquake",
+          "Hidden Power Ice",
+          "Stealth Rock",
+          "U-turn"
+        ],
+        "nature": "Naive",
+        "species": "Landorus-Therian"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Draco Meteor",
+          "Recover",
+          "Surf",
+          "Trick"
+        ],
+        "nature": "Timid",
+        "species": "Latios"
+      },
+      {
+        "ability": "Dry Skin",
+        "evs": {
+          "hp": 248,
+          "spd": 92,
+          "spe": 168
+        },
+        "gender": "M",
+        "item": "Black Sludge",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Lava Plume",
+          "Rapid Spin",
+          "Recover",
+          "Toxic Spikes"
+        ],
+        "nature": "Calm",
+        "species": "Mollux"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 20,
+          "hp": 248,
+          "spd": 240
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "spa": 30
+        },
+        "moves": [
+          "Hidden Power Grass",
+          "Hydro Pump",
+          "Thunder Wave",
+          "Volt Switch"
+        ],
+        "nature": "Calm",
+        "species": "Rotom-Wash"
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "ability": "Sand Stream",
+        "evs": {
+          "atk": 72,
+          "hp": 248,
+          "spd": 188
+        },
+        "gender": "M",
+        "item": "Chople Berry",
+        "moves": [
+          "Crunch",
+          "Fire Blast",
+          "Pursuit",
+          "Stealth Rock"
+        ],
+        "nature": "Sassy",
+        "species": "Tyranitar"
+      },
+      {
+        "ability": "Sand Force",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Iron Head",
+          "Protect",
+          "Rapid Spin"
+        ],
+        "nature": "Adamant",
+        "species": "Excadrill"
+      },
+      {
+        "ability": "Air Lock",
+        "evs": {
+          "def": 4,
+          "hp": 252,
+          "spd": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Hammer Arm",
+          "Knock Off",
+          "Moonlight",
+          "Toxic"
+        ],
+        "nature": "Careful",
+        "species": "Revenankh"
+      },
+      {
+        "ability": "Sturdy",
+        "evs": {
+          "def": 200,
+          "hp": 252,
+          "spd": 56
+        },
+        "gender": "M",
+        "item": "Shed Shell",
+        "moves": [
+          "Brave Bird",
+          "Roost",
+          "Spikes",
+          "Whirlwind"
+        ],
+        "nature": "Impish",
+        "species": "Skarmory"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "def": 200,
+          "hp": 252,
+          "spd": 56
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Future Sight",
+          "Psyshock",
+          "Scald",
+          "Slack Off"
+        ],
+        "nature": "Calm",
+        "species": "Slowking"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 2,
+          "def": 30
+        },
+        "moves": [
+          "Flamethrower",
+          "Giga Drain",
+          "Hidden Power Ice",
+          "Weather Ball"
+        ],
+        "nature": "Timid",
+        "species": "Stratagem"
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "ability": "Drizzle",
+        "evs": {
+          "def": 252,
+          "hp": 252,
+          "spd": 4
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Encore",
+          "Protect",
+          "Scald"
+        ],
+        "nature": "Bold",
+        "species": "Politoed"
+      },
+      {
+        "ability": "Guts",
+        "evs": {
+          "atk": 208,
+          "spd": 48,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "moves": [
+          "Crunch",
+          "Earthquake",
+          "Pursuit",
+          "U-turn"
+        ],
+        "nature": "Adamant",
+        "species": "Colossoil"
+      },
+      {
+        "ability": "Iron Barbs",
+        "evs": {
+          "def": 48,
+          "hp": 252,
+          "spd": 208
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Power Whip",
+          "Spikes",
+          "Stealth Rock",
+          "Thunder Wave"
+        ],
+        "nature": "Relaxed",
+        "species": "Ferrothorn"
+      },
+      {
+        "ability": "Justified",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Secret Sword",
+          "Substitute",
+          "Surf"
+        ],
+        "nature": "Timid",
+        "species": "Keldeo"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Draco Meteor",
+          "Recover",
+          "Surf",
+          "Trick"
+        ],
+        "nature": "Timid",
+        "species": "Latios"
+      },
+      {
+        "ability": "Dry Skin",
+        "evs": {
+          "def": 60,
+          "hp": 252,
+          "spd": 196
+        },
+        "gender": "M",
+        "item": "Shuca Berry",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Lava Plume",
+          "Rapid Spin",
+          "Thunder",
+          "Toxic Spikes"
+        ],
+        "nature": "Calm",
+        "species": "Mollux"
+      }
+    ]
+  },
+  {
+    "author": "Steam Buns",
+    "data": [
+      {
+        "ability": "Drizzle",
+        "evs": {
+          "def": 204,
+          "hp": 252,
+          "spe": 52
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Encore",
+          "Protect",
+          "Scald"
+        ],
+        "nature": "Bold",
+        "species": "Politoed"
+      },
+      {
+        "ability": "Iron Barbs",
+        "evs": {
+          "def": 48,
+          "hp": 252,
+          "spd": 208
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Power Whip",
+          "Spikes",
+          "Stealth Rock",
+          "Thunder Wave"
+        ],
+        "nature": "Relaxed",
+        "species": "Ferrothorn"
+      },
+      {
+        "ability": "Magic Guard",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "F",
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 2,
+          "spa": 30
+        },
+        "moves": [
+          "Earth Power",
+          "Hidden Power Grass",
+          "Surf",
+          "Thunder"
+        ],
+        "nature": "Timid",
+        "species": "Krilowatt"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Draco Meteor",
+          "Recover",
+          "Surf",
+          "Trick"
+        ],
+        "nature": "Timid",
+        "species": "Latios"
+      },
+      {
+        "ability": "Dry Skin",
+        "evs": {
+          "def": 60,
+          "hp": 252,
+          "spd": 196
+        },
+        "gender": "M",
+        "item": "Black Sludge",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Lava Plume",
+          "Rapid Spin",
+          "Thunder",
+          "Toxic Spikes"
+        ],
+        "nature": "Calm",
+        "species": "Mollux"
+      },
+      {
+        "ability": "Prankster",
+        "evs": {
+          "hp": 248,
+          "spd": 244,
+          "spe": 16
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Aura Sphere",
+          "Haze",
+          "Hurricane",
+          "Roost"
+        ],
+        "nature": "Modest",
+        "species": "Tomohawk"
+      }
+    ],
+    "name": "Spdef tomo rain"
+  },
+  {
+    "data": [
+      {
+        "ability": "Drizzle",
+        "evs": {
+          "def": 204,
+          "hp": 252,
+          "spe": 52
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Encore",
+          "Protect",
+          "Scald"
+        ],
+        "nature": "Bold",
+        "species": "Politoed"
+      },
+      {
+        "ability": "Iron Barbs",
+        "evs": {
+          "def": 168,
+          "hp": 252,
+          "spd": 88
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Knock Off",
+          "Power Whip",
+          "Spikes",
+          "Stealth Rock"
+        ],
+        "nature": "Impish",
+        "species": "Ferrothorn"
+      },
+      {
+        "ability": "Rough Skin",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "moves": [
+          "Dual Chop",
+          "Earthquake",
+          "Outrage",
+          "Rock Slide"
+        ],
+        "nature": "Jolly",
+        "species": "Garchomp"
+      },
+      {
+        "ability": "Dry Skin",
+        "evs": {
+          "def": 60,
+          "hp": 252,
+          "spd": 184,
+          "spe": 12
+        },
+        "gender": "F",
+        "item": "Black Sludge",
+        "ivs": {
+          "atk": 2,
+          "def": 30,
+          "spa": 30
+        },
+        "moves": [
+          "Hidden Power Water",
+          "Lava Plume",
+          "Rapid Spin",
+          "Sludge Bomb"
+        ],
+        "nature": "Calm",
+        "species": "Mollux"
+      },
+      {
+        "ability": "Swarm",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "moves": [
+          "Bullet Punch",
+          "Pursuit",
+          "Superpower",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "species": "Scizor"
+      },
+      {
+        "ability": "Volt Absorb",
+        "evs": {
+          "hp": 24,
+          "spa": 204,
+          "spd": 104,
+          "spe": 176
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "def": 30
+        },
+        "moves": [
+          "Focus Blast",
+          "Hidden Power Ice",
+          "Nasty Plot",
+          "Thunder"
+        ],
+        "nature": "Timid",
+        "species": "Thundurus-Therian"
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "ability": "Serene Grace",
+        "evs": {
+          "def": 80,
+          "hp": 252,
+          "spd": 176
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "spe": 26
+        },
+        "moves": [
+          "Icy Wind",
+          "Stealth Rock",
+          "Thunder",
+          "U-turn"
+        ],
+        "nature": "Sassy",
+        "species": "Jirachi"
+      },
+      {
+        "ability": "Rough Skin",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Salac Berry",
+        "ivs": {
+          "hp": 30
+        },
+        "moves": [
+          "Earthquake",
+          "Outrage",
+          "Substitute",
+          "Swords Dance"
+        ],
+        "nature": "Jolly",
+        "species": "Garchomp"
+      },
+      {
+        "ability": "Teravolt",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Choice Band",
+        "moves": [
+          "Dragon Claw",
+          "Fusion Bolt",
+          "Ice Beam",
+          "Outrage"
+        ],
+        "nature": "Adamant",
+        "species": "Kyurem-Black"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Draco Meteor",
+          "Dragon Pulse",
+          "Surf",
+          "Trick"
+        ],
+        "nature": "Timid",
+        "species": "Latios"
+      },
+      {
+        "ability": "Magnet Pull",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Air Balloon",
+        "ivs": {
+          "atk": 2,
+          "spa": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Hidden Power Fire",
+          "Magnet Rise",
+          "Sunny Day",
+          "Thunderbolt"
+        ],
+        "nature": "Modest",
+        "species": "Magnezone"
+      },
+      {
+        "ability": "Forewarn",
+        "evs": {
+          "atk": 176,
+          "spa": 80,
+          "spe": 252
+        },
+        "item": "Life Orb",
+        "moves": [
+          "Power Whip",
+          "Psychic",
+          "Shadow Claw",
+          "Shell Smash"
+        ],
+        "nature": "Hasty",
+        "species": "Necturna"
+      }
+    ],
+    "name": "Necturna Dragmag"
+  },
+  {
+    "author": "Steam Buns",
+    "data": [
+      {
+        "ability": "Iron Barbs",
+        "evs": {
+          "def": 48,
+          "hp": 252,
+          "spd": 208
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Leech Seed",
+          "Power Whip",
+          "Spikes",
+          "Stealth Rock"
+        ],
+        "nature": "Careful",
+        "species": "Ferrothorn"
+      },
+      {
+        "ability": "Limber",
+        "evs": {
+          "hp": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Shadow Strike",
+          "Taunt",
+          "U-turn",
+          "Will-O-Wisp"
+        ],
+        "nature": "Jolly",
+        "species": "Kitsunoh"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "hp": 52,
+          "spa": 232,
+          "spe": 224
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Earth Power",
+          "Ice Beam",
+          "Roost",
+          "Substitute"
+        ],
+        "nature": "Timid",
+        "species": "Kyurem"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "hp": 32,
+          "spa": 252,
+          "spe": 224
+        },
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 2,
+          "def": 30
+        },
+        "moves": [
+          "Hidden Power Ice",
+          "Hydro Pump",
+          "Trick",
+          "Volt Switch"
+        ],
+        "nature": "Timid",
+        "species": "Rotom-Wash"
+      },
+      {
+        "ability": "Justified",
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        },
+        "item": "Choice Band",
+        "moves": [
+          "Close Combat",
+          "Quick Attack",
+          "Stone Edge",
+          "X-Scissor"
+        ],
+        "nature": "Jolly",
+        "species": "Terrakion"
+      },
+      {
+        "ability": "Prankster",
+        "evs": {
+          "def": 64,
+          "hp": 252,
+          "spd": 192
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Hurricane",
+          "Rapid Spin",
+          "Roost",
+          "Toxic"
+        ],
+        "nature": "Bold",
+        "species": "Tomohawk"
+      }
+    ],
+    "name": "SubRoost Kyurem Balance"
+  },
+  {
+    "data": [
+      {
+        "ability": "Drought",
+        "evs": {
+          "def": 208,
+          "hp": 248,
+          "spd": 36,
+          "spe": 16
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Fire Spin",
+          "Roar",
+          "Sunny Day",
+          "Will-O-Wisp"
+        ],
+        "nature": "Timid",
+        "species": "Ninetales"
+      },
+      {
+        "ability": "Poison Heal",
+        "evs": {
+          "def": 140,
+          "hp": 244,
+          "spd": 124
+        },
+        "gender": "M",
+        "item": "Toxic Orb",
+        "moves": [
+          "Earthquake",
+          "Protect",
+          "Stealth Rock",
+          "U-turn"
+        ],
+        "nature": "Impish",
+        "species": "Gliscor"
+      },
+      {
+        "ability": "Harvest",
+        "evs": {
+          "atk": 60,
+          "hp": 112,
+          "spd": 212,
+          "spe": 124
+        },
+        "gender": "M",
+        "item": "Lum Berry",
+        "moves": [
+          "Power Whip",
+          "Punishment",
+          "Pursuit",
+          "Rest"
+        ],
+        "nature": "Careful",
+        "species": "Malaconda"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "def": 160,
+          "hp": 248,
+          "spe": 100
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "spa": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Hidden Power Fire",
+          "Psyshock",
+          "Rapid Spin",
+          "Recover"
+        ],
+        "nature": "Timid",
+        "species": "Starmie"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 36,
+          "spa": 220,
+          "spe": 252
+        },
+        "item": "Expert Belt",
+        "ivs": {
+          "atk": 2,
+          "def": 30
+        },
+        "moves": [
+          "Earth Power",
+          "Flamethrower",
+          "Giga Drain",
+          "Hidden Power Ice"
+        ],
+        "nature": "Timid",
+        "species": "Stratagem"
+      },
+      {
+        "ability": "Victory Star",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "moves": [
+          "Bolt Strike",
+          "Brick Break",
+          "U-turn",
+          "V-create"
+        ],
+        "nature": "Jolly",
+        "species": "Victini"
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "ability": "Drought",
+        "evs": {
+          "def": 120,
+          "hp": 252,
+          "spe": 136
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Flamethrower",
+          "Protect",
+          "Roar",
+          "Will-O-Wisp"
+        ],
+        "nature": "Timid",
+        "species": "Ninetales"
+      },
+      {
+        "ability": "Blaze",
+        "evs": {
+          "atk": 252,
+          "spa": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Focus Sash",
+        "moves": [
+          "Close Combat",
+          "Overheat",
+          "Stealth Rock",
+          "U-turn"
+        ],
+        "nature": "Hasty",
+        "species": "Infernape"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Draco Meteor",
+          "Dragon Pulse",
+          "Surf",
+          "Trick"
+        ],
+        "nature": "Timid",
+        "species": "Latios"
+      },
+      {
+        "ability": "Harvest",
+        "evs": {
+          "atk": 60,
+          "hp": 112,
+          "spd": 212,
+          "spe": 124
+        },
+        "gender": "M",
+        "item": "Lum Berry",
+        "moves": [
+          "Power Whip",
+          "Pursuit",
+          "Rest",
+          "Taunt"
+        ],
+        "nature": "Careful",
+        "species": "Malaconda"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 36,
+          "spa": 220,
+          "spe": 252
+        },
+        "item": "Expert Belt",
+        "ivs": {
+          "atk": 2,
+          "def": 30
+        },
+        "moves": [
+          "Earth Power",
+          "Flamethrower",
+          "Giga Drain",
+          "Hidden Power Ice"
+        ],
+        "nature": "Timid",
+        "species": "Stratagem"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "def": 156,
+          "hp": 252,
+          "spe": 100
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Aura Sphere",
+          "Heat Wave",
+          "Rapid Spin",
+          "Roost"
+        ],
+        "nature": "Timid",
+        "species": "Tomohawk"
+      }
+    ]
+  }
+]

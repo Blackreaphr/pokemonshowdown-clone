@@ -1,0 +1,483 @@
+[
+  {
+    "author": "Adaam",
+    "data": [
+      {
+        "ability": "Pressure",
+        "evs": {
+          "def": 180,
+          "hp": 252,
+          "spe": 76
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Rest",
+          "Roar",
+          "Scald"
+        ],
+        "nature": "Bold",
+        "species": "Suicune"
+      },
+      {
+        "ability": "Rock Head",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Aerodactylite",
+        "moves": [
+          "Aerial Ace",
+          "Earthquake",
+          "Pursuit",
+          "Stone Edge"
+        ],
+        "nature": "Jolly",
+        "species": "Aerodactyl"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 4,
+          "hp": 252,
+          "spd": 252
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Protect",
+          "Psywave",
+          "Stealth Rock",
+          "Toxic"
+        ],
+        "nature": "Careful",
+        "species": "Bronzong"
+      },
+      {
+        "ability": "Flower Veil",
+        "evs": {
+          "def": 240,
+          "hp": 252,
+          "spe": 16
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Heal Bell",
+          "Moonblast",
+          "Synthesis",
+          "Wish"
+        ],
+        "nature": "Bold",
+        "species": "Florges"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "moves": [
+          "Earthquake",
+          "Knock Off",
+          "Pursuit",
+          "Superpower"
+        ],
+        "nature": "Jolly",
+        "species": "Krookodile"
+      },
+      {
+        "ability": "Liquid Ooze",
+        "evs": {
+          "def": 240,
+          "hp": 252,
+          "spe": 16
+        },
+        "gender": "M",
+        "item": "Black Sludge",
+        "moves": [
+          "Haze",
+          "Knock Off",
+          "Rapid Spin",
+          "Scald"
+        ],
+        "nature": "Bold",
+        "species": "Tentacruel"
+      }
+    ],
+    "name": "Roar Suicune"
+  },
+  {
+    "author": "Wanka",
+    "data": [
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "hp": 100,
+          "spd": 192,
+          "spe": 216
+        },
+        "gender": "M",
+        "item": "Assault Vest",
+        "moves": [
+          "High Jump Kick",
+          "Knock Off",
+          "Poison Jab",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "species": "Mienshao"
+      },
+      {
+        "ability": "Rock Head",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Aerodactylite",
+        "moves": [
+          "Aerial Ace",
+          "Crunch",
+          "Pursuit",
+          "Stone Edge"
+        ],
+        "nature": "Adamant",
+        "species": "Aerodactyl"
+      },
+      {
+        "ability": "Torrent",
+        "evs": {
+          "hp": 248,
+          "spd": 252,
+          "spe": 8
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Defog",
+          "Roar",
+          "Scald",
+          "Signal Beam"
+        ],
+        "nature": "Calm",
+        "species": "Empoleon"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Rocky Helmet",
+        "moves": [
+          "Earthquake",
+          "Knock Off",
+          "Stealth Rock",
+          "Taunt"
+        ],
+        "nature": "Jolly",
+        "species": "Krookodile"
+      },
+      {
+        "ability": "Clear Body",
+        "evs": {
+          "atk": 252,
+          "hp": 120,
+          "spe": 136
+        },
+        "item": "Choice Band",
+        "moves": [
+          "Earthquake",
+          "Meteor Mash",
+          "Trick",
+          "Zen Headbutt"
+        ],
+        "nature": "Adamant",
+        "species": "Metagross"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "def": 252,
+          "hp": 252,
+          "spa": 4
+        },
+        "gender": "M",
+        "item": "Colbur Berry",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Psychic",
+          "Scald",
+          "Slack Off",
+          "Toxic"
+        ],
+        "nature": "Bold",
+        "species": "Slowking"
+      }
+    ],
+    "name": "AV Mienshao + CB Metagross"
+  },
+  {
+    "author": "Wanka",
+    "data": [
+      {
+        "ability": "Pressure",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Earth Power",
+          "Ice Beam",
+          "Roost",
+          "Substitute"
+        ],
+        "nature": "Timid",
+        "species": "Kyurem"
+      },
+      {
+        "ability": "Rock Head",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Aerodactylite",
+        "moves": [
+          "Aerial Ace",
+          "Crunch",
+          "Pursuit",
+          "Stone Edge"
+        ],
+        "nature": "Adamant",
+        "species": "Aerodactyl"
+      },
+      {
+        "ability": "Torrent",
+        "evs": {
+          "hp": 248,
+          "spd": 252,
+          "spe": 8
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Defog",
+          "Roar",
+          "Scald",
+          "Signal Beam"
+        ],
+        "nature": "Calm",
+        "species": "Empoleon"
+      },
+      {
+        "ability": "Sheer Force",
+        "evs": {
+          "hp": 56,
+          "spa": 252,
+          "spe": 200
+        },
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Earth Power",
+          "Ice Beam",
+          "Sludge Wave",
+          "Stealth Rock"
+        ],
+        "nature": "Modest",
+        "species": "Nidoqueen"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "def": 252,
+          "hp": 252,
+          "spa": 4
+        },
+        "gender": "M",
+        "item": "Colbur Berry",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Psyshock",
+          "Scald",
+          "Slack Off"
+        ],
+        "nature": "Bold",
+        "species": "Slowking"
+      },
+      {
+        "ability": "Prankster",
+        "evs": {
+          "def": 68,
+          "hp": 248,
+          "spe": 192
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Leech Seed",
+          "Moonblast",
+          "Taunt",
+          "U-turn"
+        ],
+        "nature": "Timid",
+        "species": "Whimsicott"
+      }
+    ],
+    "name": "SubRoost Kyurem"
+  },
+  {
+    "author": "KillinTime",
+    "data": [
+      {
+        "ability": "Overgrow",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Sceptilite",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Dragon Pulse",
+          "Focus Blast",
+          "Leaf Storm",
+          "Leech Seed"
+        ],
+        "nature": "Timid",
+        "species": "Sceptile"
+      },
+      {
+        "ability": "Flower Veil",
+        "evs": {
+          "def": 240,
+          "hp": 252,
+          "spe": 16
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Aromatherapy",
+          "Moonblast",
+          "Synthesis",
+          "Wish"
+        ],
+        "nature": "Bold",
+        "species": "Florges"
+      },
+      {
+        "ability": "Overcoat",
+        "evs": {
+          "hp": 252,
+          "spd": 208,
+          "spe": 48
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Defog",
+          "Foul Play",
+          "Roost",
+          "U-turn"
+        ],
+        "nature": "Careful",
+        "species": "Mandibuzz"
+      },
+      {
+        "ability": "Clear Body",
+        "evs": {
+          "atk": 108,
+          "def": 96,
+          "hp": 248,
+          "spe": 56
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Meteor Mash",
+          "Protect",
+          "Toxic"
+        ],
+        "nature": "Impish",
+        "species": "Metagross"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "hp": 100,
+          "spd": 192,
+          "spe": 216
+        },
+        "gender": "M",
+        "item": "Assault Vest",
+        "moves": [
+          "High Jump Kick",
+          "Knock Off",
+          "Poison Jab",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "species": "Mienshao"
+      },
+      {
+        "ability": "Water Absorb",
+        "evs": {
+          "def": 252,
+          "hp": 252,
+          "spd": 4
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Knock Off",
+          "Scald",
+          "Stealth Rock",
+          "Toxic"
+        ],
+        "nature": "Relaxed",
+        "species": "Seismitoad"
+      }
+    ],
+    "name": "Leech Seed Mega Sceptile"
+  }
+]

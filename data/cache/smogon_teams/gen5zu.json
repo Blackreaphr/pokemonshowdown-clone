@@ -1,0 +1,840 @@
+[
+  {
+    "data": [
+      {
+        "ability": "Technician",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "happiness": 255,
+        "item": "Silk Scarf",
+        "moves": [
+          "Fake Out",
+          "Knock Off",
+          "Return",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "species": "Persian"
+      },
+      {
+        "ability": "Ice Body",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "gender": "F",
+        "item": "Choice Specs",
+        "ivs": {
+          "atk": 3,
+          "def": 30,
+          "spa": 30,
+          "spd": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Blizzard",
+          "Hidden Power Fighting",
+          "Ice Beam",
+          "Shadow Ball"
+        ],
+        "nature": "Modest",
+        "species": "Glaceon"
+      },
+      {
+        "ability": "Overgrow",
+        "evs": {
+          "def": 208,
+          "hp": 252,
+          "spe": 48
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Aromatherapy",
+          "Dragon Tail",
+          "Seed Bomb",
+          "Synthesis"
+        ],
+        "nature": "Impish",
+        "species": "Meganium"
+      },
+      {
+        "ability": "Sticky Hold",
+        "evs": {
+          "atk": 120,
+          "hp": 252,
+          "spd": 136
+        },
+        "gender": "M",
+        "item": "Black Sludge",
+        "moves": [
+          "Poison Jab",
+          "Protect",
+          "Shadow Sneak",
+          "Taunt"
+        ],
+        "nature": "Careful",
+        "species": "Muk"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 240,
+          "hp": 252,
+          "spe": 16
+        },
+        "item": "Rocky Helmet",
+        "moves": [
+          "Earthquake",
+          "Morning Sun",
+          "Rock Slide",
+          "Stealth Rock"
+        ],
+        "nature": "Impish",
+        "species": "Solrock"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "def": 204,
+          "hp": 248,
+          "spe": 56
+        },
+        "item": "Eviolite",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Rapid Spin",
+          "Recover",
+          "Scald",
+          "Toxic"
+        ],
+        "nature": "Bold",
+        "species": "Staryu"
+      }
+    ],
+    "name": "BtBoy Specs Glaceon"
+  },
+  {
+    "data": [
+      {
+        "ability": "Levitate",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Normal Gem",
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Stealth Rock",
+          "Stone Edge"
+        ],
+        "nature": "Jolly",
+        "species": "Solrock"
+      },
+      {
+        "ability": "Sheer Force",
+        "evs": {
+          "atk": 252,
+          "hp": 80,
+          "spe": 176
+        },
+        "gender": "M",
+        "item": "Rock Gem",
+        "moves": [
+          "Agility",
+          "Crabhammer",
+          "Rock Slide",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Kingler"
+      },
+      {
+        "ability": "Rock Head",
+        "evs": {
+          "atk": 252,
+          "hp": 40,
+          "spe": 216
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Head Smash",
+          "Iron Head",
+          "Rock Polish",
+          "Superpower"
+        ],
+        "nature": "Adamant",
+        "species": "Lairon"
+      },
+      {
+        "ability": "Chlorophyll",
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "happiness": 255,
+        "item": "Salac Berry",
+        "moves": [
+          "Leaf Blade",
+          "Return",
+          "Substitute",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Leafeon"
+      },
+      {
+        "ability": "Technician",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Silk Scarf",
+        "moves": [
+          "Double-Edge",
+          "Fake Out",
+          "Knock Off",
+          "Taunt"
+        ],
+        "nature": "Jolly",
+        "species": "Persian"
+      },
+      {
+        "ability": "Oblivious",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "happiness": 255,
+        "item": "Normal Gem",
+        "moves": [
+          "Dragon Dance",
+          "Earthquake",
+          "Return",
+          "Waterfall"
+        ],
+        "nature": "Adamant",
+        "species": "Whiscash"
+      }
+    ],
+    "name": "Monai Double Water HO"
+  },
+  {
+    "data": [
+      {
+        "ability": "Levitate",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "item": "Choice Band",
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Stone Edge",
+          "Zen Headbutt"
+        ],
+        "nature": "Adamant",
+        "species": "Solrock"
+      },
+      {
+        "ability": "Magic Guard",
+        "evs": {
+          "def": 252,
+          "hp": 252,
+          "spd": 4
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Knock Off",
+          "Seismic Toss",
+          "Soft-Boiled",
+          "Wish"
+        ],
+        "nature": "Impish",
+        "species": "Clefairy"
+      },
+      {
+        "ability": "Motor Drive",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Flying Gem",
+        "moves": [
+          "Acrobatics",
+          "Roost",
+          "Taunt",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "species": "Emolga"
+      },
+      {
+        "ability": "Thick Fat",
+        "evs": {
+          "hp": 248,
+          "spa": 8,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Focus Blast",
+          "Protect",
+          "Psyshock"
+        ],
+        "nature": "Timid",
+        "species": "Grumpig"
+      },
+      {
+        "ability": "Rock Head",
+        "evs": {
+          "atk": 252,
+          "hp": 24,
+          "spe": 232
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Earthquake",
+          "Head Smash",
+          "Rock Polish",
+          "Stealth Rock"
+        ],
+        "nature": "Jolly",
+        "species": "Lairon"
+      },
+      {
+        "ability": "Overgrow",
+        "evs": {
+          "def": 8,
+          "hp": 248,
+          "spd": 252
+        },
+        "gender": "F",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "spa": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Aromatherapy",
+          "Giga Drain",
+          "Hidden Power Fire",
+          "Synthesis"
+        ],
+        "nature": "Calm",
+        "species": "Meganium"
+      }
+    ],
+    "name": "Xrn Rock Spam Balance"
+  },
+  {
+    "data": [
+      {
+        "ability": "Thick Fat",
+        "evs": {
+          "def": 120,
+          "hp": 136,
+          "spd": 252
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Body Slam",
+          "Rest",
+          "Sleep Talk",
+          "Whirlwind"
+        ],
+        "nature": "Careful",
+        "species": "Munchlax"
+      },
+      {
+        "ability": "Lightning Rod",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "F",
+        "item": "Choice Specs",
+        "ivs": {
+          "atk": 2,
+          "def": 30
+        },
+        "moves": [
+          "Focus Blast",
+          "Hidden Power Ice",
+          "Thunderbolt",
+          "Volt Switch"
+        ],
+        "nature": "Timid",
+        "species": "Raichu"
+      },
+      {
+        "ability": "Blaze",
+        "evs": {
+          "atk": 252,
+          "spa": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Expert Belt",
+        "moves": [
+          "Crunch",
+          "Fire Blast",
+          "Superpower",
+          "Work Up"
+        ],
+        "nature": "Hasty",
+        "species": "Simisear"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "atk": 8,
+          "def": 252,
+          "hp": 248
+        },
+        "item": "Rocky Helmet",
+        "moves": [
+          "Morning Sun",
+          "Stealth Rock",
+          "Stone Edge",
+          "Will-O-Wisp"
+        ],
+        "nature": "Impish",
+        "species": "Solrock"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "def": 120,
+          "hp": 252,
+          "spe": 136
+        },
+        "item": "Eviolite",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Rapid Spin",
+          "Recover",
+          "Scald",
+          "Toxic"
+        ],
+        "nature": "Timid",
+        "species": "Staryu"
+      },
+      {
+        "ability": "Big Pecks",
+        "evs": {
+          "def": 228,
+          "hp": 248,
+          "spa": 32
+        },
+        "item": "Eviolite",
+        "ivs": {
+          "def": 30,
+          "spa": 30,
+          "spd": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Foul Play",
+          "Hidden Power Fighting",
+          "Knock Off",
+          "Roost"
+        ],
+        "nature": "Bold",
+        "species": "Vullaby"
+      }
+    ],
+    "name": "JonAmon Vullaby Mixed Simisear Balance"
+  },
+  {
+    "data": [
+      {
+        "ability": "Motor Drive",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Flying Gem",
+        "moves": [
+          "Acrobatics",
+          "Roost",
+          "Taunt",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "species": "Emolga"
+      },
+      {
+        "ability": "Magic Guard",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "F",
+        "item": "Focus Sash",
+        "ivs": {
+          "atk": 3,
+          "spa": 30,
+          "spd": 30
+        },
+        "moves": [
+          "Encore",
+          "Hidden Power Ground",
+          "Psychic",
+          "Signal Beam"
+        ],
+        "nature": "Timid",
+        "species": "Abra"
+      },
+      {
+        "ability": "Magic Guard",
+        "evs": {
+          "def": 4,
+          "hp": 252,
+          "spd": 252
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Knock Off",
+          "Seismic Toss",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "nature": "Careful",
+        "species": "Clefairy"
+      },
+      {
+        "ability": "Chlorophyll",
+        "evs": {
+          "def": 252,
+          "hp": 252,
+          "spd": 4
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Knock Off",
+          "Leech Seed",
+          "Sludge Bomb",
+          "Synthesis"
+        ],
+        "nature": "Bold",
+        "species": "Ivysaur"
+      },
+      {
+        "ability": "Reckless",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "moves": [
+          "High Jump Kick",
+          "Knock Off",
+          "Stone Edge",
+          "U-turn"
+        ],
+        "nature": "Adamant",
+        "species": "Mienfoo"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 240,
+          "hp": 252,
+          "spe": 16
+        },
+        "item": "Rocky Helmet",
+        "moves": [
+          "Earthquake",
+          "Morning Sun",
+          "Rock Slide",
+          "Stealth Rock"
+        ],
+        "nature": "Impish",
+        "species": "Solrock"
+      }
+    ],
+    "name": "BtBoy Emolga + CB Mienfoo Balance"
+  },
+  {
+    "data": [
+      {
+        "ability": "Limber",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "happiness": 0,
+        "item": "Silk Scarf",
+        "moves": [
+          "Fake Out",
+          "Frustration",
+          "Taunt",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "species": "Persian"
+      },
+      {
+        "ability": "Thick Fat",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Psychic Gem",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Focus Blast",
+          "Psyshock",
+          "Shadow Ball"
+        ],
+        "nature": "Timid",
+        "species": "Grumpig"
+      },
+      {
+        "ability": "Rain Dish",
+        "evs": {
+          "def": 252,
+          "hp": 252,
+          "spd": 4
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Hurricane",
+          "Knock Off",
+          "Roost",
+          "Scald"
+        ],
+        "nature": "Bold",
+        "species": "Pelipper"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 240,
+          "hp": 252,
+          "spe": 16
+        },
+        "item": "Rocky Helmet",
+        "moves": [
+          "Morning Sun",
+          "Rock Slide",
+          "Stealth Rock",
+          "Will-O-Wisp"
+        ],
+        "nature": "Impish",
+        "species": "Solrock"
+      },
+      {
+        "ability": "Thick Fat",
+        "evs": {
+          "def": 40,
+          "spa": 252,
+          "spe": 216
+        },
+        "gender": "F",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 3,
+          "spa": 30
+        },
+        "moves": [
+          "Hidden Power Electric",
+          "Ice Beam",
+          "Substitute",
+          "Surf"
+        ],
+        "nature": "Modest",
+        "species": "Walrein"
+      },
+      {
+        "ability": "Anticipation",
+        "evs": {
+          "def": 184,
+          "hp": 252,
+          "spd": 72
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Bug Bite",
+          "Psychic",
+          "Stealth Rock",
+          "Toxic"
+        ],
+        "nature": "Relaxed",
+        "species": "Wormadam-Trash"
+      }
+    ],
+    "name": "Gen 5 ZU Pelipper WormT Balance"
+  },
+  {
+    "data": [
+      {
+        "ability": "Sticky Hold",
+        "evs": {
+          "atk": 252,
+          "hp": 252,
+          "spd": 4
+        },
+        "gender": "M",
+        "item": "Black Sludge",
+        "moves": [
+          "Focus Punch",
+          "Payback",
+          "Poison Jab",
+          "Substitute"
+        ],
+        "nature": "Adamant",
+        "shiny": true,
+        "species": "Muk"
+      },
+      {
+        "ability": "Motor Drive",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Flying Gem",
+        "moves": [
+          "Acrobatics",
+          "Roost",
+          "Taunt",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "species": "Emolga"
+      },
+      {
+        "ability": "Thick Fat",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "F",
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 2,
+          "spa": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Hidden Power Fire",
+          "Psychic",
+          "Shadow Ball",
+          "Trick"
+        ],
+        "nature": "Modest",
+        "species": "Grumpig"
+      },
+      {
+        "ability": "Rock Head",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Earthquake",
+          "Head Smash",
+          "Stealth Rock",
+          "Superpower"
+        ],
+        "nature": "Jolly",
+        "species": "Lairon"
+      },
+      {
+        "ability": "Overcoat",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Brick Break",
+          "Dragon Dance",
+          "Fire Fang",
+          "Outrage"
+        ],
+        "nature": "Adamant",
+        "shiny": true,
+        "species": "Shelgon"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "def": 120,
+          "hp": 252,
+          "spd": 120,
+          "spe": 16
+        },
+        "item": "Eviolite",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Rapid Spin",
+          "Recover",
+          "Scald",
+          "Toxic"
+        ],
+        "nature": "Timid",
+        "species": "Staryu"
+      }
+    ],
+    "name": "Obb10 SubPunch Muk + DD Shelgon Bulky Offense"
+  }
+]

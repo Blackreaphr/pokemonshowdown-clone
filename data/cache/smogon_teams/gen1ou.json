@@ -1,0 +1,2117 @@
+[
+  {
+    "author": "emma",
+    "data": [
+      {
+        "moves": [
+          "Blizzard",
+          "Psychic",
+          "Recover",
+          "Thunder Wave"
+        ],
+        "species": "Starmie"
+      },
+      {
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Alakazam"
+      },
+      {
+        "moves": [
+          "Ice Beam",
+          "Soft-Boiled",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Explosion",
+          "Psychic",
+          "Sleep Powder"
+        ],
+        "species": "Exeggutor"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Hyper Beam",
+          "Reflect",
+          "Rest"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam"
+        ],
+        "species": "Tauros"
+      }
+    ],
+    "name": "Starmie + Exeggutor + Alakazam"
+  },
+  {
+    "author": "emma",
+    "data": [
+      {
+        "moves": [
+          "Blizzard",
+          "Recover",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Starmie"
+      },
+      {
+        "moves": [
+          "Ice Beam",
+          "Soft-Boiled",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Explosion",
+          "Mega Drain",
+          "Psychic",
+          "Sleep Powder"
+        ],
+        "species": "Exeggutor"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Reflect",
+          "Rest"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam"
+        ],
+        "species": "Tauros"
+      },
+      {
+        "moves": [
+          "Agility",
+          "Drill Peck",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Zapdos"
+      }
+    ],
+    "name": "Starmie + Exeggutor + Zapdos"
+  },
+  {
+    "author": "emma",
+    "data": [
+      {
+        "moves": [
+          "Recover",
+          "Surf",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Starmie"
+      },
+      {
+        "moves": [
+          "Ice Beam",
+          "Sing",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Explosion",
+          "Psychic",
+          "Sleep Powder",
+          "Stun Spore"
+        ],
+        "species": "Exeggutor"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Substitute",
+          "Tail Whip"
+        ],
+        "species": "Rhydon"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Hyper Beam",
+          "Reflect",
+          "Rest"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam"
+        ],
+        "species": "Tauros"
+      }
+    ],
+    "name": "Starmie + Exeggutor + Rhydon"
+  },
+  {
+    "author": "emma",
+    "data": [
+      {
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Alakazam"
+      },
+      {
+        "moves": [
+          "Seismic Toss",
+          "Sing",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Explosion",
+          "Psychic",
+          "Sleep Powder",
+          "Stun Spore"
+        ],
+        "species": "Exeggutor"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Reflect",
+          "Rest"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Recover",
+          "Surf",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Starmie"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam"
+        ],
+        "species": "Tauros"
+      }
+    ],
+    "name": "Alakazam + Exeggutor + Starmie"
+  },
+  {
+    "author": "emma",
+    "data": [
+      {
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Alakazam"
+      },
+      {
+        "moves": [
+          "Reflect",
+          "Seismic Toss",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Explosion",
+          "Mega Drain",
+          "Psychic",
+          "Sleep Powder"
+        ],
+        "species": "Exeggutor"
+      },
+      {
+        "moves": [
+          "Amnesia",
+          "Rest",
+          "Surf",
+          "Thunder Wave"
+        ],
+        "species": "Slowbro"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Reflect",
+          "Rest"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Hyper Beam",
+          "Thunderbolt"
+        ],
+        "species": "Tauros"
+      }
+    ],
+    "name": "Alakazam + Exeggutor + Slowbro"
+  },
+  {
+    "author": "emma",
+    "data": [
+      {
+        "moves": [
+          "Explosion",
+          "Hypnosis",
+          "Psychic",
+          "Thunderbolt"
+        ],
+        "species": "Gengar"
+      },
+      {
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Alakazam"
+      },
+      {
+        "moves": [
+          "Ice Beam",
+          "Sing",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Hyper Beam",
+          "Reflect",
+          "Rest"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Recover",
+          "Surf",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Starmie"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam"
+        ],
+        "species": "Tauros"
+      }
+    ],
+    "name": "Gengar + Starmie + Alakazam"
+  },
+  {
+    "author": "emma",
+    "data": [
+      {
+        "moves": [
+          "Explosion",
+          "Hypnosis",
+          "Night Shade",
+          "Thunderbolt"
+        ],
+        "species": "Gengar"
+      },
+      {
+        "moves": [
+          "Ice Beam",
+          "Sing",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Reflect",
+          "Rest"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Recover",
+          "Surf",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Starmie"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam"
+        ],
+        "species": "Tauros"
+      },
+      {
+        "moves": [
+          "Agility",
+          "Drill Peck",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Zapdos"
+      }
+    ],
+    "name": "Gengar + Starmie + Zapdos"
+  },
+  {
+    "author": "emma",
+    "data": [
+      {
+        "moves": [
+          "Explosion",
+          "Hypnosis",
+          "Psychic",
+          "Thunderbolt"
+        ],
+        "species": "Gengar"
+      },
+      {
+        "moves": [
+          "Ice Beam",
+          "Soft-Boiled",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Explosion",
+          "Psychic",
+          "Sleep Powder",
+          "Stun Spore"
+        ],
+        "species": "Exeggutor"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Reflect",
+          "Rest"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Recover",
+          "Surf",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Starmie"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam"
+        ],
+        "species": "Tauros"
+      }
+    ],
+    "name": "Gengar + Exeggutor + Starmie"
+  },
+  {
+    "author": "emma",
+    "data": [
+      {
+        "moves": [
+          "Explosion",
+          "Hypnosis",
+          "Psychic",
+          "Thunderbolt"
+        ],
+        "species": "Gengar"
+      },
+      {
+        "moves": [
+          "Reflect",
+          "Seismic Toss",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Clamp",
+          "Explosion",
+          "Rest"
+        ],
+        "species": "Cloyster"
+      },
+      {
+        "moves": [
+          "Explosion",
+          "Psychic",
+          "Sleep Powder",
+          "Stun Spore"
+        ],
+        "species": "Exeggutor"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam",
+          "Self-Destruct"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Hyper Beam",
+          "Thunderbolt"
+        ],
+        "species": "Tauros"
+      }
+    ],
+    "name": "Gengar + Exeggutor + Cloyster"
+  },
+  {
+    "author": "emma",
+    "data": [
+      {
+        "moves": [
+          "Explosion",
+          "Hypnosis",
+          "Psychic",
+          "Thunderbolt"
+        ],
+        "species": "Gengar"
+      },
+      {
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Alakazam"
+      },
+      {
+        "moves": [
+          "Ice Beam",
+          "Sing",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Clamp",
+          "Explosion",
+          "Rest"
+        ],
+        "species": "Cloyster"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Hyper Beam",
+          "Reflect",
+          "Rest"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam"
+        ],
+        "species": "Tauros"
+      }
+    ],
+    "name": "Gengar + Cloyster + Alakazam"
+  },
+  {
+    "author": "emma",
+    "data": [
+      {
+        "moves": [
+          "Blizzard",
+          "Lovely Kiss",
+          "Psychic",
+          "Rest"
+        ],
+        "species": "Jynx"
+      },
+      {
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Alakazam"
+      },
+      {
+        "moves": [
+          "Counter",
+          "Ice Beam",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Hyper Beam",
+          "Reflect",
+          "Rest"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Recover",
+          "Surf",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Starmie"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam"
+        ],
+        "species": "Tauros"
+      }
+    ],
+    "name": "Jynx + Starmie + Alakazam"
+  },
+  {
+    "author": "emma",
+    "data": [
+      {
+        "moves": [
+          "Blizzard",
+          "Lovely Kiss",
+          "Psychic",
+          "Rest"
+        ],
+        "species": "Jynx"
+      },
+      {
+        "moves": [
+          "Counter",
+          "Ice Beam",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Reflect",
+          "Rest"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Recover",
+          "Surf",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Starmie"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam"
+        ],
+        "species": "Tauros"
+      },
+      {
+        "moves": [
+          "Agility",
+          "Drill Peck",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Zapdos"
+      }
+    ],
+    "name": "Jynx + Starmie + Zapdos"
+  },
+  {
+    "author": "emma",
+    "data": [
+      {
+        "moves": [
+          "Blizzard",
+          "Lovely Kiss",
+          "Psychic",
+          "Rest"
+        ],
+        "species": "Jynx"
+      },
+      {
+        "moves": [
+          "Ice Beam",
+          "Soft-Boiled",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Substitute",
+          "Tail Whip"
+        ],
+        "species": "Rhydon"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Hyper Beam",
+          "Reflect",
+          "Rest"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Recover",
+          "Surf",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Starmie"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam"
+        ],
+        "species": "Tauros"
+      }
+    ],
+    "name": "Jynx + Starmie + Rhydon"
+  },
+  {
+    "author": "emma",
+    "data": [
+      {
+        "moves": [
+          "Blizzard",
+          "Lovely Kiss",
+          "Psychic",
+          "Rest"
+        ],
+        "species": "Jynx"
+      },
+      {
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Alakazam"
+      },
+      {
+        "moves": [
+          "Ice Beam",
+          "Soft-Boiled",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Clamp",
+          "Explosion",
+          "Rest"
+        ],
+        "species": "Cloyster"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Hyper Beam",
+          "Reflect",
+          "Rest"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam"
+        ],
+        "species": "Tauros"
+      }
+    ],
+    "name": "Jynx + Cloyster + Alakazam"
+  },
+  {
+    "author": "emma",
+    "data": [
+      {
+        "moves": [
+          "Blizzard",
+          "Psychic",
+          "Recover",
+          "Thunder Wave"
+        ],
+        "species": "Starmie"
+      },
+      {
+        "moves": [
+          "Ice Beam",
+          "Sing",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Clamp",
+          "Explosion",
+          "Rest"
+        ],
+        "species": "Cloyster"
+      },
+      {
+        "moves": [
+          "Double Kick",
+          "Rest",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Jolteon"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Reflect",
+          "Rest"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Fire Blast",
+          "Hyper Beam"
+        ],
+        "species": "Tauros"
+      }
+    ],
+    "name": "Starmie + Cloyster + Jolteon"
+  },
+  {
+    "author": "emma",
+    "data": [
+      {
+        "moves": [
+          "Blizzard",
+          "Psychic",
+          "Recover",
+          "Thunder Wave"
+        ],
+        "species": "Starmie"
+      },
+      {
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Alakazam"
+      },
+      {
+        "moves": [
+          "Ice Beam",
+          "Sing",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Clamp",
+          "Explosion",
+          "Rest"
+        ],
+        "species": "Cloyster"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Hyper Beam",
+          "Reflect",
+          "Rest"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam"
+        ],
+        "species": "Tauros"
+      }
+    ],
+    "name": "Starmie + Cloyster + Alakazam"
+  },
+  {
+    "author": "emma",
+    "data": [
+      {
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Alakazam"
+      },
+      {
+        "moves": [
+          "Ice Beam",
+          "Sing",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Rock Slide",
+          "Substitute"
+        ],
+        "species": "Rhydon"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Ice Beam",
+          "Reflect",
+          "Rest"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Recover",
+          "Surf",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Starmie"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam"
+        ],
+        "species": "Tauros"
+      }
+    ],
+    "name": "Alakazam + Starmie + Rhydon"
+  },
+  {
+    "data": [
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Starmie"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Counter",
+          "Ice Beam",
+          "Sing",
+          "Soft-Boiled"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Rock Slide",
+          "Substitute"
+        ],
+        "species": "Rhydon"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Amnesia",
+          "Rest",
+          "Surf",
+          "Thunder Wave"
+        ],
+        "species": "Slowbro"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Hyper Beam",
+          "Reflect",
+          "Rest"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam"
+        ],
+        "species": "Tauros"
+      }
+    ],
+    "name": "MieBroDon"
+  },
+  {
+    "data": [
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Blizzard",
+          "Recover",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Starmie"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Alakazam"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Ice Beam",
+          "Sing",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Clamp",
+          "Explosion",
+          "Rest"
+        ],
+        "species": "Cloyster"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Hyper Beam",
+          "Reflect",
+          "Rest"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Hyper Beam",
+          "Thunderbolt"
+        ],
+        "species": "Tauros"
+      }
+    ],
+    "name": "MieCloyZam"
+  },
+  {
+    "data": [
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Blizzard",
+          "Recover",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Starmie"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Ice Beam",
+          "Sing",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Clamp",
+          "Explosion",
+          "Rest"
+        ],
+        "species": "Cloyster"
+      },
+      {
+        "moves": [
+          "Double Kick",
+          "Rest",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Jolteon"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Hyper Beam",
+          "Reflect",
+          "Rest"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam"
+        ],
+        "species": "Tauros"
+      }
+    ],
+    "name": "MieJoltCloy"
+  },
+  {
+    "data": [
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Alakazam"
+      },
+      {
+        "moves": [
+          "Ice Beam",
+          "Soft-Boiled",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Explosion",
+          "Psychic",
+          "Sleep Powder"
+        ],
+        "species": "Exeggutor"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Hyper Beam",
+          "Sing",
+          "Thunderbolt"
+        ],
+        "species": "Lapras"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Hyper Beam",
+          "Reflect",
+          "Rest"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam"
+        ],
+        "species": "Tauros"
+      }
+    ],
+    "name": "ZamEggLap"
+  },
+  {
+    "data": [
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Alakazam"
+      },
+      {
+        "moves": [
+          "Ice Beam",
+          "Soft-Boiled",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Explosion",
+          "Psychic",
+          "Sleep Powder"
+        ],
+        "species": "Exeggutor"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Amnesia",
+          "Rest",
+          "Surf",
+          "Thunder Wave"
+        ],
+        "species": "Slowbro"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Hyper Beam",
+          "Reflect",
+          "Rest"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam"
+        ],
+        "species": "Tauros"
+      }
+    ],
+    "name": "ZamEggBro"
+  },
+  {
+    "data": [
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Alakazam"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Reflect",
+          "Seismic Toss",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Explosion",
+          "Psychic",
+          "Sleep Powder"
+        ],
+        "species": "Exeggutor"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam",
+          "Self-Destruct"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam"
+        ],
+        "species": "Tauros"
+      },
+      {
+        "moves": [
+          "Agility",
+          "Drill Peck",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Zapdos"
+      }
+    ],
+    "name": "ZamEggDos"
+  },
+  {
+    "data": [
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Blizzard",
+          "Psychic",
+          "Recover",
+          "Thunder Wave"
+        ],
+        "species": "Starmie"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Ice Beam",
+          "Soft-Boiled",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Explosion",
+          "Psychic",
+          "Sleep Powder"
+        ],
+        "species": "Exeggutor"
+      },
+      {
+        "moves": [
+          "Explosion",
+          "Hypnosis",
+          "Night Shade",
+          "Thunderbolt"
+        ],
+        "species": "Gengar"
+      },
+      {
+        "moves": [
+          "Amnesia",
+          "Blizzard",
+          "Body Slam",
+          "Rest"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam"
+        ],
+        "species": "Tauros"
+      }
+    ],
+    "name": "MieEggGar"
+  },
+  {
+    "data": [
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Blizzard",
+          "Psychic",
+          "Recover",
+          "Thunder Wave"
+        ],
+        "species": "Starmie"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Ice Beam",
+          "Soft-Boiled",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Explosion",
+          "Psychic",
+          "Sleep Powder"
+        ],
+        "species": "Exeggutor"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Rest",
+          "Substitute"
+        ],
+        "species": "Rhydon"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Hyper Beam",
+          "Reflect",
+          "Rest"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam"
+        ],
+        "species": "Tauros"
+      }
+    ],
+    "name": "MieEggDon"
+  },
+  {
+    "data": [
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Recover",
+          "Surf",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Starmie"
+      },
+      {
+        "moves": [
+          "Counter",
+          "Ice Beam",
+          "Soft-Boiled",
+          "Thunderbolt"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Explosion",
+          "Psychic",
+          "Sleep Powder"
+        ],
+        "species": "Exeggutor"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Reflect",
+          "Rest"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam"
+        ],
+        "species": "Tauros"
+      },
+      {
+        "moves": [
+          "Agility",
+          "Drill Peck",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Zapdos"
+      }
+    ],
+    "name": "MieEggDos"
+  },
+  {
+    "data": [
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Blizzard",
+          "Psychic",
+          "Recover",
+          "Thunder Wave"
+        ],
+        "species": "Starmie"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Alakazam"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Ice Beam",
+          "Soft-Boiled",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Double-Edge",
+          "Explosion",
+          "Psychic",
+          "Sleep Powder"
+        ],
+        "species": "Exeggutor"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Hyper Beam",
+          "Reflect",
+          "Rest"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam"
+        ],
+        "species": "Tauros"
+      }
+    ],
+    "name": "MieEggZam"
+  },
+  {
+    "data": [
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Blizzard",
+          "Lovely Kiss",
+          "Psychic",
+          "Rest"
+        ],
+        "species": "Jynx"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Reflect",
+          "Seismic Toss",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Rock Slide",
+          "Substitute"
+        ],
+        "species": "Rhydon"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Hyper Beam",
+          "Reflect",
+          "Rest"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Starmie"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Hyper Beam",
+          "Thunderbolt"
+        ],
+        "species": "Tauros"
+      }
+    ],
+    "name": "JynxMieDon"
+  },
+  {
+    "data": [
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Blizzard",
+          "Lovely Kiss",
+          "Psychic",
+          "Rest"
+        ],
+        "species": "Jynx"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Counter",
+          "Ice Beam",
+          "Soft-Boiled",
+          "Thunderbolt"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Double Kick",
+          "Rest",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Jolteon"
+      },
+      {
+        "moves": [
+          "Amnesia",
+          "Ice Beam",
+          "Reflect",
+          "Rest"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Blizzard",
+          "Psychic",
+          "Recover",
+          "Thunder Wave"
+        ],
+        "species": "Starmie"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Fire Blast",
+          "Hyper Beam"
+        ],
+        "species": "Tauros"
+      }
+    ],
+    "name": "JynxMieJolt"
+  },
+  {
+    "data": [
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Blizzard",
+          "Lovely Kiss",
+          "Psychic",
+          "Rest"
+        ],
+        "species": "Jynx"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Alakazam"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Reflect",
+          "Seismic Toss",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Hyper Beam",
+          "Reflect",
+          "Rest"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Starmie"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Hyper Beam",
+          "Thunderbolt"
+        ],
+        "species": "Tauros"
+      }
+    ],
+    "name": "JynxMieZam"
+  },
+  {
+    "data": [
+      {
+        "moves": [
+          "Explosion",
+          "Hypnosis",
+          "Night Shade",
+          "Thunderbolt"
+        ],
+        "species": "Gengar"
+      },
+      {
+        "moves": [
+          "Agility",
+          "Blizzard",
+          "Double-Edge",
+          "Hyper Beam"
+        ],
+        "species": "Articuno"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Counter",
+          "Ice Beam",
+          "Sing",
+          "Soft-Boiled"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Reflect",
+          "Rest",
+          "Self-Destruct"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Hyper Beam",
+          "Thunderbolt"
+        ],
+        "species": "Tauros"
+      },
+      {
+        "moves": [
+          "Drill Peck",
+          "Hyper Beam",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Zapdos"
+      }
+    ],
+    "name": "GarZapCuno"
+  },
+  {
+    "data": [
+      {
+        "moves": [
+          "Explosion",
+          "Hypnosis",
+          "Night Shade",
+          "Thunderbolt"
+        ],
+        "species": "Gengar"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Alakazam"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Ice Beam",
+          "Sing",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "moves": [
+          "Body Slam",
+          "Hyper Beam",
+          "Reflect",
+          "Rest"
+        ],
+        "species": "Snorlax"
+      },
+      {
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 3
+        },
+        "moves": [
+          "Recover",
+          "Surf",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Starmie"
+      },
+      {
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Earthquake",
+          "Hyper Beam"
+        ],
+        "species": "Tauros"
+      }
+    ],
+    "name": "GarMieZam"
+  }
+]

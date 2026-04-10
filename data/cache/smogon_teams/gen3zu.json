@@ -1,0 +1,257 @@
+[
+  {
+    "author": "bp",
+    "data": [
+      {
+        "ability": "Blaze",
+        "evs": {
+          "atk": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Charcoal",
+        "ivs": {
+          "atk": 30,
+          "def": 30,
+          "spa": 30
+        },
+        "moves": [
+          "Fire Blast",
+          "Hidden Power Water",
+          "Quick Attack",
+          "Toxic"
+        ],
+        "nature": "Hasty",
+        "species": "Cyndaquil"
+      },
+      {
+        "ability": "Cute Charm",
+        "evs": {
+          "def": 4,
+          "hp": 252,
+          "spd": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Body Slam",
+          "Heal Bell",
+          "Protect",
+          "Wish"
+        ],
+        "nature": "Careful",
+        "species": "Delcatty"
+      },
+      {
+        "ability": "Static",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "gender": "F",
+        "item": "Lum Berry",
+        "ivs": {
+          "atk": 2,
+          "spa": 30
+        },
+        "moves": [
+          "Fire Punch",
+          "Hidden Power Grass",
+          "Thunderbolt",
+          "Toxic"
+        ],
+        "nature": "Timid",
+        "species": "Elekid"
+      },
+      {
+        "ability": "Sticky Hold",
+        "evs": {
+          "atk": 4,
+          "hp": 252,
+          "spd": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Curse",
+          "Rest",
+          "Sleep Talk",
+          "Sludge Bomb"
+        ],
+        "nature": "Careful",
+        "species": "Grimer"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 252,
+          "hp": 248,
+          "spe": 8
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 30,
+          "spa": 30
+        },
+        "moves": [
+          "Hidden Power Grass",
+          "Pain Split",
+          "Sludge Bomb",
+          "Will-O-Wisp"
+        ],
+        "nature": "Impish",
+        "species": "Koffing"
+      },
+      {
+        "ability": "Lightning Rod",
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Megahorn",
+          "Protect",
+          "Rock Slide"
+        ],
+        "nature": "Jolly",
+        "species": "Rhyhorn"
+      }
+    ],
+    "name": "Grimer Lead Quil"
+  },
+  {
+    "author": "bp",
+    "data": [
+      {
+        "ability": "Compound Eyes",
+        "evs": {
+          "hp": 252,
+          "spa": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Lum Berry",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Giga Drain",
+          "Morning Sun",
+          "Psychic",
+          "Sleep Powder"
+        ],
+        "nature": "Timid",
+        "species": "Butterfree"
+      },
+      {
+        "ability": "Run Away",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "happiness": 255,
+        "item": "Choice Band",
+        "moves": [
+          "Baton Pass",
+          "Brick Break",
+          "Double-Edge",
+          "Return"
+        ],
+        "nature": "Jolly",
+        "species": "Aipom"
+      },
+      {
+        "ability": "Forecast",
+        "evs": {
+          "atk": 112,
+          "hp": 248,
+          "spd": 120,
+          "spe": 28
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Double-Edge",
+          "Flamethrower",
+          "Protect",
+          "Thunderbolt"
+        ],
+        "nature": "Brave",
+        "species": "Castform"
+      },
+      {
+        "ability": "Static",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "F",
+        "item": "Lum Berry",
+        "ivs": {
+          "atk": 2,
+          "spa": 30
+        },
+        "moves": [
+          "Fire Punch",
+          "Hidden Power Grass",
+          "Thunderbolt",
+          "Toxic"
+        ],
+        "nature": "Timid",
+        "species": "Elekid"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 252,
+          "hp": 248,
+          "spa": 8
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 30,
+          "spa": 30
+        },
+        "moves": [
+          "Hidden Power Grass",
+          "Pain Split",
+          "Sludge Bomb",
+          "Will-O-Wisp"
+        ],
+        "nature": "Impish",
+        "species": "Koffing"
+      },
+      {
+        "ability": "Lightning Rod",
+        "evs": {
+          "atk": 52,
+          "hp": 112,
+          "spd": 220,
+          "spe": 124
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Megahorn",
+          "Protect",
+          "Rock Slide"
+        ],
+        "nature": "Careful",
+        "species": "Rhyhorn"
+      }
+    ],
+    "name": "The Big 3"
+  }
+]

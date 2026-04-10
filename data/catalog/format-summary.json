@@ -1,0 +1,386 @@
+{
+  "gen1lc": {
+    "teamEntries": 573,
+    "teamFileBytes": 4359
+  },
+  "gen1lcl100": {
+    "teamEntries": 955,
+    "teamFileBytes": 9775
+  },
+  "gen1middlecup": {
+    "teamEntries": 560,
+    "teamFileBytes": 4233
+  },
+  "gen1monotype": {
+    "teamEntries": 1156,
+    "teamFileBytes": 6860
+  },
+  "gen1nintendocup1997": {
+    "teamEntries": 830,
+    "teamFileBytes": 5171
+  },
+  "gen1nu": {
+    "teamEntries": 1015,
+    "teamFileBytes": 9638
+  },
+  "gen1ou": {
+    "teamEntries": 1238,
+    "teamFileBytes": 21447
+  },
+  "gen1stadiumou": {
+    "teamEntries": 971,
+    "teamFileBytes": 8292
+  },
+  "gen1tradebacksou": {
+    "teamEntries": 630,
+    "teamFileBytes": 3290
+  },
+  "gen1ubers": {
+    "teamEntries": 1122,
+    "teamFileBytes": 10781
+  },
+  "gen1uu": {
+    "teamEntries": 984,
+    "teamFileBytes": 11096
+  },
+  "gen2lc": {
+    "teamEntries": 792,
+    "teamFileBytes": 4803
+  },
+  "gen2nu": {
+    "teamEntries": 1411,
+    "teamFileBytes": 15071
+  },
+  "gen2ou": {
+    "teamEntries": 1753,
+    "teamFileBytes": 16627
+  },
+  "gen2pu": {
+    "teamEntries": 391,
+    "teamFileBytes": 893
+  },
+  "gen2ubers": {
+    "teamEntries": 948,
+    "teamFileBytes": 6900
+  },
+  "gen2uu": {
+    "teamEntries": 1003,
+    "teamFileBytes": 7227
+  },
+  "gen2zu": {
+    "teamEntries": 786,
+    "teamFileBytes": 3733
+  },
+  "gen3lc": {
+    "teamEntries": 850,
+    "teamFileBytes": 3078
+  },
+  "gen3nu": {
+    "teamEntries": 1518,
+    "teamFileBytes": 9201
+  },
+  "gen3ou": {
+    "teamEntries": 4062,
+    "teamFileBytes": 36157
+  },
+  "gen3pu": {
+    "teamEntries": 1263,
+    "teamFileBytes": 7559
+  },
+  "gen3ubers": {
+    "teamEntries": 2031,
+    "teamFileBytes": 12906
+  },
+  "gen3uu": {
+    "teamEntries": 1583,
+    "teamFileBytes": 12260
+  },
+  "gen3zu": {
+    "teamEntries": 791,
+    "teamFileBytes": 3015
+  },
+  "gen4cap": {
+    "teamEntries": 2131,
+    "teamFileBytes": 10044
+  },
+  "gen4lc": {
+    "teamEntries": 1224,
+    "teamFileBytes": 7944
+  },
+  "gen4monotype": {
+    "teamEntries": 1953,
+    "teamFileBytes": 10061
+  },
+  "gen4nu": {
+    "teamEntries": 2332,
+    "teamFileBytes": 14403
+  },
+  "gen4ou": {
+    "teamEntries": 3428,
+    "teamFileBytes": 25519
+  },
+  "gen4pu": {
+    "teamEntries": 1565,
+    "teamFileBytes": 7583
+  },
+  "gen4ubers": {
+    "teamEntries": 1539,
+    "teamFileBytes": 8371
+  },
+  "gen4uu": {
+    "teamEntries": 2329,
+    "teamFileBytes": 13147
+  },
+  "gen4zu": {
+    "teamEntries": 1372,
+    "teamFileBytes": 6058
+  },
+  "gen5cap": {
+    "teamEntries": 2343,
+    "teamFileBytes": 14071
+  },
+  "gen5doublesou": {
+    "teamEntries": 1858,
+    "teamFileBytes": 10223
+  },
+  "gen5lc": {
+    "teamEntries": 1689,
+    "teamFileBytes": 10364
+  },
+  "gen5monotype": {
+    "teamEntries": 3803,
+    "teamFileBytes": 23384
+  },
+  "gen5nu": {
+    "teamEntries": 2268,
+    "teamFileBytes": 13023
+  },
+  "gen5ou": {
+    "teamEntries": 2842,
+    "teamFileBytes": 19214
+  },
+  "gen5pu": {
+    "teamEntries": 1748,
+    "teamFileBytes": 8723
+  },
+  "gen5ru": {
+    "teamEntries": 1354,
+    "teamFileBytes": 5914
+  },
+  "gen5ubers": {
+    "teamEntries": 3549,
+    "teamFileBytes": 27610
+  },
+  "gen5uu": {
+    "teamEntries": 2231,
+    "teamFileBytes": 12698
+  },
+  "gen5zu": {
+    "teamEntries": 2005,
+    "teamFileBytes": 10019
+  },
+  "gen6cap": {
+    "teamEntries": 1203,
+    "teamFileBytes": 4289
+  },
+  "gen6doublesou": {
+    "teamEntries": 2267,
+    "teamFileBytes": 11850
+  },
+  "gen6lc": {
+    "teamEntries": 2324,
+    "teamFileBytes": 14814
+  },
+  "gen6monotype": {
+    "teamEntries": 2187,
+    "teamFileBytes": 9995
+  },
+  "gen6nu": {
+    "teamEntries": 1678,
+    "teamFileBytes": 8521
+  },
+  "gen6ou": {
+    "teamEntries": 3296,
+    "teamFileBytes": 20450
+  },
+  "gen6pu": {
+    "teamEntries": 1848,
+    "teamFileBytes": 10335
+  },
+  "gen6ru": {
+    "teamEntries": 1611,
+    "teamFileBytes": 7295
+  },
+  "gen6ubers": {
+    "teamEntries": 1799,
+    "teamFileBytes": 8340
+  },
+  "gen6uu": {
+    "teamEntries": 1201,
+    "teamFileBytes": 5605
+  },
+  "gen6zu": {
+    "teamEntries": 2704,
+    "teamFileBytes": 20055
+  },
+  "gen7anythinggoes": {
+    "teamEntries": 1345,
+    "teamFileBytes": 5631
+  },
+  "gen7battlespotdoubles": {
+    "teamEntries": 918,
+    "teamFileBytes": 3077
+  },
+  "gen7battlespotsingles": {
+    "teamEntries": 1451,
+    "teamFileBytes": 6003
+  },
+  "gen7cap": {
+    "teamEntries": 1446,
+    "teamFileBytes": 5738
+  },
+  "gen7doublesou": {
+    "teamEntries": 2507,
+    "teamFileBytes": 13518
+  },
+  "gen7lc": {
+    "teamEntries": 2271,
+    "teamFileBytes": 14734
+  },
+  "gen7letsgoou": {
+    "teamEntries": 1084,
+    "teamFileBytes": 6318
+  },
+  "gen7monotype": {
+    "teamEntries": 5571,
+    "teamFileBytes": 41340
+  },
+  "gen7nu": {
+    "teamEntries": 1860,
+    "teamFileBytes": 10054
+  },
+  "gen7ou": {
+    "teamEntries": 4870,
+    "teamFileBytes": 37452
+  },
+  "gen7pu": {
+    "teamEntries": 1554,
+    "teamFileBytes": 7207
+  },
+  "gen7ru": {
+    "teamEntries": 1662,
+    "teamFileBytes": 7329
+  },
+  "gen7ubers": {
+    "teamEntries": 2097,
+    "teamFileBytes": 11133
+  },
+  "gen7uu": {
+    "teamEntries": 2248,
+    "teamFileBytes": 11231
+  },
+  "gen7vgc2017": {
+    "teamEntries": 4735,
+    "teamFileBytes": 36638
+  },
+  "gen7vgc2018": {
+    "teamEntries": 2690,
+    "teamFileBytes": 15281
+  },
+  "gen7zu": {
+    "teamEntries": 824,
+    "teamFileBytes": 2714
+  },
+  "gen8bdspou": {
+    "teamEntries": 2736,
+    "teamFileBytes": 21192
+  },
+  "gen8cap": {
+    "teamEntries": 1695,
+    "teamFileBytes": 7239
+  },
+  "gen8doublesou": {
+    "teamEntries": 2166,
+    "teamFileBytes": 10289
+  },
+  "gen8nationaldex": {
+    "teamEntries": 2002,
+    "teamFileBytes": 9906
+  },
+  "gen8nationaldexuu": {
+    "teamEntries": 2383,
+    "teamFileBytes": 13037
+  },
+  "gen8nu": {
+    "teamEntries": 2385,
+    "teamFileBytes": 12725
+  },
+  "gen8ou": {
+    "teamEntries": 2883,
+    "teamFileBytes": 16294
+  },
+  "gen8ubers": {
+    "teamEntries": 1977,
+    "teamFileBytes": 13888
+  },
+  "gen8uu": {
+    "teamEntries": 4257,
+    "teamFileBytes": 34768
+  },
+  "gen8vgc2022": {
+    "teamEntries": 2179,
+    "teamFileBytes": 11142
+  },
+  "gen9anythinggoes": {
+    "teamEntries": 1932,
+    "teamFileBytes": 11045
+  },
+  "gen9cap": {
+    "teamEntries": 2674,
+    "teamFileBytes": 16004
+  },
+  "gen9doublesou": {
+    "teamEntries": 2466,
+    "teamFileBytes": 11579
+  },
+  "gen9lc": {
+    "teamEntries": 1677,
+    "teamFileBytes": 11573
+  },
+  "gen9monotype": {
+    "teamEntries": 3310,
+    "teamFileBytes": 17688
+  },
+  "gen9nationaldex": {
+    "teamEntries": 4068,
+    "teamFileBytes": 28155
+  },
+  "gen9nationaldexmonotype": {
+    "teamEntries": 6602,
+    "teamFileBytes": 49023
+  },
+  "gen9nationaldexubers": {
+    "teamEntries": 1592,
+    "teamFileBytes": 7476
+  },
+  "gen9nu": {
+    "teamEntries": 1579,
+    "teamFileBytes": 7782
+  },
+  "gen9ou": {
+    "teamEntries": 2928,
+    "teamFileBytes": 16019
+  },
+  "gen9pu": {
+    "teamEntries": 3004,
+    "teamFileBytes": 18574
+  },
+  "gen9ru": {
+    "teamEntries": 1391,
+    "teamFileBytes": 6182
+  },
+  "gen9uu": {
+    "teamEntries": 2293,
+    "teamFileBytes": 17600
+  }
+}

@@ -1,0 +1,419 @@
+[
+  {
+    "data": [
+      {
+        "gender": "M",
+        "item": "Berry Juice",
+        "ivs": {
+          "atk": 27,
+          "def": 27
+        },
+        "level": 5,
+        "moves": [
+          "Ancient Power",
+          "Earthquake",
+          "Hidden Power Bug",
+          "Thief"
+        ],
+        "species": "Diglett"
+      },
+      {
+        "gender": "M",
+        "item": "Berry Juice",
+        "level": 5,
+        "moves": [
+          "Hydro Pump",
+          "Ice Beam",
+          "Thunder",
+          "Thunder Wave"
+        ],
+        "species": "Chinchou"
+      },
+      {
+        "gender": "M",
+        "item": "Berry Juice",
+        "level": 5,
+        "moves": [
+          "Explosion",
+          "Giga Drain",
+          "Psychic",
+          "Sleep Powder"
+        ],
+        "species": "Exeggcute"
+      },
+      {
+        "gender": "M",
+        "item": "Berry Juice",
+        "ivs": {
+          "atk": 29,
+          "def": 29,
+          "hp": 7
+        },
+        "level": 5,
+        "moves": [
+          "Crunch",
+          "Fire Blast",
+          "Hidden Power Grass",
+          "Pursuit"
+        ],
+        "species": "Houndour"
+      },
+      {
+        "gender": "M",
+        "item": "Berry Juice",
+        "ivs": {
+          "atk": 29,
+          "def": 29,
+          "hp": 7
+        },
+        "level": 5,
+        "moves": [
+          "Cross Chop",
+          "Fire Blast",
+          "Hidden Power Grass",
+          "Thief"
+        ],
+        "species": "Magby"
+      },
+      {
+        "item": "Miracle Berry",
+        "level": 5,
+        "moves": [
+          "Ice Beam",
+          "Sharpen",
+          "Thunder Wave",
+          "Tri Attack"
+        ],
+        "species": "Porygon"
+      }
+    ],
+    "name": "LC Sample 1"
+  },
+  {
+    "data": [
+      {
+        "gender": "M",
+        "item": "Berry Juice",
+        "level": 5,
+        "moves": [
+          "Giga Drain",
+          "Hypnosis",
+          "Thief",
+          "Thunderbolt"
+        ],
+        "species": "Gastly"
+      },
+      {
+        "gender": "M",
+        "item": "Berry Juice",
+        "level": 5,
+        "moves": [
+          "Cross Chop",
+          "Ice Punch",
+          "Thief",
+          "Thunder"
+        ],
+        "species": "Elekid"
+      },
+      {
+        "gender": "M",
+        "item": "Berry Juice",
+        "level": 5,
+        "moves": [
+          "Crunch",
+          "Fire Blast",
+          "Solar Beam",
+          "Sunny Day"
+        ],
+        "species": "Houndour"
+      },
+      {
+        "gender": "M",
+        "item": "Berry Juice",
+        "ivs": {
+          "atk": 27,
+          "def": 27
+        },
+        "level": 5,
+        "moves": [
+          "Cross Chop",
+          "Curse",
+          "Earthquake",
+          "Hidden Power Bug"
+        ],
+        "species": "Machop"
+      },
+      {
+        "item": "Miracle Berry",
+        "level": 5,
+        "moves": [
+          "Ice Beam",
+          "Sharpen",
+          "Thunder Wave",
+          "Tri Attack"
+        ],
+        "species": "Porygon"
+      },
+      {
+        "item": "Miracle Berry",
+        "level": 5,
+        "moves": [
+          "Ice Beam",
+          "Surf",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Staryu"
+      }
+    ],
+    "name": "LC Sample 2"
+  },
+  {
+    "data": [
+      {
+        "item": "Miracle Berry",
+        "level": 5,
+        "moves": [
+          "Ice Beam",
+          "Surf",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Staryu"
+      },
+      {
+        "gender": "M",
+        "item": "Berry Juice",
+        "level": 5,
+        "moves": [
+          "Encore",
+          "Ice Punch",
+          "Psychic",
+          "Thief"
+        ],
+        "species": "Abra"
+      },
+      {
+        "item": "Berry Juice",
+        "level": 5,
+        "moves": [
+          "Body Slam",
+          "Ice Beam",
+          "Soft-Boiled",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "gender": "M",
+        "item": "Thick Club",
+        "ivs": {
+          "atk": 27,
+          "def": 27
+        },
+        "level": 5,
+        "moves": [
+          "Earthquake",
+          "Hidden Power Bug",
+          "Rock Slide",
+          "Swords Dance"
+        ],
+        "species": "Cubone"
+      },
+      {
+        "gender": "M",
+        "item": "Berry Juice",
+        "ivs": {
+          "atk": 27,
+          "def": 27
+        },
+        "level": 5,
+        "moves": [
+          "Cross Chop",
+          "Curse",
+          "Earthquake",
+          "Hidden Power Bug"
+        ],
+        "species": "Machop"
+      },
+      {
+        "gender": "M",
+        "item": "Berry Juice",
+        "level": 5,
+        "moves": [
+          "Cross Chop",
+          "Fire Blast",
+          "Thief",
+          "Thunder Punch"
+        ],
+        "species": "Magby"
+      }
+    ],
+    "name": "LC Sample 3"
+  },
+  {
+    "data": [
+      {
+        "gender": "M",
+        "item": "Berry Juice",
+        "level": 5,
+        "moves": [
+          "Giga Drain",
+          "Psychic",
+          "Sleep Powder",
+          "Stun Spore"
+        ],
+        "species": "Exeggcute"
+      },
+      {
+        "item": "Berry Juice",
+        "level": 5,
+        "moves": [
+          "Ice Beam",
+          "Soft-Boiled",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Chansey"
+      },
+      {
+        "gender": "M",
+        "level": 5,
+        "moves": [
+          "Cross Chop",
+          "Ice Punch",
+          "Thief",
+          "Thunderbolt"
+        ],
+        "species": "Elekid"
+      },
+      {
+        "gender": "M",
+        "item": "Berry Juice",
+        "ivs": {
+          "atk": 29,
+          "def": 29,
+          "hp": 7
+        },
+        "level": 5,
+        "moves": [
+          "Crunch",
+          "Fire Blast",
+          "Hidden Power Grass",
+          "Pursuit"
+        ],
+        "species": "Houndour"
+      },
+      {
+        "gender": "M",
+        "item": "Berry Juice",
+        "ivs": {
+          "atk": 27,
+          "def": 27
+        },
+        "level": 5,
+        "moves": [
+          "Cross Chop",
+          "Curse",
+          "Earthquake",
+          "Hidden Power Bug"
+        ],
+        "species": "Machop"
+      },
+      {
+        "item": "Berry Juice",
+        "level": 5,
+        "moves": [
+          "Ice Beam",
+          "Surf",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Staryu"
+      }
+    ],
+    "name": "LC Sample 4"
+  },
+  {
+    "data": [
+      {
+        "gender": "M",
+        "item": "Berry Juice",
+        "level": 5,
+        "moves": [
+          "Cross Chop",
+          "Ice Punch",
+          "Thief",
+          "Thunder"
+        ],
+        "species": "Elekid"
+      },
+      {
+        "gender": "M",
+        "happiness": 255,
+        "item": "Berry Juice",
+        "level": 5,
+        "moves": [
+          "Drill Peck",
+          "Quick Attack",
+          "Return",
+          "Thief"
+        ],
+        "species": "Doduo"
+      },
+      {
+        "gender": "M",
+        "item": "Berry Juice",
+        "level": 5,
+        "moves": [
+          "Fire Punch",
+          "Light Screen",
+          "Psychic",
+          "Thunder Wave"
+        ],
+        "species": "Drowzee"
+      },
+      {
+        "gender": "M",
+        "item": "Berry Juice",
+        "ivs": {
+          "atk": 27,
+          "def": 27
+        },
+        "level": 5,
+        "moves": [
+          "Cross Chop",
+          "Earthquake",
+          "Encore",
+          "Hidden Power Bug"
+        ],
+        "species": "Machop"
+      },
+      {
+        "gender": "M",
+        "item": "Berry Juice",
+        "level": 5,
+        "moves": [
+          "Ice Beam",
+          "Lovely Kiss",
+          "Psychic",
+          "Surf"
+        ],
+        "species": "Poliwag"
+      },
+      {
+        "gender": "M",
+        "item": "Berry Juice",
+        "level": 5,
+        "moves": [
+          "Counter",
+          "Earthquake",
+          "Rapid Spin",
+          "Thief"
+        ],
+        "species": "Sandshrew"
+      }
+    ],
+    "name": "LC Sample 5"
+  }
+]

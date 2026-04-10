@@ -1,0 +1,1110 @@
+[
+  {
+    "author": "Inspirited",
+    "data": [
+      {
+        "ability": "Drizzle",
+        "evs": {
+          "def": 220,
+          "hp": 236,
+          "spa": 16,
+          "spe": 36
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Hydro Pump",
+          "Ice Beam",
+          "Thunder",
+          "Thunder Wave"
+        ],
+        "nature": "Modest",
+        "species": "Kyogre"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "atk": 252,
+          "spa": 4,
+          "spe": 252
+        },
+        "item": "Choice Band",
+        "moves": [
+          "Extreme Speed",
+          "Pursuit",
+          "Shadow Ball",
+          "Superpower"
+        ],
+        "nature": "Lonely",
+        "species": "Deoxys-Attack"
+      },
+      {
+        "ability": "Sturdy",
+        "evs": {
+          "atk": 84,
+          "hp": 248,
+          "spd": 176
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Rapid Spin",
+          "Spikes"
+        ],
+        "nature": "Impish",
+        "species": "Forretress"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "hp": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Soul Dew",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Ice Beam",
+          "Recover",
+          "Refresh",
+          "Thunder"
+        ],
+        "nature": "Modest",
+        "species": "Latios"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "hp": 204,
+          "spa": 84,
+          "spe": 220
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Ice Beam",
+          "Substitute",
+          "Thunder"
+        ],
+        "nature": "Modest",
+        "species": "Mewtwo"
+      },
+      {
+        "ability": "Immunity",
+        "evs": {
+          "atk": 140,
+          "hp": 104,
+          "spd": 252,
+          "spe": 12
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Body Slam",
+          "Curse",
+          "Protect",
+          "Shadow Ball"
+        ],
+        "nature": "Adamant",
+        "species": "Snorlax"
+      }
+    ],
+    "name": "Sub Calm Mind Mewtwo Rain Offense"
+  },
+  {
+    "author": "Ismakhil",
+    "data": [
+      {
+        "ability": "Drought",
+        "evs": {
+          "def": 24,
+          "hp": 252,
+          "spd": 232
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "def": 30,
+          "spd": 30
+        },
+        "moves": [
+          "Earthquake",
+          "Hidden Power Ghost",
+          "Protect",
+          "Toxic"
+        ],
+        "nature": "Careful",
+        "species": "Groudon"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "def": 252,
+          "hp": 8,
+          "spd": 248
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Heal Bell",
+          "Seismic Toss",
+          "Soft-Boiled",
+          "Toxic"
+        ],
+        "nature": "Careful",
+        "species": "Blissey"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "atk": 252,
+          "spa": 4,
+          "spe": 252
+        },
+        "item": "Spell Tag",
+        "moves": [
+          "Extreme Speed",
+          "Fire Punch",
+          "Shadow Ball",
+          "Superpower"
+        ],
+        "nature": "Lonely",
+        "species": "Deoxys-Attack"
+      },
+      {
+        "ability": "Sturdy",
+        "evs": {
+          "hp": 252,
+          "spd": 244,
+          "spe": 12
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 30,
+          "spa": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Explosion",
+          "Hidden Power Fire",
+          "Rapid Spin",
+          "Spikes"
+        ],
+        "nature": "Calm",
+        "species": "Forretress"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "atk": 80,
+          "def": 92,
+          "hp": 252,
+          "spd": 84
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Recover",
+          "Sacred Fire",
+          "Shadow Ball",
+          "Toxic"
+        ],
+        "nature": "Careful",
+        "species": "Ho-Oh"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 192,
+          "hp": 252,
+          "spe": 64
+        },
+        "item": "Soul Dew",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Ice Beam",
+          "Recover",
+          "Thunder"
+        ],
+        "nature": "Bold",
+        "species": "Latias"
+      }
+    ],
+    "name": "Sun Semi-Stall"
+  },
+  {
+    "author": "0kay",
+    "data": [
+      {
+        "ability": "Drizzle",
+        "evs": {
+          "def": 232,
+          "hp": 252,
+          "spe": 24
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Rest",
+          "Roar",
+          "Surf"
+        ],
+        "nature": "Bold",
+        "species": "Kyogre"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "def": 68,
+          "hp": 188,
+          "spd": 252
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Aromatherapy",
+          "Seismic Toss",
+          "Soft-Boiled",
+          "Toxic"
+        ],
+        "nature": "Calm",
+        "species": "Blissey"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "atk": 252,
+          "spa": 4,
+          "spe": 252
+        },
+        "item": "Choice Band",
+        "moves": [
+          "Extreme Speed",
+          "Pursuit",
+          "Shadow Ball",
+          "Superpower"
+        ],
+        "nature": "Lonely",
+        "species": "Deoxys-Attack"
+      },
+      {
+        "ability": "Swarm",
+        "evs": {
+          "atk": 244,
+          "hp": 12,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Salac Berry",
+        "ivs": {
+          "def": 30,
+          "spd": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Hidden Power Rock",
+          "Megahorn",
+          "Substitute",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Heracross"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "hp": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Soul Dew",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Ice Beam",
+          "Recover",
+          "Thunder"
+        ],
+        "nature": "Modest",
+        "species": "Latios"
+      },
+      {
+        "ability": "Keen Eye",
+        "evs": {
+          "def": 252,
+          "hp": 252,
+          "spd": 4
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Pursuit",
+          "Spikes",
+          "Toxic",
+          "Whirlwind"
+        ],
+        "nature": "Bold",
+        "species": "Skarmory"
+      }
+    ],
+    "name": "SubSalac Heracross Rain"
+  },
+  {
+    "author": "zf and Exiline",
+    "data": [
+      {
+        "ability": "Drizzle",
+        "evs": {
+          "def": 224,
+          "hp": 252,
+          "spe": 32
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Rest",
+          "Roar",
+          "Surf"
+        ],
+        "nature": "Bold",
+        "species": "Kyogre"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "def": 252,
+          "hp": 4,
+          "spd": 252
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Heal Bell",
+          "Seismic Toss",
+          "Soft-Boiled",
+          "Toxic"
+        ],
+        "nature": "Calm",
+        "species": "Blissey"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "def": 76,
+          "hp": 252,
+          "spd": 180
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Knock Off",
+          "Recover",
+          "Taunt",
+          "Toxic"
+        ],
+        "nature": "Calm",
+        "species": "Deoxys-Defense"
+      },
+      {
+        "ability": "Sturdy",
+        "evs": {
+          "atk": 80,
+          "hp": 252,
+          "spd": 168,
+          "spe": 8
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Rapid Spin",
+          "Spikes"
+        ],
+        "nature": "Adamant",
+        "species": "Forretress"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "hp": 160,
+          "spa": 96,
+          "spe": 252
+        },
+        "item": "Soul Dew",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Ice Beam",
+          "Recover",
+          "Thunder"
+        ],
+        "nature": "Timid",
+        "species": "Latias"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "def": 160,
+          "hp": 252,
+          "spe": 96
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Recover",
+          "Reflect",
+          "Toxic",
+          "Whirlwind"
+        ],
+        "nature": "Impish",
+        "species": "Lugia"
+      }
+    ],
+    "name": "Traditional Rain Stall"
+  },
+  {
+    "author": "0kay",
+    "data": [
+      {
+        "ability": "Pressure",
+        "evs": {
+          "def": 64,
+          "hp": 252,
+          "spd": 192
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Recover",
+          "Sacred Fire",
+          "Shadow Ball",
+          "Toxic"
+        ],
+        "nature": "Sassy",
+        "species": "Ho-Oh"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "hp": 8,
+          "spa": 252,
+          "spd": 248
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Ice Beam",
+          "Soft-Boiled",
+          "Thunder"
+        ],
+        "nature": "Modest",
+        "species": "Blissey"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "atk": 252,
+          "spa": 4,
+          "spe": 252
+        },
+        "item": "Spell Tag",
+        "moves": [
+          "Extreme Speed",
+          "Shadow Ball",
+          "Solar Beam",
+          "Superpower"
+        ],
+        "nature": "Naughty",
+        "species": "Deoxys-Attack"
+      },
+      {
+        "ability": "Drought",
+        "evs": {
+          "def": 24,
+          "hp": 252,
+          "spd": 216,
+          "spe": 16
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Roar",
+          "Rock Slide",
+          "Toxic"
+        ],
+        "nature": "Impish",
+        "species": "Groudon"
+      },
+      {
+        "ability": "Magnet Pull",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "spa": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Hidden Power Fire",
+          "Thunderbolt",
+          "Thunder Wave",
+          "Toxic"
+        ],
+        "nature": "Timid",
+        "species": "Magneton"
+      },
+      {
+        "ability": "Chlorophyll",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Poison Barb",
+        "ivs": {
+          "def": 30,
+          "spa": 30,
+          "spd": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Hidden Power Fighting",
+          "Sleep Powder",
+          "Sludge Bomb",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Victreebel"
+      }
+    ],
+    "name": "Victreebel Balance"
+  },
+  {
+    "author": "ADV Ubers Community",
+    "data": [
+      {
+        "ability": "Synchronize",
+        "evs": {
+          "def": 80,
+          "hp": 252,
+          "spa": 104,
+          "spd": 52,
+          "spe": 20
+        },
+        "item": "Lum Berry",
+        "moves": [
+          "Explosion",
+          "Fire Blast",
+          "Thunder",
+          "Thunder Wave"
+        ],
+        "nature": "Modest",
+        "species": "Mew"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Choice Band",
+        "moves": [
+          "Extreme Speed",
+          "Rock Slide",
+          "Shadow Ball",
+          "Superpower"
+        ],
+        "nature": "Adamant",
+        "species": "Deoxys-Attack"
+      },
+      {
+        "ability": "Drought",
+        "evs": {
+          "atk": 252,
+          "def": 8,
+          "hp": 60,
+          "spe": 188
+        },
+        "item": "Salac Berry",
+        "ivs": {
+          "def": 30,
+          "spd": 30
+        },
+        "moves": [
+          "Earthquake",
+          "Hidden Power Ghost",
+          "Substitute",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Groudon"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "hp": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Soul Dew",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Ice Beam",
+          "Recover",
+          "Refresh",
+          "Thunder"
+        ],
+        "nature": "Modest",
+        "species": "Latios"
+      },
+      {
+        "ability": "Clear Body",
+        "evs": {
+          "atk": 236,
+          "def": 20,
+          "hp": 252
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 30,
+          "spa": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Explosion",
+          "Hidden Power Fire",
+          "Meteor Mash",
+          "Pursuit"
+        ],
+        "nature": "Brave",
+        "species": "Metagross"
+      },
+      {
+        "ability": "Immunity",
+        "evs": {
+          "atk": 252,
+          "def": 28,
+          "hp": 52,
+          "spd": 176
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "moves": [
+          "Body Slam",
+          "Fire Blast",
+          "Self-Destruct",
+          "Shadow Ball"
+        ],
+        "nature": "Brave",
+        "species": "Snorlax"
+      }
+    ],
+    "name": "Mew Offense"
+  },
+  {
+    "author": "Exiline",
+    "data": [
+      {
+        "ability": "Pressure",
+        "evs": {
+          "atk": 36,
+          "spa": 252,
+          "spe": 220
+        },
+        "item": "Lum Berry",
+        "moves": [
+          "Fire Blast",
+          "Ice Beam",
+          "Self-Destruct",
+          "Thunder"
+        ],
+        "nature": "Rash",
+        "species": "Mewtwo"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "atk": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Petaya Berry",
+        "ivs": {
+          "hp": 30
+        },
+        "moves": [
+          "Ice Beam",
+          "Substitute",
+          "Superpower",
+          "Thunder"
+        ],
+        "nature": "Naive",
+        "species": "Deoxys-Attack"
+      },
+      {
+        "ability": "Drizzle",
+        "evs": {
+          "hp": 252,
+          "spa": 152,
+          "spe": 104
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Ice Beam",
+          "Substitute",
+          "Surf"
+        ],
+        "nature": "Modest",
+        "species": "Kyogre"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Soul Dew",
+        "ivs": {
+          "atk": 2,
+          "spa": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Dragon Claw",
+          "Hidden Power Fire",
+          "Ice Beam",
+          "Thunder"
+        ],
+        "nature": "Timid",
+        "species": "Latios"
+      },
+      {
+        "ability": "Clear Body",
+        "evs": {
+          "atk": 180,
+          "def": 20,
+          "hp": 252,
+          "spd": 56
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Meteor Mash",
+          "Pursuit"
+        ],
+        "nature": "Adamant",
+        "species": "Metagross"
+      },
+      {
+        "ability": "Thick Fat",
+        "evs": {
+          "atk": 252,
+          "def": 28,
+          "hp": 52,
+          "spd": 176
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Self-Destruct",
+          "Shadow Ball"
+        ],
+        "nature": "Adamant",
+        "species": "Snorlax"
+      }
+    ],
+    "name": "Boom Spam Special Offense"
+  },
+  {
+    "author": "Terracotta",
+    "data": [
+      {
+        "ability": "Levitate",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Soul Dew",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Ice Beam",
+          "Recover",
+          "Refresh",
+          "Thunder"
+        ],
+        "nature": "Modest",
+        "species": "Latios"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "atk": 252,
+          "hp": 100,
+          "spe": 156
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "def": 30,
+          "spd": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Hidden Power Rock",
+          "Shadow Ball",
+          "Taunt",
+          "Will-O-Wisp"
+        ],
+        "nature": "Jolly",
+        "species": "Gengar"
+      },
+      {
+        "ability": "Drought",
+        "evs": {
+          "hp": 252,
+          "spd": 196,
+          "spe": 60
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Swords Dance",
+          "Thunder Wave"
+        ],
+        "nature": "Careful",
+        "species": "Groudon"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        },
+        "item": "Choice Band",
+        "ivs": {
+          "atk": 30,
+          "def": 30,
+          "hp": 30,
+          "spa": 30,
+          "spd": 30
+        },
+        "moves": [
+          "Earthquake",
+          "Hidden Power Flying",
+          "Sacred Fire",
+          "Shadow Ball"
+        ],
+        "nature": "Adamant",
+        "species": "Ho-Oh"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "atk": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Lum Berry",
+        "moves": [
+          "Calm Mind",
+          "Ice Beam",
+          "Self-Destruct",
+          "Thunder"
+        ],
+        "nature": "Hasty",
+        "species": "Mewtwo"
+      },
+      {
+        "ability": "Thick Fat",
+        "evs": {
+          "def": 132,
+          "hp": 252,
+          "spd": 124
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Amnesia",
+          "Body Slam",
+          "Curse",
+          "Rest"
+        ],
+        "nature": "Impish",
+        "species": "Snorlax"
+      }
+    ],
+    "name": "Choice Band Ho-oh + LureGar Sun Offense"
+  },
+  {
+    "author": "Holy Ghost",
+    "data": [
+      {
+        "ability": "Drizzle",
+        "evs": {
+          "def": 48,
+          "hp": 160,
+          "spa": 252,
+          "spe": 48
+        },
+        "item": "Lum Berry",
+        "moves": [
+          "Hydro Pump",
+          "Ice Beam",
+          "Thunder",
+          "Thunder Wave"
+        ],
+        "nature": "Modest",
+        "species": "Kyogre"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "def": 252,
+          "hp": 4,
+          "spd": 252
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Seismic Toss",
+          "Soft-Boiled",
+          "Toxic",
+          "Wish"
+        ],
+        "nature": "Bold",
+        "species": "Blissey"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "atk": 252,
+          "spa": 4,
+          "spe": 252
+        },
+        "item": "Spell Tag",
+        "moves": [
+          "Shadow Ball",
+          "Solar Beam",
+          "Superpower",
+          "Thunder"
+        ],
+        "nature": "Lonely",
+        "species": "Deoxys-Attack"
+      },
+      {
+        "ability": "Sturdy",
+        "evs": {
+          "atk": 92,
+          "hp": 252,
+          "spd": 164
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Rapid Spin",
+          "Spikes"
+        ],
+        "nature": "Adamant",
+        "species": "Forretress"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "hp": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Soul Dew",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Dragon Claw",
+          "Recover",
+          "Refresh",
+          "Thunder"
+        ],
+        "nature": "Modest",
+        "species": "Latios"
+      },
+      {
+        "ability": "Air Lock",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Choice Band",
+        "ivs": {
+          "atk": 30,
+          "def": 30,
+          "hp": 30,
+          "spa": 30,
+          "spd": 30
+        },
+        "moves": [
+          "Double-Edge",
+          "Extreme Speed",
+          "Hidden Power Flying",
+          "Overheat"
+        ],
+        "nature": "Adamant",
+        "species": "Rayquaza"
+      }
+    ],
+    "name": "Rayquaza Rain Bulky Offense"
+  }
+]

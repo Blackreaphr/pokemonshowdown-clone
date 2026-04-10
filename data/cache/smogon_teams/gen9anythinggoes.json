@@ -1,0 +1,855 @@
+[
+  {
+    "author": "PrimalKyogre555",
+    "data": [
+      {
+        "ability": "Pressure",
+        "evs": {
+          "hp": 252,
+          "spd": 212,
+          "spe": 44
+        },
+        "item": "Heavy-Duty Boots",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Dynamax Cannon",
+          "Recover",
+          "Toxic",
+          "Toxic Spikes"
+        ],
+        "nature": "Calm",
+        "species": "Eternatus",
+        "teraType": "Steel"
+      },
+      {
+        "ability": "Multitype",
+        "evs": {
+          "def": 252,
+          "hp": 236,
+          "spe": 20
+        },
+        "item": "Splash Plate",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Calm Mind",
+          "Judgment",
+          "Recover",
+          "Will-O-Wisp"
+        ],
+        "nature": "Bold",
+        "species": "Arceus-Water",
+        "teraType": "Poison"
+      },
+      {
+        "ability": "As One (Spectrier)",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Astral Barrage",
+          "Baton Pass",
+          "Grass Knot",
+          "Trick"
+        ],
+        "nature": "Timid",
+        "species": "Calyrex-Shadow",
+        "teraType": "Ghost"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "atk": 212,
+          "def": 28,
+          "hp": 208,
+          "spe": 60
+        },
+        "item": "Heavy-Duty Boots",
+        "moves": [
+          "Brave Bird",
+          "Earthquake",
+          "Recover",
+          "Sacred Fire"
+        ],
+        "nature": "Adamant",
+        "species": "Ho-Oh",
+        "teraType": "Fairy"
+      },
+      {
+        "ability": "Vessel of Ruin",
+        "evs": {
+          "hp": 252,
+          "spd": 252,
+          "spe": 4
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Ruination",
+          "Spikes",
+          "Whirlwind"
+        ],
+        "nature": "Careful",
+        "species": "Ting-Lu",
+        "teraType": "Grass"
+      },
+      {
+        "ability": "Intrepid Sword",
+        "evs": {
+          "atk": 216,
+          "hp": 140,
+          "spe": 152
+        },
+        "item": "Rusted Sword",
+        "moves": [
+          "Crunch",
+          "Play Rough",
+          "Swords Dance",
+          "Wild Charge"
+        ],
+        "nature": "Jolly",
+        "species": "Zacian",
+        "teraType": "Dark"
+      }
+    ],
+    "name": "waterceus"
+  },
+  {
+    "author": "TaxFraud094",
+    "data": [
+      {
+        "ability": "Vessel of Ruin",
+        "evs": {
+          "def": 4,
+          "hp": 252,
+          "spd": 252
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Ruination",
+          "Spikes",
+          "Whirlwind"
+        ],
+        "nature": "Careful",
+        "species": "Ting-Lu",
+        "teraType": "Poison"
+      },
+      {
+        "ability": "Multitype",
+        "evs": {
+          "def": 240,
+          "hp": 248,
+          "spe": 20
+        },
+        "item": "Splash Plate",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Judgment",
+          "Recover",
+          "Stealth Rock",
+          "Will-O-Wisp"
+        ],
+        "nature": "Bold",
+        "species": "Arceus-Water",
+        "teraType": "Fairy"
+      },
+      {
+        "ability": "As One (Spectrier)",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Heavy-Duty Boots",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Astral Barrage",
+          "Encore",
+          "Grass Knot",
+          "Nasty Plot"
+        ],
+        "nature": "Timid",
+        "species": "Calyrex-Shadow",
+        "teraType": "Stellar"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "atk": 212,
+          "def": 28,
+          "hp": 208,
+          "spe": 60
+        },
+        "item": "Heavy-Duty Boots",
+        "moves": [
+          "Brave Bird",
+          "Earthquake",
+          "Recover",
+          "Sacred Fire"
+        ],
+        "nature": "Adamant",
+        "species": "Ho-Oh",
+        "teraType": "Ground"
+      },
+      {
+        "ability": "Orichalcum Pulse",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "hpType": "Ghost",
+        "item": "Choice Scarf",
+        "moves": [
+          "Flare Blitz",
+          "Low Kick",
+          "Outrage",
+          "U-turn"
+        ],
+        "nature": "Adamant",
+        "species": "Koraidon",
+        "teraType": "Fire"
+      },
+      {
+        "ability": "Prism Armor",
+        "evs": {
+          "atk": 160,
+          "def": 8,
+          "hp": 200,
+          "spd": 4,
+          "spe": 136
+        },
+        "item": "Heavy-Duty Boots",
+        "moves": [
+          "Dragon Dance",
+          "Moonlight",
+          "Stone Edge",
+          "Sunsteel Strike"
+        ],
+        "nature": "Adamant",
+        "species": "Necrozma-Dusk-Mane",
+        "teraType": "Steel"
+      }
+    ],
+    "name": "Encore Caly  + Stone Edge NDM"
+  },
+  {
+    "author": "TaxFraud094",
+    "data": [
+      {
+        "ability": "Drizzle",
+        "evs": {
+          "hp": 224,
+          "spa": 252,
+          "spe": 32
+        },
+        "item": "Heavy-Duty Boots",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Ice Beam",
+          "Origin Pulse",
+          "Thunder",
+          "Thunder Wave"
+        ],
+        "nature": "Modest",
+        "species": "Kyogre",
+        "teraType": "Fairy"
+      },
+      {
+        "ability": "As One (Spectrier)",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Choice Specs",
+        "moves": [
+          "Astral Barrage",
+          "Grass Knot",
+          "Psyshock",
+          "Trick"
+        ],
+        "nature": "Timid",
+        "species": "Calyrex-Shadow",
+        "teraType": "Ghost"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "def": 244,
+          "hp": 240,
+          "spe": 24
+        },
+        "item": "Heavy-Duty Boots",
+        "moves": [
+          "Brave Bird",
+          "Recover",
+          "Sacred Fire",
+          "Whirlwind"
+        ],
+        "nature": "Impish",
+        "species": "Ho-Oh",
+        "teraType": "Fairy"
+      },
+      {
+        "ability": "Orichalcum Pulse",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "hpType": "Ghost",
+        "item": "Choice Scarf",
+        "moves": [
+          "Flare Blitz",
+          "Low Kick",
+          "Outrage",
+          "U-turn"
+        ],
+        "nature": "Adamant",
+        "species": "Koraidon",
+        "teraType": "Fire"
+      },
+      {
+        "ability": "Prism Armor",
+        "evs": {
+          "def": 120,
+          "hp": 248,
+          "spe": 140
+        },
+        "item": "Heavy-Duty Boots",
+        "moves": [
+          "Dragon Dance",
+          "Earthquake",
+          "Moonlight",
+          "Sunsteel Strike"
+        ],
+        "nature": "Impish",
+        "species": "Necrozma-Dusk-Mane",
+        "teraType": "Fire"
+      },
+      {
+        "ability": "Vessel of Ruin",
+        "evs": {
+          "hp": 220,
+          "spd": 252,
+          "spe": 36
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Ruination",
+          "Spikes",
+          "Whirlwind"
+        ],
+        "nature": "Careful",
+        "species": "Ting-Lu",
+        "teraType": "Poison"
+      }
+    ],
+    "name": "Kyogre + Specs Calyrex-S BO"
+  },
+  {
+    "author": "PrimalKyogre555",
+    "data": [
+      {
+        "ability": "Hadron Engine",
+        "evs": {
+          "def": 48,
+          "hp": 112,
+          "spa": 252,
+          "spe": 96
+        },
+        "hpType": "Ghost",
+        "item": "Life Orb",
+        "moves": [
+          "Agility",
+          "Dragon Pulse",
+          "Electro Drift",
+          "Solar Beam"
+        ],
+        "nature": "Modest",
+        "species": "Miraidon",
+        "teraType": "Grass"
+      },
+      {
+        "ability": "Multitype",
+        "evs": {
+          "def": 156,
+          "hp": 248,
+          "spd": 76,
+          "spe": 28
+        },
+        "item": "Pixie Plate",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Judgment",
+          "Recover",
+          "Stealth Rock",
+          "Thunder Wave"
+        ],
+        "nature": "Bold",
+        "species": "Arceus-Fairy",
+        "teraType": "Poison"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "atk": 200,
+          "def": 16,
+          "hp": 244,
+          "spe": 48
+        },
+        "item": "Heavy-Duty Boots",
+        "moves": [
+          "Brave Bird",
+          "Earthquake",
+          "Recover",
+          "Sacred Fire"
+        ],
+        "nature": "Adamant",
+        "species": "Ho-Oh",
+        "teraType": "Ground"
+      },
+      {
+        "ability": "Orichalcum Pulse",
+        "evs": {
+          "atk": 252,
+          "def": 12,
+          "hp": 56,
+          "spe": 188
+        },
+        "hpType": "Ghost",
+        "item": "Choice Scarf",
+        "moves": [
+          "Flare Blitz",
+          "Low Kick",
+          "Outrage",
+          "U-turn"
+        ],
+        "nature": "Adamant",
+        "species": "Koraidon",
+        "teraType": "Ghost"
+      },
+      {
+        "ability": "Prism Armor",
+        "evs": {
+          "def": 136,
+          "hp": 252,
+          "spe": 120
+        },
+        "item": "Heavy-Duty Boots",
+        "moves": [
+          "Dragon Dance",
+          "Knock Off",
+          "Moonlight",
+          "Sunsteel Strike"
+        ],
+        "nature": "Impish",
+        "species": "Necrozma-Dusk-Mane",
+        "teraType": "Dark"
+      },
+      {
+        "ability": "Vessel of Ruin",
+        "evs": {
+          "def": 8,
+          "hp": 212,
+          "spd": 252,
+          "spe": 36
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Payback",
+          "Ruination",
+          "Spikes",
+          "Whirlwind"
+        ],
+        "nature": "Careful",
+        "species": "Ting-Lu",
+        "teraType": "Poison"
+      }
+    ],
+    "name": "#1 Gen 9 AG Solar Beam"
+  },
+  {
+    "author": "Fc \u2764",
+    "data": [
+      {
+        "ability": "Toxic Debris",
+        "evs": {
+          "def": 172,
+          "spa": 84,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Focus Sash",
+        "moves": [
+          "Mortal Spin",
+          "Mud Shot",
+          "Spikes",
+          "Stealth Rock"
+        ],
+        "nature": "Timid",
+        "species": "Glimmora",
+        "teraType": "Ghost"
+      },
+      {
+        "ability": "Multitype",
+        "evs": {
+          "atk": 252,
+          "hp": 120,
+          "spe": 136
+        },
+        "item": "Silk Scarf",
+        "moves": [
+          "Extreme Speed",
+          "Shadow Claw",
+          "Swords Dance",
+          "Taunt"
+        ],
+        "nature": "Adamant",
+        "species": "Arceus",
+        "teraType": "Normal"
+      },
+      {
+        "ability": "Multitype",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Earth Plate",
+        "moves": [
+          "Dragon Dance",
+          "Earthquake",
+          "Recover",
+          "Stone Edge"
+        ],
+        "nature": "Adamant",
+        "species": "Arceus-Ground",
+        "teraType": "Fairy"
+      },
+      {
+        "ability": "As One (Spectrier)",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Focus Sash",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Agility",
+          "Astral Barrage",
+          "Grass Knot",
+          "Nasty Plot"
+        ],
+        "nature": "Timid",
+        "species": "Calyrex-Shadow",
+        "teraType": "Normal"
+      },
+      {
+        "ability": "Orichalcum Pulse",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "hpType": "Ghost",
+        "item": "Loaded Dice",
+        "moves": [
+          "Flare Blitz",
+          "Low Kick",
+          "Scale Shot",
+          "Swords Dance"
+        ],
+        "nature": "Jolly",
+        "species": "Koraidon",
+        "teraType": "Ghost"
+      },
+      {
+        "ability": "Hadron Engine",
+        "evs": {
+          "hp": 160,
+          "spa": 252,
+          "spe": 96
+        },
+        "hpType": "Ghost",
+        "item": "Electric Seed",
+        "moves": [
+          "Agility",
+          "Calm Mind",
+          "Dragon Pulse",
+          "Electro Drift"
+        ],
+        "nature": "Modest",
+        "species": "Miraidon",
+        "teraType": "Fairy"
+      }
+    ],
+    "name": "Glimmora Koraidon Miraidon HO Updated"
+  },
+  {
+    "author": "entrocefalo",
+    "data": [
+      {
+        "ability": "Shield Dust",
+        "evs": {
+          "atk": 8,
+          "hp": 248,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Focus Sash",
+        "moves": [
+          "Moonblast",
+          "Pounce",
+          "Sticky Web",
+          "Stun Spore"
+        ],
+        "nature": "Hasty",
+        "species": "Ribombee",
+        "teraType": "Ghost"
+      },
+      {
+        "ability": "Multitype",
+        "evs": {
+          "atk": 252,
+          "hp": 204,
+          "spe": 52
+        },
+        "item": "Heavy-Duty Boots",
+        "moves": [
+          "Earthquake",
+          "Extreme Speed",
+          "Recover",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Arceus",
+        "teraType": "Fire"
+      },
+      {
+        "ability": "As One (Spectrier)",
+        "evs": {
+          "hp": 232,
+          "spa": 252,
+          "spe": 20
+        },
+        "item": "Heavy-Duty Boots",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Agility",
+          "Astral Barrage",
+          "Grass Knot",
+          "Nasty Plot"
+        ],
+        "nature": "Modest",
+        "species": "Calyrex-Shadow",
+        "teraType": "Normal"
+      },
+      {
+        "ability": "Orichalcum Pulse",
+        "evs": {
+          "atk": 252,
+          "def": 28,
+          "hp": 48,
+          "spe": 180
+        },
+        "hpType": "Ghost",
+        "item": "Loaded Dice",
+        "moves": [
+          "Flare Blitz",
+          "Low Kick",
+          "Scale Shot",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Koraidon",
+        "teraType": "Steel"
+      },
+      {
+        "ability": "Hadron Engine",
+        "evs": {
+          "hp": 156,
+          "spa": 252,
+          "spe": 100
+        },
+        "hpType": "Ghost",
+        "item": "Electric Seed",
+        "moves": [
+          "Agility",
+          "Calm Mind",
+          "Dazzling Gleam",
+          "Electro Drift"
+        ],
+        "nature": "Modest",
+        "species": "Miraidon",
+        "teraType": "Fairy"
+      },
+      {
+        "ability": "Intrepid Sword",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "hp": 88,
+          "spe": 164
+        },
+        "item": "Rusted Sword",
+        "moves": [
+          "Iron Head",
+          "Swords Dance",
+          "Tera Blast",
+          "Wild Charge"
+        ],
+        "nature": "Jolly",
+        "species": "Zacian",
+        "teraType": "Ground"
+      }
+    ]
+  },
+  {
+    "author": "first snows",
+    "data": [
+      {
+        "ability": "Pressure",
+        "evs": {
+          "atk": 64,
+          "def": 180,
+          "hp": 248,
+          "spe": 16
+        },
+        "item": "Focus Sash",
+        "moves": [
+          "Knock Off",
+          "Spikes",
+          "Stealth Rock",
+          "Taunt"
+        ],
+        "nature": "Jolly",
+        "species": "Deoxys-Speed",
+        "teraType": "Fairy"
+      },
+      {
+        "ability": "Multitype",
+        "evs": {
+          "atk": 252,
+          "def": 8,
+          "hp": 20,
+          "spd": 56,
+          "spe": 172
+        },
+        "item": "Lum Berry",
+        "moves": [
+          "Extreme Speed",
+          "Shadow Claw",
+          "Swords Dance",
+          "Taunt"
+        ],
+        "nature": "Adamant",
+        "species": "Arceus",
+        "teraType": "Normal"
+      },
+      {
+        "ability": "Multitype",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "item": "Earth Plate",
+        "moves": [
+          "Dragon Dance",
+          "Earthquake",
+          "Stone Edge",
+          "Taunt"
+        ],
+        "nature": "Adamant",
+        "species": "Arceus-Ground",
+        "teraType": "Fire"
+      },
+      {
+        "ability": "As One (Spectrier)",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Astral Barrage",
+          "Grass Knot",
+          "Nasty Plot",
+          "Psyshock"
+        ],
+        "nature": "Timid",
+        "species": "Calyrex-Shadow",
+        "teraType": "Normal"
+      },
+      {
+        "ability": "Orichalcum Pulse",
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        },
+        "hpType": "Ghost",
+        "item": "Loaded Dice",
+        "moves": [
+          "Flare Blitz",
+          "Low Kick",
+          "Scale Shot",
+          "Swords Dance"
+        ],
+        "nature": "Jolly",
+        "species": "Koraidon",
+        "teraType": "Ghost"
+      },
+      {
+        "ability": "Intrepid Sword",
+        "evs": {
+          "atk": 252,
+          "hp": 24,
+          "spd": 72,
+          "spe": 160
+        },
+        "item": "Rusted Sword",
+        "moves": [
+          "Close Combat",
+          "Play Rough",
+          "Swords Dance",
+          "Wild Charge"
+        ],
+        "nature": "Jolly",
+        "species": "Zacian",
+        "teraType": "Fighting"
+      }
+    ],
+    "name": "Deoxys-S Physical Spam HO"
+  }
+]

@@ -1,0 +1,1080 @@
+[
+  {
+    "author": "Amukamara",
+    "data": [
+      {
+        "ability": "Mold Breaker",
+        "evs": {
+          "atk": 96,
+          "hp": 252,
+          "spd": 160
+        },
+        "gender": "M",
+        "item": "Dragon Gem",
+        "moves": [
+          "Dragon Tail",
+          "Earthquake",
+          "Outrage",
+          "Stealth Rock"
+        ],
+        "nature": "Adamant",
+        "species": "Druddigon"
+      },
+      {
+        "ability": "Torrent",
+        "evs": {
+          "def": 252,
+          "hp": 252,
+          "spd": 4
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Rapid Spin",
+          "Refresh",
+          "Roar",
+          "Scald"
+        ],
+        "nature": "Bold",
+        "species": "Blastoise"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "moves": [
+          "Dragon Claw",
+          "Earthquake",
+          "Outrage",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "species": "Flygon"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Leaf Storm",
+          "Sleep Powder",
+          "Sludge Bomb",
+          "Synthesis"
+        ],
+        "nature": "Timid",
+        "species": "Roserade"
+      },
+      {
+        "ability": "Victory Star",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Choice Band",
+        "moves": [
+          "Bolt Strike",
+          "U-turn",
+          "V-create",
+          "Zen Headbutt"
+        ],
+        "nature": "Jolly",
+        "species": "Victini"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "spa": 30
+        },
+        "moves": [
+          "Heat Wave",
+          "Hidden Power Grass",
+          "Roost",
+          "Thunderbolt"
+        ],
+        "nature": "Timid",
+        "species": "Zapdos"
+      }
+    ],
+    "name": "Dragon Gem Druddigon"
+  },
+  {
+    "author": "R0ady",
+    "data": [
+      {
+        "ability": "Serene Grace",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Choice Specs",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Hyper Voice",
+          "Psychic",
+          "Shadow Ball",
+          "Sleep Talk"
+        ],
+        "nature": "Timid",
+        "species": "Meloetta"
+      },
+      {
+        "ability": "Torrent",
+        "evs": {
+          "def": 252,
+          "hp": 252,
+          "spd": 4
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Rapid Spin",
+          "Refresh",
+          "Scald",
+          "Toxic"
+        ],
+        "nature": "Bold",
+        "species": "Blastoise"
+      },
+      {
+        "ability": "Justified",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Lum Berry",
+        "moves": [
+          "Close Combat",
+          "Iron Head",
+          "Magnet Rise",
+          "Swords Dance"
+        ],
+        "nature": "Jolly",
+        "species": "Cobalion"
+      },
+      {
+        "ability": "Solid Rock",
+        "evs": {
+          "atk": 16,
+          "hp": 248,
+          "spd": 236,
+          "spe": 8
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Protect",
+          "Rock Blast",
+          "Stealth Rock"
+        ],
+        "nature": "Adamant",
+        "species": "Rhyperior"
+      },
+      {
+        "ability": "Victory Star",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "moves": [
+          "Bolt Strike",
+          "Trick",
+          "U-turn",
+          "V-create"
+        ],
+        "nature": "Jolly",
+        "species": "Victini"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "def": 164,
+          "hp": 248,
+          "spe": 96
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "spa": 30
+        },
+        "moves": [
+          "Discharge",
+          "Heat Wave",
+          "Hidden Power Grass",
+          "Roost"
+        ],
+        "nature": "Timid",
+        "species": "Zapdos"
+      }
+    ],
+    "name": "Bulky Offense Specs Meloetta"
+  },
+  {
+    "author": "R0ady",
+    "data": [
+      {
+        "ability": "Victory Star",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "moves": [
+          "Bolt Strike",
+          "Trick",
+          "U-turn",
+          "V-create"
+        ],
+        "nature": "Jolly",
+        "species": "Victini"
+      },
+      {
+        "ability": "Torrent",
+        "evs": {
+          "def": 148,
+          "hp": 248,
+          "spe": 112
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Rapid Spin",
+          "Roar",
+          "Scald",
+          "Toxic"
+        ],
+        "nature": "Bold",
+        "species": "Blastoise"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "atk": 4,
+          "hp": 252,
+          "spd": 252
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Protect",
+          "Stealth Rock",
+          "Toxic"
+        ],
+        "nature": "Careful",
+        "species": "Bronzong"
+      },
+      {
+        "ability": "Guts",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "moves": [
+          "Close Combat",
+          "Earthquake",
+          "Megahorn",
+          "Stone Edge"
+        ],
+        "nature": "Jolly",
+        "species": "Heracross"
+      },
+      {
+        "ability": "Sheer Force",
+        "evs": {
+          "def": 220,
+          "hp": 252,
+          "spe": 36
+        },
+        "item": "Black Sludge",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Earth Power",
+          "Ice Beam",
+          "Taunt",
+          "Toxic Spikes"
+        ],
+        "nature": "Bold",
+        "species": "Nidoqueen"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "def": 30
+        },
+        "moves": [
+          "Calm Mind",
+          "Hidden Power Ice",
+          "Substitute",
+          "Thunderbolt"
+        ],
+        "nature": "Timid",
+        "species": "Raikou"
+      }
+    ],
+    "name": "Band Heracross"
+  },
+  {
+    "data": [
+      {
+        "ability": "Iron Fist",
+        "evs": {
+          "atk": 252,
+          "hp": 236,
+          "spe": 20
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Earthquake",
+          "Ice Punch",
+          "Protect",
+          "Stealth Rock"
+        ],
+        "nature": "Adamant",
+        "species": "Golurk"
+      },
+      {
+        "ability": "Defiant",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Life Orb",
+        "moves": [
+          "Iron Head",
+          "Pursuit",
+          "Sucker Punch",
+          "Swords Dance"
+        ],
+        "nature": "Adamant",
+        "species": "Bisharp"
+      },
+      {
+        "ability": "Rough Skin",
+        "evs": {
+          "atk": 252,
+          "hp": 196,
+          "spe": 60
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "moves": [
+          "Earthquake",
+          "Fire Punch",
+          "Outrage",
+          "Sleep Talk"
+        ],
+        "nature": "Adamant",
+        "species": "Druddigon"
+      },
+      {
+        "ability": "Moxie",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "moves": [
+          "Close Combat",
+          "Earthquake",
+          "Megahorn",
+          "Stone Edge"
+        ],
+        "nature": "Jolly",
+        "species": "Heracross"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "spa": 30
+        },
+        "moves": [
+          "Calm Mind",
+          "Hidden Power Electric",
+          "Hydro Pump",
+          "Ice Beam"
+        ],
+        "nature": "Timid",
+        "species": "Suicune"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 30,
+          "spa": 30
+        },
+        "moves": [
+          "Heat Wave",
+          "Hidden Power Grass",
+          "Roost",
+          "Thunderbolt"
+        ],
+        "nature": "Timid",
+        "species": "Zapdos"
+      }
+    ],
+    "name": "Untitled 1"
+  },
+  {
+    "author": "choolio and dodmen",
+    "data": [
+      {
+        "ability": "Synchronize",
+        "evs": {
+          "hp": 248,
+          "spd": 84,
+          "spe": 176
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Psyshock",
+          "Soft-Boiled",
+          "Taunt",
+          "Will-O-Wisp"
+        ],
+        "nature": "Timid",
+        "species": "Mew"
+      },
+      {
+        "ability": "Guts",
+        "evs": {
+          "atk": 252,
+          "def": 4,
+          "spe": 252
+        },
+        "gender": "F",
+        "item": "Leftovers",
+        "moves": [
+          "Close Combat",
+          "Megahorn",
+          "Stone Edge",
+          "Swords Dance"
+        ],
+        "nature": "Jolly",
+        "species": "Heracross"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "def": 200,
+          "hp": 248,
+          "spe": 60
+        },
+        "gender": "F",
+        "item": "Black Sludge",
+        "moves": [
+          "Pain Split",
+          "Scald",
+          "Spikes",
+          "Taunt"
+        ],
+        "nature": "Bold",
+        "species": "Qwilfish"
+      },
+      {
+        "ability": "Solid Rock",
+        "evs": {
+          "atk": 16,
+          "hp": 244,
+          "spd": 248
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Dragon Tail",
+          "Earthquake",
+          "Rock Blast",
+          "Stealth Rock"
+        ],
+        "nature": "Adamant",
+        "species": "Rhyperior"
+      },
+      {
+        "ability": "Serene Grace",
+        "evs": {
+          "def": 160,
+          "hp": 248,
+          "spe": 100
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Air Slash",
+          "Heal Bell",
+          "Nasty Plot",
+          "Roost"
+        ],
+        "nature": "Bold",
+        "species": "Togekiss"
+      },
+      {
+        "ability": "Synchronize",
+        "evs": {
+          "hp": 252,
+          "spd": 252,
+          "spe": 4
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Foul Play",
+          "Protect",
+          "Toxic",
+          "Wish"
+        ],
+        "nature": "Calm",
+        "species": "Umbreon"
+      }
+    ],
+    "name": "Stallbreaker Mew Balance"
+  },
+  {
+    "author": "choolio and Kushalos",
+    "data": [
+      {
+        "ability": "Pressure",
+        "evs": {
+          "hp": 252,
+          "spd": 80,
+          "spe": 176
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "def": 30,
+          "hp": 30,
+          "spa": 30,
+          "spd": 30
+        },
+        "moves": [
+          "Charge Beam",
+          "Hidden Power Flying",
+          "Roost",
+          "Thunderbolt"
+        ],
+        "nature": "Timid",
+        "species": "Zapdos"
+      },
+      {
+        "ability": "Immunity",
+        "evs": {
+          "def": 216,
+          "hp": 232,
+          "spe": 60
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Earthquake",
+          "Knock Off",
+          "Roost",
+          "Stealth Rock"
+        ],
+        "nature": "Impish",
+        "species": "Gligar"
+      },
+      {
+        "ability": "Intimidate",
+        "evs": {
+          "def": 252,
+          "hp": 252,
+          "spe": 4
+        },
+        "item": "Leftovers",
+        "moves": [
+          "Close Combat",
+          "Rapid Spin",
+          "Rest",
+          "Toxic"
+        ],
+        "nature": "Impish",
+        "species": "Hitmontop"
+      },
+      {
+        "ability": "Natural Cure",
+        "evs": {
+          "hp": 248,
+          "spd": 220,
+          "spe": 40
+        },
+        "gender": "M",
+        "item": "Black Sludge",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Giga Drain",
+          "Rest",
+          "Sludge Bomb",
+          "Spikes"
+        ],
+        "nature": "Calm",
+        "species": "Roserade"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "atk": 16,
+          "def": 244,
+          "hp": 248
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Calm Mind",
+          "Dragon Tail",
+          "Scald",
+          "Slack Off"
+        ],
+        "nature": "Relaxed",
+        "species": "Slowking"
+      },
+      {
+        "ability": "Synchronize",
+        "evs": {
+          "def": 4,
+          "hp": 252,
+          "spd": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Foul Play",
+          "Heal Bell",
+          "Protect",
+          "Wish"
+        ],
+        "nature": "Calm",
+        "species": "Umbreon"
+      }
+    ],
+    "name": "Charge Beam Zapdos Stall"
+  },
+  {
+    "author": "Hogg",
+    "data": [
+      {
+        "ability": "Pressure",
+        "evs": {
+          "def": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "def": 30
+        },
+        "moves": [
+          "Calm Mind",
+          "Hidden Power Ice",
+          "Thunderbolt",
+          "Volt Switch"
+        ],
+        "nature": "Timid",
+        "species": "Raikou"
+      },
+      {
+        "ability": "Rain Dish",
+        "evs": {
+          "def": 252,
+          "hp": 252,
+          "spd": 4
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Rapid Spin",
+          "Roar",
+          "Scald",
+          "Toxic"
+        ],
+        "nature": "Bold",
+        "species": "Blastoise"
+      },
+      {
+        "ability": "Levitate",
+        "evs": {
+          "def": 176,
+          "hp": 252,
+          "spe": 80
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 2,
+          "hp": 30,
+          "spa": 30,
+          "spd": 30,
+          "spe": 30
+        },
+        "moves": [
+          "Calm Mind",
+          "Hidden Power Fighting",
+          "Psyshock",
+          "Substitute"
+        ],
+        "nature": "Bold",
+        "species": "Cresselia"
+      },
+      {
+        "ability": "Immunity",
+        "evs": {
+          "def": 216,
+          "hp": 236,
+          "spe": 56
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Aerial Ace",
+          "Earthquake",
+          "Roost",
+          "Stealth Rock"
+        ],
+        "nature": "Impish",
+        "species": "Gligar"
+      },
+      {
+        "ability": "Serene Grace",
+        "evs": {
+          "hp": 176,
+          "spa": 80,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Air Slash",
+          "Nasty Plot",
+          "Roost",
+          "Thunder Wave"
+        ],
+        "nature": "Timid",
+        "species": "Togekiss"
+      },
+      {
+        "ability": "Synchronize",
+        "evs": {
+          "def": 4,
+          "hp": 252,
+          "spd": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Foul Play",
+          "Heal Bell",
+          "Protect",
+          "Wish"
+        ],
+        "nature": "Calm",
+        "species": "Umbreon"
+      }
+    ],
+    "name": "CM Spam"
+  },
+  {
+    "author": "Hogg",
+    "data": [
+      {
+        "ability": "Synchronize",
+        "evs": {
+          "atk": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Normal Gem",
+        "moves": [
+          "Explosion",
+          "Stealth Rock",
+          "Tailwind",
+          "Taunt"
+        ],
+        "nature": "Jolly",
+        "species": "Mew"
+      },
+      {
+        "ability": "Mold Breaker",
+        "evs": {
+          "atk": 240,
+          "hp": 132,
+          "spd": 4,
+          "spe": 132
+        },
+        "gender": "M",
+        "item": "Choice Band",
+        "moves": [
+          "Dragon Claw",
+          "Earthquake",
+          "Outrage",
+          "Sucker Punch"
+        ],
+        "nature": "Adamant",
+        "species": "Druddigon"
+      },
+      {
+        "ability": "Sheer Force",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 0
+        },
+        "moves": [
+          "Earth Power",
+          "Fire Blast",
+          "Ice Beam",
+          "Shadow Ball"
+        ],
+        "nature": "Timid",
+        "species": "Nidoking"
+      },
+      {
+        "ability": "Pressure",
+        "evs": {
+          "spa": 252,
+          "spd": 4,
+          "spe": 252
+        },
+        "item": "Leftovers",
+        "ivs": {
+          "atk": 3,
+          "spa": 30
+        },
+        "moves": [
+          "Calm Mind",
+          "Hidden Power Electric",
+          "Hydro Pump",
+          "Ice Beam"
+        ],
+        "nature": "Timid",
+        "species": "Suicune"
+      },
+      {
+        "ability": "Prankster",
+        "evs": {
+          "atk": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Life Orb",
+        "moves": [
+          "Grass Knot",
+          "Hurricane",
+          "Superpower",
+          "Tailwind"
+        ],
+        "nature": "Hasty",
+        "species": "Tornadus"
+      },
+      {
+        "ability": "Victory Star",
+        "evs": {
+          "atk": 252,
+          "spa": 4,
+          "spe": 252
+        },
+        "item": "Charcoal",
+        "moves": [
+          "Brick Break",
+          "Grass Knot",
+          "V-create",
+          "Zen Headbutt"
+        ],
+        "nature": "Lonely",
+        "species": "Victini"
+      }
+    ],
+    "name": "Tailwind Offense"
+  },
+  {
+    "author": "Lol1z",
+    "data": [
+      {
+        "ability": "Synchronize",
+        "evs": {
+          "hp": 4,
+          "spa": 252,
+          "spe": 252
+        },
+        "item": "Choice Scarf",
+        "moves": [
+          "Giga Drain",
+          "Psychic",
+          "Trick",
+          "U-turn"
+        ],
+        "nature": "Timid",
+        "species": "Mew"
+      },
+      {
+        "ability": "Sheer Force",
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Choice Scarf",
+        "moves": [
+          "Flare Blitz",
+          "Rock Slide",
+          "Superpower",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "species": "Darmanitan"
+      },
+      {
+        "ability": "Immunity",
+        "evs": {
+          "atk": 4,
+          "def": 252,
+          "hp": 252
+        },
+        "gender": "M",
+        "item": "Eviolite",
+        "moves": [
+          "Earthquake",
+          "Roost",
+          "Stealth Rock",
+          "U-turn"
+        ],
+        "nature": "Impish",
+        "species": "Gligar"
+      },
+      {
+        "ability": "Volt Absorb",
+        "evs": {
+          "hp": 252,
+          "spa": 4,
+          "spd": 252
+        },
+        "gender": "M",
+        "item": "Leftovers",
+        "moves": [
+          "Heal Bell",
+          "Scald",
+          "Toxic",
+          "Volt Switch"
+        ],
+        "nature": "Sassy",
+        "species": "Lanturn"
+      },
+      {
+        "ability": "Regenerator",
+        "evs": {
+          "atk": 252,
+          "hp": 4,
+          "spe": 252
+        },
+        "gender": "M",
+        "item": "Life Orb",
+        "ivs": {
+          "atk": 30,
+          "def": 30
+        },
+        "moves": [
+          "Fake Out",
+          "High Jump Kick",
+          "Stone Edge",
+          "U-turn"
+        ],
+        "nature": "Jolly",
+        "species": "Mienshao"
+      },
+      {
+        "ability": "Magic Bounce",
+        "evs": {
+          "def": 252,
+          "hp": 252,
+          "spd": 4
+        },
+        "gender": "M",
+        "item": "Rocky Helmet",
+        "moves": [
+          "Grass Knot",
+          "Night Shade",
+          "Roost",
+          "U-turn"
+        ],
+        "nature": "Relaxed",
+        "species": "Xatu"
+      }
+    ],
+    "name": "Double Scarf Offense"
+  }
+]

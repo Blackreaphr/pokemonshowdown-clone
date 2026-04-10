@@ -1,0 +1,400 @@
+[
+  {
+    "author": "Sevi 7",
+    "data": [
+      {
+        "ivs": {
+          "atk": 1
+        },
+        "level": 5,
+        "moves": [
+          "Amnesia",
+          "Blizzard",
+          "Lovely Kiss",
+          "Surf"
+        ],
+        "species": "Poliwag"
+      },
+      {
+        "level": 5,
+        "moves": [
+          "Ice Punch",
+          "Psychic",
+          "Thunder Punch",
+          "Thunder Wave"
+        ],
+        "species": "Abra"
+      },
+      {
+        "level": 5,
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Slash",
+          "Substitute"
+        ],
+        "species": "Diglett"
+      },
+      {
+        "level": 5,
+        "moves": [
+          "Mega Drain",
+          "Psychic",
+          "Sleep Powder",
+          "Stun Spore"
+        ],
+        "species": "Exeggcute"
+      },
+      {
+        "level": 5,
+        "moves": [
+          "Quick Attack",
+          "Surf",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Pikachu"
+      },
+      {
+        "level": 5,
+        "moves": [
+          "Blizzard",
+          "Surf",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Staryu"
+      }
+    ],
+    "name": "Quick Attack Pikachu Offense"
+  },
+  {
+    "author": "Sevi 7",
+    "data": [
+      {
+        "level": 5,
+        "moves": [
+          "Amnesia",
+          "Bubble Beam",
+          "Hypnosis",
+          "Slash"
+        ],
+        "species": "Meowth"
+      },
+      {
+        "level": 5,
+        "moves": [
+          "Ice Punch",
+          "Psychic",
+          "Thunder Punch",
+          "Thunder Wave"
+        ],
+        "species": "Abra"
+      },
+      {
+        "level": 5,
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Slash",
+          "Substitute"
+        ],
+        "species": "Diglett"
+      },
+      {
+        "level": 5,
+        "moves": [
+          "Amnesia",
+          "Ice Punch",
+          "Psychic",
+          "Thunder Wave"
+        ],
+        "species": "Drowzee"
+      },
+      {
+        "level": 5,
+        "moves": [
+          "Explosion",
+          "Psychic",
+          "Sleep Powder",
+          "Stun Spore"
+        ],
+        "species": "Exeggcute"
+      },
+      {
+        "level": 5,
+        "moves": [
+          "Explosion",
+          "Take Down",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Voltorb"
+      }
+    ],
+    "name": "Meowth + Back Voltrob Bulky Offense"
+  },
+  {
+    "author": "Sevi 7",
+    "data": [
+      {
+        "level": 5,
+        "moves": [
+          "Quick Attack",
+          "Surf",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Pikachu"
+      },
+      {
+        "level": 5,
+        "moves": [
+          "Ice Punch",
+          "Psychic",
+          "Thunder Punch",
+          "Thunder Wave"
+        ],
+        "species": "Abra"
+      },
+      {
+        "level": 5,
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Slash",
+          "Substitute"
+        ],
+        "species": "Diglett"
+      },
+      {
+        "level": 5,
+        "moves": [
+          "Hypnosis",
+          "Ice Punch",
+          "Psychic",
+          "Thunder Wave"
+        ],
+        "species": "Drowzee"
+      },
+      {
+        "level": 5,
+        "moves": [
+          "Body Slam",
+          "Bubble Beam",
+          "Quick Attack",
+          "Thunderbolt"
+        ],
+        "species": "Rattata"
+      },
+      {
+        "level": 5,
+        "moves": [
+          "Blizzard",
+          "Surf",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Staryu"
+      }
+    ],
+    "name": "QA Pika + Rat"
+  },
+  {
+    "author": "Sevi 7",
+    "data": [
+      {
+        "level": 5,
+        "moves": [
+          "Explosion",
+          "Take Down",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Voltorb"
+      },
+      {
+        "level": 5,
+        "moves": [
+          "Ice Punch",
+          "Psychic",
+          "Thunder Punch",
+          "Thunder Wave"
+        ],
+        "species": "Abra"
+      },
+      {
+        "level": 5,
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Slash",
+          "Substitute"
+        ],
+        "species": "Diglett"
+      },
+      {
+        "level": 5,
+        "moves": [
+          "Mega Drain",
+          "Psychic",
+          "Sleep Powder",
+          "Stun Spore"
+        ],
+        "species": "Exeggcute"
+      },
+      {
+        "level": 5,
+        "moves": [
+          "Amnesia",
+          "Bubble Beam",
+          "Hypnosis",
+          "Slash"
+        ],
+        "species": "Meowth"
+      },
+      {
+        "level": 5,
+        "moves": [
+          "Blizzard",
+          "Surf",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Staryu"
+      }
+    ],
+    "name": "Back Meowth"
+  },
+  {
+    "author": "Sevi 7",
+    "data": [
+      {
+        "level": 5,
+        "moves": [
+          "Blizzard",
+          "Lovely Kiss",
+          "Psychic",
+          "Surf"
+        ],
+        "species": "Poliwag"
+      },
+      {
+        "level": 5,
+        "moves": [
+          "Ice Punch",
+          "Psychic",
+          "Thunder Punch",
+          "Thunder Wave"
+        ],
+        "species": "Abra"
+      },
+      {
+        "level": 5,
+        "moves": [
+          "Earthquake",
+          "Rock Slide",
+          "Slash",
+          "Substitute"
+        ],
+        "species": "Diglett"
+      },
+      {
+        "level": 5,
+        "moves": [
+          "Mega Drain",
+          "Psychic",
+          "Sleep Powder",
+          "Stun Spore"
+        ],
+        "species": "Exeggcute"
+      },
+      {
+        "level": 5,
+        "moves": [
+          "Blizzard",
+          "Surf",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Staryu"
+      },
+      {
+        "moves": [
+          "Explosion",
+          "Take Down",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Voltorb"
+      }
+    ],
+    "name": "Poli + Back Voltorb Offense"
+  },
+  {
+    "author": "Sevi 7",
+    "data": [
+      {
+        "level": 5,
+        "moves": [
+          "Blizzard",
+          "Lovely Kiss",
+          "Psychic",
+          "Surf"
+        ],
+        "species": "Poliwag"
+      },
+      {
+        "level": 5,
+        "moves": [
+          "Ice Punch",
+          "Psychic",
+          "Thunder Punch",
+          "Thunder Wave"
+        ],
+        "species": "Abra"
+      },
+      {
+        "level": 5,
+        "moves": [
+          "Ice Punch",
+          "Psychic",
+          "Thunder Punch",
+          "Thunder Wave"
+        ],
+        "species": "Drowzee"
+      },
+      {
+        "level": 5,
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Fire Blast",
+          "Rock Slide"
+        ],
+        "species": "Rhyhorn"
+      },
+      {
+        "level": 5,
+        "moves": [
+          "Blizzard",
+          "Surf",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Staryu"
+      },
+      {
+        "level": 5,
+        "moves": [
+          "Explosion",
+          "Take Down",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Voltorb"
+      }
+    ],
+    "name": "Back Voltorb + Rhyhorn"
+  }
+]

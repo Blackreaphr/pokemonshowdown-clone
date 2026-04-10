@@ -1,0 +1,422 @@
+[
+  {
+    "author": "Beelzemon 2003",
+    "data": [
+      {
+        "evs": {
+          "hp": 251
+        },
+        "level": 50,
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Kadabra"
+      },
+      {
+        "evs": {
+          "hp": 251
+        },
+        "level": 50,
+        "moves": [
+          "Agility",
+          "Hyper Beam",
+          "Surf",
+          "Wrap"
+        ],
+        "species": "Dragonair"
+      },
+      {
+        "evs": {
+          "hp": 251
+        },
+        "level": 50,
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Rock Slide",
+          "Substitute"
+        ],
+        "species": "Graveler"
+      },
+      {
+        "evs": {
+          "hp": 251
+        },
+        "level": 50,
+        "moves": [
+          "Explosion",
+          "Hypnosis",
+          "Psychic",
+          "Thunderbolt"
+        ],
+        "species": "Haunter"
+      },
+      {
+        "evs": {
+          "hp": 251
+        },
+        "level": 50,
+        "moves": [
+          "Body Slam",
+          "Counter",
+          "Earthquake",
+          "Fire Blast"
+        ],
+        "species": "Machoke"
+      },
+      {
+        "evs": {
+          "hp": 251
+        },
+        "level": 50,
+        "moves": [
+          "Amnesia",
+          "Blizzard",
+          "Psychic",
+          "Surf"
+        ],
+        "species": "Poliwhirl"
+      }
+    ],
+    "name": "Counter Machoke"
+  },
+  {
+    "author": "Beelzemon 2003",
+    "data": [
+      {
+        "evs": {
+          "hp": 251
+        },
+        "level": 50,
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Kadabra"
+      },
+      {
+        "evs": {
+          "hp": 251
+        },
+        "level": 50,
+        "moves": [
+          "Body Slam",
+          "Surf",
+          "Thunder Wave",
+          "Wrap"
+        ],
+        "species": "Dragonair"
+      },
+      {
+        "evs": {
+          "hp": 251
+        },
+        "level": 50,
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Rock Slide",
+          "Substitute"
+        ],
+        "species": "Graveler"
+      },
+      {
+        "evs": {
+          "hp": 251
+        },
+        "level": 50,
+        "moves": [
+          "Explosion",
+          "Mega Drain",
+          "Psychic",
+          "Thunderbolt"
+        ],
+        "species": "Haunter"
+      },
+      {
+        "evs": {
+          "hp": 251
+        },
+        "level": 50,
+        "moves": [
+          "Amnesia",
+          "Blizzard",
+          "Psychic",
+          "Surf"
+        ],
+        "species": "Poliwhirl"
+      },
+      {
+        "evs": {
+          "hp": 251
+        },
+        "level": 50,
+        "moves": [
+          "Blizzard",
+          "Body Slam",
+          "Counter",
+          "Surf"
+        ],
+        "species": "Wartortle"
+      }
+    ],
+    "name": "Graveler + Counter Wartortle"
+  },
+  {
+    "author": "Beelzemon 2003",
+    "data": [
+      {
+        "evs": {
+          "hp": 251
+        },
+        "level": 50,
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Kadabra"
+      },
+      {
+        "evs": {
+          "hp": 251
+        },
+        "level": 50,
+        "moves": [
+          "Agility",
+          "Blizzard",
+          "Hyper Beam",
+          "Wrap"
+        ],
+        "species": "Dragonair"
+      },
+      {
+        "evs": {
+          "hp": 251
+        },
+        "level": 50,
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Rock Slide",
+          "Substitute"
+        ],
+        "species": "Graveler"
+      },
+      {
+        "evs": {
+          "hp": 251
+        },
+        "level": 50,
+        "moves": [
+          "Explosion",
+          "Hypnosis",
+          "Psychic",
+          "Thunderbolt"
+        ],
+        "species": "Haunter"
+      },
+      {
+        "evs": {
+          "hp": 251
+        },
+        "level": 50,
+        "moves": [
+          "Amnesia",
+          "Blizzard",
+          "Psychic",
+          "Surf"
+        ],
+        "species": "Poliwhirl"
+      },
+      {
+        "evs": {
+          "hp": 251
+        },
+        "level": 50,
+        "moves": [
+          "Razor Leaf",
+          "Sleep Powder",
+          "Stun Spore",
+          "Wrap"
+        ],
+        "species": "Weepinbell"
+      }
+    ],
+    "name": "Graveler + Weepinbell"
+  },
+  {
+    "author": "Beelzemon 2003",
+    "data": [
+      {
+        "evs": {
+          "hp": 251
+        },
+        "level": 50,
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Kadabra"
+      },
+      {
+        "evs": {
+          "hp": 251
+        },
+        "level": 50,
+        "moves": [
+          "Blizzard",
+          "Surf",
+          "Thunderbolt",
+          "Thunder Wave"
+        ],
+        "species": "Dragonair"
+      },
+      {
+        "evs": {
+          "hp": 251
+        },
+        "level": 50,
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Rock Slide",
+          "Substitute"
+        ],
+        "species": "Graveler"
+      },
+      {
+        "evs": {
+          "hp": 251
+        },
+        "level": 50,
+        "moves": [
+          "Explosion",
+          "Night Shade",
+          "Psychic",
+          "Thunderbolt"
+        ],
+        "species": "Haunter"
+      },
+      {
+        "evs": {
+          "hp": 251
+        },
+        "level": 50,
+        "moves": [
+          "Body Slam",
+          "Leech Seed",
+          "Razor Leaf",
+          "Sleep Powder"
+        ],
+        "species": "Ivysaur"
+      },
+      {
+        "evs": {
+          "hp": 251
+        },
+        "level": 50,
+        "moves": [
+          "Amnesia",
+          "Blizzard",
+          "Psychic",
+          "Surf"
+        ],
+        "species": "Poliwhirl"
+      }
+    ],
+    "name": "Graveler + Ivysaur"
+  },
+  {
+    "author": "Beelzemon 2003",
+    "data": [
+      {
+        "evs": {
+          "hp": 251
+        },
+        "level": 50,
+        "moves": [
+          "Psychic",
+          "Recover",
+          "Seismic Toss",
+          "Thunder Wave"
+        ],
+        "species": "Kadabra"
+      },
+      {
+        "evs": {
+          "hp": 251
+        },
+        "level": 50,
+        "moves": [
+          "Counter",
+          "Flamethrower",
+          "Seismic Toss",
+          "Slash"
+        ],
+        "species": "Charmeleon"
+      },
+      {
+        "evs": {
+          "hp": 251
+        },
+        "level": 50,
+        "moves": [
+          "Agility",
+          "Hyper Beam",
+          "Surf",
+          "Wrap"
+        ],
+        "species": "Dragonair"
+      },
+      {
+        "evs": {
+          "hp": 251
+        },
+        "level": 50,
+        "moves": [
+          "Earthquake",
+          "Explosion",
+          "Rock Slide",
+          "Substitute"
+        ],
+        "species": "Graveler"
+      },
+      {
+        "evs": {
+          "hp": 251
+        },
+        "level": 50,
+        "moves": [
+          "Explosion",
+          "Hypnosis",
+          "Psychic",
+          "Thunderbolt"
+        ],
+        "species": "Haunter"
+      },
+      {
+        "evs": {
+          "hp": 251
+        },
+        "level": 50,
+        "moves": [
+          "Amnesia",
+          "Blizzard",
+          "Psychic",
+          "Surf"
+        ],
+        "species": "Poliwhirl"
+      }
+    ],
+    "name": "Graveler + Charmeleon"
+  }
+]
